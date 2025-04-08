@@ -59,7 +59,7 @@ axios.get(pastebinRaw, {
         if (ip) {
             replacementDomains.forEach(d => ipEntries.push(`${d} ${ip}`));
         } else {
-            console.warn('Не удалось получить IP для', targetHost);
+            console.warn('IP not resolving:', targetHost);
         }
 
         return fs.readFile('example-cloaking-rules.txt', 'utf8')
@@ -71,8 +71,8 @@ axios.get(pastebinRaw, {
     });
 })
 .then(() => {
-    console.log('cloaking-rules.txt успешно сохранён.');
+    console.log('The cloaking-rules.txt file is ready!');
 })
 .catch(err => {
-    console.error('Ошибка при получении или обработке данных:', err.message);
+    console.error('Error getting data:', err.message);
 });

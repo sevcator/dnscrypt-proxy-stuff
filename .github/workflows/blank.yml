@@ -1,0 +1,31 @@
+name: Update Cloaking Rules
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-cloaking-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Download files
+        run: |
+          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/cloaking-rules.js -o cloaking-rules.js
+          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/example-cloaking-rules.txt -o example-cloaking-rules.txt
+
+      - name: Install dependencies
+        run: |
+          npm install axios
+          node cloaking-rules.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add cloaking-rules.txt
+          git commit -m "⚡ Cloaking Rules - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push origin HEAD:main --force || echo "No changes to commit"

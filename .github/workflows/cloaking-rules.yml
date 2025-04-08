@@ -17,7 +17,7 @@ jobs:
           curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/cloaking-rules.js -o cloaking-rules.js
           curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/example-cloaking-rules.txt -o example-cloaking-rules.txt
 
-      - name: Install dependencies
+      - name: Run the script
         run: |
           npm install axios
           node cloaking-rules.js

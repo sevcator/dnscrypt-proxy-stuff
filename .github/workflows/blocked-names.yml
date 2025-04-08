@@ -1,4 +1,4 @@
-name: Update Blocking Names
+name: Update Blocked Names
 
 on:
   schedule:

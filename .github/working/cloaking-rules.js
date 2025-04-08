@@ -6,9 +6,13 @@ const axios = require('axios');
     const pastebinURL = 'https://pastebin.com/raw/5zvfV9Lp';
     const exclusionFilters = [
         '*.instagram.com',
+        'instagram.com',
         '*.ggpht.com',
+        '*.facebook.com',
         '*.proton.com',
         '*.protonmail.com',
+        'protonmail.com',
+        '*.proton.me',
     ];
     const targetHost = 'grok.com';
     const replacementDomains = ['soundcloud.com', '*.soundcloud.com'];
@@ -68,7 +72,7 @@ const axios = require('axios');
             try {
                 const addresses = await dns.lookup(targetHost, { all: true });
                 if (addresses.length === 0) {
-                    throw new Error('IP not found');
+                    throw new Error('IP not found.');
                 }
                 targetIP = addresses[0].address;
             } catch (dnsError) {
@@ -91,12 +95,12 @@ const axios = require('axios');
         const output = allEntries;
 
         await fs.writeFile('cloaking-rules.txt', output, 'utf8');
-        console.log('cloaking-rules.txt has been successfully saved');
+        console.log('cloaking-rules.txt has been successfully saved.');
     } catch (error) {
         if (error.code === 'ECONNRESET') {
-            console.error('Connection was reset by the server. Please try again later');
+            console.error('Connection was reset by the server. Please try again later.');
         } else if (error.code === 'ETIMEDOUT') {
-            console.error('The request timed out. Please check your internet connection and try again');
+            console.error('The request timed out. Please check your internet connection and try again.');
         } else {
             console.error('An error occurred:', error);
         }

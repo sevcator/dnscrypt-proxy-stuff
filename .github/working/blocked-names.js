@@ -3,9 +3,8 @@ const axios = require('axios');
 
 const blocklistURL = 'https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt';
 const exclusionFilters = [
-    '*.google.com',
-    '*.googleapis.com',
-    '*.googleadservices.*'
+    '*google*',
+    '*.soundcloud.com'
 ];
 const customBlockedSites = [
     '=yandex.ru'

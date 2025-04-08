@@ -58,8 +58,8 @@ const isExcluded = (host) => {
 
         const output = `${existingContent.trim()}\n${uniqueEntries.join('\n')}`.trim();
         await fs.writeFile('blocked-names.txt', output, 'utf8');
-        console.log('blocked-names.txt успешно сохранён.');
+        console.log('The blocked-names.txt file is ready!');
     } catch (error) {
-        console.error('Ошибка во время выполнения скрипта:', error.message);
+        console.error('Error:', error.message);
     }
 })();

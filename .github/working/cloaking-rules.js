@@ -13,7 +13,7 @@ const exclusionFilters = [
     'protonmail.com',
     '*.proton.me',
 ];
-const targetHost = 'grok.com';
+const targetHost = 'codeium.com';
 const replacementDomains = ['soundcloud.com', '*.soundcloud.com'];
 
 const createRegex = (pattern) => {

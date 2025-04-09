@@ -11061,7 +11061,6 @@ absurdwater.com
 abt-prod-us-east-1-content-star.swrve.com
 abtasty.com
 abtest-coin.xenderapi.com
-abtest-va-tiktok.byteoversea.com
 abtest.goforandroid.com
 abtest.mistat.india.xiaomi.com
 abtest.mistat.intl.xiaomi.com
@@ -30150,7 +30149,6 @@ ads.thumbr.com
 ads.thzhost.com
 ads.tibaco.net
 ads.tiki.vn
-ads.tiktok.com
 ads.timeout.com
 ads.timesdaily.com
 ads.timesink.com
@@ -32850,7 +32848,6 @@ adverticum.com
 adverticum.net
 adverticus.de
 advertis.go2cloud.org
-advertise.bingads.microsoft.com
 advertise.com
 advertise.indiatimes.com
 advertise.ldplayer.net
@@ -32943,7 +32940,6 @@ advertising.jp.msn.com
 advertising.justusboys.net
 advertising.lavenir.net
 advertising.lycos.com
-advertising.microsoft.com
 advertising.net
 advertising.nttr.co.jp
 advertising.nypost.com
@@ -37983,7 +37979,6 @@ apprebates.com
 appredeem.com
 apprefaculty.pro
 apprelease.redtrack.io
-apprep.smartscreen.microsoft.com
 appres.camera360.com
 appresource.line-scdn.net
 appricotads.g2afse.com
@@ -38676,7 +38671,6 @@ asicpool.us
 asidecasev.com
 asiinbyu.com
 asimgs.pplive.cn
-asimov-win.settings.data.microsoft.com.akadns.net
 asinole.info
 ask-d.openx.net
 ask-gps.ru
@@ -43335,7 +43329,6 @@ bindfast.com
 bing-rewards.evyy.net
 bing0.ru
 bingads.com
-bingads.microsoft.com
 binglee-com-au.b.appier.net
 bingmob.offerstrack.net
 bingmod.offerstrack.net
@@ -44811,7 +44804,6 @@ browser.baidu.com
 browser.cloud.uc.cn
 browser.cloud.ucweb.com
 browser.cloud.wx.ucdns.uc.cn
-browser.pipe.aria.microsoft.com
 browser.scloud.letv.com
 browseraccelerator.com
 browsercollector.oneapm.com
@@ -46960,7 +46952,6 @@ c.medialink.mobi
 c.medialytics.com
 c.mfstatic.cz
 c.mgid.com
-c.microsoft.com
 c.mobhubrdrms.com
 c.mobpartner.mobi
 c.morgdm.ru
@@ -47128,7 +47119,6 @@ c1.inclk.com
 c1.infomobi.me
 c1.la4.download.9appsinstall.com
 c1.media.net
-c1.microsoft.com
 c1.navrcholu.cz
 c1.nend.net
 c1.niumobi.com
@@ -50608,8 +50598,6 @@ chograud.com
 chohye2t.com
 choice.atdmt.com
 choice.demdex.net
-choice.microsoft.com
-choice.microsoft.com.nsatc.net
 choice.pxf.io
 choicedealz.com
 choicehotels.btttag.com
@@ -52704,8 +52692,6 @@ co1.qualtrics.com
 co1aqu.atdmt.com
 co1trk.atdmt.com
 co2aqu.atdmt.com
-co4.telecommand.telemetry.microsoft.com
-co4.telecommand.telemetry.microsoft.com.akadns.net
 coachingminceur.go2cloud.org
 coadvertise.com
 coaft.voluumtrk.com
@@ -54497,8 +54483,6 @@ corp.leanplum.com
 corp.meitu.com
 corp.outbrain.com
 corp.sonobi.com
-corp.sts.microsoft.com
-corpext.msitadfs.glbdns2.microsoft.com
 corpgate.fwmrm.net
 corpgslb1.fwmrm.net
 corpidealmediacom.dev.smi2.net
@@ -57232,7 +57216,6 @@ cxxqchjb.com
 cxxsegmhltakq.com
 cxzisvjhpt.com
 cy-pr.com
-cy2.vortex.data.microsoft.com.akadns.net
 cya1t.net
 cya2.net
 cyberagent.122.2o7.net
@@ -59011,7 +58994,6 @@ db4.net-filter.com
 db4.sitestats.com
 db5.net-filter.com
 db5.sitestats.com
-db5.vortex.data.microsoft.com.akadns.net
 db52cc91beabf7e8.com
 db6.net-filter.com
 db6.sitestats.com
@@ -60220,7 +60202,6 @@ dezaz.voluumtrk.com
 df-srv.de
 df.mediaplex.com
 df.mmo001.info
-df.telemetry.microsoft.com
 df00-e6ad-a07b-59c1.reporo.net
 df0pmigc8xs70.cloudfront.net
 df12.mta.exacttarget.com
@@ -60382,7 +60363,6 @@ diag.atdmt.com
 diageogreatbritainltd.d3.sc.omtrdc.net
 diagnosis.ad.intl.xiaomi.com
 diagnostics-lp.inmobi.com
-diagnostics.support.microsoft.com
 dialerporn.com
 dialglobal.adswizz.com
 dialgold.com
@@ -67733,7 +67713,6 @@ fe16.brandreachsys.com
 fe1x.brandreachsys.com
 fe2-au.imrworldwide.com
 fe2.brandreachsys.com
-fe2.update.microsoft.com.akadns.net
 fe2x.brandreachsys.com
 fe3-au.imrworldwide.com
 fe3.brandreachsys.com
@@ -67813,7 +67792,6 @@ feedback.getsocial.io
 feedback.microsoft-hohm.com
 feedback.miui.com
 feedback.powerfulcleaner.com
-feedback.search.microsoft.com
 feedback.sokrati.com
 feedback.uc.cn
 feedback.umeng.com
@@ -71744,7 +71722,6 @@ geo.smartadserver.mgr.consensu.org
 geo.startappservice.com
 geo.theawesomer.com
 geo.tp-cdn.com
-geo.vortex.data.microsoft.com.akadns.net
 geo.widdit.com
 geo.xcel.io
 geo.xxxblackbook.com
@@ -72552,7 +72529,6 @@ glb1.perimeterx.net
 glbad.adtech.de
 glbad.adtechjp.com
 glbad.adtechus.com
-glbdns.microsoft.com
 glbg.logsss.com
 glbgcl.logsss.com
 glbgkmvl.com
@@ -75149,7 +75125,6 @@ help.adform.com
 help.adtech.fr
 help.adtech.us
 help.appnexus.com
-help.bingads.microsoft.com
 help.brightcove.com
 help.chartboost.com
 help.doubleclick.net
@@ -77409,8 +77384,6 @@ i1.news-subscribe.com
 i1.onthe.io
 i1.putags.com
 i1.rg.contentdef.com
-i1.services.social.microsoft.com
-i1.services.social.microsoft.com.nsatc.net
 i1.static.mf.ma.spartan.contentdef.com
 i1.teaser-goods.ru
 i16-tb.isnssdk.com
@@ -77690,7 +77663,6 @@ ib.bounceads.net
 ib.mookie1.com
 ib.reachjunction.com
 ib.snssdk.com.edgekey.net
-ib.tiktokv.com
 ib1oyteqqn.com
 ib2.3lift.com
 ibanner.de
@@ -87704,7 +87676,6 @@ log.test.v-mate.mobi
 log.thanhnien.vn
 log.thevideo.me
 log.tienphong.vn
-log.tiktokv.com
 log.trackad.cz
 log.trackingio.com
 log.trafic.ro
@@ -93168,7 +93139,6 @@ mobile.mng-ads.com
 mobile.mofowl.com
 mobile.onthe.io
 mobile.panjiachun.com
-mobile.pipe.aria.microsoft.com
 mobile.pxf.io
 mobile.quantumgraph.com
 mobile.sitestatlog.net
@@ -93395,8 +93365,6 @@ modelsgonebad.com
 modelvita.de.intellitxt.com
 modemspeedbooster.com
 modere.evergage.com
-modern.watson.data.microsoft.com
-modern.watson.data.microsoft.com.akadns.net
 modernboard.de.intellitxt.com
 moderncustomerexperience.brightcove.com
 moderninstalls.go2cloud.org
@@ -98831,8 +98799,6 @@ oc-track.autonomycloud.com
 oc.umeng.co
 oc.umeng.com
 oc9e5.voluumtrk.com
-oca.telemetry.microsoft.com
-oca.telemetry.microsoft.com.nsatc.net
 ocatdog.live
 ocatdog.today
 ocbc.demdex.net
@@ -109332,7 +109298,6 @@ raconteurnvlwsc.download
 rad.adriver.ru
 rad.atdmt.com
 rad.live.com
-rad.microsoft.com
 rad.msn.com
 rad.msn.com.nsatc.net
 rad.rad.atdmt.com
@@ -110157,7 +110122,6 @@ redir.cuntwars.com
 redir.flowwiththetide.xyz
 redir.juicyads.com
 redir.lomadee.com
-redir.metaservices.microsoft.com
 redir.snoobi.com
 redir.speedbit.com
 redir.widdit.com
@@ -110787,7 +110751,6 @@ reports.taptica.com
 reports.tstlabs.co.uk
 reports.ubimo.com
 reports.vizury.com
-reports.wes.df.telemetry.microsoft.com
 reports.zedo.com
 repository.adbuddiz.com
 repostuj.push-ad.com
@@ -112497,7 +112460,6 @@ rtlhirek-online.com
 rtlog.byteoversea.com
 rtlog.isnssdk.com
 rtlog.musical.ly
-rtlog.tiktokv.com
 rtlvtest.2cnt.net
 rtlvtest1.2cnt.net
 rtlxl.2cnt.net
@@ -114329,7 +114291,6 @@ schaeffers.112.2o7.net
 scheckerde.widget.criteo.com
 schedhomoso.pro
 scheller.qualtrics.com
-schemas.microsoft.akadns.net
 scheme.adywind.com
 scheme.mobpowertech.com
 schemic.top
@@ -116021,7 +115982,6 @@ services.adroll.com
 services.adtech.fr
 services.adtech.us
 services.adx1.com
-services.apps.microsoft.com.nsatc.net
 services.brightcove.com
 services.chartboost.com
 services.cmp.advertising.com
@@ -116037,7 +115997,6 @@ services.vertamedia.com
 services.videoplaza.tv
 services.webestools.com
 services.webspectator.com
-services.wes.df.telemetry.microsoft.com
 services.wetek.com
 services.wigzopush.com
 services.x-traceur.com
@@ -116108,10 +116067,7 @@ settings-1475741074.mtraction.com
 settings-1476442757.mtraction.com
 settings-1479276883.mtraction.com
 settings-analytics.hotstar.com
-settings-sandbox.data.microsoft.com
-settings-win-ppe.data.microsoft.com
 settings.brightcove.com
-settings.data.microsoft.com
 settings.luckyorange.net
 settings.outbrain.com
 settlecruise.org
@@ -119236,7 +119192,6 @@ spykemediatrack.com
 spylog.com
 spylog.ru
 spymac.us.intellitxt.com
-spynet2.microsoft.com
 spyoff.com
 spyoff.dislo.cloud
 spytec.evergage.com
@@ -119262,9 +119217,6 @@ sql.treasuredata.com
 sql1.brandreachsys.com
 sql2.brandreachsys.com
 sqlservercentral.us.intellitxt.com
-sqm.df.telemetry.microsoft.com
-sqm.telemetry.microsoft.com
-sqm.telemetry.microsoft.com.nsatc.net
 sqm.woniu.com
 sqmeqfffehg.bid
 sqnezuqjdbhe.com
@@ -122072,9 +122024,6 @@ statserv.net
 statsevent.com
 statsevent.tracksummer.com
 statsf-tm.everesttech.net
-statsfe1.ws.microsoft.com
-statsfe2.update.microsoft.com.akadns.net
-statsfe2.ws.microsoft.com
 statsforads.com
 statsforever.com
 statsie.com
@@ -122092,7 +122041,6 @@ statssheet.com
 statstat888.com
 statstracker.celebrity-gossip.net
 statstrackeronline.com
-statsupdate.microsoft.com.nsatc.net
 statsv2-backend.propellerads.com
 statsv3.gaycash.com
 statsview.it
@@ -123010,7 +122958,6 @@ survey.survicate.com
 survey.tapad.com
 survey.umeng.com
 survey.unbounce.com
-survey.watson.microsoft.com
 survey.webengage.com
 survey.wootric.com
 survey1.umeng.com
@@ -124953,8 +124900,6 @@ telecharger-openoffice.fr
 telecolumbus01.webtrekk.net
 telecom.co.nz.102.112.2o7.net
 telecomitaliamedia01.webtrekk.net
-telecommand.telemetry.microsoft.com
-telecommand.telemetry.microsoft.com.nsatc.net
 telecomunicate.com
 teledynedalsa.actonsoftware.com
 telefloracom.112.2o7.net
@@ -124988,7 +124933,6 @@ telemetry.gfe.nvidia.com
 telemetry.jivosite.com
 telemetry.layer.com
 telemetry.malwarebytes.com
-telemetry.microsoft.com
 telemetry.mozilla.org
 telemetry.nvidia.com
 telemetry.reembed.com
@@ -124997,7 +124941,6 @@ telemetry.sdk.inmobi.com
 telemetry.sdk.vip.ams1.inmobi.com
 telemetry.swe.quicinc.com
 telemetry.tradingview.com
-telemetry.urs.microsoft.com
 telemetry.v.dropbox.com
 telemetrytaxonomy.net
 telemetryverification.net
@@ -133261,10 +133204,7 @@ v1.nedstatbasic.net
 v1.notifications-online.systems
 v1.your-notification.tools
 v10.cnzz.com
-v10.events.data.microsoft.com
-v10.vortex-win.data.microsoft.com
 v10.xmlsearch.miva.com
-v10c.events.data.microsoft.com
 v11.cnzz.com
 v11media.com
 v12.cnzz.com
@@ -133297,7 +133237,6 @@ v2.shareaholic.com
 v2.urlads.net
 v2.visualwebsiteoptimizer.com
 v2.zopim.com
-v20.vortex-win.data.microsoft.com
 v2ad.adlegend.com
 v2asr-52-207-14-105.prod.vungle.com
 v2asr-52-207-19-255.prod.vungle.com
@@ -138911,10 +138850,6 @@ vorlon.ferretsoft.com
 voronezh136.ru
 vortex-bn2.metron.live.com.nsatc.net
 vortex-cy2.metron.live.com.nsatc.net
-vortex-sandbox.data.microsoft.com
-vortex-win-sandbox.data.microsoft.com
-vortex-win.data.microsoft.com
-vortex.data.microsoft.com
 vortex.hulu.com
 vortex.mgr.consensu.org
 vortextraffic.com
@@ -139911,11 +139846,6 @@ watgtracksdk.optimove.net
 watrz.com
 wats.everesttech.net
 watson.live.com
-watson.microsoft.com
-watson.ppe.telemetry.microsoft.com
-watson.telemetry.microsoft.com
-watson.telemetry.microsoft.com.nsatc.net
-watson.telemetry.microsoft.comuser.ora.tv
 watsons-com-tw.b.appier.net
 wattpad-d.openx.net
 watunxckibtvfm.bid
@@ -140166,7 +140096,6 @@ web.ventunotech.com
 web.vindicosuite.com
 web.vip.miui.com
 web.vizury.com
-web.vortex.data.microsoft.com
 web.vortex.data.msn.com
 web0.track.appier.net
 web01.casalemedia.com
@@ -140265,7 +140194,6 @@ webantenna.info
 webapp-cdn.singular.net
 webapp.browser.intl.miui.com
 webapp.browser.miui.com
-webapps.microsoft.com.102.112.2o7.net
 webartsbrack.tt.omtrdc.net
 webartspy.net
 webassembly.stream
@@ -140766,7 +140694,6 @@ werbung.xfind.de
 weresolve.ca
 werfop.com
 wertiflow.com
-wes.df.telemetry.microsoft.com
 wesdsdds.com
 wesell.co.il
 weselltraffic.com
@@ -144410,7 +144337,6 @@ www.coreglead.co.uk
 www.coremetrics.com
 www.cornhuskerypyvjzplr.download
 www.cornwallsdraft.club
-www.corpext.msitadfs.glbdns2.microsoft.com
 www.correctiongnarfj.download
 www.cortesidesign.com
 www.cortoonnetwork.com
@@ -144660,7 +144586,6 @@ www.devis-abri-de-piscine.fr
 www.devoknet.ru
 www.dexchangeinc.com
 www.dezuiderwaard.nl
-www.df.telemetry.microsoft.com
 www.dfccgatkeoverworks.review
 www.dfw1.vip.inmobi.com
 www.dglfkgmhahilp.com
@@ -147095,8 +147020,6 @@ www.obix.pro
 www.objectopoly.info
 www.observantsumzcl.download
 www.obyz.de
-www.oca.telemetry.microsoft.com
-www.oca.telemetry.microsoft.com.nsatc.net
 www.oceango.net
 www.ocpersian.com
 www.octopusgirl.com
@@ -147817,7 +147740,6 @@ www.rentfromart.com
 www.reporting.sokrati.com
 www.reports.amobee.com
 www.reports.vizury.com
-www.reports.wes.df.telemetry.microsoft.com
 www.repricebkbakkrxq.download
 www.res-x.com
 www.research-artisan.com
@@ -148124,7 +148046,6 @@ www.serveradobe.co.cc
 www.serverbid.com
 www.serveroute.com
 www.servicelayer.mobi
-www.services.wes.df.telemetry.microsoft.com
 www.seselisgqpobnny.download
 www.sesschen.win
 www.setihome.com
@@ -148360,9 +148281,6 @@ www.spywarebegone.com
 www.spywareit.com
 www.spywarespy.com
 www.sq2trk2.com
-www.sqm.df.telemetry.microsoft.com
-www.sqm.telemetry.microsoft.com
-www.sqm.telemetry.microsoft.com.nsatc.net
 www.squarenessqyecvdn.download
 www.squashyrsewa.download
 www.src.eeduelements.com
@@ -148608,11 +148526,7 @@ www.tegulaenasqffvn.download
 www.teilsidhobehqy.download
 www.tekka.it
 www.tekzie.com
-www.telecommand.telemetry.microsoft.com
-www.telecommand.telemetry.microsoft.com.nsatc.net
 www.telemetry.appex.bing.net
-www.telemetry.microsoft.com
-www.telemetry.urs.microsoft.com
 www.temperersgelvhakyk.download
 www.templates-test.unbounce.com
 www.templates.unbounce.com
@@ -149283,9 +149197,6 @@ www.watch24.com
 www.watchlivestream.me.uk
 www.watchnow.tv
 www.wathspap.com
-www.watson.ppe.telemetry.microsoft.com
-www.watson.telemetry.microsoft.com
-www.watson.telemetry.microsoft.com.nsatc.net
 www.wcomhost.com
 www.wct.link
 www.wdm29.com
@@ -149365,7 +149276,6 @@ www.weitclick.de
 www.weknow.ac
 www.welkingmkscrmgc.download
 www.weownthetraffic.com
-www.wes.df.telemetry.microsoft.com
 www.wesell.co.il
 www.westernereoednyj.download
 www.westerntaneyfire.com
@@ -150810,7 +150720,6 @@ xlog-va.byteoversea.com
 xlog-va.musical.ly
 xlog.byteoversea.com
 xlog.hiido.com
-xlog.tiktokv.com
 xlounge.ru
 xlovecam.com
 xlqkpyimdep.com

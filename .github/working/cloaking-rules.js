@@ -2,7 +2,7 @@ const fs = require('fs').promises;
 const dns = require('dns').promises;
 const axios = require('axios');
 
-const pastebinRaw = 'https://pastebin.com/raw/5zvfV9Lp'; // убедись, что ID актуальный
+const pastebinRaw = 'https://pastebin.com/raw/5zvfV9Lp';
 const exclusionFilters = [
     '*.instagram.com',
     'instagram.com',
@@ -12,8 +12,21 @@ const exclusionFilters = [
     '*.protonmail.com',
     'protonmail.com',
     '*.proton.me',
+    '*truthsocial*',
+    '*canva*'
 ];
-const targetHost = 'codeium.com';
+const preserveDomains = [
+    '*goog*',
+    '*microsoft*',
+    '*bing*',
+    '*xbox*',
+    '*github*',
+    '*jetbrains*',
+    '*codeium*',
+    '*nvidia*',
+    '*tiktok*',
+];
+const targetHost = 'chatgpt.com';
 const replacementDomains = ['soundcloud.com', '*.soundcloud.com'];
 
 const createRegex = (pattern) => {
@@ -22,7 +35,15 @@ const createRegex = (pattern) => {
 };
 
 const exclusionRegexes = exclusionFilters.map(createRegex);
+const preserveRegexes = preserveDomains.map(createRegex);
 const isExcluded = (host) => exclusionRegexes.some(rx => rx.test(host));
+const isPreserved = (host) => preserveRegexes.some(rx => rx.test(host));
+
+const getBaseDomain = (host) => {
+    const parts = host.split('.');
+    if (parts.length <= 2) return host;
+    return parts.slice(-2).join('.');
+};
 
 axios.get(pastebinRaw, {
     headers: {
@@ -48,7 +69,39 @@ axios.get(pastebinRaw, {
         if (!isExcluded(host) && ip !== '0.0.0.0') entries.push({ host, ip });
     });
 
-    const hostIpEntries = entries.map(e => `${e.host} ${e.ip}`);
+    const baseDomains = {};
+    const uniqueIpEntries = [];
+    const preservedEntries = [];
+
+    entries.forEach(({ host, ip }) => {
+        if (isPreserved(host)) {
+            preservedEntries.push(`${host} ${ip}`);
+        } else {
+            const baseDomain = getBaseDomain(host);
+            if (!baseDomains[baseDomain]) baseDomains[baseDomain] = { hosts: [], ip: ip };
+            baseDomains[baseDomain].hosts.push({ host, ip });
+            if (baseDomains[baseDomain].ip === ip || !baseDomains[baseDomain].ip) {
+                baseDomains[baseDomain].ip = ip;
+            }
+        }
+    });
+
+    entries.forEach(({ host, ip }) => {
+        if (isPreserved(host)) return;
+        const baseDomain = getBaseDomain(host);
+        if (ip !== baseDomains[baseDomain].ip) {
+            uniqueIpEntries.push(`${host} ${ip}`);
+        }
+    });
+
+    const hostIpEntries = [];
+    Object.entries(baseDomains).forEach(([baseDomain, { ip }]) => {
+        hostIpEntries.push(`${baseDomain} ${ip}`);
+        hostIpEntries.push(`*.${baseDomain} ${ip}`);
+    });
+    hostIpEntries.push(...uniqueIpEntries);
+    hostIpEntries.push(...preservedEntries);
+
     const existingEntry = entries.find(e => e.host === targetHost);
     const resolveIP = existingEntry
         ? Promise.resolve(existingEntry.ip)

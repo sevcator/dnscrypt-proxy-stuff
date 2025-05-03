@@ -12,6 +12,15 @@ const customBlockedHosts = [
     '=yandex.ru'
 ];
 
+// These regex rules are used in the "syntax blocklist hosts" section
+const syntaxRules = [
+    /^ad\..*$/i,
+    /^ads\..*$/i,
+    /^banner\..*$/i,
+    /^banners\..*$/i,
+    /^.*\.onion$/i
+];
+
 const fetchTextFile = async (url) => {
     const response = await axios.get(url, {
         headers: {
@@ -49,6 +58,13 @@ const parseAdsHosts = (data) => {
         });
 };
 
+const removeRegexDuplicates = (hosts) => {
+    return hosts.filter(line => {
+        const domain = line.split(' ')[0];
+        return !syntaxRules.some(regex => regex.test(domain));
+    });
+};
+
 (async () => {
     try {
         const exampleContent = await fs.readFile(exampleFile, 'utf8');
@@ -57,15 +73,15 @@ const parseAdsHosts = (data) => {
         const pastebinHosts = parsePastebinHosts(pastebinRaw);
         const pastebinBlock = `\n\n# t.me/immalware hosts\n${pastebinHosts.join('\n')}`;
 
-        // Output 1: cloaking-rules.txt
         const baseOutput = `${exampleContent.trim()}${pastebinBlock}`;
         await fs.writeFile(outputFile, baseOutput.trim(), 'utf8');
 
-        // For second file: additional syntax and ad blocklists
         const adsRaw = await fetchTextFile(adsBlocklistURL);
         const adsHosts = parseAdsHosts(adsRaw);
         const customFormatted = parseAdsHosts(customBlockedHosts.join('\n'));
-        const allAds = [...adsHosts, ...customFormatted];
+        const allAdsRaw = [...adsHosts, ...customFormatted];
+
+        const cleanedAds = removeRegexDuplicates(allAdsRaw);
 
         const syntaxBlock = `
 \n# syntax blocklist hosts
@@ -76,13 +92,13 @@ banners.* 0.0.0.0
 *.onion 0.0.0.0
 `.trim();
 
-        const adsBlock = `\n\n# blocklistproject.github.io blocklist hosts\n${allAds.join('\n')}`;
+        const adsBlock = `\n\n# blocklistproject.github.io blocklist hosts\n${cleanedAds.join('\n')}`;
 
         const fullOutput = `${exampleContent.trim()}${pastebinBlock}\n${syntaxBlock}${adsBlock}`;
         await fs.writeFile(outputPlusFile, fullOutput.trim(), 'utf8');
 
-        console.log('Файлы успешно созданы.');
+        console.log('Files generated successfully with duplicate filtering.');
     } catch (error) {
-        console.error('Произошла ошибка:', error);
+        console.error('An error occurred:', error);
     }
 })();

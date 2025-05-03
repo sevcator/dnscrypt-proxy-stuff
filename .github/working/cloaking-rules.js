@@ -1,131 +1,86 @@
 const fs = require('fs').promises;
-const dns = require('dns').promises;
 const axios = require('axios');
 
-const pastebinRaw = 'https://pastebin.com/raw/5zvfV9Lp';
-const exclusionFilters = [
-    '*.instagram.com',
-    'instagram.com',
-    '*.ggpht.com',
-    '*.facebook.com',
-    '*.proton.com',
-    '*.protonmail.com',
-    'protonmail.com',
-    '*.proton.me',
-    '*truthsocial*',
-    '*canva*'
-];
-const preserveDomains = [
-    '*goog*',
-    '*microsoft*',
-    '*bing*',
-    '*xbox*',
-    '*github*',
-    '*jetbrains*',
-    '*codeium*',
-    '*nvidia*',
-    '*tiktok*',
-];
-const targetHost = 'chatgpt.com';
-const replacementDomains = ['soundcloud.com', '*.soundcloud.com'];
+const exampleFile = 'example-cloaking-rules.txt';
+const outputFile = 'cloaking-rules.txt';
+const outputPlusFile = 'cloaking-rules-plus-block-ads.txt';
 
-const createRegex = (pattern) => {
-    const escaped = pattern.replace(/[.+^${}()|[\]\\]/g, '\\$&');
-    return new RegExp('^' + escaped.replace(/\*/g, '.*') + '$', 'i');
+const hostsFile = 'https://pastebin.com/raw/5zvfV9Lp';
+const adsBlocklistURL = 'https://blocklistproject.github.io/Lists/ads.txt';
+
+const userAgent = 'Mozilla/5.0';
+
+const fetchTextFile = async (url) => {
+    const response = await axios.get(url, {
+        headers: {
+            'User-Agent': userAgent,
+            'Accept': 'text/plain',
+        },
+        timeout: 10000,
+    });
+    return response.data;
 };
 
-const exclusionRegexes = exclusionFilters.map(createRegex);
-const preserveRegexes = preserveDomains.map(createRegex);
-const isExcluded = (host) => exclusionRegexes.some(rx => rx.test(host));
-const isPreserved = (host) => preserveRegexes.some(rx => rx.test(host));
+const parsePastebinHosts = (data) => {
+    const ipHostRegex = /^(\d{1,3}(?:\.\d{1,3}){3})\s+([\w.-]+)$/;
+    const lines = data.split('\n');
+    const result = [];
 
-const getBaseDomain = (host) => {
-    const parts = host.split('.');
-    if (parts.length <= 2) return host;
-    return parts.slice(-2).join('.');
-};
-
-axios.get(pastebinRaw, {
-    headers: {
-        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64)',
-        'Accept': 'text/plain',
-        'Accept-Language': 'en-US,en;q=0.9'
-    },
-    timeout: 10000,
-})
-.then(res => {
-    const lines = res.data.split('\n');
-    const entries = [];
-
-    lines.forEach(line => {
+    for (const line of lines) {
         const clean = line.split('#')[0].trim();
-        if (!clean) return;
+        if (!clean) continue;
+
+        const match = clean.match(ipHostRegex);
+        if (match) {
+            const [ , ip, host ] = match;
+            if (ip === '0.0.0.0') continue; // Skip 0.0.0.0 entries
+            result.push(`${host} ${ip}`);
+        }
+    }
+    return result;
+};
+
+const parseAdsHosts = (data) => {
+    const lines = data.split('\n');
+    const result = [];
+
+    for (const line of lines) {
+        const clean = line.split('#')[0].trim();
+        if (!clean || clean.startsWith('#')) continue;
+
         const parts = clean.split(/\s+/);
-        if (parts.length < 2) return;
+        const host = parts.pop();
+        if (!host || host.includes(' ')) continue;
 
-        const ip = parts[0], host = parts[1];
-        const ipRegex = /^(25[0-5]|2[0-4]\d|[01]?\d\d?)\.(25[0-5]|2[0-4]\d|[01]?\d\d?)\.(25[0-5]|2[0-4]\d|[01]?\d\d?)\.(25[0-5]|2[0-4]\d|[01]?\d\d?)$/;
-        if (!ipRegex.test(ip)) return;
-        if (!isExcluded(host) && ip !== '0.0.0.0') entries.push({ host, ip });
-    });
+        result.push(`${host} 0.0.0.0`);
+    }
+    return result;
+};
 
-    const baseDomains = {};
-    const uniqueIpEntries = [];
-    const preservedEntries = [];
+(async () => {
+    try {
+        const exampleContent = await fs.readFile(exampleFile, 'utf8');
 
-    entries.forEach(({ host, ip }) => {
-        if (isPreserved(host)) {
-            preservedEntries.push(`${host} ${ip}`);
-        } else {
-            const baseDomain = getBaseDomain(host);
-            if (!baseDomains[baseDomain]) baseDomains[baseDomain] = { hosts: [], ip: ip };
-            baseDomains[baseDomain].hosts.push({ host, ip });
-            if (baseDomains[baseDomain].ip === ip || !baseDomains[baseDomain].ip) {
-                baseDomains[baseDomain].ip = ip;
-            }
-        }
-    });
+        // Load and parse Pastebin hosts (excluding 0.0.0.0)
+        const pastebinRaw = await fetchTextFile(hostsFile);
+        const pastebinHosts = parsePastebinHosts(pastebinRaw);
+        const pastebinBlock = `\n\n# t.me/immalware hosts\n${pastebinHosts.join('\n')}`;
 
-    entries.forEach(({ host, ip }) => {
-        if (isPreserved(host)) return;
-        const baseDomain = getBaseDomain(host);
-        if (ip !== baseDomains[baseDomain].ip) {
-            uniqueIpEntries.push(`${host} ${ip}`);
-        }
-    });
+        // Write cloaking-rules.txt
+        const cloakingContent = `${exampleContent.trim()}${pastebinBlock}`;
+        await fs.writeFile(outputFile, cloakingContent.trim(), 'utf8');
+        console.log(`${outputFile} created`);
 
-    const hostIpEntries = [];
-    Object.entries(baseDomains).forEach(([baseDomain, { ip }]) => {
-        hostIpEntries.push(`${baseDomain} ${ip}`);
-        hostIpEntries.push(`*.${baseDomain} ${ip}`);
-    });
-    hostIpEntries.push(...uniqueIpEntries);
-    hostIpEntries.push(...preservedEntries);
+        // Load and parse ads blocklist as `host 0.0.0.0`
+        const adsRaw = await fetchTextFile(adsBlocklistURL);
+        const adsHosts = parseAdsHosts(adsRaw);
+        const adsBlock = `\n\n# blocklistproject.github.io blocklist hosts\n${adsHosts.join('\n')}`;
 
-    const existingEntry = entries.find(e => e.host === targetHost);
-    const resolveIP = existingEntry
-        ? Promise.resolve(existingEntry.ip)
-        : dns.lookup(targetHost).then(addr => addr.address).catch(() => null);
-
-    return resolveIP.then(ip => {
-        const ipEntries = [];
-        if (ip) {
-            replacementDomains.forEach(d => ipEntries.push(`${d} ${ip}`));
-        } else {
-            console.warn('IP not resolving:', targetHost);
-        }
-
-        return fs.readFile('example-cloaking-rules.txt', 'utf8')
-            .catch(() => '')
-            .then(existing => {
-                const fullList = `${existing.trim()}\n${hostIpEntries.join('\n')}\n${ipEntries.join('\n')}`;
-                return fs.writeFile('cloaking-rules.txt', fullList.trim(), 'utf8');
-            });
-    });
-})
-.then(() => {
-    console.log('The cloaking-rules.txt file is ready!');
-})
-.catch(err => {
-    console.error('Error getting data:', err.message);
-});
+        // Write cloaking-rules-plus-block-ads.txt
+        const fullContent = `${cloakingContent}${adsBlock}`;
+        await fs.writeFile(outputPlusFile, fullContent.trim(), 'utf8');
+        console.log(`${outputPlusFile} created`);
+    } catch (error) {
+        console.error('Error:', error.message);
+    }
+})();

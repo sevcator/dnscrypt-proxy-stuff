@@ -3,7 +3,7 @@ const axios = require('axios');
 
 const exampleFile = 'example-cloaking-rules.txt';
 const outputFile = 'cloaking-rules.txt';
-const outputPlusFile = 'cloaking-rules-plus-block-ads.txt';
+const outputPlusFile = 'cloaking-rules-plus-ads.txt';
 
 const hostsFile = 'https://pastebin.com/raw/5zvfV9Lp';
 const adsBlocklistURL = 'https://blocklistproject.github.io/Lists/ads.txt';
@@ -57,28 +57,32 @@ const parseAdsHosts = (data) => {
         const pastebinHosts = parsePastebinHosts(pastebinRaw);
         const pastebinBlock = `\n\n# t.me/immalware hosts\n${pastebinHosts.join('\n')}`;
 
-        const cloakingContent = `${exampleContent.trim()}${pastebinBlock}`;
-        await fs.writeFile(outputFile, cloakingContent.trim(), 'utf8');
+        // Output 1: cloaking-rules.txt
+        const baseOutput = `${exampleContent.trim()}${pastebinBlock}`;
+        await fs.writeFile(outputFile, baseOutput.trim(), 'utf8');
 
+        // For second file: additional syntax and ad blocklists
         const adsRaw = await fetchTextFile(adsBlocklistURL);
         const adsHosts = parseAdsHosts(adsRaw);
         const customFormatted = parseAdsHosts(customBlockedHosts.join('\n'));
         const allAds = [...adsHosts, ...customFormatted];
 
-        const adsBlock = `\n\n# blocklistproject.github.io blocklist hosts\n${allAds.join('\n')}`;
-
         const syntaxBlock = `
-# Block domains by syntax
+\n# syntax blocklist hosts
 ad.* 0.0.0.0
 ads.* 0.0.0.0
 banner.* 0.0.0.0
 banners.* 0.0.0.0
 *.onion 0.0.0.0
-`;
+`.trim();
 
-        const fullContent = `${cloakingContent}${adsBlock}\n\n${syntaxBlock.trim()}`;
-        await fs.writeFile(outputPlusFile, fullContent.trim(), 'utf8');
+        const adsBlock = `\n\n# blocklistproject.github.io blocklist hosts\n${allAds.join('\n')}`;
+
+        const fullOutput = `${exampleContent.trim()}${pastebinBlock}\n${syntaxBlock}${adsBlock}`;
+        await fs.writeFile(outputPlusFile, fullOutput.trim(), 'utf8');
+
+        console.log('Файлы успешно созданы.');
     } catch (error) {
-        console.error('Error occurred:', error);
+        console.error('Произошла ошибка:', error);
     }
 })();

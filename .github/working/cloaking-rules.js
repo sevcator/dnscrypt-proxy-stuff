@@ -66,8 +66,19 @@ const parseAdsHosts = (data) => {
         const allAds = [...adsHosts, ...customFormatted];
 
         const adsBlock = `\n\n# blocklistproject.github.io blocklist hosts\n${allAds.join('\n')}`;
-        const fullContent = `${cloakingContent}${adsBlock}`;
 
+        const syntaxBlock = `
+# Block domains by syntax
+ad.* 0.0.0.0
+ads.* 0.0.0.0
+banner.* 0.0.0.0
+banners.* 0.0.0.0
+*.onion 0.0.0.0
+`;
+
+        const fullContent = `${cloakingContent}${adsBlock}\n\n${syntaxBlock.trim()}`;
         await fs.writeFile(outputPlusFile, fullContent.trim(), 'utf8');
-    } catch {}
+    } catch (error) {
+        console.error('Error occurred:', error);
+    }
 })();

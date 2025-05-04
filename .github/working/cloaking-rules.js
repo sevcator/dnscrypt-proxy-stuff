@@ -1,133 +1,88 @@
 const fs = require('fs').promises;
 const axios = require('axios');
 
-const exampleFile = 'example-cloaking-rules.txt';
-const outputFile = 'cloaking-rules.txt';
-const outputPlusFile = 'cloaking-rules-plus-block-ads.txt';
+const hostsFileURL = 'https://pastebin.com/raw/5zvfV9Lp';
+const adsBlocklistURL = 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt';
+const exampleRulesFile = 'example-cloaking-rules.txt';
+const outputRulesFile = 'cloaking-rules.txt';
+const outputPlusRulesFile = 'cloaking-rules-plus-block-ads.txt';
 
-const hostsFile = 'https://pastebin.com/raw/5zvfV9Lp';
-const adsBlocklistURL = 'https://blocklistproject.github.io/Lists/ads.txt';
+const exclusionFilters = ['*.instagram.com', 'instagram.com', '*.ggpht.com', '*.facebook.com', '*.proton.com', '*.protonmail.com', 'protonmail.com', '*.proton.me', '*truthsocial*', '*canva*'];
+const preserveDomains = ['*goog*', '*microsoft*', '*bing*', '*xbox*', '*github*', '*jetbrains*', '*codeium*', '*nvidia*', '*tiktok*'];
+const customBlockedHosts = ['=yandex.ru 0.0.0.0'];
+const syntaxBlockRules = ['ad.* 0.0.0.0', 'ads.* 0.0.0.0', 'banner.* 0.0.0.0', 'banners.* 0.0.0.0', '*.onion 0.0.0.0'];
 
-const customBlockedHosts = [
-    '=yandex.ru'
-];
+const createRegex = (pattern) => new RegExp('^' + pattern.replace(/[.+^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*') + '$', 'i');
+const isExcluded = (host) => exclusionFilters.some(rx => createRegex(rx).test(host));
+const isPreserved = (host) => preserveDomains.some(rx => createRegex(rx).test(host));
 
-const syntaxRules = [
-    /^ad\..*$/i,
-    /^ads\..*$/i,
-    /^banner\..*$/i,
-    /^banners\..*$/i,
-    /^.*\.onion$/i
-];
-
-const fetchTextFile = async (url) => {
-    const response = await axios.get(url, {
-        headers: {
-            'User-Agent': 'Mozilla/5.0',
-            'Accept': 'text/plain'
-        },
-        timeout: 10000
-    });
-    return response.data;
+const fetchTextFromUrl = async (url) => {
+    try {
+        const { data } = await axios.get(url, { headers: { 'User-Agent': 'Mozilla/5.0', 'Accept': 'text/plain' }, timeout: 10000 });
+        return data;
+    } catch (error) {
+        console.error(`Error fetching data from ${url}: ${error.message}`);
+        return '';
+    }
 };
 
-const parsePastebinHosts = (data) => {
-    const ipHostRegex = /^(\d{1,3}(?:\.\d{1,3}){3})\s+([\w.-]+)$/;
-    return data
-        .split('\n')
+const parseHosts = (data, defaultIp = '0.0.0.0', isPastebinFormat = false) => {
+    return data.split('\n')
         .map(line => line.split('#')[0].trim())
-        .filter(line => line && ipHostRegex.test(line))
+        .filter(Boolean)
         .map(line => {
-            const [, ip, host] = line.match(ipHostRegex);
-            return ip === '0.0.0.0' ? null : `${host} ${ip}`;
+            if (isPastebinFormat) {
+                const match = line.match(/^(\d{1,3}(?:\.\d{1,3}){3})\s+([\w.-]+)$/);
+                return match && match[1] !== '0.0.0.0' ? `${match[2]} ${match[1]}` : null;
+            }
+            const parts = line.split(/\s+/);
+            return parts.length > 1 ? `${parts.pop()} ${defaultIp}` : null;
         })
         .filter(Boolean);
 };
 
-const shortenRepeatedHosts = (hosts) => {
-    const grouped = {};
-
-    for (const line of hosts) {
-        const [host, ip] = line.split(/\s+/);
-        const [subdomain, ...domainParts] = host.split('.');
-        const domain = domainParts.join('.');
-        const key = domain;
-
-        const prefix = subdomain.slice(0, 3);
-        if (!grouped[key]) grouped[key] = {};
-        if (!grouped[key][prefix]) grouped[key][prefix] = [];
-        grouped[key][prefix].push(line);
-    }
-
-    const result = [];
-
-    for (const domain in grouped) {
-        for (const prefix in grouped[domain]) {
-            const entries = grouped[domain][prefix];
-            if (entries.length >= 3) {
-                result.push(`*.${domain} 0.0.0.0`);
-            } else {
-                result.push(...entries);
-            }
-        }
-    }
-
-    return [...new Set(result)];
+const processPastebinHosts = (hostsWithIp) => {
+    const baseDomainMap = new Map();
+    const preservedRecords = [];
+    hostsWithIp.forEach(line => {
+        const [host, ip] = line.split(' ');
+        if (isExcluded(host)) return;
+        if (isPreserved(host)) return preservedRecords.push(`${host} ${ip}`);
+        const baseDomain = host.split('.').slice(-2).join('.');
+        baseDomainMap.set(baseDomain, ip);
+    });
+    return [...baseDomainMap.entries()].map(([domain, ip]) => `${domain} ${ip}`).concat(preservedRecords);
 };
 
-const parseAdsHosts = (data) => {
-    return data
-        .split('\n')
-        .map(line => line.split('#')[0].trim())
-        .filter(Boolean)
-        .map(line => {
-            if (line.startsWith('=')) return `${line} 0.0.0.0`; // сохраняем '='
-            const parts = line.split(/\s+/);
-            const host = parts.pop();
-            return `${host} 0.0.0.0`;
-        });
-};
-
-const removeRegexDuplicates = (hosts) => {
-    return hosts.filter(line => {
-        const cleaned = line.replace(/^0\.0\.0\.0\s+/, ''); // не трогаем '='
-        return !syntaxRules.some(regex => regex.test(cleaned.replace(/^=/, ''))); // проверка без =
+const processAdHosts = (hostsWithIp) => {
+    return hostsWithIp.filter(line => {
+        const [host] = line.split(' ');
+        return !isExcluded(host);
     });
 };
 
 (async () => {
     try {
-        const exampleContent = await fs.readFile(exampleFile, 'utf8');
+        const exampleRules = await fs.readFile(exampleRulesFile, 'utf8').catch(() => ''); // Если файл не существует, возвращаем пустую строку
+        const hostsData = await fetchTextFromUrl(hostsFileURL);
+        const pastebinHostsWithIP = parseHosts(hostsData, '0.0.0.0', true);
+        const processedPastebinHosts = processPastebinHosts(pastebinHostsWithIP);
+        const pastebinBlock = `\n\n# t.me/immalware hosts\n${processedPastebinHosts.join('\n')}`;
+        await fs.writeFile(outputRulesFile, `${exampleRules.trim()}${pastebinBlock}`, 'utf8');
+        console.log(`${outputRulesFile} generated.`);
 
-        const pastebinRaw = await fetchTextFile(hostsFile);
-        let pastebinHosts = parsePastebinHosts(pastebinRaw);
-        pastebinHosts = shortenRepeatedHosts(pastebinHosts);  // Сокращаем повторяющиеся хосты
-        const pastebinBlock = `\n\n# t.me/immalware hosts\n${pastebinHosts.join('\n')}`;
+        const adsData = await fetchTextFromUrl(adsBlocklistURL);
+        const adsHostsWithIP = parseHosts(adsData);
+        const allBlockedHosts = [...adsHostsWithIP, ...customBlockedHosts].filter(line => !isExcluded(line.split(' ')[0]));
+        const processedAdsHosts = processAdHosts(allBlockedHosts);
 
-        const baseOutput = `${exampleContent.trim()}${pastebinBlock}`;
-        await fs.writeFile(outputFile, baseOutput.trim(), 'utf8');
+        const customBlock = `\n\n# custom blockhosts\n${customBlockedHosts.join('\n')}`;
+        const syntaxBlock = `\n\n# custom blockhosts by syntax\n${syntaxBlockRules.join('\n')}`;
+        const adsBlock = `\n\n# 1Hosts Pro\n${processedAdsHosts.join('\n')}`;
 
-        const adsRaw = await fetchTextFile(adsBlocklistURL);
-        const adsHosts = parseAdsHosts(adsRaw);
-        const customHostsFormatted = customBlockedHosts.map(host => `${host} 0.0.0.0`);
-        const allAdsRaw = [...adsHosts, ...customHostsFormatted];
-
-        const cleanedAds = removeRegexDuplicates(allAdsRaw);
-
-        const syntaxBlock = `# syntax blocklist hosts
-ad.* 0.0.0.0
-ads.* 0.0.0.0
-banner.* 0.0.0.0
-banners.* 0.0.0.0
-*.onion 0.0.0.0`;
-
-        const adsBlock = `\n\n# blocklistproject.github.io blocklist hosts\n${cleanedAds.join('\n')}`;
-
-        const fullOutput = `${exampleContent.trim()}${pastebinBlock}\n\n${syntaxBlock}${adsBlock}`;
-        await fs.writeFile(outputPlusFile, fullOutput.trim(), 'utf8');
-
-        console.log('Files generated successfully.');
+        await fs.writeFile(outputPlusRulesFile, `${exampleRules.trim()}${pastebinBlock}${customBlock}${syntaxBlock}${adsBlock}`, 'utf8');
+        console.log(`${outputPlusRulesFile} generated.`);
     } catch (error) {
-        console.error('An error occurred:', error);
+        console.error('An error occurred:', error.message);
     }
 })();

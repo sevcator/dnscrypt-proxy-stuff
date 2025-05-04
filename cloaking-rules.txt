@@ -22,7 +22,6 @@ localhost                ::1
 # example.com           192.168.100.1
 # my.example.com        192.168.100.1
 
-# t.me/immalware hosts
 instagram.com 157.240.245.174
 www.instagram.com 157.240.245.174
 b.i.instagram.com 157.240.245.174

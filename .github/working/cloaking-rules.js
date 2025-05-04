@@ -84,7 +84,7 @@ const removeRegexDuplicates = (hosts) => {
         const cleanedAds = removeRegexDuplicates(allAdsRaw);
 
         const syntaxBlock = `
-\n# syntax blocklist hosts
+\n\n# syntax blocklist hosts
 ad.* 0.0.0.0
 ads.* 0.0.0.0
 banner.* 0.0.0.0

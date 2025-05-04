@@ -3,16 +3,16 @@ const axios = require('axios');
 
 const exampleFile = 'example-cloaking-rules.txt';
 const outputFile = 'cloaking-rules.txt';
-const outputPlusFile = 'cloaking-rules-plus-block-ads.txt';
+const outputPlusFile = 'cloaking-rules-plus-block-ads.txt'; 
 
 const hostsFile = 'https://pastebin.com/raw/5zvfV9Lp';
 const adsBlocklistURL = 'https://blocklistproject.github.io/Lists/ads.txt';
 
 const customBlockedHosts = [
-    '=yandex.ru'
+    'yandex.ru'
 ];
 
-// These regex rules are used in the "syntax blocklist hosts" section
+// Эти regex-правила используются в разделе "syntax blocklist hosts"
 const syntaxRules = [
     /^ad\..*$/i,
     /^ads\..*$/i,
@@ -51,7 +51,6 @@ const parseAdsHosts = (data) => {
         .map(line => line.split('#')[0].trim())
         .filter(Boolean)
         .map(line => {
-            if (line.startsWith('=')) return `${line.slice(1).trim()} 0.0.0.0`;
             const parts = line.split(/\s+/);
             const host = parts.pop();
             return `${host} 0.0.0.0`;
@@ -78,23 +77,21 @@ const removeRegexDuplicates = (hosts) => {
 
         const adsRaw = await fetchTextFile(adsBlocklistURL);
         const adsHosts = parseAdsHosts(adsRaw);
-        const customFormatted = parseAdsHosts(customBlockedHosts.join('\n'));
+        const customFormatted = customBlockedHosts.map(host => `${host} 0.0.0.0`);
         const allAdsRaw = [...adsHosts, ...customFormatted];
 
         const cleanedAds = removeRegexDuplicates(allAdsRaw);
 
-        const syntaxBlock = `
-\n\n# syntax blocklist hosts
+        const syntaxBlock = `# syntax blocklist hosts
 ad.* 0.0.0.0
 ads.* 0.0.0.0
 banner.* 0.0.0.0
 banners.* 0.0.0.0
-*.onion 0.0.0.0
-`.trim();
+*.onion 0.0.0.0`;
 
         const adsBlock = `\n\n# blocklistproject.github.io blocklist hosts\n${cleanedAds.join('\n')}`;
 
-        const fullOutput = `${exampleContent.trim()}${pastebinBlock}\n${syntaxBlock}${adsBlock}`;
+        const fullOutput = `${exampleContent.trim()}${pastebinBlock}\n\n${syntaxBlock}${adsBlock}`;
         await fs.writeFile(outputPlusFile, fullOutput.trim(), 'utf8');
 
         console.log('Files generated successfully with duplicate filtering.');

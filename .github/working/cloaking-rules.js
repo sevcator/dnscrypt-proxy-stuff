@@ -9,10 +9,9 @@ const hostsFile = 'https://pastebin.com/raw/5zvfV9Lp';
 const adsBlocklistURL = 'https://blocklistproject.github.io/Lists/ads.txt';
 
 const customBlockedHosts = [
-    'yandex.ru'
+    '=yandex.ru'
 ];
 
-// Эти regex-правила используются в разделе "syntax blocklist hosts"
 const syntaxRules = [
     /^ad\..*$/i,
     /^ads\..*$/i,
@@ -51,6 +50,7 @@ const parseAdsHosts = (data) => {
         .map(line => line.split('#')[0].trim())
         .filter(Boolean)
         .map(line => {
+            if (line.startsWith('=')) return line;
             const parts = line.split(/\s+/);
             const host = parts.pop();
             return `${host} 0.0.0.0`;
@@ -59,8 +59,8 @@ const parseAdsHosts = (data) => {
 
 const removeRegexDuplicates = (hosts) => {
     return hosts.filter(line => {
-        const domain = line.split(' ')[0];
-        return !syntaxRules.some(regex => regex.test(domain));
+        const cleaned = line.replace(/^0\.0\.0\.0\s+/, '').replace(/^=/, '');
+        return !syntaxRules.some(regex => regex.test(cleaned));
     });
 };
 
@@ -77,9 +77,7 @@ const removeRegexDuplicates = (hosts) => {
 
         const adsRaw = await fetchTextFile(adsBlocklistURL);
         const adsHosts = parseAdsHosts(adsRaw);
-
-        const customFormatted = customBlockedHosts.map(host => `0.0.0.0 ${host}`);
-        const allAdsRaw = [...adsHosts, ...customFormatted];
+        const allAdsRaw = [...adsHosts, ...customBlockedHosts];
 
         const cleanedAds = removeRegexDuplicates(allAdsRaw);
 
@@ -95,7 +93,7 @@ banners.* 0.0.0.0
         const fullOutput = `${exampleContent.trim()}${pastebinBlock}\n\n${syntaxBlock}${adsBlock}`;
         await fs.writeFile(outputPlusFile, fullOutput.trim(), 'utf8');
 
-        console.log('Files generated successfully with duplicate filtering.');
+        console.log('Files generated successfully.');
     } catch (error) {
         console.error('An error occurred:', error);
     }

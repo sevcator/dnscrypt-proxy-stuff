@@ -139695,4 +139695,3 @@ hippoobox.com 0.0.0.0
 minigame.vip 0.0.0.0
 mini6g.com 0.0.0.0
 =yandex.ru 0.0.0.0
-yandex.ru 0.0.0.0

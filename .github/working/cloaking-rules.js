@@ -3,7 +3,7 @@ const axios = require('axios');
 
 const exampleFile = 'example-cloaking-rules.txt';
 const outputFile = 'cloaking-rules.txt';
-const outputPlusFile = 'cloaking-rules-plus-block-ads.txt'; 
+const outputPlusFile = 'cloaking-rules-plus-block-ads.txt';
 
 const hostsFile = 'https://pastebin.com/raw/5zvfV9Lp';
 const adsBlocklistURL = 'https://blocklistproject.github.io/Lists/ads.txt';
@@ -50,7 +50,7 @@ const parseAdsHosts = (data) => {
         .map(line => line.split('#')[0].trim())
         .filter(Boolean)
         .map(line => {
-            if (line.startsWith('=')) return `${line.slice(1).trim()} 0.0.0.0`; // Преобразуем =domain в domain 0.0.0.0
+            if (line.startsWith('=')) return `${line} 0.0.0.0`; // сохраняем '='
             const parts = line.split(/\s+/);
             const host = parts.pop();
             return `${host} 0.0.0.0`;
@@ -59,8 +59,8 @@ const parseAdsHosts = (data) => {
 
 const removeRegexDuplicates = (hosts) => {
     return hosts.filter(line => {
-        const cleaned = line.replace(/^0\.0\.0\.0\s+/, '').replace(/^=/, '');
-        return !syntaxRules.some(regex => regex.test(cleaned));
+        const cleaned = line.replace(/^0\.0\.0\.0\s+/, ''); // не трогаем '='
+        return !syntaxRules.some(regex => regex.test(cleaned.replace(/^=/, ''))); // проверка без =
     });
 };
 
@@ -77,8 +77,9 @@ const removeRegexDuplicates = (hosts) => {
 
         const adsRaw = await fetchTextFile(adsBlocklistURL);
         const adsHosts = parseAdsHosts(adsRaw);
-        const allAdsRaw = [...adsHosts, ...customBlockedHosts.map(host => `${host} 0.0.0.0`)];
-        
+        const customHostsFormatted = customBlockedHosts.map(host => `${host} 0.0.0.0`);
+        const allAdsRaw = [...adsHosts, ...customHostsFormatted];
+
         const cleanedAds = removeRegexDuplicates(allAdsRaw);
 
         const syntaxBlock = `# syntax blocklist hosts

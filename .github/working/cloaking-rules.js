@@ -20,29 +20,6 @@ const syntaxRules = [
     /^.*\.onion$/i
 ];
 
-// === Добавленный функционал: группировка по префиксам ===
-const groupBySubdomainPrefix = (hosts) => {
-    const grouped = new Set();
-
-    for (const line of hosts) {
-        const cleaned = line.replace(/^0\.0\.0\.0\s+/, '').replace(/^=/, '');
-        const parts = cleaned.split('.');
-
-        if (parts.length < 3) continue;
-
-        const sub = parts[0];
-        const domain = parts.slice(1).join('.');
-        const prefix = sub.slice(0, 3);
-
-        if (/^\d{3}$/.test(prefix)) {
-            grouped.add(`${prefix}*.${domain} 0.0.0.0`);
-        }
-    }
-
-    return Array.from(grouped);
-};
-// ========================================================
-
 const fetchTextFile = async (url) => {
     const response = await axios.get(url, {
         headers: {
@@ -62,8 +39,40 @@ const parsePastebinHosts = (data) => {
         .filter(line => line && ipHostRegex.test(line))
         .map(line => {
             const [, ip, host] = line.match(ipHostRegex);
-            return ip === '0.0.0.0' ? `${host} 0.0.0.0` : `${host} ${ip}`;
-        });
+            return ip === '0.0.0.0' ? null : `${host} ${ip}`;
+        })
+        .filter(Boolean);
+};
+
+const shortenRepeatedHosts = (hosts) => {
+    const grouped = {};
+
+    for (const line of hosts) {
+        const [host, ip] = line.split(/\s+/);
+        const [subdomain, ...domainParts] = host.split('.');
+        const domain = domainParts.join('.');
+        const key = domain;
+
+        const prefix = subdomain.slice(0, 3);
+        if (!grouped[key]) grouped[key] = {};
+        if (!grouped[key][prefix]) grouped[key][prefix] = [];
+        grouped[key][prefix].push(line);
+    }
+
+    const result = [];
+
+    for (const domain in grouped) {
+        for (const prefix in grouped[domain]) {
+            const entries = grouped[domain][prefix];
+            if (entries.length >= 3) {
+                result.push(`*.${domain} 0.0.0.0`);
+            } else {
+                result.push(...entries);
+            }
+        }
+    }
+
+    return [...new Set(result)];
 };
 
 const parseAdsHosts = (data) => {
@@ -81,8 +90,8 @@ const parseAdsHosts = (data) => {
 
 const removeRegexDuplicates = (hosts) => {
     return hosts.filter(line => {
-        const cleaned = line.replace(/^0\.0\.0\.0\s+/, '');
-        return !syntaxRules.some(regex => regex.test(cleaned.replace(/^=/, '')));
+        const cleaned = line.replace(/^0\.0\.0\.0\s+/, ''); // не трогаем '='
+        return !syntaxRules.some(regex => regex.test(cleaned.replace(/^=/, ''))); // проверка без =
     });
 };
 
@@ -91,11 +100,10 @@ const removeRegexDuplicates = (hosts) => {
         const exampleContent = await fs.readFile(exampleFile, 'utf8');
 
         const pastebinRaw = await fetchTextFile(hostsFile);
-        const pastebinHosts = parsePastebinHosts(pastebinRaw);
-        const groupedHosts = groupBySubdomainPrefix(pastebinHosts);
-        const uniquePastebinHosts = Array.from(new Set([...pastebinHosts, ...groupedHosts])).sort();
+        let pastebinHosts = parsePastebinHosts(pastebinRaw);
+        pastebinHosts = shortenRepeatedHosts(pastebinHosts);  // Сокращаем повторяющиеся хосты
+        const pastebinBlock = `\n\n# t.me/immalware hosts\n${pastebinHosts.join('\n')}`;
 
-        const pastebinBlock = `\n\n# t.me/immalware hosts\n${uniquePastebinHosts.join('\n')}`;
         const baseOutput = `${exampleContent.trim()}${pastebinBlock}`;
         await fs.writeFile(outputFile, baseOutput.trim(), 'utf8');
 
@@ -103,6 +111,7 @@ const removeRegexDuplicates = (hosts) => {
         const adsHosts = parseAdsHosts(adsRaw);
         const customHostsFormatted = customBlockedHosts.map(host => `${host} 0.0.0.0`);
         const allAdsRaw = [...adsHosts, ...customHostsFormatted];
+
         const cleanedAds = removeRegexDuplicates(allAdsRaw);
 
         const syntaxBlock = `# syntax blocklist hosts
@@ -113,6 +122,7 @@ banners.* 0.0.0.0
 *.onion 0.0.0.0`;
 
         const adsBlock = `\n\n# blocklistproject.github.io blocklist hosts\n${cleanedAds.join('\n')}`;
+
         const fullOutput = `${exampleContent.trim()}${pastebinBlock}\n\n${syntaxBlock}${adsBlock}`;
         await fs.writeFile(outputPlusFile, fullOutput.trim(), 'utf8');
 

@@ -83,9 +83,8 @@ const extractIpForDomain = (entries, domain) => {
     const parsedPastebin = parseHosts(hostsData, '0.0.0.0', true);
     const processedPastebin = processPastebinHosts(parsedPastebin);
     const pastebinBlock = `\n\n# t.me/immalware hosts\n${processedPastebin.join('\n')}`;
-    const customBlock = `\n\n# custom t.me/immalware hosts\n${processedPastebin.join('\n')}`;
 
-    await fs.writeFile(outputRulesFile, `${exampleRules.trim()}${pastebinBlock}${customBlock}`, 'utf8');
+    await fs.writeFile(outputRulesFile, `${exampleRules.trim()}${pastebinBlock}`, 'utf8');
     console.log(`${outputRulesFile} generated.`);
 
     const adsData = await fetchTextFromUrl(adsBlocklistURL);
@@ -102,15 +101,17 @@ const extractIpForDomain = (entries, domain) => {
     let bypassBlock = '';
 
     if (referenceIp) {
-      const bypassList = [referenceDomain, ...customBypassDomains]
+      const bypassList = customBypassDomains
         .map(domain => `${domain} ${referenceIp}`)
         .join('\n');
-      bypassBlock = `\n\n# bypassed domains\n${bypassList}`;
+      if (bypassList) {
+        bypassBlock = `\n\n# bypassed domains\n${bypassList}`;
+      }
     } else {
       console.warn(`IP for ${referenceDomain} not found in ${hostsFileURL}`);
     }
 
-    const outputContent = `${exampleRules.trim()}${pastebinBlock}${customBlock}${customBlockSection}${syntaxBlock}${adsBlock}${bypassBlock}`;
+    const outputContent = `${exampleRules.trim()}${pastebinBlock}${customBlockSection}${syntaxBlock}${adsBlock}${bypassBlock}`;
 
     await fs.writeFile(outputPlusRulesFile, outputContent, 'utf8');
     console.log(`${outputPlusRulesFile} generated.`);

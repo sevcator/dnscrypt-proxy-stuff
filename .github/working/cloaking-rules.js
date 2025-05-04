@@ -3,7 +3,7 @@ const axios = require('axios');
 
 const exampleFile = 'example-cloaking-rules.txt';
 const outputFile = 'cloaking-rules.txt';
-const outputPlusFile = 'cloaking-rules-plus-ads.txt';
+const outputPlusFile = 'cloaking-rules-plus-block-ads.txt';
 
 const hostsFile = 'https://pastebin.com/raw/5zvfV9Lp';
 const adsBlocklistURL = 'https://blocklistproject.github.io/Lists/ads.txt';

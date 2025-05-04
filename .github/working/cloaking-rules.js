@@ -9,8 +9,7 @@ const hostsFile = 'https://pastebin.com/raw/5zvfV9Lp';
 const adsBlocklistURL = 'https://blocklistproject.github.io/Lists/ads.txt';
 
 const customBlockedHosts = [
-    '=yandex.ru',
-    'yandex.ru'
+    '=yandex.ru'
 ];
 
 const syntaxRules = [
@@ -78,7 +77,7 @@ const removeRegexDuplicates = (hosts) => {
 
         const adsRaw = await fetchTextFile(adsBlocklistURL);
         const adsHosts = parseAdsHosts(adsRaw);
-        const allAdsRaw = [...adsHosts, ...customBlockedHosts.map(host => host.includes('=') ? `${host} 0.0.0.0` : `${host} 0.0.0.0`)];
+        const allAdsRaw = [...adsHosts, ...customBlockedHosts.map(host => `${host} 0.0.0.0`)];
         
         const cleanedAds = removeRegexDuplicates(allAdsRaw);
 

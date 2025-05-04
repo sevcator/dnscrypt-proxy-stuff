@@ -77,7 +77,8 @@ const removeRegexDuplicates = (hosts) => {
 
         const adsRaw = await fetchTextFile(adsBlocklistURL);
         const adsHosts = parseAdsHosts(adsRaw);
-        const customFormatted = customBlockedHosts.map(host => `${host} 0.0.0.0`);
+
+        const customFormatted = customBlockedHosts.map(host => `0.0.0.0 ${host}`);
         const allAdsRaw = [...adsHosts, ...customFormatted];
 
         const cleanedAds = removeRegexDuplicates(allAdsRaw);

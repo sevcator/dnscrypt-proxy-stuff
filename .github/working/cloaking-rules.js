@@ -7,7 +7,7 @@ const exampleRulesFile = 'example-cloaking-rules.txt';
 const outputRulesFile = 'cloaking-rules.txt';
 const outputPlusRulesFile = 'cloaking-rules-plus-block-ads.txt';
 
-const exclusionFiltersForSubdomainsInPastebin = ['*github*', '*example.com*'];
+const exclusionFiltersForSubdomainsInPastebin = ['*github*'];
 
 const exclusionFilters = ['*.instagram.com', 'instagram.com', '*.ggpht.com', '*.facebook.com', '*.proton.com', '*.protonmail.com', 'protonmail.com', '*.proton.me', '*truthsocial*', '*canva*'];
 const exclusionFiltersForAds = ['*goog*', '*microsoft*', '*bing*', '*xbox*', '*github*', '*jetbrains*', '*codeium*', '*nvidia*', '*tiktok*', '*doubleclick*'];
@@ -15,6 +15,12 @@ const customBlockedHosts = ['yandex.ru'];
 const syntaxBlockRules = ['ad.*', 'ads.*', 'banner.*', 'banners.*', '*.onion'];
 const customBypassDomains = ['soundcloud.com'];
 const referenceDomain = 'chatgpt.com';
+
+const getBaseDomain = (host) => {
+    const parts = host.split('.');
+    if (parts.length <= 2) return host;
+    return parts.slice(-2).join('.');
+};
 
 const createRegex = (pattern) => new RegExp('^' + pattern.replace(/[.+^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*') + '$', 'i');
 const createRegexForPastebin = (pattern) => new RegExp('^' + pattern.replace(/[.+^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*') + '$', 'i');
@@ -50,16 +56,34 @@ const parseHosts = (data, defaultIp = '0.0.0.0', isPastebin = false) => {
 };
 
 const processPastebinHosts = (hostsWithIp) => {
-    const preserved = [];
-    hostsWithIp.forEach(line => {
+    const domainMap = new Map();
+
+    for (const line of hostsWithIp) {
         const [host, ip] = line.split(' ');
-        if (ip === '0.0.0.0') return;
-        if (isExcludedForSubdomainsInPastebin(host)) return;
-        if (isExcluded(host)) return;
-        if (host.includes(referenceDomain)) return;
-        preserved.push(`${host} ${ip}`);
-    });
-    return preserved;
+        if (ip === '0.0.0.0') continue;
+        if (isExcludedForSubdomainsInPastebin(host)) continue;
+        if (isExcluded(host)) continue;
+        if (host.includes(referenceDomain)) continue;
+
+        const baseDomain = getBaseDomain(host);
+
+        if (!domainMap.has(baseDomain)) {
+            domainMap.set(baseDomain, { ips: new Map(), host: baseDomain });
+        }
+
+        const entry = domainMap.get(baseDomain);
+        entry.ips.set(ip, (entry.ips.get(ip) || 0) + 1);
+    }
+
+    const result = [];
+
+    for (const [domain, entry] of domainMap.entries()) {
+        const sortedIps = [...entry.ips.entries()].sort((a, b) => b[1] - a[1]);
+        const [topIp] = sortedIps[0];
+        result.push(`${domain} ${topIp}`);
+    }
+
+    return result;
 };
 
 const extractIp = (entries, domain) => {

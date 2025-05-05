@@ -25,27 +25,13 @@ localhost                ::1
 # my.example.com        192.168.100.1
 
 # t.me/immalware hosts
-chatgpt.com 204.12.192.221
 openai.com 204.12.192.222
 oaistatic.com 204.12.192.222
 oaiusercontent.com 204.12.192.222
 auth0.com 204.12.192.222
 sora.com 204.12.192.222
-google.com 204.12.192.222
-googleapis.com 204.12.192.222
-withgoogle.com 204.12.192.222
-pki.goog 204.12.192.222
-labs.google 204.12.192.222
-notebooklm.google 204.12.192.222
-microsoft.com 204.12.192.222
-bing.com 204.12.192.221
-xboxlive.com 50.7.85.221
 spotify.com 204.12.192.222
 scdn.co 204.12.192.222
-codeium.com 50.7.85.219
-github.com 50.7.87.84
-githubcopilot.com 50.7.87.83
-jetbrains.com 204.12.192.222
 elevenlabs.io 204.12.192.222
 elevenreader.io 204.12.192.222
 grok.com 185.250.151.49
@@ -57,9 +43,7 @@ claude.ai 204.12.192.222
 notion.so 204.12.192.222
 intel.com 204.12.192.222
 dell.com 204.12.192.219
-tiktok.com 50.7.85.219
 archive.org 142.54.189.106
-nvidia.com 204.12.192.220
 parsec.app 107.150.34.99
 
 # custom t.me/immalware hosts

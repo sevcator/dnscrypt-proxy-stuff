@@ -7,19 +7,28 @@ const exampleRulesFile = 'example-cloaking-rules.txt';
 const outputRulesFile = 'cloaking-rules.txt';
 const outputPlusRulesFile = 'cloaking-rules-plus-block-ads.txt';
 
+// Добавлено: исключения для хостов из Pastebin
+const exclusionFiltersForPastebin = ['*github*', '*example.com*'];
+
 const exclusionFilters = ['*.instagram.com', 'instagram.com', '*.ggpht.com', '*.facebook.com', '*.proton.com', '*.protonmail.com', 'protonmail.com', '*.proton.me', '*truthsocial*', '*canva*'];
-const exclusionFiltersForAds = ['*goog*', '*microsoft*', '*bing*', '*xbox*', '*github*', '*jetbrains*', '*codeium*', '*nvidia*', '*tiktok*', '*doubleclick*'];  // Переименовано
+const exclusionFiltersForAds = ['*goog*', '*microsoft*', '*bing*', '*xbox*', '*github*', '*jetbrains*', '*codeium*', '*nvidia*', '*tiktok*', '*doubleclick*'];
 const customBlockedHosts = ['yandex.ru'];
 const syntaxBlockRules = ['ad.*', 'ads.*', 'banner.*', 'banners.*', '*.onion'];
-
 const customBypassDomains = ['soundcloud.com'];
 const referenceDomain = 'chatgpt.com';
 
+// Функция для создания регулярных выражений
 const createRegex = (pattern) => new RegExp('^' + pattern.replace(/[.+^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*') + '$', 'i');
-const isExcluded = (host) => exclusionFilters.some(rx => createRegex(rx).test(host));
-const isExcludedForAds = (host) => exclusionFiltersForAds.some(rx => createRegex(rx).test(host)); // Фильтр для ads
-const isPreserved = (host) => exclusionFilters.some(rx => createRegex(rx).test(host));
 
+// Проверка на исключение для Pastebin
+const createRegexForPastebin = (pattern) => new RegExp('^' + pattern.replace(/[.+^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.*') + '$', 'i');
+const isExcludedForPastebin = (host) => exclusionFiltersForPastebin.some(rx => createRegexForPastebin(rx).test(host));
+
+// Проверка на исключение (общая)
+const isExcluded = (host) => exclusionFilters.some(rx => createRegex(rx).test(host));
+const isExcludedForAds = (host) => exclusionFiltersForAds.some(rx => createRegex(rx).test(host));
+
+// Загрузка данных
 const fetchTextFromUrl = async (url) => {
     try {
         const { data } = await axios.get(url, {
@@ -28,11 +37,11 @@ const fetchTextFromUrl = async (url) => {
         });
         return data;
     } catch (e) {
-        console.error(`Error fetching ${url}: ${e.message}`);
         return '';
     }
 };
 
+// Парсинг хостов
 const parseHosts = (data, defaultIp = '0.0.0.0', isPastebin = false) => {
     return data.split('\n')
         .map(line => line.split('#')[0].trim())
@@ -48,27 +57,24 @@ const parseHosts = (data, defaultIp = '0.0.0.0', isPastebin = false) => {
         .filter(Boolean);
 };
 
+// Обработка хостов из Pastebin
 const processPastebinHosts = (hostsWithIp) => {
     const baseDomainMap = new Map();
     const preserved = [];
     hostsWithIp.forEach(line => {
         const [host, ip] = line.split(' ');
-        if (ip === '0.0.0.0') return; // Удаляем IP 0.0.0.0
+        if (ip === '0.0.0.0') return;
+        if (isExcludedForPastebin(host)) return; // Используем новое исключение
         if (isExcluded(host)) return;
-        if (isPreserved(host)) return preserved.push(`${host} ${ip}`);
+        if (isExcludedForAds(host)) return; // Дополнительная проверка для ads
+        if (host.includes(referenceDomain)) return;
         const base = host.split('.').slice(-2).join('.');
         baseDomainMap.set(base, ip);
     });
     return [...baseDomainMap.entries()].map(([domain, ip]) => `${domain} ${ip}`).concat(preserved);
 };
 
-const processAdHosts = (hostsWithIp) => {
-    return hostsWithIp.filter(line => {
-        const [host] = line.split(' ');
-        return !isExcludedForAds(host); // Учитываем exclusionFiltersForAds
-    });
-};
-
+// Извлечение IP из записей
 const extractIp = (entries, domain) => {
     for (const line of entries) {
         const [host, ip] = line.split(' ');
@@ -77,16 +83,20 @@ const extractIp = (entries, domain) => {
     return null;
 };
 
+// Основной процесс
 (async () => {
     try {
         const exampleRules = await fs.readFile(exampleRulesFile, 'utf8').catch(() => '');
 
+        // Обработка Pastebin
         const pastebinRaw = await fetchTextFromUrl(hostsFileURL);
         const parsedPastebin = parseHosts(pastebinRaw, '0.0.0.0', true);
         const processedPastebin = processPastebinHosts(parsedPastebin);
 
+        // Блок для Pastebin
         const pastebinBlock = `\n\n# t.me/immalware hosts\n${processedPastebin.join('\n')}`;
 
+        // Кастомный bypass
         const referenceIp = extractIp(parsedPastebin, referenceDomain);
         let customBypassedBlock = '';
         if (referenceIp) {
@@ -97,24 +107,30 @@ const extractIp = (entries, domain) => {
             if (customBypass) {
                 customBypassedBlock = `\n\n# custom t.me/immalware hosts\n${customBypass}`;
             }
-        } else {
-            console.warn(`Reference IP for ${referenceDomain} not found.`);
         }
 
+        // Запись файла без рекламных блокировок
         await fs.writeFile(outputRulesFile, `${exampleRules.trim()}${pastebinBlock}${customBypassedBlock}`, 'utf8');
-        console.log(`${outputRulesFile} generated.`);
 
+        // Обработка рекламных хостов
         const adsRaw = await fetchTextFromUrl(adsBlocklistURL);
         const adsParsed = parseHosts(adsRaw);
-        const adsFiltered = processAdHosts(adsParsed);
+        const adsFiltered = adsParsed.filter(line => {
+            const [host] = line.split(' ');
+            return !isExcludedForAds(host);
+        });
+
+        // Блок рекламных хостов
         const adsBlock = `\n\n# 1Hosts Pro\n${adsFiltered.join('\n')}`;
 
+        // Кастомные блокировки
         const customBlock = `\n\n# custom blocked hosts\n${customBlockedHosts.map(d => `${d} 0.0.0.0`).join('\n')}`;
         const syntaxBlock = `\n\n# custom blockhosts by syntax\n${syntaxBlockRules.map(d => `${d} 0.0.0.0`).join('\n')}`;
 
+        // Финальный вывод
         const output = `${exampleRules.trim()}${pastebinBlock}${customBypassedBlock}${customBlock}${syntaxBlock}${adsBlock}`;
         await fs.writeFile(outputPlusRulesFile, output, 'utf8');
-        console.log(`${outputPlusRulesFile} generated.`);
+
     } catch (e) {
         console.error('Fatal error:', e.message);
     }

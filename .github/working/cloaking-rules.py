@@ -69,7 +69,7 @@ with open(example_file, 'r', encoding='utf-8') as f:
     base = f.read()
 
 with open(output_file, 'w', encoding='utf-8') as f:
-    f.write(base.rstrip() + '\n')
+    f.write(base.rstrip() + '\n\n')
     f.write('# t.me/immalware hosts\n')
     for host in sorted(final_hosts):
         for ip in sorted(final_hosts[host]):

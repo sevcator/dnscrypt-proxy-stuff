@@ -1,5 +1,5 @@
 import requests
-from collections import defaultdict
+from collections import defaultdict, Counter
 import fnmatch
 
 URL = 'https://pastebin.com/raw/5zvfV9Lp'
@@ -29,21 +29,41 @@ for line in lines:
     entries.append((host, ip))
 
 host_to_ip = defaultdict(set)
+subdomains_by_root = defaultdict(list)
+
 for host, ip in entries:
     host_to_ip[host].add(ip)
-
-simplified = {}
-for host in list(host_to_ip):
     parts = host.split('.')
-    if len(parts) >= 3:
+    if len(parts) >= 2:
         root = '.'.join(parts[-2:])
-        if not any(fnmatch.fnmatch(host, pattern) for pattern in no_simplify_domains):
-            if root not in host_to_ip:
-                simplified[root] = host_to_ip.pop(host)
-            else:
-                host_to_ip[root].update(host_to_ip.pop(host))
+        subdomains_by_root[root].append((host, ip))
 
-host_to_ip.update(simplified)
+final_hosts = {}
+
+for root, items in subdomains_by_root.items():
+    domain_ips = Counter()
+    all_hosts = set(host for host, _ in items)
+    no_simplify = any(fnmatch.fnmatch(host, pattern) for host in all_hosts for pattern in no_simplify_domains)
+
+    if no_simplify:
+        for host, ip in items:
+            final_hosts.setdefault(host, set()).add(ip)
+    else:
+        for host, ip in items:
+            if host == root:
+                domain_ips[ip] += 5  # Prioritize explicitly listed domains
+            else:
+                domain_ips[ip] += 1
+
+        most_common_ip, count = domain_ips.most_common(1)[0]
+
+        root_in_items = any(h == root for h, _ in items)
+        if root_in_items or any(h.endswith('.' + root) for h, _ in items):
+            final_hosts[root] = {most_common_ip}
+
+        for host, ip in items:
+            if host != root and ip != most_common_ip:
+                final_hosts.setdefault(host, set()).add(ip)
 
 with open(example_file, 'r', encoding='utf-8') as f:
     base = f.read()
@@ -51,8 +71,8 @@ with open(example_file, 'r', encoding='utf-8') as f:
 with open(output_file, 'w', encoding='utf-8') as f:
     f.write(base.rstrip() + '\n')
     f.write('# t.me/immalware hosts\n')
-    for host in sorted(host_to_ip):
-        for ip in host_to_ip[host]:
+    for host in sorted(final_hosts):
+        for ip in sorted(final_hosts[host]):
             f.write(f"{host} {ip}\n")
 
 print(f"Saved to {output_file}")

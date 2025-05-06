@@ -23,6 +23,7 @@ localhost                ::1
 
 # example.com           192.168.100.1
 # my.example.com        192.168.100.1
+
 # t.me/immalware hosts
 aisandbox-pa.googleapis.com 204.12.192.219
 aistudio.google.com 204.12.192.222

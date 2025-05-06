@@ -14,7 +14,7 @@ jobs:
         
       - name: Download files
         run: |
-          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/cloaking-rules.js -o cloaking-rules.py
+          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/cloaking-rules.py -o cloaking-rules.py
           curl -L https://raw.githubusercontent.com/$GITHUB_REPOSITORY_OWNER/zapret-magisk/refs/heads/main/module/dnscrypt/cloaking-rules.txt -o example-cloaking-rules.txt
           
       - name: Run the script

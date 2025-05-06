@@ -1,9 +1,11 @@
 import requests
 from collections import defaultdict
+import fnmatch
 
 URL = 'https://pastebin.com/raw/5zvfV9Lp'
-remove_domains = ['instagram.com']
+remove_domains = ['*instagram*', '*protonmail*', '*ggpht*', '*facebook*']
 adblock_ips = {'127.0.0.1', '0.0.0.0'}
+no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*xbox*', '*github*']
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules.txt'
 
@@ -22,7 +24,7 @@ for line in lines:
     ip, host = parts[0], parts[1]
     if ip in adblock_ips:
         continue
-    if any(host == d or host.endswith('.' + d) for d in remove_domains):
+    if any(fnmatch.fnmatch(host, pattern) for pattern in remove_domains):
         continue
     entries.append((host, ip))
 
@@ -39,7 +41,7 @@ for root, lst in groups.items():
     for host, ip in lst:
         count_by_ip[ip] += 1
     ip_most, cnt_most = max(count_by_ip.items(), key=lambda x: x[1])
-    if cnt_most / n >= 0.8:
+    if cnt_most / n >= 0.8 and not any(fnmatch.fnmatch(root, pattern) for pattern in no_simplify_domains):
         final.append((root, ip_most))
     else:
         final.extend(lst)

@@ -14,18 +14,18 @@ jobs:
         
       - name: Download files
         run: |
-          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/cloaking-rules.js -o cloaking-rules.js
+          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/cloaking-rules.js -o cloaking-rules.py
           curl -L https://raw.githubusercontent.com/$GITHUB_REPOSITORY_OWNER/zapret-magisk/refs/heads/main/module/dnscrypt/cloaking-rules.txt -o example-cloaking-rules.txt
           
       - name: Run the script
         run: |
-          npm install axios
-          node cloaking-rules.js
+          pip install requests
+          python cloaking-rules.py
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add cloaking-rules.txt cloaking-rules-plus-block-ads.txt
+          git add cloaking-rules.txt
           git commit -m "⚡ Cloaking Rules - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push origin HEAD:main --force || echo "No changes to commit"

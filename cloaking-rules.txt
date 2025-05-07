@@ -88,7 +88,8 @@ tiktok.com 50.7.85.219
 truthsocial.com 204.12.192.221
 webchannel-alkalimakersuite-pa.clients6.google.com 204.12.192.222
 x.ai 185.250.151.49
-xsts.auth.xboxlive.com 50.7.85.221
+xgpuwebf2p.gssv-play-prod.xboxlive.com 50.7.87.86
+xsts.auth.xboxlive.com 78.40.217.193
 
 # custom t.me/immalware hosts
 soundcloud.com 204.12.192.222

@@ -1,5 +1,4 @@
 import requests
-import socket
 from collections import defaultdict, Counter
 import fnmatch
 
@@ -10,15 +9,9 @@ no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*xbox*', '*github*']
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules.txt'
 
-base_ip_domain = 'chatgpt.com'
-try:
-    base_ip = socket.gethostbyname(base_ip_domain)
-except socket.gaierror:
-    base_ip = None
-
-custom_domains = [
-    'soundcloud.com',
-]
+best_domain = 'chatgpt.com'
+base_ip = None
+custom_domains = ['soundcloud.com']
 
 response = requests.get(URL)
 response.raise_for_status()
@@ -37,6 +30,8 @@ for line in lines:
         continue
     if any(fnmatch.fnmatch(host, pattern) for pattern in remove_domains):
         continue
+    if host == best_domain and base_ip is None:
+        base_ip = ip
     entries.append((host, ip))
 
 host_to_ip = defaultdict(set)

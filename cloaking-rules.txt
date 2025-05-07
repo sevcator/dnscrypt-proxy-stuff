@@ -91,4 +91,4 @@ x.ai 185.250.151.49
 xsts.auth.xboxlive.com 50.7.85.221
 
 # custom t.me/immalware hosts
-soundcloud.com 172.64.155.209
+soundcloud.com 204.12.192.222

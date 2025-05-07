@@ -1,4 +1,5 @@
 import requests
+import socket
 from collections import defaultdict, Counter
 import fnmatch
 
@@ -8,6 +9,16 @@ adblock_ips = {'127.0.0.1', '0.0.0.0'}
 no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*xbox*', '*github*']
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules.txt'
+
+base_ip_domain = 'chatgpt.com'
+try:
+    base_ip = socket.gethostbyname(base_ip_domain)
+except socket.gaierror:
+    base_ip = None
+
+custom_domains = [
+    'soundcloud.com',
+]
 
 response = requests.get(URL)
 response.raise_for_status()
@@ -51,7 +62,7 @@ for root, items in subdomains_by_root.items():
     else:
         for host, ip in items:
             if host == root:
-                domain_ips[ip] += 5  # Prioritize explicitly listed domains
+                domain_ips[ip] += 5
             else:
                 domain_ips[ip] += 1
 
@@ -65,6 +76,10 @@ for root, items in subdomains_by_root.items():
             if host != root and ip != most_common_ip:
                 final_hosts.setdefault(host, set()).add(ip)
 
+if base_ip:
+    for custom_domain in custom_domains:
+        final_hosts.setdefault(custom_domain, set()).add(base_ip)
+
 with open(example_file, 'r', encoding='utf-8') as f:
     base = f.read()
 
@@ -72,7 +87,13 @@ with open(output_file, 'w', encoding='utf-8') as f:
     f.write(base.rstrip() + '\n\n')
     f.write('# t.me/immalware hosts\n')
     for host in sorted(final_hosts):
-        for ip in sorted(final_hosts[host]):
-            f.write(f"{host} {ip}\n")
+        if host not in custom_domains:
+            for ip in sorted(final_hosts[host]):
+                f.write(f"{host} {ip}\n")
+    f.write('\n# custom t.me/immalware hosts\n')
+    for host in sorted(custom_domains):
+        if host in final_hosts:
+            for ip in sorted(final_hosts[host]):
+                f.write(f"{host} {ip}\n")
 
 print(f"Saved to {output_file}")

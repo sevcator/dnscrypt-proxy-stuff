@@ -1,0 +1,125 @@
+###########################
+#        Blocklist        #
+###########################
+
+# For https://github.com/sevcator/zapret-magisk <3
+
+## Rules for name-based query blocking, one per line
+##
+## Example of valid patterns:
+##
+## ads.*         | matches anything with an "ads." prefix
+## *.example.com | matches example.com and all names within that zone such as www.example.com
+## example.com   | identical to the above
+## =example.com  | block example.com but not *.example.com
+## *sex*         | matches any name containing that substring
+## ads[0-9]*     | matches "ads" followed by one or more digits
+## ads*.example* | *, ? and [] can be used anywhere, but prefixes/suffixes are faster
+
+ad.*
+ads.*
+banner.*
+banners.*
+
+## Time-based rules
+
+# *.youtube.*  @time-to-sleep
+# facebook.com @work
+
+# other yandex domains
+10267.redirect.appmetrica.yandex.com
+1164705.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
+4.redirect.appmetrica.yandex.com
+abt.s3.yandex.net
+adfox.yandex.ru
+adfstat.yandex.ru
+ads.yandex.com
+adsdk.yandex.ru
+advideo.dsp.yandexadexchange.net
+aflt.market.yandex.ru
+an.yandex.ru
+an.yandexadexchange.net
+analytics.mobile.yandex.net
+api.appmetrica.yandex.ru
+api.events.plus.yandex.net
+api.lbs.yandex.ru
+app.uaas.yandex.ru
+appmetrica.yandex.com
+appmetrica.yandex.net
+appmetrika.yandex.ru
+awaps.yandex.net
+awaps.yandex.ru
+awsync.yandex.ru
+ba.yandex.net
+banners.mobile.yandex.net
+bigo.dsp.yandexadexchange.net
+browser-updater.yandex.net
+bs-meta.yandex.ru
+bs-metadsp.yandex.ru
+bs.yandex.ru
+clck.yandex.com
+clck.yandex.ru
+click.sender.yandex.ru
+crash-reports.browser.yandex.net
+csp.yandex.net
+direct.yandex.ru
+dsp.yandexadexchange.net
+events.plus.yandex.net
+extmaps-api.yandex.net
+grade.market.yandex.ru
+i.yandex.st
+impression.appmetrica.yandex.com
+informer.yandex.ru
+jstracer.yandex.ru
+kiks.yandex.ru
+lbs.yandex.ru
+log.strm.yandex.ru
+market-click-baobab.yandex.ru
+matchid-production.adfox.yandex.ru
+matchid.adfox.yandex.ru
+mc.yandex.by
+mc.yandex.com
+mc.yandex.com.tr
+mc.yandex.kz
+mc.yandex.md
+mc.yandex.ru
+media-adv.market.yandex.ru
+media-adv.vs.market.yandex.net
+media-adv.yandex.com
+metrica-yandex.com
+metrika.yandex.ru
+mobile.yandexadexchange.net
+portal-xiva.yandex.net
+postback.yandexadexchange.net
+push.yandex.ru
+qos-api.ott.yandex.net
+redirect.appmetrica.yandex.com
+redirect.appmetrica.yandex.ru
+report-partners.appmetrica.yandex.net
+report.ap.yandex-net.ru
+report.appmetrica.yandex.net
+report.appmetrica.yandex.net.iberostar.com
+rosenberg.appmetrica.yandex.net
+sba.yandex.net
+share.yandex.net
+share.yandex.ru
+site.yandex.net
+sovetnik.market.yandex.ru
+st.yandexadexchange.net
+startup-mobile.ap.yandex-net.ru
+startup.mobile.yandex.net
+statchecker.yandex.ru
+static-mon.yandex.net
+tracking.appmetrica.yandex.net
+tracking.ott.yandex.ru
+uaas.yandex.ru
+web-metrica.yandex.ru
+yabs.yandex.ru
+yandex-dmp-sync.rutarget.ru
+yandex-sync.rutarget.ru
+yandex.go.link
+yandex.st
+yandexadexchange.net
+yandexmetric.com
+yandexmetrica.com

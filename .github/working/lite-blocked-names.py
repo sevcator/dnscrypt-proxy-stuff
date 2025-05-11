@@ -5,7 +5,7 @@ response = requests.get(hosts_url)
 response.raise_for_status()
 hosts_content = response.text
 
-with open("example-lite-blocked-names.txt", "r", encoding="utf-8") as f:
+with open("base-lite-blocked-names.txt", "r", encoding="utf-8") as f:
     example_content = f.read()
 
 yandex_domains = []

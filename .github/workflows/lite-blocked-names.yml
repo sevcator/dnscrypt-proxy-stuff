@@ -1,0 +1,31 @@
+name: Update Lite Blocked Names
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-cloaking-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Download files
+        run: |
+          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/lite-blocked-names.py -o lite-blocked-names.py
+          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/example-lite-blocked-names.txt -o example-lite-blocked-names.txt
+
+      - name: Run the script
+        run: |
+          pip install requests
+          python lite-blocked-names.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add lite-blocked-names.txt
+          git commit -m "⚡ Blocked Names - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push origin HEAD:main --force || echo "No changes to commit"

@@ -1,4 +1,5 @@
 import requests
+import fnmatch
 
 hosts_url = "https://o0.pages.dev/Pro/hosts.txt"
 response = requests.get(hosts_url)
@@ -6,7 +7,7 @@ response.raise_for_status()
 hosts_content = response.text
 
 with open("base-lite-blocked-names.txt", "r", encoding="utf-8") as f:
-    example_content = f.read()
+    base_patterns = [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
 yandex_domains = []
 for line in hosts_content.splitlines():
@@ -18,10 +19,15 @@ for line in hosts_content.splitlines():
 
 yandex_domains = sorted(set(yandex_domains))
 
+filtered_domains = []
+for domain in yandex_domains:
+    if not any(fnmatch.fnmatch(domain, pattern) for pattern in base_patterns):
+        filtered_domains.append(domain)
+
 with open("lite-blocked-names.txt", "w", encoding="utf-8") as f:
-    f.write(example_content.strip() + "\n\n")
+    f.write("\n".join(base_patterns) + "\n\n")
     f.write("# other yandex domains\n")
-    for domain in yandex_domains:
+    for domain in filtered_domains:
         f.write(domain + "\n")
 
-print("lite-blocked-names.txt has been created")
+print("lite-blocked-names.txt has been created.")

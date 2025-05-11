@@ -25,3 +25,6 @@ banners.*
 
 # *.youtube.*  @time-to-sleep
 # facebook.com @work
+
+# main yandex domain
+=yandex.ru

@@ -26,6 +26,9 @@ banners.*
 # *.youtube.*  @time-to-sleep
 # facebook.com @work
 
+# main yandex domain
+=yandex.ru
+
 # other yandex domains
 10267.redirect.appmetrica.yandex.com
 1164705.redirect.appmetrica.yandex.com

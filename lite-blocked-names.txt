@@ -43,6 +43,7 @@ aflt.market.yandex.ru
 an.yandex.ru
 an.yandexadexchange.net
 analytics.mobile.yandex.net
+api.appmetrica.yandex.com
 api.appmetrica.yandex.ru
 api.events.plus.yandex.net
 api.lbs.yandex.ru
@@ -118,9 +119,11 @@ uaas.yandex.ru
 web-metrica.yandex.ru
 yabs.yandex.ru
 yandex-dmp-sync.rutarget.ru
+yandex-partner-web.advmusic.com
 yandex-sync.rutarget.ru
 yandex.go.link
 yandex.st
 yandexadexchange.net
 yandexmetric.com
 yandexmetrica.com
+zen.report.appmetrica.yandex.net

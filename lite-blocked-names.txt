@@ -31,7 +31,6 @@ banners.*
 
 # other yandex domains
 10267.redirect.appmetrica.yandex.com
-1164705.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 abt.s3.yandex.net
@@ -69,7 +68,6 @@ dsp.yandexadexchange.net
 events.plus.yandex.net
 extmaps-api.yandex.net
 grade.market.yandex.ru
-i.yandex.st
 impression.appmetrica.yandex.com
 informer.yandex.ru
 jstracer.yandex.ru

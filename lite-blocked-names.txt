@@ -1,41 +1,12 @@
-###########################
-#        Blocklist        #
-###########################
 
-# For https://github.com/sevcator/zapret-magisk <3
-
-## Rules for name-based query blocking, one per line
-##
-## Example of valid patterns:
-##
-## ads.*         | matches anything with an "ads." prefix
-## *.example.com | matches example.com and all names within that zone such as www.example.com
-## example.com   | identical to the above
-## =example.com  | block example.com but not *.example.com
-## *sex*         | matches any name containing that substring
-## ads[0-9]*     | matches "ads" followed by one or more digits
-## ads*.example* | *, ? and [] can be used anywhere, but prefixes/suffixes are faster
-
-ad.*
-ads.*
-banner.*
-banners.*
-
-## Time-based rules
-
-# *.youtube.*  @time-to-sleep
-# facebook.com @work
-
-# main yandex domain
-=yandex.ru
 
 # other yandex domains
-10267.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 abt.s3.yandex.net
 adfox.yandex.ru
 adfstat.yandex.ru
+ads.yandex.com
 adsdk.yandex.ru
 advideo.dsp.yandexadexchange.net
 aflt.market.yandex.ru
@@ -53,6 +24,7 @@ awaps.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
 ba.yandex.net
+banners.mobile.yandex.net
 bigo.dsp.yandexadexchange.net
 browser-updater.yandex.net
 bs-meta.yandex.ru
@@ -68,7 +40,6 @@ dsp.yandexadexchange.net
 events.plus.yandex.net
 extmaps-api.yandex.net
 grade.market.yandex.ru
-i.yandex.st
 impression.appmetrica.yandex.com
 informer.yandex.ru
 jstracer.yandex.ru

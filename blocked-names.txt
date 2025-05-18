@@ -87096,4 +87096,4 @@ zzo1mr-launches.appsflyersdk.com
 zzqyniagpyt.com
 
 # custom blocklist
-=yandex.ru
+

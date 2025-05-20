@@ -60,6 +60,7 @@ images.tidal.com 204.12.192.221
 inference.codeium.com 50.7.85.219
 intel.com 204.12.192.222
 jetbrains.com 50.7.85.221
+jules.google.com 204.12.192.222
 labs.google 204.12.192.222
 notebooklm.google 204.12.192.222
 notebooklm.google.com 204.12.192.222

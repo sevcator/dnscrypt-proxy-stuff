@@ -67,7 +67,9 @@ csp.yandex.net
 direct.yandex.ru
 dsp.yandexadexchange.net
 events.plus.yandex.net
+external-api.pixel.plus.yandex.net
 extmaps-api.yandex.net
+files.yandex.st
 grade.market.yandex.ru
 i.yandex.st
 impression.appmetrica.yandex.com
@@ -91,6 +93,7 @@ media-adv.yandex.com
 metrica-yandex.com
 metrika.yandex.ru
 mobile.yandexadexchange.net
+pixel.plus.yandex.net
 portal-xiva.yandex.net
 postback.yandexadexchange.net
 push.yandex.ru

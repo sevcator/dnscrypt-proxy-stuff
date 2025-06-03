@@ -81,7 +81,6 @@ proxy.individual.githubcopilot.com 204.12.192.222
 rewards.bing.com 204.12.192.221
 scdn.co 204.12.192.222
 security.id.supercell.com 18.172.112.81
-sora.com 204.12.192.222
 spotify.com 204.12.192.222
 squareup.com 204.12.192.222
 stitch.withgoogle.com 204.12.192.222

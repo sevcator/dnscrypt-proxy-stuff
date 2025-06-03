@@ -42,14 +42,17 @@ adfstat.yandex.ru
 adsdk.yandex.ru
 adv.yandex.by
 advertising.yandex.by
+advertising.yandex.kz
 advideo.dsp.yandexadexchange.net
 affiliate.market.yandex.by
 aflt.market.yandex.ru
+agency.advertising.yandex.kz
 an.yandex.ru
 an.yandexadexchange.net
 analytics.mobile.yandex.net
 analytics.yandex.by
 analytics.yandex.com.tr
+analytics.yandex.kz
 api.appmetrica.yandex.ru
 api.events.plus.yandex.net
 api.lbs.yandex.ru
@@ -99,6 +102,7 @@ media-adv.vs.market.yandex.net
 media-adv.yandex.com
 media-adv.yandex.com.tr
 metric.yandex.by
+metric.yandex.kz
 metrica-yandex.com
 metrika.yandex.ru
 mobile.yandexadexchange.net
@@ -125,6 +129,7 @@ startup.mobile.yandex.net
 stat-testing.yandex.by
 stat.yandex.by
 stat.yandex.com.tr
+stat.yandex.kz
 statchecker.yandex.ru
 static-mon.yandex.net
 tracking.appmetrica.yandex.net

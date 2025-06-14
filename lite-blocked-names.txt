@@ -101,6 +101,8 @@ media-adv.market.yandex.ru
 media-adv.vs.market.yandex.net
 media-adv.yandex.com
 media-adv.yandex.com.tr
+metric.yandex.by
+metric.yandex.kz
 metrica-yandex.com
 metrika.yandex.ru
 mobile.yandexadexchange.net

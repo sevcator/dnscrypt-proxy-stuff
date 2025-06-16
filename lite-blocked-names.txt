@@ -79,7 +79,6 @@ dsp.yandexadexchange.net
 events.plus.yandex.net
 external-api.pixel.plus.yandex.net
 extmaps-api.yandex.net
-files.yandex.st
 grade.market.yandex.ru
 i.yandex.st
 impression.appmetrica.yandex.com

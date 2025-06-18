@@ -35,8 +35,6 @@ banners.*
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 abt.s3.yandex.net
-ad-constructor.yandex.by
-ad-constructor.yandex.com.tr
 adfox.yandex.ru
 adfstat.yandex.ru
 adsdk.yandex.ru
@@ -44,7 +42,6 @@ adv.yandex.by
 advertising.yandex.by
 advertising.yandex.kz
 advideo.dsp.yandexadexchange.net
-affiliate.market.yandex.by
 aflt.market.yandex.ru
 agency.advertising.yandex.kz
 an.yandex.ru
@@ -99,7 +96,6 @@ mc.yandex.ru
 media-adv.market.yandex.ru
 media-adv.vs.market.yandex.net
 media-adv.yandex.com
-media-adv.yandex.com.tr
 metric.yandex.by
 metric.yandex.kz
 metrica-yandex.com
@@ -125,7 +121,6 @@ sovetnik.market.yandex.ru
 st.yandexadexchange.net
 startup-mobile.ap.yandex-net.ru
 startup.mobile.yandex.net
-stat-testing.yandex.by
 stat.yandex.by
 stat.yandex.com.tr
 stat.yandex.kz

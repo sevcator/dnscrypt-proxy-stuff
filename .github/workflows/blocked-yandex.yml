@@ -14,8 +14,8 @@ jobs:
         
       - name: Download files
         run: |
-          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/lite-blocked-names.py -o lite-blocked-names.py
-          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/base-lite-blocked-names.txt -o base-lite-blocked-names.txt
+          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/blocked-yandex.py -o blocked-yandex.py
+          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/base-blocked-yandex.txt -o blocked-yandex.txt
 
       - name: Run the script
         run: |
@@ -27,5 +27,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add lite-blocked-names.txt
-          git commit -m "⚡ Lite Blocked Names - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git commit -m "⚡ Blocked Yandex - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push origin HEAD:main --force || echo "No changes to commit"

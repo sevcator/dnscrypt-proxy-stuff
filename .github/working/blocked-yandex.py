@@ -6,7 +6,7 @@ response = requests.get(hosts_url)
 response.raise_for_status()
 hosts_content = response.text
 
-with open("base-lite-blocked-names.txt", "r", encoding="utf-8") as f:
+with open("base-blocked-yandex.txt", "r", encoding="utf-8") as f:
     base_lines = [line.rstrip() for line in f]
     base_patterns = [line.strip() for line in base_lines if line.strip() and not line.startswith("#")]
 
@@ -25,10 +25,10 @@ for domain in yandex_domains:
     if not any(fnmatch.fnmatch(domain, pattern) for pattern in base_patterns):
         filtered_domains.append(domain)
 
-with open("lite-blocked-names.txt", "w", encoding="utf-8") as f:
+with open("blocked-yandex.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(base_lines).rstrip() + "\n\n")
     f.write("# other yandex domains\n")
     for domain in filtered_domains:
         f.write(domain + "\n")
 
-print("lite-blocked-names.txt has been created.")
+print("blocked-yandex.txt has been created.")

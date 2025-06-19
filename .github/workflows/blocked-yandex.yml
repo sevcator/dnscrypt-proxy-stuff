@@ -1,4 +1,4 @@
-name: Update Lite Blocked Names
+name: Update Blocked Yandex
 
 on:
   schedule:

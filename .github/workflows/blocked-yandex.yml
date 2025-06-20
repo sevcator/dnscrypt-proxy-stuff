@@ -15,7 +15,7 @@ jobs:
       - name: Download files
         run: |
           curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/blocked-yandex.py -o blocked-yandex.py
-          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/base-blocked-yandex.txt -o blocked-yandex.txt
+          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/base-blocked-yandex.txt -o base-blocked-yandex.txt
 
       - name: Run the script
         run: |

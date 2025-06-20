@@ -35,18 +35,12 @@ adfox.yandex.ru
 adfstat.yandex.ru
 ads.yandex.com
 adsdk.yandex.ru
-adv.yandex.by
-advertising.yandex.by
-advertising.yandex.kz
+adv.edastage.yandex-team.ru
 advideo.dsp.yandexadexchange.net
 aflt.market.yandex.ru
-agency.advertising.yandex.kz
 an.yandex.ru
 an.yandexadexchange.net
 analytics.mobile.yandex.net
-analytics.yandex.by
-analytics.yandex.com.tr
-analytics.yandex.kz
 api.appmetrica.yandex.ru
 api.events.plus.yandex.net
 api.lbs.yandex.ru
@@ -58,7 +52,6 @@ awaps.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
 ba.yandex.net
-banner.yandex.com.tr
 banners.mobile.yandex.net
 bigo.dsp.yandexadexchange.net
 browser-updater.yandex.net
@@ -95,8 +88,6 @@ mc.yandex.ru
 media-adv.market.yandex.ru
 media-adv.vs.market.yandex.net
 media-adv.yandex.com
-metric.yandex.by
-metric.yandex.kz
 metrica-yandex.com
 metrika.yandex.ru
 mobile.yandexadexchange.net
@@ -120,9 +111,6 @@ sovetnik.market.yandex.ru
 st.yandexadexchange.net
 startup-mobile.ap.yandex-net.ru
 startup.mobile.yandex.net
-stat.yandex.by
-stat.yandex.com.tr
-stat.yandex.kz
 statchecker.yandex.ru
 static-mon.yandex.net
 tracking.appmetrica.yandex.net

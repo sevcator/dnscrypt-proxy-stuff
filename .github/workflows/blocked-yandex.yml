@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-blocking-yandex:
+  update-blocked-yandex:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

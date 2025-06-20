@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-cloaking-rules:
+  update-blocking-yandex:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

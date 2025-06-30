@@ -41,6 +41,7 @@ aflt.market.yandex.ru
 an.yandex.ru
 an.yandexadexchange.net
 analytics.mobile.yandex.net
+analytics.yandex.by
 api.appmetrica.yandex.ru
 api.events.plus.yandex.net
 api.lbs.yandex.ru
@@ -52,7 +53,10 @@ awaps.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
 ba.yandex.net
+banner.yandex.com.tr
 banners.mobile.yandex.net
+beta3.intapi.direct.yandex.ru
+beta6.direct.yandex.ru
 bigo.dsp.yandexadexchange.net
 browser-updater.yandex.net
 bs-meta.yandex.ru
@@ -63,6 +67,7 @@ clck.yandex.ru
 click.sender.yandex.ru
 crash-reports.browser.yandex.net
 csp.yandex.net
+dev.stat.yandex.by
 direct.yandex.ru
 dsp.yandexadexchange.net
 events.plus.yandex.net
@@ -72,6 +77,7 @@ grade.market.yandex.ru
 i.yandex.st
 impression.appmetrica.yandex.com
 informer.yandex.ru
+intapi.direct.yandex.ru
 jstracer.yandex.ru
 kiks.yandex.ru
 lbs.yandex.ru
@@ -88,6 +94,8 @@ mc.yandex.ru
 media-adv.market.yandex.ru
 media-adv.vs.market.yandex.net
 media-adv.yandex.com
+metric.yandex.by
+metric.yandex.kz
 metrica-yandex.com
 metrika.yandex.ru
 mobile.yandexadexchange.net
@@ -111,6 +119,9 @@ sovetnik.market.yandex.ru
 st.yandexadexchange.net
 startup-mobile.ap.yandex-net.ru
 startup.mobile.yandex.net
+stat.yandex.by
+stat.yandex.com.tr
+stat.yandex.kz
 statchecker.yandex.ru
 static-mon.yandex.net
 tracking.appmetrica.yandex.net
@@ -125,3 +136,4 @@ yandex.st
 yandexadexchange.net
 yandexmetric.com
 yandexmetrica.com
+zen-test.yandex.ru

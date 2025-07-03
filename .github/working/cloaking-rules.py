@@ -3,7 +3,7 @@ from collections import defaultdict, Counter
 import fnmatch
 
 URL = 'https://pastebin.com/raw/5zvfV9Lp'
-remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*ttvnw*', '*twitch*']
+remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*ttvnw*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*']
 adblock_ips = {'127.0.0.1', '0.0.0.0'}
 no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', 'parsec']
 example_file = 'example-cloaking-rules.txt'

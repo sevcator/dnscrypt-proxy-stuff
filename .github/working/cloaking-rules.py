@@ -28,7 +28,7 @@ for line in lines:
     ip, host = parts[0], parts[1]
     if ip in adblock_ips:
         continue
-    if any(fnmatch.fnmatch(host, pattern) for pattern in remove_domains):
+    if any(pattern.strip('*') in host for pattern in remove_domains):
         continue
     if host == best_domain and base_ip is None:
         base_ip = ip

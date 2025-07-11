@@ -2,7 +2,7 @@ import requests
 from collections import defaultdict, Counter
 import fnmatch
 
-URL = 'https://pastebin.com/raw/5zvfV9Lp'
+URL = 'https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts'
 remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*ttvnw*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*']
 adblock_ips = {'127.0.0.1', '0.0.0.0'}
 no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*imgur*', '*oai*', '*tiktok*', '*archive.org*']
@@ -11,7 +11,7 @@ output_file = 'cloaking-rules.txt'
 
 best_domain = 'chatgpt.com'
 base_ip = None
-custom_domains = ['soundcloud.com', 'genius.com', '=4pda.to']
+custom_domains = ['soundcloud.com', 'genius.com']
 
 response = requests.get(URL)
 response.raise_for_status()

@@ -11,7 +11,7 @@ output_file = 'cloaking-rules.txt'
 
 best_domain = 'chatgpt.com'
 base_ip = None
-custom_domains = ['soundcloud.com']
+custom_domains = ['soundcloud.com', 'genius.com', '=4pda.to']
 
 response = requests.get(URL)
 response.raise_for_status()

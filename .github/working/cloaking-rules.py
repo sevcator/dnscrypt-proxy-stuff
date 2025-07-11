@@ -3,9 +3,9 @@ from collections import defaultdict, Counter
 import fnmatch
 
 URL = 'https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts'
-remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*ttvnw*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*']
+remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*']
 adblock_ips = {'127.0.0.1', '0.0.0.0'}
-no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*imgur*', '*oai*', '*tiktok*', '*archive.org*']
+no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*imgur*', '*oai*', '*tiktok*', '*archive.org*', '*ttvnw*']
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules.txt'
 

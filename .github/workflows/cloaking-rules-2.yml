@@ -23,6 +23,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           mv cloaking-rules-2.txt ../../
+          cd ../../
           git add cloaking-rules-2.txt
           git commit -m "⚡ Cloaking Rules 2 - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push origin HEAD:main --force || echo "No changes to commit"

@@ -11,15 +11,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
-      - name: Download files
-        run: |
-          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/blocked-names.py -o blocked-names.py
-          curl -L https://raw.githubusercontent.com/$GITHUB_REPOSITORY_OWNER/zapret-magisk/refs/heads/main/module/dnscrypt/blocked-names.txt -o example-blocked-names.txt
-          curl -L https://raw.githubusercontent.com/${{ github.repository }}/main/.github/working/custom-hosts.txt -o custom-hosts.txt
 
       - name: Run the script
         run: |
+          cd .github/working
           pip install requests
           python blocked-names.py
 

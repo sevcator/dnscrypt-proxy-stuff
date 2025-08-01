@@ -5,7 +5,7 @@ import fnmatch
 URL = 'https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts'
 remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*', '*ggpht*', '*github*']
 adblock_ips = {'127.0.0.1', '0.0.0.0'}
-no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*imgur*', '*oai*', '*tiktok*', '*archive.org*', '*ttvnw*']
+no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*imgur*', '*oai*', '*tiktok*', '*archive.org*', '*ttvnw*', '*spotify*', '*scdn.co*']
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules.txt'
 
@@ -83,8 +83,11 @@ with open(output_file, 'w', encoding='utf-8') as f:
     f.write('# t.me/immalware hosts\n')
     for host in sorted(final_hosts):
         if host not in custom_domains:
+            is_no_simplify = any(fnmatch.fnmatch(host, pattern) for pattern in no_simplify_domains)
+            prefix = '=' if is_no_simplify else ''
             for ip in sorted(final_hosts[host]):
-                f.write(f"{host} {ip}\n")
+                f.write(f"{prefix}{host} {ip}\n")
+
     f.write('\n# custom t.me/immalware hosts\n')
     for host in sorted(custom_domains):
         if host in final_hosts:

@@ -22,6 +22,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          mv .github/working/blocked-names.txt ./
           git add blocked-names.txt
           git commit -m "⚡ Blocked Names - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push origin HEAD:main --force || echo "No changes to commit"

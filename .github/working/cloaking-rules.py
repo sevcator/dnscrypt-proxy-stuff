@@ -5,7 +5,7 @@ import fnmatch
 URL = 'https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts'
 remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*', '*ggpht*', '*github*']
 adblock_ips = {'127.0.0.1', '0.0.0.0'}
-no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*imgur*', '*oai*', '*tiktok*', '*archive.org*', '*ttvnw*', '*spotify*', '*scdn.co*']
+no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*imgur*', '*oai*', '*tiktok*', '*archive.org*', '*ttvnw*', '*spotify*', '*scdn.co*', '*4pda*']
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules.txt'
 

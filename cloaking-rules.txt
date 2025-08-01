@@ -98,7 +98,6 @@ web.archive.org 142.54.189.106
 webchannel-alkalimakersuite-pa.clients6.google.com 204.12.192.222
 www.tiktok.com 50.7.85.219
 x.ai 204.12.192.222
-yandex.ru 0.0.0.0.
 
 # custom t.me/immalware hosts
 genius.com 204.12.192.222

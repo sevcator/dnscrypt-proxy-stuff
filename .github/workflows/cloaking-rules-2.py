@@ -1,0 +1,27 @@
+name: Update Cloaking Rules 2
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-cloaking-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Run the script
+        run: |
+          cd .github/working
+          pip install requests
+          python cloaking-rules-2.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add cloaking-rules.txt
+          git commit -m "⚡ Cloaking Rules 2 - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push origin HEAD:main --force || echo "No changes to commit"

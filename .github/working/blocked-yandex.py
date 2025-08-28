@@ -6,7 +6,7 @@ response = requests.get(hosts_url)
 response.raise_for_status()
 hosts_content = response.text
 
-with open("base-blocked-yandex.txt", "r", encoding="utf-8") as f:
+with open("example-blocked-names.txt", "r", encoding="utf-8") as f:
     base_lines = [line.rstrip() for line in f]
     base_patterns = [line.strip() for line in base_lines if line.strip() and not line.startswith("#")]
 

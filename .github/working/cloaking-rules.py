@@ -3,7 +3,7 @@ from collections import defaultdict, Counter
 import fnmatch
 
 URL = 'https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts'
-remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*', '*ggpht*', '*github*', '*tiktok*', '*imgur*', '*4pda*']
+remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*', '*ggpht*', '*github*', '*tiktok*', '*imgur*', '*4pda*', '*malw.link*']
 adblock_ips = {'127.0.0.1', '0.0.0.0'}
 no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*oai*', '*archive.org*', '*ttvnw*', '*spotify*', '*scdn.co*', '*clashroyale*', '*clashofclans*', '*brawlstars*', '*supercell*']
 example_file = 'example-cloaking-rules.txt'
@@ -95,6 +95,7 @@ with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(f"{host} {ip}\n")
 
 print(f"Saved to {output_file}")
+
 
 
 

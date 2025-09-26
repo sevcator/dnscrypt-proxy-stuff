@@ -3,7 +3,7 @@ from collections import defaultdict, Counter
 import fnmatch
 
 URL = 'https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/blob/main/source/system/etc/hosts'
-remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*', '*ggpht*', '*github*']
+remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*', '*ggpht*', '*github*', '*malw.link*']
 adblock_ips = {'127.0.0.1', '0.0.0.0'}
 no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*imgur*', '*oai*', '*tiktok*', '*archive.org*', '*ttvnw*', '*spotify*', '*scdn.co*', '*4pda*']
 example_file = 'example-cloaking-rules.txt'

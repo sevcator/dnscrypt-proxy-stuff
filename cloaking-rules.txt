@@ -77,7 +77,6 @@ jetbrains.com 50.7.85.221
 =labs.google 204.12.192.222
 =login.app.spotify.com 204.12.192.222
 =login5.spotify.com 204.12.192.222
-malw.link 45.95.233.23
 manus.im 64.188.98.242
 =notebooklm.google 204.12.192.222
 =notebooklm.google.com 204.12.192.222

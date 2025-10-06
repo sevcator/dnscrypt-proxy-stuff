@@ -1,97 +1,163 @@
-import requests
-from collections import defaultdict, Counter
-import fnmatch
+import collections
+import ipaddress
+import json
+from pathlib import Path
+from urllib import error, parse, request
 
-URL = 'https://github.com/AvenCores/Unlock_AI_and_EN_Services_for_Russia/blob/main/source/system/etc/hosts'
-remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*', '*ggpht*', '*github*', '*malw.link*']
-adblock_ips = {'127.0.0.1', '0.0.0.0'}
-no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*imgur*', '*oai*', '*tiktok*', '*archive.org*', '*ttvnw*', '*spotify*', '*scdn.co*', '*4pda*']
-example_file = 'example-cloaking-rules.txt'
-output_file = 'cloaking-rules-2.txt'
+HOSTS_URL = "https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts"
+EXAMPLE_HEADER_PATH = Path(__file__).with_name("example-cloaking-rules.txt")
+DOH_ENDPOINTS = {
+    "comss": "https://dns.comss.one/dns-query",
+    "google": "https://dns.google/dns-query",
+    "cloudflare": "https://dns.cloudflare.com/dns-query",
+}
+HEADERS = {
+    "Accept": "application/dns-json",
+    "User-Agent": "dnscrypt-proxy-cloaking-updater/1.0",
+}
+TIMEOUT = 10
 
-best_domain = 'chatgpt.com'
-base_ip = None
-custom_domains = ['soundcloud.com', 'genius.com']
 
-response = requests.get(URL)
-response.raise_for_status()
-lines = response.text.splitlines()
+def http_get(url: str, params: dict[str, str] | None = None) -> str:
+    if params:
+        url = f"{url}?{parse.urlencode(params)}"
+    req = request.Request(url, headers=HEADERS)
+    try:
+        with request.urlopen(req, timeout=TIMEOUT) as resp:
+            return resp.read().decode("utf-8", errors="replace")
+    except error.URLError as exc:
+        raise SystemExit(f"Failed to fetch {url}: {exc}") from exc
 
-entries = []
-for line in lines:
-    line = line.strip()
-    if not line or line.startswith('#'):
-        continue
-    parts = line.split()
-    if len(parts) < 2:
-        continue
-    ip, host = parts[0], parts[1]
-    if ip in adblock_ips:
-        continue
-    if any(pattern.strip('*') in host for pattern in remove_domains):
-        continue
-    if host == best_domain and base_ip is None:
-        base_ip = ip
-    entries.append((host, ip))
 
-host_to_ip = defaultdict(set)
-subdomains_by_root = defaultdict(list)
+def fetch_hosts(url: str) -> list[tuple[str, str]]:
+    text = http_get(url)
+    entries = []
+    for line in text.splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = line.split()
+        if len(parts) < 2:
+            continue
+        ip, host = parts[0], parts[1]
+        try:
+            ipaddress.ip_address(ip)
+        except ValueError:
+            continue
+        entries.append((host.lower(), ip))
+    return entries
 
-for host, ip in entries:
-    host_to_ip[host].add(ip)
-    parts = host.split('.')
-    if len(parts) >= 2:
-        root = '.'.join(parts[-2:])
-        subdomains_by_root[root].append((host, ip))
 
-final_hosts = {}
+def query_doh(endpoint: str, name: str) -> list[str]:
+    try:
+        text = http_get(endpoint, {"name": name, "type": "A"})
+    except SystemExit:
+        return []
+    except Exception:
+        return []
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
+        return []
+    answers = data.get("Answer") or []
+    ips: set[str] = set()
+    for answer in answers:
+        if str(answer.get("type")) != "1":
+            continue
+        ip = answer.get("data")
+        try:
+            if ip:
+                ipaddress.IPv4Address(ip)
+        except ipaddress.AddressValueError:
+            continue
+        ips.add(ip)
+    return sorted(ips)
 
-for root, items in subdomains_by_root.items():
-    domain_ips = Counter()
-    all_hosts = set(host for host, _ in items)
-    no_simplify = any(fnmatch.fnmatch(host, pattern) for host in all_hosts for pattern in no_simplify_domains)
 
-    if no_simplify:
-        for host, ip in items:
-            final_hosts.setdefault(host, set()).add(ip)
-    else:
-        for host, ip in items:
-            if host == root:
-                domain_ips[ip] += 5
-            else:
-                domain_ips[ip] += 1
+def get_base_domain(host: str) -> str:
+    labels = host.split(".")
+    if len(labels) <= 2:
+        return host
+    return ".".join(labels[-2:])
 
-        most_common_ip, count = domain_ips.most_common(1)[0]
 
-        root_in_items = any(h == root for h, _ in items)
-        if root_in_items or any(h.endswith('.' + root) for h, _ in items):
-            final_hosts[root] = {most_common_ip}
+def load_header() -> list[str]:
+    if not EXAMPLE_HEADER_PATH.exists():
+        raise SystemExit(
+            "example-cloaking-rules.txt was not found alongside the script."
+        )
+    header: list[str] = []
+    with EXAMPLE_HEADER_PATH.open(encoding="utf-8") as handle:
+        for line in handle:
+            stripped = line.strip()
+            if stripped and not stripped.startswith("#"):
+                break
+            header.append(line.rstrip("\n"))
+    while header and not header[-1]:
+        header.pop()
+    return header
 
-        for host, ip in items:
-            if host != root and ip != most_common_ip:
-                final_hosts.setdefault(host, set()).add(ip)
 
-if base_ip:
-    for custom_domain in custom_domains:
-        final_hosts.setdefault(custom_domain, set()).add(base_ip)
+def main() -> None:
+    entries = fetch_hosts(HOSTS_URL)
+    hosts = sorted({host for host, _ in entries})
 
-with open(example_file, 'r', encoding='utf-8') as f:
-    base = f.read()
+    cache: dict[str, dict[str, list[str]]] = {}
+    for host in hosts:
+        cache[host] = {}
+        for provider, endpoint in DOH_ENDPOINTS.items():
+            cache[host][provider] = query_doh(endpoint, host)
 
-with open(output_file, 'w', encoding='utf-8') as f:
-    f.write(base.rstrip() + '\n\n')
-    f.write('# Avencores hosts\n')
-    for host in sorted(final_hosts):
-        if host not in custom_domains:
-            is_no_simplify = any(fnmatch.fnmatch(host, pattern) for pattern in no_simplify_domains)
-            prefix = '=' if is_no_simplify else ''
-            for ip in sorted(final_hosts[host]):
-                f.write(f"{prefix}{host} {ip}\n")
+    filtered: dict[str, dict[tuple[str, ...], list[str]]] = collections.defaultdict(
+        lambda: collections.defaultdict(list)
+    )
 
-    f.write('\n# custom Avencores hosts\n')
-    for host in sorted(custom_domains):
-        if host in final_hosts:
-            for ip in sorted(final_hosts[host]):
-                f.write(f"{host} {ip}\n")
+    for host in hosts:
+        comss_ips = cache[host]["comss"]
+        google_ips = cache[host]["google"]
+        cloudflare_ips = cache[host]["cloudflare"]
+        if not comss_ips:
+            continue
+        if comss_ips == google_ips and comss_ips == cloudflare_ips:
+            continue
+        if comss_ips == google_ips or comss_ips == cloudflare_ips:
+            continue
+        base = get_base_domain(host)
+        filtered[base][tuple(comss_ips)].append(host)
 
-print(f"Saved to {output_file}")
+    output_lines = load_header()
+    output_lines.extend(
+        [
+            "",
+            "# Generated automatically from dns.malw.link hosts",
+            "# Only includes hosts where dns.comss.one disagrees with dns.google and dns.cloudflare",
+            "",
+            "# comss dns results",
+        ]
+    )
+
+    final_entries: list[tuple[str, str]] = []
+
+    for base in sorted(filtered):
+        ip_groups = filtered[base]
+        if len(ip_groups) == 1:
+            (ips_tuple, hosts_list), = ip_groups.items()
+            name_to_use = base
+            for ip in ips_tuple:
+                final_entries.append((name_to_use, ip))
+        else:
+            for ips_tuple, hosts_list in ip_groups.items():
+                for host in sorted(hosts_list):
+                    name_to_use = f"={host}"
+                    for ip in ips_tuple:
+                        final_entries.append((name_to_use, ip))
+
+    for name, ip in sorted(final_entries):
+        output_lines.append(f"{name} {ip}")
+
+    path = Path(__file__).with_name("cloaking-rules-2.txt")
+    path.write_text("\n".join(output_lines) + "\n", encoding="utf-8")
+
+
+if __name__ == "__main__":
+    main()

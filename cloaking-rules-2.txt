@@ -4,9 +4,6 @@
 
 # For https://github.com/sevcator/zapret-pocket <3
 
-# Multiple IP entries for the same name are supported.
-# In the following example, the same name maps both to IPv4 and IPv6 addresses:
-
 # Generated automatically from dns.malw.link hosts
 # Only includes hosts where dns.comss.one disagrees with dns.google and dns.cloudflare
 

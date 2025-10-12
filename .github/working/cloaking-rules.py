@@ -9,7 +9,7 @@ no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*'
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules.txt'
 
-best_domain = 'dyson.com'
+best_domain = 'dyson.fr'
 base_ip = None
 custom_domains = ['soundcloud.com', 'genius.com']
 
@@ -95,6 +95,7 @@ with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(f"{host} {ip}\n")
 
 print(f"Saved to {output_file}")
+
 
 
 

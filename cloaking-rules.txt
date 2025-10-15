@@ -12,7 +12,6 @@
 =aistudio.google.com 134.0.118.88
 =aitestkitchen.withgoogle.com 185.246.223.127
 =alkalimakersuite-pa.clients6.google.com 134.0.118.88
-android.chat.openai.com 204.12.192.219
 anthropic.com 185.246.223.127
 =ap-gew1.spotify.com 185.246.223.127
 =api-partner.spotify.com 185.246.223.127
@@ -30,7 +29,7 @@ chatgpt.com 185.246.223.127
 claude.ai 185.246.223.127
 =copilot.microsoft.com 185.246.223.127
 deepl.com 185.246.223.127
-dell.com 204.12.192.219
+dell.com 185.246.223.127
 download.jetbrains.com 185.246.223.127
 dyson.com 45.95.233.23
 dyson.fr 45.95.233.23
@@ -92,7 +91,6 @@ trae.ai 185.246.223.127
 tria.ge 185.246.223.127
 truthsocial.com 204.12.192.219
 =usher.ttvnw.net 45.95.233.23
-w.deepl.com 204.12.192.219
 =web.archive.org 142.54.189.106
 =webchannel-alkalimakersuite-pa.clients6.google.com 134.0.118.88
 =www.spotify.com 185.246.223.127

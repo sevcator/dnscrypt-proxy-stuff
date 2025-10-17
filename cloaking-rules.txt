@@ -28,9 +28,9 @@ chatgpt.com 185.246.223.127
 =clashofclans.inbox.supercell.com 185.246.223.127
 claude.ai 185.246.223.127
 =copilot.microsoft.com 185.246.223.127
+datalore.jetbrains.com 50.7.85.221
 deepl.com 185.246.223.127
 dell.com 185.246.223.127
-download.jetbrains.com 185.246.223.127
 dyson.com 45.95.233.23
 dyson.fr 45.95.233.23
 =edgeservices.bing.com 185.246.223.127
@@ -52,7 +52,8 @@ guidedhacking.com 185.246.223.127
 guilded.gg 204.12.192.219
 images.tidal.com 45.95.233.23
 intel.com 185.246.223.127
-jetbrains.com 50.7.85.221
+jetbrains.ai 185.246.223.127
+jetbrains.com 185.246.223.127
 =jules.google.com 185.246.223.127
 =labs.google 185.246.223.127
 =login.app.spotify.com 185.246.223.127

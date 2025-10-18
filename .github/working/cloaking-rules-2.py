@@ -1,163 +1,214 @@
-import collections
-import ipaddress
-import json
-from pathlib import Path
-from urllib import error, parse, request
+import base64
+import fnmatch
+import secrets
+import ssl
+import struct
+import urllib.request
+from collections import defaultdict, Counter
 
-HOSTS_URL = "https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts"
-EXAMPLE_HEADER_PATH = Path(__file__).with_name("example-cloaking-rules.txt")
-DOH_ENDPOINTS = {
-    "comss": "https://dns.comss.one/dns-query",
-    "google": "https://dns.google/dns-query",
-    "cloudflare": "https://dns.cloudflare.com/dns-query",
-}
-HEADERS = {
-    "Accept": "application/dns-json",
-    "User-Agent": "dnscrypt-proxy-cloaking-updater/1.0",
-}
-TIMEOUT = 10
+import requests
 
+URL = 'https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts'
+remove_domains = ['*xbox*', '*instagram*', '*proton*', '*facebook*', '*torrent*', '*twitch*', '*deezer*', '*dzcdn*', '*weather*', '*fitbit*', '*ggpht*', '*github*', '*tiktok*', '*imgur*', '*4pda*', '*malw.link*']
+adblock_ips = {'127.0.0.1', '0.0.0.0'}
+no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*', '*oai*', '*archive.org*', '*ttvnw*', '*spotify*', '*scdn.co*', '*clashroyale*', '*clashofclans*', '*brawlstars*', '*supercell*']
+example_file = 'example-cloaking-rules.txt'
+output_file = 'cloaking-rules-2.txt'
 
-def http_get(url: str, params: dict[str, str] | None = None) -> str:
-    if params:
-        url = f"{url}?{parse.urlencode(params)}"
-    req = request.Request(url, headers=HEADERS)
-    try:
-        with request.urlopen(req, timeout=TIMEOUT) as resp:
-            return resp.read().decode("utf-8", errors="replace")
-    except error.URLError as exc:
-        raise SystemExit(f"Failed to fetch {url}: {exc}") from exc
+DEFAULT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+COMSS_DOH_ENDPOINTS = ['https://dns.comss.one/dns-query', 'https://router.comss.one/dns-query']
+TARGET_KEYWORDS = ['*anthropic*', '*claude*', '*openai*', '*chatgpt*', '*google*', '*grok*', '*microsoft*', '*bing*']
+COMSS_CACHE = {}
 
 
-def fetch_hosts(url: str) -> list[tuple[str, str]]:
-    text = http_get(url)
-    entries = []
-    for line in text.splitlines():
-        line = line.strip()
-        if not line or line.startswith("#"):
+def encode_qname(name):
+    parts = name.strip('.').split('.')
+    encoded = bytearray()
+    for part in parts:
+        label = part.encode('idna')
+        encoded.append(len(label))
+        encoded.extend(label)
+    encoded.append(0)
+    return bytes(encoded)
+
+
+def build_dns_query(name):
+    transaction_id = secrets.token_bytes(2)
+    flags = struct.pack('>H', 0x0100)
+    qdcount = struct.pack('>H', 1)
+    ancount = struct.pack('>H', 0)
+    nscount = struct.pack('>H', 0)
+    arcount = struct.pack('>H', 0)
+    question = encode_qname(name) + struct.pack('>HH', 1, 1)
+    return b''.join([transaction_id, flags, qdcount, ancount, nscount, arcount, question])
+
+
+def read_name(data, offset):
+    labels = []
+    jumped = False
+    original_offset = offset
+    seen_offsets = set()
+    while True:
+        if offset >= len(data):
+            return '', len(data)
+        if offset in seen_offsets:
+            return '.'.join(labels), (original_offset if jumped else offset)
+        seen_offsets.add(offset)
+        length = data[offset]
+        if length == 0:
+            offset += 1
+            break
+        if length & 0xC0 == 0xC0:
+            if offset + 1 >= len(data):
+                return '', len(data)
+            pointer = ((length & 0x3F) << 8) | data[offset + 1]
+            if not jumped:
+                original_offset = offset + 2
+            offset = pointer
+            jumped = True
             continue
-        parts = line.split()
-        if len(parts) < 2:
-            continue
-        ip, host = parts[0], parts[1]
-        try:
-            ipaddress.ip_address(ip)
-        except ValueError:
-            continue
-        entries.append((host.lower(), ip))
-    return entries
+        offset += 1
+        label = data[offset:offset + length]
+        labels.append(label.decode('utf-8', 'ignore'))
+        offset += length
+    return '.'.join(labels), (original_offset if jumped else offset)
 
 
-def query_doh(endpoint: str, name: str) -> list[str]:
-    try:
-        text = http_get(endpoint, {"name": name, "type": "A"})
-    except SystemExit:
-        return []
-    except Exception:
-        return []
-    try:
-        data = json.loads(text)
-    except json.JSONDecodeError:
-        return []
-    answers = data.get("Answer") or []
-    ips: set[str] = set()
-    for answer in answers:
-        if str(answer.get("type")) != "1":
-            continue
-        ip = answer.get("data")
-        try:
-            if ip:
-                ipaddress.IPv4Address(ip)
-        except ipaddress.AddressValueError:
-            continue
-        ips.add(ip)
-    return sorted(ips)
+def parse_dns_message(data):
+    if len(data) < 12:
+        return set()
+    header = struct.unpack('>6H', data[:12])
+    qdcount = header[2]
+    ancount = header[3]
+    offset = 12
+    for _ in range(qdcount):
+        _, offset = read_name(data, offset)
+        offset += 4
+    ips = set()
+    for _ in range(ancount):
+        _, offset = read_name(data, offset)
+        if offset + 10 > len(data):
+            break
+        rtype, rclass, ttl, rdlen = struct.unpack_from('>HHIH', data, offset)
+        offset += 10
+        rdata = data[offset:offset + rdlen]
+        offset += rdlen
+        if rtype == 1 and rclass == 1 and rdlen == 4:
+            ips.add('.'.join(str(b) for b in rdata))
+    return ips
 
 
-def get_base_domain(host: str) -> str:
-    labels = host.split(".")
-    if len(labels) <= 2:
-        return host
-    return ".".join(labels[-2:])
-
-
-def load_header() -> list[str]:
-    if not EXAMPLE_HEADER_PATH.exists():
-        raise SystemExit(
-            "example-cloaking-rules.txt was not found alongside the script."
-        )
-    header: list[str] = []
-    with EXAMPLE_HEADER_PATH.open(encoding="utf-8") as handle:
-        for line in handle:
-            stripped = line.strip()
-            if stripped and not stripped.startswith("#"):
-                break
-            header.append(line.rstrip("\n"))
-    while header and not header[-1]:
-        header.pop()
-    return header
-
-
-def main() -> None:
-    entries = fetch_hosts(HOSTS_URL)
-    hosts = sorted({host for host, _ in entries})
-
-    cache: dict[str, dict[str, list[str]]] = {}
-    for host in hosts:
-        cache[host] = {}
-        for provider, endpoint in DOH_ENDPOINTS.items():
-            cache[host][provider] = query_doh(endpoint, host)
-
-    filtered: dict[str, dict[tuple[str, ...], list[str]]] = collections.defaultdict(
-        lambda: collections.defaultdict(list)
+def doh_wire(base, name):
+    query = build_dns_query(name)
+    payload = base64.urlsafe_b64encode(query).decode().rstrip('=')
+    url = f"{base}?dns={payload}"
+    request = urllib.request.Request(
+        url,
+        headers={
+            'User-Agent': DEFAULT_USER_AGENT,
+            'Accept': 'application/dns-message',
+        },
     )
-
-    for host in hosts:
-        comss_ips = cache[host]["comss"]
-        google_ips = cache[host]["google"]
-        cloudflare_ips = cache[host]["cloudflare"]
-        if not comss_ips:
-            continue
-        if comss_ips == google_ips and comss_ips == cloudflare_ips:
-            continue
-        if comss_ips == google_ips or comss_ips == cloudflare_ips:
-            continue
-        base = get_base_domain(host)
-        filtered[base][tuple(comss_ips)].append(host)
-
-    output_lines = load_header()
-    output_lines.extend(
-        [
-            "",
-            "# Generated automatically from dns.malw.link hosts",
-            "# Only includes hosts where dns.comss.one disagrees with dns.google and dns.cloudflare",
-            "",
-            "# comss dns results",
-        ]
-    )
-
-    final_entries: list[tuple[str, str]] = []
-
-    for base in sorted(filtered):
-        ip_groups = filtered[base]
-        if len(ip_groups) == 1:
-            (ips_tuple, hosts_list), = ip_groups.items()
-            name_to_use = base
-            for ip in ips_tuple:
-                final_entries.append((name_to_use, ip))
-        else:
-            for ips_tuple, hosts_list in ip_groups.items():
-                for host in sorted(hosts_list):
-                    name_to_use = f"={host}"
-                    for ip in ips_tuple:
-                        final_entries.append((name_to_use, ip))
-
-    for name, ip in sorted(final_entries):
-        output_lines.append(f"{name} {ip}")
-
-    path = Path(__file__).with_name("cloaking-rules-2.txt")
-    path.write_text("\n".join(output_lines) + "\n", encoding="utf-8")
+    context = ssl.create_default_context()
+    with urllib.request.urlopen(request, context=context, timeout=10) as response:
+        if response.status != 200:
+            return set()
+        data = response.read()
+    return parse_dns_message(data)
 
 
-if __name__ == "__main__":
-    main()
+def resolve_via_comss(name):
+    key = name.lower().rstrip('.')
+    if key in COMSS_CACHE:
+        return COMSS_CACHE[key]
+
+    ips = set()
+    for base in COMSS_DOH_ENDPOINTS:
+        try:
+            ips |= doh_wire(base, name)
+        except Exception as exc:
+            print(f"Failed to resolve {name} via {base}: {exc}")
+    COMSS_CACHE[key] = ips
+    return ips
+
+
+def needs_comss_override(host):
+    host_l = host.lower()
+    return any(fnmatch.fnmatch(host_l, pattern.lower()) for pattern in TARGET_KEYWORDS)
+
+response = requests.get(URL)
+response.raise_for_status()
+lines = response.text.splitlines()
+
+entries = []
+for line in lines:
+    line = line.strip()
+    if not line or line.startswith('#'):
+        continue
+    parts = line.split()
+    if len(parts) < 2:
+        continue
+    ip, host = parts[0], parts[1]
+    if ip in adblock_ips:
+        continue
+    if any(pattern.strip('*') in host for pattern in remove_domains):
+        continue
+    entries.append((host, ip))
+
+host_to_ip = defaultdict(set)
+subdomains_by_root = defaultdict(list)
+
+for host, ip in entries:
+    host_to_ip[host].add(ip)
+    parts = host.split('.')
+    if len(parts) >= 2:
+        root = '.'.join(parts[-2:])
+        subdomains_by_root[root].append((host, ip))
+
+final_hosts = {}
+
+for root, items in subdomains_by_root.items():
+    domain_ips = Counter()
+    all_hosts = set(host for host, _ in items)
+    no_simplify = any(fnmatch.fnmatch(host, pattern) for host in all_hosts for pattern in no_simplify_domains)
+
+    if no_simplify:
+        for host, ip in items:
+            final_hosts.setdefault(host, set()).add(ip)
+    else:
+        for host, ip in items:
+            if host == root:
+                domain_ips[ip] += 5
+            else:
+                domain_ips[ip] += 1
+
+        most_common_ip, count = domain_ips.most_common(1)[0]
+
+        root_in_items = any(h == root for h, _ in items)
+        if root_in_items or any(h.endswith('.' + root) for h, _ in items):
+            final_hosts[root] = {most_common_ip}
+
+        for host, ip in items:
+            if host != root and ip != most_common_ip:
+                final_hosts.setdefault(host, set()).add(ip)
+
+for host in list(final_hosts):
+    if needs_comss_override(host):
+        comss_ips = resolve_via_comss(host)
+        if comss_ips:
+            final_hosts[host] = comss_ips
+
+with open(example_file, 'r', encoding='utf-8') as f:
+    base = f.read()
+
+with open(output_file, 'w', encoding='utf-8') as f:
+    f.write(base.rstrip() + '\n\n')
+    f.write('# t.me/immalware hosts + comss dns\n')
+    for host in sorted(final_hosts):
+        is_no_simplify = any(fnmatch.fnmatch(host, pattern) for pattern in no_simplify_domains)
+        prefix = '=' if is_no_simplify else ''
+        for ip in sorted(final_hosts[host]):
+            f.write(f"{prefix}{host} {ip}\n")
+
+print(f"Saved to {output_file}")
+

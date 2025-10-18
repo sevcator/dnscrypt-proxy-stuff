@@ -13,7 +13,7 @@ with open("example-blocked-names.txt", "r", encoding="utf-8") as f:
 yandex_domains = []
 for line in hosts_content.splitlines():
     line = line.strip()
-    if line and not line.startswith("#") and "yandex" in line:
+    if line and not line.startswith("#") and ".ru" in line:
         parts = line.split()
         domain = parts[-1] if len(parts) > 1 else parts[0]
         yandex_domains.append(domain)
@@ -25,10 +25,10 @@ for domain in yandex_domains:
     if not any(fnmatch.fnmatch(domain, pattern) for pattern in base_patterns):
         filtered_domains.append(domain)
 
-with open("blocked-yandex.txt", "w", encoding="utf-8") as f:
+with open("blocked-names-russia.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(base_lines).rstrip() + "\n\n")
-    f.write("# other yandex domains\n")
+    f.write("# \n")
     for domain in filtered_domains:
         f.write(domain + "\n")
 
-print("blocked-yandex.txt has been created.")
+print("blocked-names-russia.txt has been created.")

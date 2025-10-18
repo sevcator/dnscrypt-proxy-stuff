@@ -1,4 +1,4 @@
-name: Update Blocked Yandex
+name: Update Blocked Names Russia
 
 on:
   schedule:
@@ -16,13 +16,13 @@ jobs:
         run: |
           cd .github/working
           pip install requests
-          python blocked-yandex.py
+          python blocked-names-russia.py
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          mv .github/working/blocked-yandex.txt ./
-          git add blocked-yandex.txt
-          git commit -m "⚡ Blocked Yandex - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          mv .github/working/blocked-names-russia.txt ./
+          git add blocked-names-russia.txt
+          git commit -m "⚡ Blocked Names Russia - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push origin HEAD:main --force || echo "No changes to commit"

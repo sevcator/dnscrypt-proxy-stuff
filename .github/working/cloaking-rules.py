@@ -9,10 +9,6 @@ no_simplify_domains = ['*microsoft*', '*bing*', '*goog*', '*github*', '*parsec*'
 example_file = 'example-cloaking-rules.txt'
 output_file = 'cloaking-rules.txt'
 
-best_domain = 'guilded.gg'
-base_ip = None
-custom_domains = ['soundcloud.com', 'genius.com']
-
 response = requests.get(URL)
 response.raise_for_status()
 lines = response.text.splitlines()
@@ -30,8 +26,6 @@ for line in lines:
         continue
     if any(pattern.strip('*') in host for pattern in remove_domains):
         continue
-    if host == best_domain and base_ip is None:
-        base_ip = ip
     entries.append((host, ip))
 
 host_to_ip = defaultdict(set)
@@ -71,10 +65,6 @@ for root, items in subdomains_by_root.items():
             if host != root and ip != most_common_ip:
                 final_hosts.setdefault(host, set()).add(ip)
 
-if base_ip:
-    for custom_domain in custom_domains:
-        final_hosts.setdefault(custom_domain, set()).add(base_ip)
-
 with open(example_file, 'r', encoding='utf-8') as f:
     base = f.read()
 
@@ -82,17 +72,10 @@ with open(output_file, 'w', encoding='utf-8') as f:
     f.write(base.rstrip() + '\n\n')
     f.write('# t.me/immalware hosts\n')
     for host in sorted(final_hosts):
-        if host not in custom_domains:
-            is_no_simplify = any(fnmatch.fnmatch(host, pattern) for pattern in no_simplify_domains)
-            prefix = '=' if is_no_simplify else ''
-            for ip in sorted(final_hosts[host]):
-                f.write(f"{prefix}{host} {ip}\n")
-
-    f.write('\n# custom t.me/immalware hosts\n')
-    for host in sorted(custom_domains):
-        if host in final_hosts:
-            for ip in sorted(final_hosts[host]):
-                f.write(f"{host} {ip}\n")
+        is_no_simplify = any(fnmatch.fnmatch(host, pattern) for pattern in no_simplify_domains)
+        prefix = '=' if is_no_simplify else ''
+        for ip in sorted(final_hosts[host]):
+            f.write(f"{prefix}{host} {ip}\n")
 
 print(f"Saved to {output_file}")
 

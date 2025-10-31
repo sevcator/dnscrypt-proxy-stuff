@@ -48,7 +48,6 @@ elevenreader.io 185.246.223.127
 =generativelanguage.googleapis.com 94.131.119.22
 =gew1-spclient.spotify.com 185.246.223.127
 grok.com 134.0.118.88
-grok.com 94.131.119.22
 guidedhacking.com 185.246.223.127
 guilded.gg 204.12.192.219
 images.tidal.com 45.95.233.23
@@ -69,7 +68,7 @@ ntc.party 130.255.77.28
 nvidia.com 185.246.223.127
 =o.pki.goog 185.246.223.127
 onetrust.com 185.246.223.127
-=open.spotify.com 45.95.233.23
+=open.spotify.com 185.246.223.127
 openai.com 94.131.119.22
 operator.chatgpt.com 185.250.151.49
 plugins.jetbrains.com 107.150.34.100

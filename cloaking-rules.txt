@@ -68,7 +68,7 @@ ntc.party 130.255.77.28
 nvidia.com 185.246.223.127
 =o.pki.goog 185.246.223.127
 onetrust.com 185.246.223.127
-=open.spotify.com 45.95.233.23
+=open.spotify.com 185.246.223.127
 openai.com 185.246.223.127
 operator.chatgpt.com 45.95.233.23
 plugins.jetbrains.com 107.150.34.100

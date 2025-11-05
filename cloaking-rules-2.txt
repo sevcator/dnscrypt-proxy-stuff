@@ -27,6 +27,8 @@ canva.com 50.7.85.222
 chatgpt.com 94.131.119.22
 =clashofclans.inbox.supercell.com 185.246.223.127
 claude.ai 94.131.119.22
+codeium.com 185.246.223.127
+codeiumdata.com 185.246.223.127
 =copilot.microsoft.com 94.131.119.22
 datalore.jetbrains.com 50.7.85.221
 deepl.com 185.246.223.127
@@ -38,6 +40,7 @@ elevenlabs.io 185.246.223.127
 elevenreader.io 185.246.223.127
 =encore.scdn.co 185.246.223.127
 =files.oaiusercontent.com 185.246.223.127
+framer.com 185.246.223.127
 =game-assets.brawlstarsgame.com 185.246.223.127
 =game-assets.clashofclans.com 185.246.223.127
 =game-assets.clashroyaleapp.com 185.246.223.127
@@ -57,6 +60,7 @@ jetbrains.ai 185.246.223.127
 jetbrains.com 185.246.223.127
 =jules.google.com 94.131.119.22
 =labs.google 185.250.151.50
+linear.app 185.246.223.127
 =login.app.spotify.com 185.246.223.127
 =login5.spotify.com 185.246.223.127
 manus.im 64.188.98.242
@@ -95,6 +99,7 @@ truthsocial.com 204.12.192.219
 =usher.ttvnw.net 45.95.233.23
 =web.archive.org 142.54.189.106
 =webchannel-alkalimakersuite-pa.clients6.google.com 185.250.151.50
+windsurf.com 185.246.223.127
 =www.spotify.com 185.246.223.127
 x.ai 185.246.223.127
 =xpui.app.spotify.com 185.246.223.127

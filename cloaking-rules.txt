@@ -52,7 +52,6 @@ framer.com 185.246.223.127
 =gew1-spclient.spotify.com 185.246.223.127
 grok.com 185.246.223.127
 guidedhacking.com 185.246.223.127
-guilded.gg 204.12.192.219
 images.tidal.com 45.95.233.23
 intel.com 185.246.223.127
 jetbrains.ai 185.246.223.127
@@ -94,7 +93,6 @@ tailscale.com 185.87.51.182
 tidal.com 185.246.223.127
 trae.ai 185.246.223.127
 tria.ge 185.246.223.127
-truthsocial.com 204.12.192.219
 =usher.ttvnw.net 45.95.233.23
 =web.archive.org 142.54.189.106
 =webchannel-alkalimakersuite-pa.clients6.google.com 134.0.118.88

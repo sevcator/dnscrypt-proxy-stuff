@@ -50,8 +50,8 @@ framer.com 185.246.223.127
 =gemini.google.com 185.250.151.50
 =generativelanguage.googleapis.com 94.131.119.22
 =gew1-spclient.spotify.com 185.246.223.127
-grok.com 134.0.118.88
 grok.com 80.74.29.235
+grok.com 94.131.119.22
 guidedhacking.com 185.246.223.127
 images.tidal.com 45.95.233.23
 intel.com 185.246.223.127
@@ -83,14 +83,13 @@ qwant.com 185.246.223.127
 =robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
-=robinfrontend-pa.googleapis.com 172.253.130.95
-=robinfrontend-pa.googleapis.com 173.194.220.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
 =robinfrontend-pa.googleapis.com 173.194.73.95
 =robinfrontend-pa.googleapis.com 209.85.233.95
 =robinfrontend-pa.googleapis.com 64.233.161.95
 =robinfrontend-pa.googleapis.com 64.233.162.95
+=robinfrontend-pa.googleapis.com 64.233.163.95
 =robinfrontend-pa.googleapis.com 64.233.164.95
 =robinfrontend-pa.googleapis.com 64.233.165.95
 =robinfrontend-pa.googleapis.com 74.125.131.95

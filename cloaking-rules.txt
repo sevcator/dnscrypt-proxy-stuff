@@ -79,6 +79,7 @@ posthog.com 45.95.233.23
 =proactivebackend-pa.googleapis.com 134.0.118.88
 qwant.com 185.246.223.127
 =rewards.bing.com 45.95.233.23
+=robinfrontend-pa.googleapis.com 134.0.118.88
 rutor.info 172.64.33.155
 rutor.is 173.245.59.155
 =security.id.supercell.com 185.246.223.127

@@ -12,7 +12,7 @@
 =aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
 =alkalimakersuite-pa.clients6.google.com 185.250.151.50
-anthropic.com 94.131.119.22
+anthropic.com 80.74.29.235
 =ap-gew1.spotify.com 185.246.223.127
 =api-partner.spotify.com 185.246.223.127
 =api.spotify.com 185.246.223.127
@@ -26,7 +26,7 @@ canva.com 50.7.85.222
 =cdn.oaistatic.com 185.246.223.127
 chatgpt.com 94.131.119.22
 =clashofclans.inbox.supercell.com 185.246.223.127
-claude.ai 94.131.119.22
+claude.ai 80.74.29.235
 codeium.com 185.246.223.127
 codeiumdata.com 185.246.223.127
 =copilot.microsoft.com 80.74.29.235
@@ -83,14 +83,15 @@ qwant.com 185.246.223.127
 =robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
-=robinfrontend-pa.googleapis.com 172.253.130.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
 =robinfrontend-pa.googleapis.com 173.194.73.95
 =robinfrontend-pa.googleapis.com 209.85.233.95
 =robinfrontend-pa.googleapis.com 64.233.161.95
 =robinfrontend-pa.googleapis.com 64.233.162.95
+=robinfrontend-pa.googleapis.com 64.233.163.95
 =robinfrontend-pa.googleapis.com 64.233.164.95
+=robinfrontend-pa.googleapis.com 64.233.165.95
 =robinfrontend-pa.googleapis.com 74.125.131.95
 =robinfrontend-pa.googleapis.com 74.125.205.95
 rutor.info 172.64.33.155

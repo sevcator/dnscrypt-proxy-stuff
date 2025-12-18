@@ -11,6 +11,7 @@
 =aisandbox-pa.googleapis.com 185.250.151.50
 =aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
+=alkalimakersuite-pa.clients6.google.com 185.250.151.50
 =alkalimakersuite-pa.clients6.google.com 80.74.29.235
 anthropic.com 80.74.29.235
 =ap-gew1.spotify.com 185.246.223.127
@@ -49,7 +50,6 @@ framer.com 185.246.223.127
 =game.clashroyaleapp.com 45.95.233.23
 =gamea.clashofclans.com 64.188.98.242
 =gemini.google.com 142.250.176.206
-=generativelanguage.googleapis.com 185.250.151.49
 =generativelanguage.googleapis.com 80.74.29.235
 =gew1-spclient.spotify.com 185.246.223.127
 grok.com 185.250.151.50
@@ -59,7 +59,6 @@ intel.com 185.246.223.127
 jetbrains.ai 185.246.223.127
 jetbrains.com 185.246.223.127
 =jules.google.com 80.74.29.235
-=jules.google.com 94.131.119.22
 =labs.google 185.250.151.50
 linear.app 185.246.223.127
 =login.app.spotify.com 185.246.223.127

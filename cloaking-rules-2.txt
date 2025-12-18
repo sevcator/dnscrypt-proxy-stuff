@@ -17,6 +17,7 @@ anthropic.com 80.74.29.235
 =api-partner.spotify.com 185.246.223.127
 =api.spotify.com 185.246.223.127
 =appresolve.spotify.com 185.246.223.127
+=assistant-s3-pa.googleapis.com 185.250.151.50
 =assistant-s3-pa.googleapis.com 80.74.29.235
 auth0.com 185.246.223.127
 broadcom.com 185.246.223.127
@@ -48,6 +49,7 @@ framer.com 185.246.223.127
 =game.clashroyaleapp.com 45.95.233.23
 =gamea.clashofclans.com 64.188.98.242
 =gemini.google.com 142.250.176.206
+=generativelanguage.googleapis.com 185.250.151.49
 =generativelanguage.googleapis.com 80.74.29.235
 =gew1-spclient.spotify.com 185.246.223.127
 grok.com 185.250.151.50
@@ -57,6 +59,7 @@ intel.com 185.246.223.127
 jetbrains.ai 185.246.223.127
 jetbrains.com 185.246.223.127
 =jules.google.com 80.74.29.235
+=jules.google.com 94.131.119.22
 =labs.google 185.250.151.50
 linear.app 185.246.223.127
 =login.app.spotify.com 185.246.223.127
@@ -79,21 +82,8 @@ posthog.com 45.95.233.23
 =proactivebackend-pa.googleapis.com 142.251.40.202
 qwant.com 185.246.223.127
 =rewards.bing.com 185.250.151.49
-=robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.102.95
-=robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.250.27.95
-=robinfrontend-pa.googleapis.com 142.251.1.95
-=robinfrontend-pa.googleapis.com 173.194.220.95
-=robinfrontend-pa.googleapis.com 173.194.221.95
-=robinfrontend-pa.googleapis.com 173.194.222.95
-=robinfrontend-pa.googleapis.com 209.85.233.95
-=robinfrontend-pa.googleapis.com 64.233.161.95
-=robinfrontend-pa.googleapis.com 64.233.162.95
-=robinfrontend-pa.googleapis.com 64.233.164.95
-=robinfrontend-pa.googleapis.com 64.233.165.95
-=robinfrontend-pa.googleapis.com 74.125.131.95
-=robinfrontend-pa.googleapis.com 74.125.205.95
 rutor.info 172.64.33.155
 rutor.is 173.245.59.155
 =security.id.supercell.com 185.246.223.127
@@ -111,6 +101,7 @@ tria.ge 185.246.223.127
 =usher.ttvnw.net 45.95.233.23
 =web.archive.org 142.54.189.106
 =webchannel-alkalimakersuite-pa.clients6.google.com 185.250.151.50
+=webchannel-alkalimakersuite-pa.clients6.google.com 80.74.29.235
 windsurf.com 185.246.223.127
 =www.spotify.com 185.246.223.127
 x.ai 185.246.223.127

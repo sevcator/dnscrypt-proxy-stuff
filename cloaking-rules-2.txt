@@ -12,12 +12,12 @@
 =aisandbox-pa.googleapis.com 185.250.151.50
 =aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
-=alkalimakersuite-pa.clients6.google.com 185.250.151.50
 =alkalimakersuite-pa.clients6.google.com 80.74.29.235
 anthropic.com 80.74.29.235
 =api-partner.spotify.com 185.87.51.182
 api.manus.im 185.87.51.182
 =api.spotify.com 185.87.51.182
+=assistant-s3-pa.googleapis.com 185.250.151.50
 =assistant-s3-pa.googleapis.com 80.74.29.235
 auth0.com 103.27.157.38
 autodesk.com 185.87.51.182
@@ -53,11 +53,11 @@ framer.com 185.87.51.182
 =gew1-spclient.spotify.com 185.87.51.182
 grok.com 185.250.151.50
 guidedhacking.com 185.87.51.182
+images.pump.fun 45.95.233.23
 intel.com 185.87.51.182
 jetbrains.ai 185.87.51.182
 jetbrains.com 185.87.51.182
 =jules.google.com 80.74.29.235
-=jules.google.com 94.131.119.22
 =labs.google 185.250.151.50
 linear.app 185.87.51.182
 =login5.spotify.com 185.87.51.182
@@ -96,7 +96,6 @@ truthsocial.com 185.87.51.182
 =usher.ttvnw.net 185.87.51.182
 =web.archive.org 185.87.51.182
 =webchannel-alkalimakersuite-pa.clients6.google.com 185.250.151.50
-=webchannel-alkalimakersuite-pa.clients6.google.com 80.74.29.235
 windsurf.com 185.87.51.182
 =www-growth.scdn.co 185.246.223.127
 =www.spotify.com 185.87.51.182

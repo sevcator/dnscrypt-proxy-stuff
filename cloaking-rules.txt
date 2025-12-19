@@ -51,6 +51,7 @@ framer.com 185.87.51.182
 =gew1-spclient.spotify.com 185.87.51.182
 grok.com 185.87.51.182
 guidedhacking.com 185.87.51.182
+images.pump.fun 45.95.233.23
 intel.com 185.87.51.182
 jetbrains.ai 185.87.51.182
 jetbrains.com 185.87.51.182

@@ -12,6 +12,7 @@
 =aisandbox-pa.googleapis.com 185.250.151.50
 =aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
+=alkalimakersuite-pa.clients6.google.com 185.250.151.50
 =alkalimakersuite-pa.clients6.google.com 80.74.29.235
 anthropic.com 80.74.29.235
 =api-partner.spotify.com 185.87.51.182

@@ -13,7 +13,6 @@
 =aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
 =alkalimakersuite-pa.clients6.google.com 185.250.151.50
-=alkalimakersuite-pa.clients6.google.com 80.74.29.235
 anthropic.com 80.74.29.235
 =api-partner.spotify.com 185.87.51.182
 api.manus.im 185.87.51.182
@@ -49,7 +48,6 @@ framer.com 185.87.51.182
 =gamea.clashofclans.com 64.188.98.242
 =gemini.google.com 142.250.176.206
 =generativelanguage.googleapis.com 185.250.151.49
-=generativelanguage.googleapis.com 80.74.29.235
 =gew1-dealer.spotify.com 185.87.51.182
 =gew1-spclient.spotify.com 185.87.51.182
 grok.com 185.250.151.50
@@ -58,7 +56,6 @@ images.pump.fun 45.95.233.23
 intel.com 185.87.51.182
 jetbrains.ai 185.87.51.182
 jetbrains.com 185.87.51.182
-=jules.google.com 80.74.29.235
 =jules.google.com 94.131.119.22
 =labs.google 185.250.151.50
 linear.app 185.87.51.182
@@ -81,13 +78,16 @@ qwant.com 185.87.51.182
 =rewards.bing.com 185.250.151.49
 =robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.102.95
+=robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.250.27.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
+=robinfrontend-pa.googleapis.com 173.194.73.95
 =robinfrontend-pa.googleapis.com 209.85.233.95
 =robinfrontend-pa.googleapis.com 64.233.161.95
 =robinfrontend-pa.googleapis.com 64.233.162.95
+=robinfrontend-pa.googleapis.com 64.233.163.95
 =robinfrontend-pa.googleapis.com 64.233.164.95
 =robinfrontend-pa.googleapis.com 64.233.165.95
 =robinfrontend-pa.googleapis.com 74.125.131.95
@@ -108,7 +108,6 @@ tria.ge 185.87.51.182
 truthsocial.com 185.87.51.182
 =usher.ttvnw.net 185.87.51.182
 =web.archive.org 185.87.51.182
-=webchannel-alkalimakersuite-pa.clients6.google.com 185.250.151.50
 =webchannel-alkalimakersuite-pa.clients6.google.com 80.74.29.235
 windsurf.com 185.87.51.182
 =www-growth.scdn.co 185.246.223.127

@@ -83,6 +83,7 @@ qwant.com 185.87.51.182
 =robinfrontend-pa.googleapis.com 142.250.102.95
 =robinfrontend-pa.googleapis.com 142.250.27.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
+=robinfrontend-pa.googleapis.com 173.194.220.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
 =robinfrontend-pa.googleapis.com 173.194.73.95

@@ -41,6 +41,7 @@ NO_SIMPLIFY_PATTERNS = [
     "*clashofclans*",
     "*brawlstars*",
     "*supercell*",
+    "*.discord.media",
 ]
 SOURCE_MAP: Dict[str, str] = {
     "https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts": "immalware hosts",

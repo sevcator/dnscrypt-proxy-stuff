@@ -7,7 +7,7 @@
 # main yandex domain
 =yandex.ru
 
-# from https://schakal.ru/hosts/alive_hosts_ru_com.txt
+# schakal.ru alive hosts
 02ip.ru
 04xmhp.ru
 0pn.ru

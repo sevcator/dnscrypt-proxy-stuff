@@ -12,7 +12,7 @@ from typing import Iterable, List, Set
 
 REPO_ROOT = pathlib.Path(__file__).resolve().parent
 EXAMPLE_PATH = REPO_ROOT / "example-blocked-names.txt"
-HOSTS_URL = "https://o0.pages.dev/Pro/hosts.txt"
+HOSTS_URL = "https://badmojr.github.io/1Hosts/Lite/hosts.txt"
 OUTPUT_PATH = REPO_ROOT / "blocked-names-russia.txt"
 
 _IP_ADDRESS_RE = re.compile(r"^(?:\d{1,3}\.){3}\d{1,3}$")

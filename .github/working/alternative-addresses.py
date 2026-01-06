@@ -7,14 +7,14 @@ import shutil
 import socket
 import subprocess
 from pathlib import Path
-from typing import Iterable, List, Optional, Sequence
+from typing import Iterable, List, Optional, Sequence, Tuple
 
 
 CURL_TIMEOUT = 10
 
 
 class AlternativeAddressError(Exception):
-    pass
+    """Raised when prerequisites or inputs are missing."""
 
 
 def ensure_curl_available() -> None:
@@ -25,12 +25,11 @@ def ensure_curl_available() -> None:
 def load_targets(path: Path) -> List[str]:
     if not path.exists():
         raise AlternativeAddressError(f"Target file not found: {path}")
-    targets: List[str] = []
-    for line in path.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if not line or line.startswith("#"):
-            continue
-        targets.append(line)
+    targets = [
+        line.strip()
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip() and not line.lstrip().startswith("#")
+    ]
     if not targets:
         raise AlternativeAddressError("target-addresses.txt does not contain any domains")
     return targets
@@ -40,8 +39,7 @@ def resolve_ips(domain: str) -> List[str]:
     infos = socket.getaddrinfo(domain, None)
     ips: List[str] = []
     seen = set()
-    for info in infos:
-        sockaddr = info[4]
+    for _, _, _, _, sockaddr in infos:
         if not sockaddr:
             continue
         ip = sockaddr[0]
@@ -66,11 +64,8 @@ def run_curl(args: Sequence[str]) -> bool:
 
 
 def probe_domain_ip(domain: str, ip: str) -> bool:
-    resolve_arg_ip = ip
-    direct_ip = ip
-    if ":" in ip:
-        resolve_arg_ip = f"[{ip}]"
-        direct_ip = f"[{ip}]"
+    resolve_arg_ip = f"[{ip}]" if ":" in ip else ip
+    direct_ip = resolve_arg_ip
     https_cmd = [
         "curl",
         "--max-time",
@@ -107,10 +102,8 @@ def pick_working_ip(domain: str, ips: Iterable[str]) -> Optional[str]:
 
 def write_lines(path: Path, lines: Iterable[str]) -> None:
     text_lines = list(lines)
-    text = "\n".join(text_lines)
-    if text_lines:
-        text += "\n"
-    path.write_text(text, encoding="utf-8")
+    suffix = "\n" if text_lines else ""
+    path.write_text("\n".join(text_lines) + suffix, encoding="utf-8")
 
 
 def combine_with_rules(resolved_hosts: Path, rules_path: Path, output_path: Path) -> None:
@@ -125,22 +118,11 @@ def combine_with_rules(resolved_hosts: Path, rules_path: Path, output_path: Path
     output_path.write_text(combined, encoding="utf-8")
 
 
-def main() -> int:
-    base_dir = Path.cwd()
-    resolved_valid = base_dir / "resolved-vaild.txt"
-    resolved_hosts_path = base_dir / "resolved-hosts.txt"
-    target_path = base_dir / "target-addresses.txt"
-    try:
-        ensure_curl_available()
-        resolved_valid.write_text("", encoding="utf-8")
-        targets = load_targets(target_path)
-    except AlternativeAddressError as exc:
-        print(f"Error: {exc}")
-        return 1
+def resolve_targets(targets: Iterable[str]) -> Tuple[List[str], List[str]]:
     resolved_entries: List[str] = []
     valid_entries: List[str] = []
     for domain in targets:
-        print(f"Resolving {domain}…")
+        print(f"Resolving {domain}")
         try:
             ips = resolve_ips(domain)
         except socket.gaierror as exc:
@@ -156,14 +138,33 @@ def main() -> int:
         print(f"  -> {working_ip}")
         resolved_entries.append(f"{domain} {working_ip}")
         valid_entries.append(working_ip)
+    return resolved_entries, valid_entries
+
+
+def main() -> int:
+    base_dir = Path.cwd()
+    resolved_valid = base_dir / "resolved-vaild.txt"
+    resolved_hosts_path = base_dir / "resolved-hosts.txt"
+    target_path = base_dir / "target-addresses.txt"
+    try:
+        ensure_curl_available()
+        resolved_valid.write_text("", encoding="utf-8")
+        targets = load_targets(target_path)
+    except AlternativeAddressError as exc:
+        print(f"Error: {exc}")
+        return 1
+
+    resolved_entries, valid_entries = resolve_targets(targets)
     write_lines(resolved_hosts_path, resolved_entries)
     write_lines(resolved_valid, valid_entries)
-    cloaking_rules = base_dir / "cloaking-rules.txt"
-    if cloaking_rules.exists():
-        combine_with_rules(resolved_hosts_path, cloaking_rules, base_dir / "rh-cr.txt")
-    cloaking_rules_2 = base_dir / "cloaking-rules-2.txt"
-    if cloaking_rules_2.exists():
-        combine_with_rules(resolved_hosts_path, cloaking_rules_2, base_dir / "rh-cr-2.txt")
+
+    for rules_name, output_name in [
+        ("cloaking-rules.txt", "rh-cr.txt"),
+        ("cloaking-rules-2.txt", "rh-cr-2.txt"),
+    ]:
+        rules_path = base_dir / rules_name
+        if rules_path.exists():
+            combine_with_rules(resolved_hosts_path, rules_path, base_dir / output_name)
     return 0
 
 

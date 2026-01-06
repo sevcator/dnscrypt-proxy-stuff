@@ -3,7 +3,7 @@ import requests
 with open("example-blocked-names.txt", "r", encoding="utf-8") as f:
     example_blocked = f.read().strip()
 
-response = requests.get("https://schakal.ru/hosts/alive_hosts_ru_com.txt")
+response = requests.get("https://badmojr.github.io/1Hosts/Lite/hosts.txt")
 hosts_lines = response.text.splitlines()
 hosts_filtered = []
 for line in hosts_lines:

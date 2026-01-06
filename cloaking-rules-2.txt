@@ -4,7 +4,7 @@
 
 # For https://github.com/sevcator/zapret-pocket <3
 
-# t.me/immalware hosts + comss dns
+# immalware hosts
 =accounts.scdn.co 185.246.223.127
 =accounts.spotify.com 185.87.51.182
 =accounts.supercell.com 144.31.14.104
@@ -81,15 +81,14 @@ qwant.com 185.87.51.182
 =rewards.bing.com 185.250.151.49
 =robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.102.95
-=robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.250.27.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
-=robinfrontend-pa.googleapis.com 172.253.130.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
 =robinfrontend-pa.googleapis.com 209.85.233.95
 =robinfrontend-pa.googleapis.com 64.233.161.95
 =robinfrontend-pa.googleapis.com 64.233.162.95
+=robinfrontend-pa.googleapis.com 64.233.163.95
 =robinfrontend-pa.googleapis.com 64.233.164.95
 =robinfrontend-pa.googleapis.com 74.125.131.95
 =robinfrontend-pa.googleapis.com 74.125.205.95
@@ -115,3 +114,6 @@ windsurf.com 185.87.51.182
 =www-growth.scdn.co 185.246.223.127
 =www.spotify.com 185.87.51.182
 x.ai 185.87.51.182
+
+# Flowseal hosts
+discord.media 104.25.158.178

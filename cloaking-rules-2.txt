@@ -5,10 +5,10 @@
 # For https://github.com/sevcator/zapret-pocket <3
 
 # immalware hosts
-=accounts.scdn.co 185.246.223.127
+=accounts.scdn.co 185.87.51.182
 =accounts.spotify.com 185.87.51.182
 =accounts.supercell.com 144.31.14.104
-=aet.spotify.com 185.87.51.182
+=aet.spotify.com 144.31.14.104
 =aisandbox-pa.googleapis.com 185.250.151.50
 =aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
@@ -16,13 +16,14 @@
 =alkalimakersuite-pa.clients6.google.com 80.74.29.235
 anthropic.com 80.74.29.235
 =api-partner.spotify.com 185.87.51.182
-api.manus.im 185.87.51.182
+api.elevenlabs.io 185.87.51.182
 =api.spotify.com 185.87.51.182
+api.us.elevenlabs.io 185.87.51.182
 =assistant-s3-pa.googleapis.com 185.250.151.50
 =assistant-s3-pa.googleapis.com 80.74.29.235
-auth0.com 103.27.157.38
+auth0.com 185.87.51.182
 autodesk.com 185.87.51.182
-broadcom.com 144.31.14.104
+broadcom.com 185.87.51.182
 =builds.parsec.app 185.87.51.182
 canva.com 185.87.51.182
 =cdn.id.supercell.com 144.31.14.104
@@ -34,19 +35,20 @@ codeium.com 185.87.51.182
 =copilot.microsoft.com 80.74.29.235
 deepl.com 185.87.51.182
 dell.com 185.87.51.182
+dyson.com 185.87.51.182
 =edgeservices.bing.com 80.74.29.235
-elevenlabs.io 185.87.51.182
+elevenlabs.io 95.182.120.241
 elevenreader.io 185.87.51.182
-elgato.com 185.246.223.127
+elgato.com 185.87.51.182
 =encore.scdn.co 185.87.51.182
 =files.oaiusercontent.com 185.87.51.182
 framer.com 185.87.51.182
 =game-assets.brawlstarsgame.com 144.31.14.104
-=game-assets.clashofclans.com 185.87.51.182
-=game-assets.clashroyaleapp.com 185.87.51.182
+=game-assets.clashofclans.com 144.31.14.104
+=game-assets.clashroyaleapp.com 144.31.14.104
 =game.brawlstarsgame.com 185.246.223.127
 =game.clashroyaleapp.com 45.95.233.23
-=gamea.clashofclans.com 64.188.98.242
+=gamea.clashofclans.com 193.23.209.189
 =gemini.google.com 142.250.176.206
 =generativelanguage.googleapis.com 185.250.151.49
 =generativelanguage.googleapis.com 80.74.29.235
@@ -54,7 +56,7 @@ framer.com 185.87.51.182
 =gew1-spclient.spotify.com 185.87.51.182
 grok.com 185.250.151.50
 guidedhacking.com 185.87.51.182
-images.pump.fun 45.95.233.23
+help.elevenlabs.io 185.87.51.182
 intel.com 185.87.51.182
 jetbrains.ai 185.87.51.182
 jetbrains.com 185.87.51.182
@@ -63,7 +65,8 @@ jetbrains.com 185.87.51.182
 =labs.google 185.250.151.50
 linear.app 185.87.51.182
 =login5.spotify.com 185.87.51.182
-manus.im 144.31.14.104
+manus.im 185.87.51.182
+marketplace.windsurf.com 185.87.51.182
 mchost.guru 185.87.51.182
 mocogame.com 45.95.233.23
 =notebooklm.google.com 94.131.119.22
@@ -72,19 +75,18 @@ ntc.party 130.255.77.28
 nvidia.com 185.87.51.182
 =o.pki.goog 185.87.51.182
 onetrust.com 185.87.51.182
-=open-exp.spotifycdn.com 185.246.223.127
+=open-exp.spotifycdn.com 185.87.51.182
 =open.spotify.com 185.87.51.182
 openai.com 94.131.119.22
 =proactivebackend-pa.googleapis.com 142.251.40.202
-pump.fun 185.246.223.127
+pump.fun 185.87.51.182
 qwant.com 185.87.51.182
 =rewards.bing.com 185.250.151.49
 =robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.102.95
-=robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.250.27.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
-=robinfrontend-pa.googleapis.com 173.194.220.95
+=robinfrontend-pa.googleapis.com 172.253.130.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
 =robinfrontend-pa.googleapis.com 209.85.233.95
@@ -105,7 +107,7 @@ squareup.com 185.87.51.182
 =store.supercell.com 144.31.14.104
 =sydney.bing.com 80.74.29.235
 tailscale.com 185.87.51.182
-tidal.com 185.87.51.182
+tidal.com 144.31.14.104
 trae.ai 185.87.51.182
 tria.ge 185.87.51.182
 truthsocial.com 185.87.51.182
@@ -113,8 +115,9 @@ truthsocial.com 185.87.51.182
 =web.archive.org 185.87.51.182
 =webchannel-alkalimakersuite-pa.clients6.google.com 185.250.151.50
 =webchannel-alkalimakersuite-pa.clients6.google.com 80.74.29.235
-windsurf.com 185.87.51.182
-=www-growth.scdn.co 185.246.223.127
+windsurf-telemetry.codeium.com 95.182.120.241
+windsurf.com 95.182.120.241
+=www-growth.scdn.co 185.87.51.182
 =www.spotify.com 185.87.51.182
 x.ai 185.87.51.182
 

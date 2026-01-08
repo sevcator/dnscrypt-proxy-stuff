@@ -293,7 +293,6 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -399,14 +398,12 @@ analytics.dns-shop.ru
 analytics.iportal.ru
 analytics.islamapp.ru
 analytics.marquiz.ru
-analytics.matrp.ru
 analytics.max-admin.ru
 analytics.mobile.yandex.net
 analytics.sandbox.alloka.ru
 analytics.sberhealth.ru
 analytics.staging.alloka.ru
 analytics.sutochno.ru
-analytics.tripster.ru
 analytics.vgtimes.ru
 anekbook.ru
 anime-337.animesvosts.ru
@@ -741,7 +738,6 @@ edirect.efind.ru
 effad.ru
 egg.afisha.ru
 ekoproekt-kr.ru
-elama.ru
 energy63.ru
 englishtopic.ru
 erkapharmcom.webim2.ru
@@ -884,7 +880,6 @@ hitcrypt.xgd3kl.ru
 hitlist.ru
 hitman-pro.ru
 hostiman.ru
-hraminfo.ru
 hro7sgymmjjutujwuy2b42ijzy.mc.yandex.ru
 ht-systems.ru
 htfi.ru
@@ -1008,6 +1003,7 @@ masterh7.adriver.ru
 mastertarget.ru
 matchid.adfox.yandex.ru
 matomo.datago.ru
+matomo.finam.ru
 matomo.tutu.ru
 matomo.x5.ru
 mb9pzp.ru
@@ -1301,6 +1297,8 @@ selec1.adriver.ru
 semena-tut.ru
 sendbox.nocoshop.ru
 sentry-api.sberdevices.ru
+sentry-ingest.kuper.ru
+sentry-mobile-ingest.kuper.ru
 sentry-mobile.mm.ru
 sentry-mobile.prod.ya.magnit.ru
 sentry-tech.cdek.ru
@@ -1723,7 +1721,6 @@ www.glopages.ru
 www.goatse.ru
 www.greatgrace.ru
 www.hitlist.ru
-www.hraminfo.ru
 www.image2you.ru
 www.inetlog.ru
 www.intimshop.ru

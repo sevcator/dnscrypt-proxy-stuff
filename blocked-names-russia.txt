@@ -241,6 +241,7 @@
 8si.ru
 9--000000000000000000000000.stbid.ru
 9--f4dbdf21672c5990eb9910ae.stbid.ru
+92410--18682310-111-mnews.ms.vk.com
 931131.log.rutube.ru
 931132.log.rutube.ru
 931221.log.rutube.ru
@@ -338,7 +339,6 @@ adsrv.hh.ru
 adstreamer.ru
 adsyst.ru
 adtec.ru
-adtech-digital.ru
 adtv-service.teletarget.ru
 adv.vz.ru
 advast.sibnet.ru
@@ -396,7 +396,6 @@ an.yandex.ru
 analytics.alloka.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
-analytics.islamapp.ru
 analytics.marquiz.ru
 analytics.max-admin.ru
 analytics.mobile.yandex.net
@@ -495,7 +494,6 @@ banners-bt.wildberries.ru
 banners.adfox.ru
 banshop.gruntovik.ru
 bardatm.ru
-barristers.ru
 base.animesvosts.ru
 bazr.ru
 bb.a0.top.mail.ru
@@ -573,7 +571,6 @@ cdn.dsp-rambler.ru
 cdn.dsp.onetarget.ru
 cdn.getandgo.ru
 cdn.gpmdata.ru
-cdn.konget.ru
 cdn.mediatoday.ru
 cdn.nashindex.ru
 cdn.otclick-adv.ru
@@ -607,7 +604,6 @@ clubtk.ru
 cm.a.mts.ru
 cm.tns-counter.ru
 cnb.cnews.ru
-cnt.spbland.ru
 code.4hunqp.ru
 code.clicktex.ru
 code.directadvert.ru
@@ -746,12 +742,10 @@ error-hub.tinkoff.ru
 error.videonow.ru
 essay.englishtopic.ru
 etnomagazin.ru
-etobylovjanvare.ru
 ev.adriver.ru
 evangroup.ru
 event-analytics-backend.skyeng.ru
 event.playground.ru
-events-collector-dataplatform.action-media.ru
 events-drru.op.dbankcloud.ru
 events.adx.com.ru
 events.cardsmobile.ru
@@ -955,7 +949,6 @@ l2top.ru
 l6at5oaidmndrqqs3eohlvcciy.mc.yandex.ru
 ladycash.ru
 laimroll.ru
-lameguard.ru
 lbs.yandex.ru
 lcontrols1.ru
 lcontrols2.ru
@@ -1003,7 +996,6 @@ masterh7.adriver.ru
 mastertarget.ru
 matchid.adfox.yandex.ru
 matomo.datago.ru
-matomo.finam.ru
 matomo.tutu.ru
 matomo.x5.ru
 mb9pzp.ru
@@ -1354,6 +1346,7 @@ sites.reformal.ru
 sjsmartcontent.ru
 ska4at.ru
 skwstat.ru
+slowdomen.ru
 sm.rtb.mts.ru
 smartfiles.nocoshop.ru
 smi2.ru
@@ -1413,7 +1406,6 @@ statad.ru
 statchecker.yandex.ru
 static-mon.yandex.net
 static.a.mts.ru
-static.ad-tech.ru
 static.admile.ru
 static.bs-dante.ru
 static.marketolog.mts.ru
@@ -1499,7 +1491,6 @@ telemetry.jivo.ru
 temirtau-adm.ru
 terrhq.ru
 tesorak.ru
-test.personne.ru
 test.radio.mediametrics.ru
 test.rutube.ru
 testingmetriksbre.ru
@@ -1768,7 +1759,6 @@ www.witra.ru
 www.wm-goldenclick.ru
 www.wordstat.yandex.ru
 www.wwwomen.ru
-www.xhostinguy.ru
 www.yandex.com
 www.yandex.net
 www.yastatic.ru
@@ -1780,7 +1770,6 @@ x81p4z.ru
 xaf0ec.ru
 xcec.ru
 xgd3kl.ru
-xhostinguy.ru
 xray.mail.ru
 xvllq2.ru
 ya-distrib.ru

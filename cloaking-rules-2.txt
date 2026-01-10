@@ -84,9 +84,9 @@ qwant.com 185.87.51.182
 =rewards.bing.com 185.250.151.49
 =robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.102.95
+=robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.250.27.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
-=robinfrontend-pa.googleapis.com 172.253.130.95
 =robinfrontend-pa.googleapis.com 173.194.220.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
@@ -96,7 +96,6 @@ qwant.com 185.87.51.182
 =robinfrontend-pa.googleapis.com 64.233.162.95
 =robinfrontend-pa.googleapis.com 64.233.163.95
 =robinfrontend-pa.googleapis.com 64.233.164.95
-=robinfrontend-pa.googleapis.com 64.233.165.95
 =robinfrontend-pa.googleapis.com 74.125.131.95
 =robinfrontend-pa.googleapis.com 74.125.205.95
 rutor.info 172.64.33.155

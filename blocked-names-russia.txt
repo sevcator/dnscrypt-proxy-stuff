@@ -330,6 +330,7 @@ ads.adv-adplatform.ru
 ads.edadeal.ru
 ads.photosight.ru
 ads.rustore.ru
+ads.x5media.ru
 adsdk.yandex.ru
 adservings.ru
 adslinks.ru
@@ -695,7 +696,6 @@ direct.yandex.ru
 directadvert.ru
 directcrm.ru
 directrix.ru
-diskfast.ru
 dl.metabar.ru
 dled.ru
 dmg.digitaltarget.ru
@@ -842,7 +842,6 @@ gso.amocrm.ru
 gt-frontend.weborama-tech.ru
 gvaq70s7he.ru
 gw.botfaqtor.ru
-h13p9v.ru
 hc.uralweb.ru
 hhcdn.ru
 hit.28yw0a.ru
@@ -932,6 +931,7 @@ junyx9.ru
 justclick.ru
 jutsubest.ru
 k5teiv.ru
+kalderon.ru
 kamin-premium.ru
 kamint.ru
 kevents.auth.gid.ru
@@ -996,6 +996,7 @@ masterh7.adriver.ru
 mastertarget.ru
 matchid.adfox.yandex.ru
 matomo.datago.ru
+matomo.tutu.ru
 matomo.x5.ru
 mb9pzp.ru
 mc.kinopoisk.ru
@@ -1079,8 +1080,6 @@ nokia-lifestyle.ru
 nominally.ru
 nova.rambler.ru
 novosti.gnezdo.ru
-ns0.stbid.ru
-ns5.stbid.ru
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 ntdtv.ru
 ntscorp.ru
@@ -1121,7 +1120,6 @@ pay.yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 pb.adriver.ru
 pbnet.ru
 pcyk.ru
-pegasustour.ru
 peopletouch.ru
 phen.fabricmedia.ru
 photo.ashurbeyli.ru
@@ -1345,7 +1343,6 @@ sites.reformal.ru
 sjsmartcontent.ru
 ska4at.ru
 skwstat.ru
-slowdomen.ru
 sm.rtb.mts.ru
 smartfiles.nocoshop.ru
 smi2.ru
@@ -1365,7 +1362,6 @@ softodrom.ru
 soglkuki.prolexgroup.ru
 soloway.ru
 solta-sync.rutarget.ru
-soplifan.ru
 sopr-api.cian.ru
 southrap.ru
 sovetclub.ru
@@ -1448,7 +1444,6 @@ superstyle.ru
 supertop.ru
 supreme2.ru
 sur.gorodkirov.ru
-survstat.ru
 svi.online.sberbank.ru
 svk-native.ru
 sweet211.ru
@@ -1629,7 +1624,6 @@ widget.sparrow.ru
 widgets.livetex.ru
 widgets.planeta.ru
 wificenter.ru
-wikianimez.ru
 winline.ru
 winlinebet.ru
 wmcasher.ru
@@ -1680,7 +1674,6 @@ www.cs33609.tmweb.ru
 www.delquarionore.ru
 www.directadvert.ru
 www.directrix.ru
-www.diskfast.ru
 www.dled.ru
 www.drivenetwork.ru
 www.etnomagazin.ru
@@ -1717,6 +1710,7 @@ www.intimshop.ru
 www.iplogger.ru
 www.jps.ru
 www.justclick.ru
+www.kalderon.ru
 www.konsor.ru
 www.kontrolnaya-rabota.ru
 www.lean74.ru
@@ -1761,6 +1755,7 @@ www.wwwomen.ru
 www.yandex.com
 www.yandex.net
 www.yastatic.ru
+www.yelvornwec.ru
 www.ytgyuityuity.ru
 www.yuga.ru
 www.zy7mw65a.amberweld.ru
@@ -1796,6 +1791,7 @@ yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 ydom21.ru
+yelvornwec.ru
 yhzn0f.ru
 ytgyuityuity.ru
 yuga.ru

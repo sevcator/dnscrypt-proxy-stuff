@@ -685,7 +685,6 @@ dcdn.heroeswm.ru
 dct.mango-office.ru
 dealpatu.ru
 delquarionore.ru
-delta.39o.ru
 demos.ru
 detki-opt.ru
 detmir-stats.ru
@@ -1095,6 +1094,7 @@ old.fsk-ees.ru
 omniqa.ru
 onetarget.ru
 online.animesvosts.ru
+op17.ru
 opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
@@ -1136,7 +1136,6 @@ pixel.smr8.ru
 pixel.vihub.ru
 pkeeper3.ru
 pl2.skwstat.ru
-planshetu.ru
 plastgroup.ru
 play.animesvosts.ru
 pm2.punchmedia.ru

@@ -25,7 +25,6 @@
 1013a--ma--10204--cp12.stbid.ru
 1013a--ma--10204--cp13.stbid.ru
 1013a--ma--10204--cp17.stbid.ru
-1013a--ma--8935--10052.stbid.ru
 1013a--ma--8935--cp199.stbid.ru
 101674.wavesend.ru
 101flag.ru
@@ -224,7 +223,6 @@
 669919130.mc.yandex.ru
 68b27.telecid.ru
 694807445.mc.yandex.ru
-6dp0i7.ru
 6i7y3i.ru
 6wzdsf.ru
 6yd.ru
@@ -261,7 +259,6 @@
 959226489.mc.yandex.ru
 9749125--24136539-111-mnews.ms.vk.com
 985580--46042333-111-mnews.ms.vk.com
-a.funow.ru
 a.lifehacker.ru
 a.mts.ru
 a.pikabu.ru
@@ -409,6 +406,7 @@ analytics.sandbox.alloka.ru
 analytics.sberhealth.ru
 analytics.staging.alloka.ru
 analytics.sutochno.ru
+analytics.tripster.ru
 analytics.vgtimes.ru
 anekbook.ru
 anime-337.animesvosts.ru
@@ -422,7 +420,6 @@ api.a.mts.ru
 api.adeeply.ru
 api.admile.ru
 api.appmetrica.yandex.ru
-api.bonuscake.ru
 api.captcha.clickfraud.ru
 api.expf.ru
 api.lbs.yandex.ru
@@ -461,7 +458,6 @@ autous.ru
 avito.yandex.blablacar.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 avito.yandex.slid3.com
 avr.i-trailer.ru
-avr.tivizor.ru
 avramstroy.ru
 avtoshkola37.ru
 b.dotbrataev.ru
@@ -491,6 +487,7 @@ back.winline.ru
 bakteso.ru
 balakovo24.ru
 balam.paradocs.ru
+bambun.ru
 ban.zab.ru
 bankgarantia.ru
 banner.aismo.ru
@@ -819,11 +816,11 @@ forum.pitomnikgamaun.ru
 fp.bonuscake.ru
 fpzskbc.ru
 free-gluten.ru
+freezpic.ru
 frontlog.tutu.ru
 fsk-ees.ru
 ftjgoda.ru
 fulledu.ru
-funow.ru
 fuojgch.ru
 fywkuzp.ru
 g4blin.ru
@@ -881,7 +878,6 @@ hit37.hotlog.ru
 hitcounter.ru
 hitcrypt.6wzdsf.ru
 hitcrypt.aan8bq.ru
-hitcrypt.bee-cake.ru
 hitcrypt.g4blin.ru
 hitcrypt.icyh3e.ru
 hitcrypt.junyx9.ru
@@ -954,7 +950,6 @@ js.yuga.ru
 junyx9.ru
 justclick.ru
 jutsubest.ru
-k5teiv.ru
 kalderon.ru
 kamin-premium.ru
 kamint.ru
@@ -967,6 +962,7 @@ konsor.ru
 kontrolnaya-rabota.ru
 kraken.rambler.ru
 kurganobl.ru
+kuzina-teatr.ru
 kwidwap.ru
 kz.tns-counter.ru
 l.utorria.ru
@@ -976,7 +972,6 @@ ladycash.ru
 laimroll.ru
 lbs.yandex.ru
 lcontrols1.ru
-lcontrols2.ru
 lcontrols3.ru
 lcontrols4.ru
 ldnkqrt.ru
@@ -985,7 +980,6 @@ leadball.ru
 leadgid.ru
 leadgidads.ru
 leadhit.ru
-lean74.ru
 leboard.ru
 lenta.sparrow.ru
 lenta.svk-native.ru
@@ -1035,6 +1029,7 @@ media-adv.market.yandex.ru
 media-adv.vs.market.yandex.net
 media-advcycle.imgsmail.ru
 media-stat.mail.ru
+media.fulledu.ru
 media.reformal.ru
 mediametrics.ru
 mediatoday.ru
@@ -1046,6 +1041,7 @@ metrics-drru.dt.dbankcloud.ru
 metrics.alfabank.ru
 metrics.aviasales.ru
 metrics.dt.dbankcloud.ru
+metrics.labsystech.ru
 metrics.prom.third-party-app.sberdevices.ru
 metrics.tricolor.ru
 metrics5.dt.dbankcloud.ru
@@ -1146,7 +1142,6 @@ parking.reg.ru
 partner.market.yandex.ru
 partner.yandex.ru
 partners.sbermarketing.ru
-partners2.winline.ru
 pay-click.ru
 pay.yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 pb.adriver.ru
@@ -1177,6 +1172,7 @@ pokrutim.ru
 pool.stbid.ru
 popunder.ru
 popupclick.ru
+posthog.livelib.ru
 prbn.ru
 pricelib.ru
 privacy-cs.mail.ru
@@ -1226,6 +1222,7 @@ qos-api.ott.yandex.net
 quicklinks.nocoshop.ru
 quotiq.ru
 qwertzx.ru
+qxplus.ru
 r0.mail.ru
 r3.mail.ru
 r5hsid.ru
@@ -1446,7 +1443,6 @@ static.nativerent.ru
 static.popmechanic.ru
 static.skwstat.ru
 static.traffic.ru
-static.trustlink.ru
 static.videonow.ru
 static.wi-fi.ru
 static.yandex.net
@@ -1476,6 +1472,7 @@ stun.demos.ru
 stylexlab.ru
 subscriptions.rambler.ru
 super-traf.ru
+supercleanspb.ru
 superstyle.ru
 supertop.ru
 supreme2.ru
@@ -1536,6 +1533,7 @@ tnative.ru
 tns-counter.ru
 top-fwz1.mail.ru
 top.elec.ru
+top.gde.ru
 top.mail.ru
 top100.rambler.ru
 top5.mail.ru
@@ -1696,7 +1694,6 @@ vipko.ru
 visor.adtec.ru
 visor.sberbank.ru
 vkl-design.ru
-vkserfing.ru
 vladtime.ru
 vmkxcsss.ru
 vp.rambler.ru
@@ -1709,6 +1706,7 @@ vzarabotke.ru
 w.rulive.ru
 w13mk6.ru
 wapfmkmi.ru
+warlog.ru
 wavesend.ru
 wcm.weborama-tech.ru
 weatherarchive.ru
@@ -1825,7 +1823,6 @@ www.justclick.ru
 www.kalderon.ru
 www.konsor.ru
 www.kontrolnaya-rabota.ru
-www.lean74.ru
 www.lovemate.ru
 www.mc.yandex.ru
 www.mstone-ufa.ru
@@ -1836,6 +1833,7 @@ www.popunder.ru
 www.pr-cy.ru
 www.pricelib.ru
 www.qwertzx.ru
+www.qxplus.ru
 www.redirect.appmetrica.yandex.com
 www.rzima.ru
 www.saf-oil.ru
@@ -1851,6 +1849,7 @@ www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
 www.torroot.ru
+www.udobrit.ru
 www.unlockers.ru
 www.uralmetalloprokat.ru
 www.vaflashtern.ru
@@ -1931,15 +1930,14 @@ zachestnyibiznes.ru
 zags.kurganobl.ru
 zamanula.ru
 zaoshang.ru
+zapchast-gazkotel.ru
 zboxkzt.ru
 zdppgkkz.ru
 zefjrtb.ru
 zen-mobile-site.mediascope.mc.yandex.ru
 zewkzwg.ru
 zhxxatz.ru
-zibravopl.ru
 zickxamo.ru
-zimnie-kanikuly.computeria.ru
 zippyfiles.nocoshop.ru
 zkkibgs.ru
 zmqdez.ru

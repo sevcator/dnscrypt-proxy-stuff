@@ -292,7 +292,6 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -406,7 +405,6 @@ analytics.sandbox.alloka.ru
 analytics.sberhealth.ru
 analytics.staging.alloka.ru
 analytics.sutochno.ru
-analytics.tripster.ru
 analytics.vgtimes.ru
 anekbook.ru
 anime-337.animesvosts.ru
@@ -613,6 +611,7 @@ clubtk.ru
 cm.a.mts.ru
 cm.tns-counter.ru
 cnb.cnews.ru
+cnt.krasland.ru
 code.4hunqp.ru
 code.clicktex.ru
 code.directadvert.ru
@@ -750,6 +749,7 @@ energy63.ru
 englishtopic.ru
 erkapharmcom.webim2.ru
 err.agava.ru
+err.lenta.ru
 error-hub.tinkoff.ru
 error.videonow.ru
 essay.englishtopic.ru
@@ -863,7 +863,6 @@ gw.botfaqtor.ru
 hc.uralweb.ru
 hhcdn.ru
 hit.28yw0a.ru
-hit.5d0rac.ru
 hit.aan8bq.ru
 hit.bbj3nb.ru
 hit.g4blin.ru
@@ -1041,7 +1040,6 @@ metrics-drru.dt.dbankcloud.ru
 metrics.alfabank.ru
 metrics.aviasales.ru
 metrics.dt.dbankcloud.ru
-metrics.labsystech.ru
 metrics.prom.third-party-app.sberdevices.ru
 metrics.tricolor.ru
 metrics5.dt.dbankcloud.ru
@@ -1172,7 +1170,6 @@ pokrutim.ru
 pool.stbid.ru
 popunder.ru
 popupclick.ru
-posthog.livelib.ru
 prbn.ru
 pricelib.ru
 privacy-cs.mail.ru
@@ -1298,6 +1295,7 @@ s019.radikal.ru
 s1.intimshop.ru
 s1.mpsuadv.ru
 s2.mpsuadv.ru
+s4.intimshop.ru
 sape.ru
 sba.yandex.net
 sbbe.group-ib.ru
@@ -1539,6 +1537,7 @@ top100.rambler.ru
 top5.mail.ru
 topcpa.ru
 toptracker.ru
+topwork24.ru
 torroot.ru
 touchmail.radar.imgsmail.ru
 tptrk.ru
@@ -1709,6 +1708,7 @@ wapfmkmi.ru
 warlog.ru
 wavesend.ru
 wcm.weborama-tech.ru
+wdzbt76z.ru
 weatherarchive.ru
 web-metrica.yandex.ru
 web.redhelper.ru
@@ -1716,6 +1716,7 @@ webim2.ru
 webkamerton.ru
 webkurchatov.ru
 weborama-tech.ru
+websurf.ru
 weupload.nocoshop.ru
 wf-ru-frontend.weborama-tech.ru
 wfzidwb.ru
@@ -1857,6 +1858,7 @@ www.veloturist.ru
 www.videonow.ru
 www.vigvam.ru
 www.vladtime.ru
+www.warlog.ru
 www.weatherarchive.ru
 www.witra.ru
 www.wm-goldenclick.ru
@@ -1896,7 +1898,6 @@ yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.avito.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.blablacar.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
-yandex.id-101054214794236.theuniononline.com
 yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com

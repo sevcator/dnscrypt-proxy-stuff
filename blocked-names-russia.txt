@@ -167,7 +167,6 @@
 45212.ms.vk.com
 452885495.mc.yandex.ru
 45950.wavesend.ru
-4622212.redirect.appmetrica.yandex.com
 4788685.redirect.appmetrica.yandex.com
 4818364--43618728-111-mnews.ms.vk.com
 483327265.mc.yandex.ru
@@ -397,7 +396,6 @@ an.yandex.ru
 analytics.alloka.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
-analytics.islamapp.ru
 analytics.marquiz.ru
 analytics.max-admin.ru
 analytics.mobile.yandex.net
@@ -1017,7 +1015,6 @@ masterh7.adriver.ru
 mastertarget.ru
 matchid.adfox.yandex.ru
 matomo.datago.ru
-matomo.tutu.ru
 matomo.x5.ru
 mb9pzp.ru
 mc.kinopoisk.ru

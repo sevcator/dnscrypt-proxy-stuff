@@ -298,8 +298,10 @@ ad.mail.ru
 ad.mpsuadv.ru
 ad.pravda.ru
 ad.video-mech.ru
+ad1.mpsuadv.ru
 ad1.sibnet.ru
 ad1game.ru
+ad2.mpsuadv.ru
 adeeply.ru
 adfox-hb-bidder.rutarget.ru
 adfox.ru
@@ -478,6 +480,9 @@ b5.a0.top.list.ru
 b5.a1.top.list.ru
 b5.csdnevnik.ru
 b6.csdnevnik.ru
+b7.a1.top.mail.ru
+b9.a1.top.mail.ru
+ba.a1.top.mail.ru
 baburxan.ru
 back.winline.ru
 bakteso.ru
@@ -496,6 +501,7 @@ bardatm.ru
 base.animesvosts.ru
 bazr.ru
 bb.a0.top.mail.ru
+bb.a1.top.mail.ru
 bbj3nb.ru
 bd.a0.top.mail.ru
 bddfaozk.ru
@@ -585,6 +591,7 @@ cdn.snsv.ru
 cdn2.adplay.ru
 cdn2.adrun.ru
 cdnrtbsape.ru
+ce.ba.a1.top.mail.ru
 checker.cityads.ru
 checks.botfaqtor.ru
 chiptuner.ru
@@ -673,6 +680,7 @@ cvt1.sibnet.ru
 cyberstyle.ru
 cybertown.ru
 d.botfaqtor.ru
+d1.ce.ba.a1.top.mail.ru
 d3.c7.b0.a1.top.list.ru
 d6.c1.b5.a1.top.list.ru
 dadata.ru
@@ -691,6 +699,7 @@ dcdn.heroeswm.ru
 dct.mango-office.ru
 dealpatu.ru
 delquarionore.ru
+demo.punchmedia.ru
 demos.ru
 deosyae.ru
 detki-opt.ru
@@ -889,6 +898,7 @@ hitlist.ru
 hitman-pro.ru
 hjpqgxrt.ru
 hleenphf.ru
+homework.ru
 hostiman.ru
 hro7sgymmjjutujwuy2b42ijzy.mc.yandex.ru
 ht-systems.ru
@@ -904,6 +914,7 @@ icyh3e.ru
 id.adx.com.ru
 id.google.ru
 ideibiznesa2015.ru
+igpran.ru
 im-sentry.sportmaster.ru
 image.sendsay.ru
 image2you.ru
@@ -1814,6 +1825,8 @@ www.glopages.ru
 www.goatse.ru
 www.greatgrace.ru
 www.hitlist.ru
+www.homework.ru
+www.igpran.ru
 www.image2you.ru
 www.inetlog.ru
 www.intimshop.ru
@@ -1841,6 +1854,7 @@ www.sape.ru
 www.semena-tut.ru
 www.spot-sanorex.ru
 www.stats.ucheba.ru
+www.stoletie.ru
 www.stylexlab.ru
 www.teamx.ru
 www.tesorak.ru

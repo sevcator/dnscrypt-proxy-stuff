@@ -160,6 +160,7 @@
 4137459483.mc.yandex.ru
 4199853129.mc.yandex.ru
 423.ru
+4237138.redirect.appmetrica.yandex.com
 4283631389.mc.yandex.ru
 43212.ms.vk.com
 438130389.mc.yandex.ru
@@ -291,6 +292,7 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
+ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -398,6 +400,7 @@ an.yandex.ru
 analytics.alloka.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
+analytics.islamapp.ru
 analytics.marquiz.ru
 analytics.max-admin.ru
 analytics.mobile.yandex.net
@@ -981,7 +984,6 @@ ladycash.ru
 laimroll.ru
 lbs.yandex.ru
 lcontrols1.ru
-lcontrols3.ru
 lcontrols4.ru
 ldnkqrt.ru
 leadback.ru
@@ -1028,6 +1030,7 @@ masterh7.adriver.ru
 mastertarget.ru
 matchid.adfox.yandex.ru
 matomo.datago.ru
+matomo.finam.ru
 matomo.x5.ru
 mb9pzp.ru
 mc.kinopoisk.ru
@@ -1180,6 +1183,7 @@ pokrutim.ru
 pool.stbid.ru
 popunder.ru
 popupclick.ru
+posthog.livelib.ru
 prbn.ru
 pricelib.ru
 privacy-cs.mail.ru

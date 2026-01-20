@@ -10,6 +10,7 @@
 # schakal.ru alive hosts
 02ip.ru
 04xmhp.ru
+0gs25f.ru
 0pn.ru
 1-1ad5be0d15f2820da1d566b3.id.adx.com.ru
 1.ska4at.ru
@@ -136,6 +137,7 @@
 3430240874.mc.yandex.ru
 34312.ms.vk.com
 34412.ms.vk.com
+34511.ms.vk.com
 34512.ms.vk.com
 3461547945.mc.yandex.ru
 34bogatirya.ru
@@ -213,6 +215,7 @@
 632221.ms.vk.com
 64-school.ru
 641111.ms.vk.com
+641111.ms.vk.ru
 641211.ms.vk.com
 642121.ms.vk.com
 642221.ms.vk.com
@@ -237,6 +240,8 @@
 836613652.mc.yandex.ru
 848415--53796617-111-mnews.ms.vk.com
 881047328.mc.yandex.ru
+882ybcdzjwi1.ru
+89712--33348177-111-mnews.ms.vk.com
 8si.ru
 9--000000000000000000000000.stbid.ru
 9--f4dbdf21672c5990eb9910ae.stbid.ru
@@ -383,6 +388,7 @@ all-infowow.ru
 all4bath.ru
 alloysteel.ru
 allstat-pp.ru
+alltimeru.webim.ru
 allwomens.ru
 alt-cloud.radar.imgsmail.ru
 altergeo.ru
@@ -408,6 +414,7 @@ analytics.sandbox.alloka.ru
 analytics.sberhealth.ru
 analytics.staging.alloka.ru
 analytics.sutochno.ru
+analytics.tele2.ru
 analytics.vgtimes.ru
 anekbook.ru
 anime-337.animesvosts.ru
@@ -416,7 +423,9 @@ animesvosts.ru
 antalya.ru
 ap.adriver.ru
 ap7.ru
+api-an.tutu.ru
 api-ui.opendsp.ru
+api-x.tutu.ru
 api.a.mts.ru
 api.adeeply.ru
 api.admile.ru
@@ -436,12 +445,12 @@ apistats.rg.ru
 app.konget.ru
 app.uaas.yandex.ru
 apple-service93.ru
+appmetrica.sovcombank.ru
 appmetrica.yandex.com
 appmetrica.yandex.ru
 appmetrika.yandex.ru
 apptracer.ru
 ar.tns-counter.ru
-aristo.ru
 artscreenstudio.ru
 ashfkwu.ru
 ashurbeyli.ru
@@ -453,6 +462,7 @@ audi-club.ru
 audience.yandex.ru
 auth.tlauncher.ru
 autocontext.begun.ru
+autodetali-161.ru
 autofill.yandex.ru
 autoru-mag.s3.yandex.net
 autous.ru
@@ -513,6 +523,7 @@ be.a0.top.list.ru
 bee-cake.ru
 begun.ru
 beta.mediafort.ru
+betboomru.webim.ru
 between-sync.rutarget.ru
 bf.a0.top.list.ru
 bfds.sberbank.ru
@@ -529,7 +540,6 @@ blablacar.yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketub
 blamper.ru
 blocked.botfaqtor.ru
 bn.winlinebet.ru
-boltorg.ru
 bonus-betting.ru
 bonuscake.ru
 bortogat.ru
@@ -584,6 +594,7 @@ cdn.dsp-rambler.ru
 cdn.dsp.onetarget.ru
 cdn.getandgo.ru
 cdn.gpmdata.ru
+cdn.leadgenic.ru
 cdn.mediatoday.ru
 cdn.nashindex.ru
 cdn.otclick-adv.ru
@@ -658,6 +669,7 @@ counter.yandex.com
 counter.yandex.ru
 covid-19.wp20.ru
 cp.onicon.ru
+cpa-elements.rambler.ru
 cpa.hh.ru
 cpazilla.ru
 cprojects.radar.imgsmail.ru
@@ -701,14 +713,12 @@ db.c3.bb.a0.top.mail.ru
 dcdn.heroeswm.ru
 dct.mango-office.ru
 dealpatu.ru
-delquarionore.ru
 demo.punchmedia.ru
 demos.ru
 deosyae.ru
 detki-opt.ru
 detmir-stats.ru
 dgpclgy.ru
-dienai.ru
 digitaltarget.ru
 direct.yandex.net
 direct.yandex.ru
@@ -729,6 +739,7 @@ doptik.ru
 dowonline.ru
 dp.tinkoff.ru
 dr.yandex.net
+drvive.lamoda.ru
 dryum.ru
 ds-frontend.weborama-tech.ru
 ds.serving-sys.ru
@@ -754,6 +765,7 @@ edirect.efind.ru
 effad.ru
 efgjeph.ru
 egg.afisha.ru
+eimage.sendsay.ru
 ekoproekt-kr.ru
 energy63.ru
 englishtopic.ru
@@ -775,6 +787,7 @@ events.ivi.ru
 events.maps.vk.com
 events.plus.yandex.net
 evgeniys.ru
+evt.uchi.ru
 exad.smi2.ru
 ext.terrhq.ru
 eye.agency2.ru
@@ -814,6 +827,7 @@ fcgi5.2xclick.ru
 fcgi5.gnezdo.ru
 fcgi7.gnezdo.ru
 febrare.ru
+feeds.kommersant.ru
 ff.astv.ru
 filedrive.nocoshop.ru
 filekeeper.nocoshop.ru
@@ -821,6 +835,7 @@ filestation.nocoshop.ru
 filmplus.ru
 fjbpwlp.ru
 flyroll.ru
+fmon.citilink.ru
 forextimes.ru
 forum.pitomnikgamaun.ru
 fp.bonuscake.ru
@@ -844,6 +859,7 @@ gb2-banners.adriver.ru
 gb2-files.adriver.ru
 gdeslon.ru
 gdl.i9dhjx.ru
+geo.grattis.ru
 geofamily.ru
 get-ads.ru
 getads.ru
@@ -852,6 +868,7 @@ getyoursoft.ru
 ggjadv435qu4aborvaytooob3q.mc.yandex.ru
 gigamega.ru
 girlporn.ru
+gitlab.skillbox.ru
 gjocmdx.ru
 globalscience.ru
 glopages.ru
@@ -873,6 +890,7 @@ gvaq70s7he.ru
 gw.botfaqtor.ru
 hc.uralweb.ru
 hhcdn.ru
+hisearch-drru.dt.dbankcloud.ru
 hit.28yw0a.ru
 hit.aan8bq.ru
 hit.bbj3nb.ru
@@ -984,7 +1002,6 @@ ladycash.ru
 laimroll.ru
 lbs.yandex.ru
 lcontrols1.ru
-lcontrols4.ru
 ldnkqrt.ru
 leadback.ru
 leadball.ru
@@ -1050,6 +1067,7 @@ metrica-yandex.com
 metrica.yandex.com
 metrica.yandex.ru
 metrics-drru.dt.dbankcloud.ru
+metrics-flow.key.rt.ru
 metrics.alfabank.ru
 metrics.aviasales.ru
 metrics.dt.dbankcloud.ru
@@ -1100,6 +1118,7 @@ nalozhka.yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketube
 nashindex.ru
 nashvek.ru
 nasimke.ru
+nel.wb.ru
 neobasnet.timeout.ru
 neosap.ru
 netlog.ru
@@ -1107,6 +1126,7 @@ newline.ucoz.ru
 newmygreenwaycom.webim2.ru
 news.2xclick.ru
 news.gnezdo.ru
+news.gnezdo2.ru
 news.mediametrics.ru
 news.ms.vk.com
 news.rin.ru
@@ -1140,6 +1160,7 @@ openx.cnews.ru
 openx.ctlc.ru
 ops.beeline.ru
 orenburgkniga.ru
+ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
 owlcity.ru
@@ -1147,6 +1168,7 @@ ox.techart.ru
 ozon.yandex.paypail24h-support-id58765.elearningmine.com
 p.winline.ru
 p95bxv.ru
+pageservice-drru.dt.dbankcloud.ru
 papi.gameinstaller.ru
 paradocs.ru
 parking.reg.ru
@@ -1171,6 +1193,7 @@ pixel.demo.dsp.onetarget.ru
 pixel.dsp.onetarget.ru
 pixel.id.x5.ru
 pixel.konnektu.ru
+pixel.rambler.ru
 pixel.smr8.ru
 pixel.vihub.ru
 pkeeper3.ru
@@ -1209,6 +1232,7 @@ push.svk-native.ru
 pushlog.wsoft.ru
 pwcalc.ru
 px.ad-tech.ru
+px.hsmedia.ru
 px117.telecid.ru
 px269.telecid.ru
 px316.telecid.ru
@@ -1245,6 +1269,7 @@ rb-ya.ru
 rbcv7s.ru
 rcm.rambler.ru
 rcmjs.rambler.ru
+read.sendsay.ru
 readme.ru
 readto.ru
 redirect-frontend.weborama-tech.ru
@@ -1317,6 +1342,7 @@ sbcoklho.ru
 sber.yandex.slid3.com
 sbermarket.yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 sbermarketing.ru
+sc.grattis.ru
 sca.ad-tech.ru
 scczkjidyov6zvha6vs3py3yca.mc.yandex.ru
 scounter.rambler.ru
@@ -1324,6 +1350,7 @@ scripts.botfaqtor.ru
 sdk-api.apptracer.ru
 sdlmpwrr.ru
 sdvgpro.ru
+searchnews-drru.dt.dbankcloud.ru
 secretfiles.nocoshop.ru
 secure-ads.yandex.com
 secure-ads.yandex.ru
@@ -1331,13 +1358,19 @@ selec1.adriver.ru
 semena-tut.ru
 sendbox.nocoshop.ru
 sentry-api.sberdevices.ru
+sentry-devtools.qsrapp.ru
 sentry-ingest.kuper.ru
 sentry-mobile-ingest.kuper.ru
+sentry-mobile.alfabank.ru
+sentry-mobile.ivi.ru
+sentry-mobile.lamoda.ru
 sentry-mobile.mm.ru
 sentry-mobile.prod.ya.magnit.ru
+sentry-saas.rambler-co.ru
 sentry-tech.cdek.ru
 sentry-yc.kanobu.ru
 sentry.belkacar.ru
+sentry.domclick.ru
 sentry.hh.ru
 sentry.iptv.rt.ru
 sentry.megapteka.ru
@@ -1350,6 +1383,8 @@ sentry.streamvi.ru
 sentry.sutochno.ru
 sentry.trychatgpt.ru
 sentry.tutorplace.ru
+sentry.tutu.ru
+sentry.uteka.ru
 sentry.vedomosti.ru
 sentry.winline.ru
 sentry.x5.ru
@@ -1415,7 +1450,6 @@ sovetnik.market.yandex.ru
 sp.aviasales.ru
 sparrow.ru
 sporttouch.radar.imgsmail.ru
-spot-sanorex.ru
 sskarta.ru
 ssl.adriver.ru
 ssp-rtb-ru.sape.ru
@@ -1424,6 +1458,7 @@ ssp.adriver.ru
 ssp.agency2.ru
 ssp.rambler.ru
 ssp.rutube.ru
+ssp01.rambler.ru
 st.directadvert.ru
 st.film.ru
 st.top100.ru
@@ -1443,12 +1478,14 @@ stat.sputnik.ru
 stat.tlauncher.ru
 stat.videonow.ru
 stat1.clickfraud.ru
+stat4.russianfood.com
 statad.ru
 statchecker.yandex.ru
 static-mon.yandex.net
 static.a.mts.ru
 static.admile.ru
 static.bs-dante.ru
+static.calltouch.ru
 static.marketolog.mts.ru
 static.me-talk.ru
 static.nativerent.ru
@@ -1464,6 +1501,7 @@ statistics-bt.wildberries.ru
 statistics.fppressa.ru
 stats-dev.videonow.ru
 stats.avito.ru
+stats.gastronom.ru
 stats.klops.ru
 stats.mos.ru
 stats.rustore.ru
@@ -1479,6 +1517,7 @@ storage.agency2.ru
 storage.sbermarketing.ru
 stream.datago.ru
 studentguide.ru
+studlance.ru
 stuffed.ru
 stun.demos.ru
 stylexlab.ru
@@ -1492,6 +1531,7 @@ sur.gorodkirov.ru
 svi.online.sberbank.ru
 svk-native.ru
 sweet211.ru
+swft.vedomosti.ru
 swtest.ru
 sync.adplay.ru
 sync.opendsp.ru
@@ -1524,6 +1564,7 @@ technika-remont.ru
 tehno-politen.ru
 telecid.ru
 telegraf.detmir-stats.ru
+telemetry.detmir.ru
 telemetry.domclick.ru
 telemetry.dzen.ru
 telemetry.jivo.ru
@@ -1597,6 +1638,7 @@ upandshare.nocoshop.ru
 uptime-info.yandex.ru
 uptolike.ru
 user-banner.wb.ru
+usercenter-drru.dt.dbankcloud.ru
 utbrmczo.ru
 utimg.ru
 utorria.ru
@@ -1760,10 +1802,12 @@ wpfyafqx.ru
 wrc-info.ru
 wriymdo.ru
 ws.callibri.ru
+ws.calltouch.ru
 wss.winline.ru
 wsys.winline.ru
 wt.rutube.ru
 wuweotb.ru
+ww2.wdzbt76z.ru
 www.1000russianwomen.com
 www.1cont.ru
 www.1directory.ru
@@ -1788,6 +1832,7 @@ www.amberweld.ru
 www.amt-k.ru
 www.ap7.ru
 www.audi-club.ru
+www.autodetali-161.ru
 www.avramstroy.ru
 www.baburxan.ru
 www.betsonsport.ru
@@ -1796,7 +1841,6 @@ www.clck.ru
 www.comagic.ru
 www.consultant-online.ru
 www.cs33609.tmweb.ru
-www.delquarionore.ru
 www.directadvert.ru
 www.directrix.ru
 www.dled.ru
@@ -1856,7 +1900,6 @@ www.rzima.ru
 www.saf-oil.ru
 www.sape.ru
 www.semena-tut.ru
-www.spot-sanorex.ru
 www.stats.ucheba.ru
 www.stoletie.ru
 www.stylexlab.ru
@@ -1867,6 +1910,7 @@ www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
 www.torroot.ru
+www.ubar-pro4.ru
 www.udobrit.ru
 www.unlockers.ru
 www.uralmetalloprokat.ru
@@ -1889,6 +1933,7 @@ www.ytgyuityuity.ru
 www.yuga.ru
 www.zy7mw65a.amberweld.ru
 wwwomen.ru
+wwwsmclinicru.webim.ru
 x81p4z.ru
 xaf0ec.ru
 xaxzdpxu.ru

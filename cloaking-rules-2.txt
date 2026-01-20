@@ -17,7 +17,6 @@
 anthropic.com 80.74.29.235
 =api-partner.spotify.com 45.155.204.190
 =api.spotify.com 45.155.204.190
-=assistant-s3-pa.googleapis.com 185.250.151.50
 =assistant-s3-pa.googleapis.com 80.74.29.235
 auth0.com 45.155.204.190
 autodesk.com 45.155.204.190

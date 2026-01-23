@@ -277,10 +277,9 @@ a.wb.ru
 a.winline.ru
 a0.smi2.ru
 a0.top.list.ru
-a0.top.mail.ru
 a1.smi2.ru
 a1.top.list.ru
-a2.top.mail.ru
+a1210867.xsph.ru
 a24help.ru
 a3.smi2.ru
 a4.smi2.ru
@@ -403,14 +402,10 @@ an.mail.ru
 an.media-active.ru
 an.yandex.com
 an.yandex.ru
-analytics.a-plus.ru
 analytics.alloka.ru
-analytics.click-or-die.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
-analytics.islamapp.ru
 analytics.marquiz.ru
-analytics.matrp.ru
 analytics.max-admin.ru
 analytics.mobile.yandex.net
 analytics.sandbox.alloka.ru
@@ -460,6 +455,7 @@ ashurbeyli.ru
 ask-gps.ru
 asl-company.ru
 asr.openssp.ru
+assets.nativerent.ru
 astralab-sync.rutarget.ru
 audi-club.ru
 audience.yandex.ru
@@ -476,19 +472,14 @@ avramstroy.ru
 avtoshkola37.ru
 b.dotbrataev.ru
 b.netall.ru
-b0.a0.top.mail.ru
 b0.a1.top.list.ru
-b0.a2.top.mail.ru
 b1.a1.top.list.ru
-b1.a2.top.mail.ru
 b13.penzainform.ru
 b2.a1.top.list.ru
-b2.a2.top.mail.ru
 b2.csdnevnik.ru
 b23.ru
 b2bcontext.ru
 b3.a1.top.list.ru
-b3.a2.top.mail.ru
 b3.csdnevnik.ru
 b4.a1.top.list.ru
 b4.csdnevnik.ru
@@ -496,9 +487,6 @@ b5.a0.top.list.ru
 b5.a1.top.list.ru
 b5.csdnevnik.ru
 b6.csdnevnik.ru
-b7.a1.top.mail.ru
-b9.a1.top.mail.ru
-ba.a1.top.mail.ru
 baburxan.ru
 back.winline.ru
 bakteso.ru
@@ -516,10 +504,7 @@ banshop.gruntovik.ru
 bardatm.ru
 base.animesvosts.ru
 bazr.ru
-bb.a0.top.mail.ru
-bb.a1.top.mail.ru
 bbj3nb.ru
-bd.a0.top.mail.ru
 bddfaozk.ru
 bdgadv.ru
 be.a0.top.list.ru
@@ -572,12 +557,10 @@ c.trwk.ru
 c.twkv.ru
 c1.b5.a1.top.list.ru
 c1.politexpert.ru
-c3.bb.a0.top.mail.ru
 c7.b0.a1.top.list.ru
 callback.onlinepbx.ru
 callibri.ru
 captcha.clickfraud.ru
-cartechnic.ru
 catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
@@ -608,7 +591,6 @@ cdn.snsv.ru
 cdn2.adplay.ru
 cdn2.adrun.ru
 cdnrtbsape.ru
-ce.ba.a1.top.mail.ru
 checker.cityads.ru
 checks.botfaqtor.ru
 chiptuner.ru
@@ -698,7 +680,6 @@ cvt1.sibnet.ru
 cyberstyle.ru
 cybertown.ru
 d.botfaqtor.ru
-d1.ce.ba.a1.top.mail.ru
 d3.c7.b0.a1.top.list.ru
 d6.c1.b5.a1.top.list.ru
 dadata.ru
@@ -712,7 +693,6 @@ data.skwstat.ru
 data.videonow.ru
 datacollector-drru.dt.dbankcloud.ru
 datatracking.ru
-db.c3.bb.a0.top.mail.ru
 dcdn.heroeswm.ru
 dct.mango-office.ru
 dealpatu.ru
@@ -1050,8 +1030,6 @@ masterh7.adriver.ru
 mastertarget.ru
 matchid.adfox.yandex.ru
 matomo.datago.ru
-matomo.finam.ru
-matomo.tutu.ru
 matomo.x5.ru
 mb9pzp.ru
 mc.kinopoisk.ru
@@ -1075,7 +1053,6 @@ metrics-flow.key.rt.ru
 metrics.alfabank.ru
 metrics.aviasales.ru
 metrics.dt.dbankcloud.ru
-metrics.labsystech.ru
 metrics.prom.third-party-app.sberdevices.ru
 metrics.tricolor.ru
 metrics5.dt.dbankcloud.ru
@@ -1301,6 +1278,7 @@ reviveadserver.ru
 riabir.ru
 riontos.ru
 rmbn.ru
+robluxglft.ru
 rooftop7.ru
 rosenberg.appmetrica.yandex.net
 rot.rusoul.ru
@@ -1822,6 +1800,7 @@ www.423.ru
 www.5forex.ru
 www.777-club.ru
 www.8si.ru
+www.a1210867.xsph.ru
 www.activepr.ru
 www.ad-words.ru
 www.adv.yandex.ru
@@ -1901,6 +1880,7 @@ www.pricelib.ru
 www.qwertzx.ru
 www.qxplus.ru
 www.redirect.appmetrica.yandex.com
+www.robluxglft.ru
 www.rzima.ru
 www.saf-oil.ru
 www.sape.ru

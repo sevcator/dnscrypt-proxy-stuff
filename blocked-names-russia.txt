@@ -732,7 +732,6 @@ dsp.programmatic.ru
 dsp.rtb.mts.ru
 dt.dbankcloud.ru
 duhboga.ru
-dwhapi.ext.terrhq.ru
 dx-frontend.weborama-tech.ru
 e1.skwstat.ru
 e2.skwstat.ru
@@ -1438,7 +1437,6 @@ ssl.adriver.ru
 ssp-rtb-ru.sape.ru
 ssp-rtb.sape.ru
 ssp.adriver.ru
-ssp.agency2.ru
 ssp.rambler.ru
 ssp.rutube.ru
 ssp01.rambler.ru
@@ -1883,7 +1881,6 @@ www.redirect.appmetrica.yandex.com
 www.robluxglft.ru
 www.rzima.ru
 www.saf-oil.ru
-www.sape.ru
 www.semena-tut.ru
 www.stats.ucheba.ru
 www.stoletie.ru

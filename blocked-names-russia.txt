@@ -346,6 +346,7 @@ adstreamer.ru
 adsyst.ru
 adtec.ru
 adtv-service.teletarget.ru
+adv-adplatform.ru
 adv.vz.ru
 advast.sibnet.ru
 advertise.ru
@@ -455,7 +456,6 @@ ashurbeyli.ru
 ask-gps.ru
 asl-company.ru
 asr.openssp.ru
-assets.nativerent.ru
 astralab-sync.rutarget.ru
 audi-club.ru
 audience.yandex.ru
@@ -570,6 +570,7 @@ cdn-rtb.sape.ru
 cdn.ad-tech.ru
 cdn.adplay.ru
 cdn.adtec.ru
+cdn.adv-adplatform.ru
 cdn.advideo.ru
 cdn.adx.com.ru
 cdn.bazr.ru
@@ -912,6 +913,7 @@ hwmonitor-ru.ru
 hybrid.ru
 hyper-sync.rutarget.ru
 hyzaifx.ru
+iacis.ru
 iceprogs.ru
 icyh3e.ru
 id.adx.com.ru

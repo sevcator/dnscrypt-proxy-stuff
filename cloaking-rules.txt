@@ -32,6 +32,7 @@ codeium.com 45.155.204.190
 deepl.com 45.155.204.190
 dell.com 45.155.204.190
 dyson.com 45.155.204.190
+dyson.fr 144.31.14.104
 =edgeservices.bing.com 45.155.204.190
 elevenlabs.io 45.155.204.190
 elevenreader.io 45.155.204.190
@@ -39,7 +40,6 @@ elgato.com 45.155.204.190
 =encore.scdn.co 45.155.204.190
 =files.oaiusercontent.com 45.155.204.190
 framer.com 45.155.204.190
-frontend-api-v3.pump.fun 45.155.204.190
 =game-assets.brawlstarsgame.com 144.31.14.104
 =game-assets.clashofclans.com 144.31.14.104
 =game-assets.clashroyaleapp.com 144.31.14.104
@@ -52,7 +52,6 @@ frontend-api-v3.pump.fun 45.155.204.190
 =gew1-spclient.spotify.com 45.155.204.190
 grok.com 45.155.204.190
 guidedhacking.com 45.155.204.190
-images.pump.fun 45.155.204.190
 intel.com 45.155.204.190
 jetbrains.ai 45.155.204.190
 jetbrains.com 45.155.204.190
@@ -74,7 +73,7 @@ onetrust.com 45.155.204.190
 openai.com 45.155.204.190
 patreon.com 45.155.204.190
 =proactivebackend-pa.googleapis.com 45.155.204.190
-pump.fun 95.182.120.241
+pump.fun 45.155.204.190
 qwant.com 45.155.204.190
 =rewards.bing.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 45.155.204.190
@@ -84,10 +83,8 @@ sora.com 45.155.204.190
 =spclient.wg.spotify.com 45.155.204.190
 squadbustersgame.com 108.61.167.26
 squareup.com 45.155.204.190
-static-assets-1.truthsocial.com 95.182.120.241
 =stitch.withgoogle.com 45.155.204.190
 =store.supercell.com 144.31.14.104
-swap-api.pump.fun 45.155.204.190
 =sydney.bing.com 45.155.204.190
 tailscale.com 45.155.204.190
 tidal.com 144.31.14.104
@@ -97,8 +94,11 @@ truthsocial.com 45.155.204.190
 =usher.ttvnw.net 45.155.204.190
 =web.archive.org 45.155.204.190
 =webchannel-alkalimakersuite-pa.clients6.google.com 45.155.204.190
+windsurf-telemetry.codeium.com 144.31.14.104
 windsurf.com 45.155.204.190
 =www-growth.scdn.co 45.155.204.190
+www.canva.com 144.31.14.104
+www.dyson.com 144.31.14.104
 =www.spotify.com 45.155.204.190
 x.ai 45.155.204.190
 

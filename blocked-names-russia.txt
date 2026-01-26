@@ -685,7 +685,6 @@ d3.c7.b0.a1.top.list.ru
 d6.c1.b5.a1.top.list.ru
 dadata.ru
 daily.heroeswm.ru
-dajak.vafrike.ru
 damianis.ru
 dapf.ru
 darknagar.ru
@@ -733,6 +732,7 @@ dsp.programmatic.ru
 dsp.rtb.mts.ru
 dt.dbankcloud.ru
 duhboga.ru
+duhsv690.cinderpouch.ru
 dx-frontend.weborama-tech.ru
 e1.skwstat.ru
 e2.skwstat.ru
@@ -1044,6 +1044,7 @@ media-stat.mail.ru
 media.fulledu.ru
 media.reformal.ru
 mediametrics.ru
+mediarepost.ru
 mediatoday.ru
 megatkani.ru
 metrica-yandex.com
@@ -1363,6 +1364,7 @@ sentry.obs.mts.ru
 sentry.ozon.ru
 sentry.rshbcloud.ru
 sentry.sca.ad-tech.ru
+sentry.sravni-team.ru
 sentry.streamvi.ru
 sentry.sutochno.ru
 sentry.trychatgpt.ru
@@ -1948,7 +1950,6 @@ yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com
 yandex.membership-amazion-id184645.elearningmine.com
-yandex.od0if.thejoinersarms.com
 yandex.paypail24h-support-id58765.elearningmine.com
 yandex.pochta.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.prod1.pu222ev.com

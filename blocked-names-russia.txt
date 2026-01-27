@@ -22,9 +22,9 @@
 10116443--15722194-111-mnews.ms.vk.com
 10126653--15722194-111-mnews.ms.vk.com
 1013a--10180--257.stbid.ru
+1013a--10180--259.stbid.ru
 1013a--ma--10204--cp1.stbid.ru
 1013a--ma--10204--cp12.stbid.ru
-1013a--ma--10204--cp13.stbid.ru
 1013a--ma--10204--cp17.stbid.ru
 1013a--ma--8935--cp199.stbid.ru
 101674.wavesend.ru
@@ -41,6 +41,7 @@
 1074a--genergy.stbid.ru
 1076--cookieid.stbid.ru
 10998423--28658784-111-mnews.ms.vk.com
+11078243--28658784-111-mnews.ms.vk.com
 111101111.ru
 113663177.mc.yandex.ru
 1172263390.mc.yandex.ru
@@ -80,6 +81,7 @@
 2090054158.mc.yandex.ru
 2115840513.mc.yandex.ru
 2119055885.mc.yandex.ru
+21847--224317011-111-mnews.ms.vk.com
 2254395861.mc.yandex.ru
 22557683--24199209-111-mnews.ms.vk.com
 2265851037.mc.yandex.ru
@@ -231,6 +233,7 @@
 6yd.ru
 743244193.mc.yandex.ru
 743922699.mc.yandex.ru
+7443352--152992737-111-mnews.ms.vk.com
 75830b0559444101a79605ba1156e5dc.ops.beeline.ru
 777-club.ru
 7bs4fapoe73t25ibj5o5yh6xpy.mc.yandex.ru
@@ -360,7 +363,6 @@ adviser.bs-dante.ru
 advisor.api.2gis.ru
 advmaker.ru
 advokatemelyanov.ru
-adwise.ru
 adwist.ru
 adwolf.ru
 adx-bm1.videonow.ru
@@ -560,6 +562,7 @@ c1.politexpert.ru
 c7.b0.a1.top.list.ru
 callback.onlinepbx.ru
 callibri.ru
+calltracking.alytics.ru
 captcha.clickfraud.ru
 catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
@@ -621,7 +624,6 @@ code.4hunqp.ru
 code.clicktex.ru
 code.directadvert.ru
 code.moviead55.ru
-code.r5hsid.ru
 codhacks.ru
 common.radar.imgsmail.ru
 community.avianarp.ru
@@ -677,6 +679,7 @@ cstatic-ru-cv.weborama-tech.ru
 cstatic.weborama-tech.ru
 ct3-24.ru
 culturaltracking.ru
+cuzrfkzwkn.ru
 cvt1.sibnet.ru
 cyberstyle.ru
 cybertown.ru
@@ -968,6 +971,7 @@ kalderon.ru
 kamin-premium.ru
 kamint.ru
 kevents.auth.gid.ru
+kfe0mn.ru
 kiks.yandex.ru
 km6ujg2xkoumicib4rl6ztiqvm.mc.yandex.ru
 kmgndaij.ru
@@ -1031,6 +1035,7 @@ masterh7.adriver.ru
 mastertarget.ru
 matchid.adfox.yandex.ru
 matomo.datago.ru
+matomo.tutu.ru
 matomo.x5.ru
 mb9pzp.ru
 mc.kinopoisk.ru
@@ -1468,8 +1473,6 @@ statad.ru
 statchecker.yandex.ru
 static-mon.yandex.net
 static.a.mts.ru
-static.admile.ru
-static.bs-dante.ru
 static.calltouch.ru
 static.marketolog.mts.ru
 static.me-talk.ru
@@ -1537,6 +1540,7 @@ takedrivers.ru
 tapstat.ru
 tbmods.ru
 tbn.ru
+tcnewhimki.ru
 tcp40.serving-sys.ru
 teamx.ru
 teaserfast.ru
@@ -1563,7 +1567,6 @@ tgel2ebtx.ru
 tinyfiles.nocoshop.ru
 tj4rxr.ru
 tk.promit.ru
-tksua4.ru
 tl.rulate.ru
 tlauncher.ru
 tms.dmp.wi-fi.ru
@@ -1896,7 +1899,6 @@ www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
 www.torroot.ru
-www.ubar-pro4.ru
 www.udobrit.ru
 www.unlockers.ru
 www.uralmetalloprokat.ru

@@ -12,7 +12,6 @@
 =aisandbox-pa.googleapis.com 185.250.151.50
 =aistudio.google.com 185.250.151.50
 =aitestkitchen.withgoogle.com 94.131.119.22
-=alkalimakersuite-pa.clients6.google.com 185.250.151.50
 =alkalimakersuite-pa.clients6.google.com 80.74.29.235
 anthropic.com 80.74.29.235
 =api-partner.spotify.com 45.155.204.190
@@ -83,7 +82,7 @@ qwant.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
-=robinfrontend-pa.googleapis.com 173.194.220.95
+=robinfrontend-pa.googleapis.com 172.253.130.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
 =robinfrontend-pa.googleapis.com 173.194.73.95

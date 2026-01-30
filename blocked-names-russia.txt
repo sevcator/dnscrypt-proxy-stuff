@@ -289,6 +289,7 @@ a4.smi2.ru
 a6.smi2.ru
 a7.smi2.ru
 aan8bq.ru
+abemetal.ru
 abs.firstvds.ru
 abt.s3.yandex.net
 ac-bastion.ru
@@ -395,7 +396,6 @@ alt-cloud.radar.imgsmail.ru
 altergeo.ru
 alytics.ru
 amaniwa.ru
-amberweld.ru
 amc.yandex.ru
 amnsreiuojy.ru
 amp.smi2.ru
@@ -522,6 +522,7 @@ bidder.videonow.ru
 bidvol-sync.rutarget.ru
 big6q4y2oy.ru
 bihnxhkl.ru
+bingo-time.ru
 bjtajoox.ru
 bjxzalpc.ru
 blablacar.sbermarket.yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
@@ -665,6 +666,7 @@ cr-frontend.weborama-tech.ru
 crash-reports.browser.yandex.net
 crystalpvp.ru
 cs.agency2.ru
+cs.avito.ru
 cs.opendsp.ru
 cs15.livetex.ru
 cs33609.tmweb.ru
@@ -734,7 +736,6 @@ dsp.programmatic.ru
 dsp.rtb.mts.ru
 dt.dbankcloud.ru
 duhboga.ru
-duhsv690.cinderpouch.ru
 dx-frontend.weborama-tech.ru
 e1.skwstat.ru
 e2.skwstat.ru
@@ -837,6 +838,7 @@ gadgetblog.ru
 galatrading.ru
 gameinstaller.ru
 gamelights.ru
+gamerwin.ru
 gate.leadgenic.ru
 gb2-banners.adriver.ru
 gb2-files.adriver.ru
@@ -854,6 +856,7 @@ gigamega.ru
 girlporn.ru
 gitlab.skillbox.ru
 gjocmdx.ru
+glavruba.ru
 globalscience.ru
 glopages.ru
 gnezdo.ru
@@ -973,6 +976,7 @@ kfe0mn.ru
 kiks.yandex.ru
 km6ujg2xkoumicib4rl6ztiqvm.mc.yandex.ru
 kmgndaij.ru
+kolypontu.ru
 konget.ru
 konsor.ru
 kontrolnaya-rabota.ru
@@ -984,7 +988,9 @@ kz.tns-counter.ru
 l.utorria.ru
 l2top.ru
 l6at5oaidmndrqqs3eohlvcciy.mc.yandex.ru
+labubi.ru
 ladycash.ru
+lagernet.ru
 laimroll.ru
 lbs.yandex.ru
 lcontrols1.ru
@@ -1018,7 +1024,6 @@ loki.maximonline.ru
 loveadvert.ru
 lovemate.ru
 lp.mobiletracking.ru
-m.bal-stroi.ru
 m.leboard.ru
 m.winline.ru
 m1-shop.ru
@@ -1109,6 +1114,7 @@ neobasnet.timeout.ru
 neosap.ru
 netlog.ru
 newline.ucoz.ru
+newmonyti.ru
 newmygreenwaycom.webim2.ru
 news.2xclick.ru
 news.gnezdo.ru
@@ -1190,6 +1196,7 @@ pm2.punchmedia.ru
 pobedastaff.ru
 pokrutim.ru
 pool.stbid.ru
+popgameplay.ru
 popunder.ru
 popupclick.ru
 posthog.livelib.ru
@@ -1203,6 +1210,7 @@ profile.ad-tech.ru
 profile.ssp.rambler.ru
 programmatic.ru
 promit.ru
+promo-nu.ru
 promo-reklama.ru
 promo.cityads.ru
 promo.rzonline.ru
@@ -1434,6 +1442,9 @@ soglkuki.prolexgroup.ru
 soloway.ru
 solta-sync.rutarget.ru
 sopr-api.cian.ru
+sosi-pisos.ru
+sosipisos.ru
+sosisosi.ru
 southrap.ru
 sovetclub.ru
 sovetnik.market.yandex.ru
@@ -1509,8 +1520,13 @@ stuffed.ru
 stun.demos.ru
 stylexlab.ru
 subscriptions.rambler.ru
+super-game777.ru
 super-traf.ru
+super-win777.ru
 supercleanspb.ru
+supergame-777.ru
+supergame007.ru
+supergame777.ru
 superstyle.ru
 supertop.ru
 supreme2.ru
@@ -1774,6 +1790,7 @@ widget.sparrow.ru
 widgets.livetex.ru
 widgets.planeta.ru
 wificenter.ru
+winer777.ru
 winline.ru
 winlinebet.ru
 wmcasher.ru
@@ -1815,7 +1832,6 @@ www.aksonural.ru
 www.alfa-medosmotr.ru
 www.all4wap.ru
 www.alloysteel.ru
-www.amberweld.ru
 www.amt-k.ru
 www.ap7.ru
 www.audi-club.ru
@@ -1823,6 +1839,7 @@ www.autodetali-161.ru
 www.avramstroy.ru
 www.baburxan.ru
 www.betsonsport.ru
+www.bingo-time.ru
 www.cityads.ru
 www.clck.ru
 www.comagic.ru
@@ -1854,8 +1871,10 @@ www.f0539266.xsph.ru
 www.forextimes.ru
 www.free-gluten.ru
 www.gadgetblog.ru
+www.gamerwin.ru
 www.gdeslon.ru
 www.girlporn.ru
+www.glavruba.ru
 www.glopages.ru
 www.goatse.ru
 www.greatgrace.ru
@@ -1869,17 +1888,23 @@ www.iplogger.ru
 www.jps.ru
 www.justclick.ru
 www.kalderon.ru
+www.kolypontu.ru
 www.konsor.ru
 www.kontrolnaya-rabota.ru
+www.labubi.ru
+www.lagernet.ru
 www.lovemate.ru
 www.mc.yandex.ru
 www.mstone-ufa.ru
 www.myjulia.ru
+www.newmonyti.ru
 www.nominally.ru
 www.otclick-adv.ru
+www.popgameplay.ru
 www.popunder.ru
 www.pr-cy.ru
 www.pricelib.ru
+www.promo-nu.ru
 www.qwertzx.ru
 www.qxplus.ru
 www.redirect.appmetrica.yandex.com
@@ -1887,9 +1912,17 @@ www.robluxglft.ru
 www.rzima.ru
 www.saf-oil.ru
 www.semena-tut.ru
+www.sosi-pisos.ru
+www.sosipisos.ru
+www.sosisosi.ru
 www.stats.ucheba.ru
 www.stoletie.ru
 www.stylexlab.ru
+www.super-game777.ru
+www.super-win777.ru
+www.supergame-777.ru
+www.supergame007.ru
+www.supergame777.ru
 www.teamx.ru
 www.tesorak.ru
 www.tinka.ru
@@ -1907,17 +1940,18 @@ www.vigvam.ru
 www.vladtime.ru
 www.warlog.ru
 www.weatherarchive.ru
+www.winer777.ru
 www.witra.ru
 www.wm-goldenclick.ru
 www.wordstat.yandex.ru
 www.wwwomen.ru
+www.yaemgovno.ru
 www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yelvornwec.ru
 www.ytgyuityuity.ru
 www.yuga.ru
-www.zy7mw65a.amberweld.ru
 wwwomen.ru
 x81p4z.ru
 xaf0ec.ru
@@ -1938,6 +1972,7 @@ xzoswpg.ru
 ya-distrib.ru
 yabs.yandex.ru
 yadro.ru
+yaemgovno.ru
 yandex-dmp-sync.rutarget.ru
 yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
@@ -1994,4 +2029,3 @@ zowvbcr3wnb5ndz34pkjaoc3k4.mc.yandex.ru
 zpctgbhm.ru
 zrbosqq.ru
 zunujdzs.ru
-zy7mw65a.amberweld.ru

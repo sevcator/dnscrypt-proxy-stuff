@@ -818,6 +818,7 @@ filekeeper.nocoshop.ru
 filestation.nocoshop.ru
 filmplus.ru
 fjbpwlp.ru
+flotprom.ru
 flyroll.ru
 fmon.citilink.ru
 forextimes.ru
@@ -1228,7 +1229,6 @@ pwcalc.ru
 px.ad-tech.ru
 px.hsmedia.ru
 px117.telecid.ru
-px269.telecid.ru
 px316.telecid.ru
 px537.telecid.ru
 px538.telecid.ru

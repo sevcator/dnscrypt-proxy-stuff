@@ -83,7 +83,6 @@ qwant.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
-=robinfrontend-pa.googleapis.com 172.253.130.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
 =robinfrontend-pa.googleapis.com 173.194.73.95
@@ -112,7 +111,6 @@ truthsocial.com 45.155.204.190
 =usher.ttvnw.net 45.155.204.190
 =web.archive.org 45.155.204.190
 =webchannel-alkalimakersuite-pa.clients6.google.com 185.250.151.50
-=webchannel-alkalimakersuite-pa.clients6.google.com 80.74.29.235
 windsurf-telemetry.codeium.com 144.31.14.104
 windsurf.com 45.155.204.190
 =www-growth.scdn.co 45.155.204.190

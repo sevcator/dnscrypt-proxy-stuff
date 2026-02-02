@@ -862,6 +862,8 @@ linkslot.ru
 liquidfile.nocoshop.ru
 liveexpert.ru
 livesurf.ru
+lk-api.freedom-vrn.ru
+log.api-maps.yandex.ru
 log.rutube.ru
 log.strm.yandex.ru
 logger.ivi.ru
@@ -1457,6 +1459,7 @@ widget.skobeeff.ru
 widget.sparrow.ru
 widgets.livetex.ru
 widgets.planeta.ru
+wiki.alytics.ru
 winer777.ru
 winline.ru
 winlinebet.ru

@@ -368,6 +368,7 @@ analytics.alloka.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
 analytics.marquiz.ru
+analytics.matrp.ru
 analytics.max-admin.ru
 analytics.mobile.yandex.net
 analytics.sberhealth.ru
@@ -930,6 +931,7 @@ metrica.yandex.com
 metrica.yandex.ru
 metrics-drru.dt.dbankcloud.ru
 metrics.aviasales.ru
+metrics.labsystech.ru
 metrics.prom.third-party-app.sberdevices.ru
 metrics.tricolor.ru
 metrics5.dt.dbankcloud.ru

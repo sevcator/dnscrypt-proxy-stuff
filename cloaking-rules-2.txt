@@ -17,6 +17,7 @@
 anthropic.com 80.74.29.235
 =api-partner.spotify.com 45.155.204.190
 =api.spotify.com 45.155.204.190
+=assistant-s3-pa.googleapis.com 185.250.151.50
 =assistant-s3-pa.googleapis.com 80.74.29.235
 auth0.com 45.155.204.190
 autodesk.com 45.155.204.190
@@ -48,6 +49,7 @@ framer.com 45.155.204.190
 =game.clashroyaleapp.com 45.95.233.23
 =gamea.clashofclans.com 193.23.209.189
 =gemini.google.com 142.250.176.206
+=generativelanguage.googleapis.com 185.250.151.49
 =generativelanguage.googleapis.com 80.74.29.235
 =gew1-dealer.spotify.com 45.155.204.190
 =gew1-spclient.spotify.com 45.155.204.190
@@ -82,6 +84,7 @@ qwant.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
 =robinfrontend-pa.googleapis.com 172.253.130.95
+=robinfrontend-pa.googleapis.com 173.194.220.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
 =robinfrontend-pa.googleapis.com 173.194.73.95

@@ -818,6 +818,7 @@ ipgraber.ru
 iplis.ru
 iplogger.ru
 is.luxup.ru
+iviruseries3.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
@@ -1258,6 +1259,7 @@ stat.advideo.ru
 stat.adx.com.ru
 stat.azbyka.ru
 stat.clickfrog.ru
+stat.gc.vkplay.ru
 stat.playfamily.ru
 stat.radar.imgsmail.ru
 stat.sputnik.ru

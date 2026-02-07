@@ -15,6 +15,7 @@
 1-1ad5be0d15f2820da1d566b3.id.adx.com.ru
 1.ska4at.ru
 1004261127.mc.yandex.ru
+1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
 1013a--10180--257.stbid.ru
 1013a--10180--259.stbid.ru
 1013a--ma--10204--cp1.stbid.ru
@@ -199,6 +200,7 @@
 652121.ms.vk.com
 652221.ms.vk.com
 669919130.mc.yandex.ru
+683264.cloud4box.ru
 694807445.mc.yandex.ru
 6i7y3i.ru
 6rn05mmbct.ru
@@ -262,7 +264,6 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -363,6 +364,7 @@ an.yandex.com
 an.yandex.ru
 analytics.a-plus.ru
 analytics.alloka.ru
+analytics.click-or-die.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
 analytics.marquiz.ru
@@ -377,6 +379,7 @@ anekbook.ru
 anime-337.animesvosts.ru
 anime.jutsubest.ru
 animesvosts.ru
+anodpo.ru
 antalya.ru
 ap.adriver.ru
 api-an.tutu.ru
@@ -421,6 +424,7 @@ autocontext.begun.ru
 autofill.yandex.ru
 autoru-mag.s3.yandex.net
 autous.ru
+avianarp.ru
 avr.i-trailer.ru
 avramstroy.ru
 avto-optika.ru
@@ -539,6 +543,7 @@ clickfrog.ru
 clicks.gdeslon.ru
 clients.streamwood.ru
 cloud.radar.imgsmail.ru
+cloudpub.ru
 cloudshare.nocoshop.ru
 cls.ad-tech.ru
 clubtk.ru
@@ -655,6 +660,7 @@ easy.au.ru
 easyfiles.nocoshop.ru
 ece8c2alhz.ru
 echo.teasernet.ru
+edgeserv.ru
 edirect.efind.ru
 effad.ru
 egg.afisha.ru
@@ -699,6 +705,7 @@ filmplus.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
+fokino-prim.ru
 forextimes.ru
 fp.bonuscake.ru
 free-gluten.ru
@@ -887,6 +894,7 @@ m1-shop.ru
 magna.ru
 mail.ioc.ac.ru
 mail.radar.imgsmail.ru
+makesaleshop.ru
 man-live.ru
 mapp.winline.ru
 market.freedom-vrn.ru
@@ -951,7 +959,9 @@ ms.propub.ru
 mstat.mos.ru
 mts-dsp-sync.rutarget.ru
 myqualification.rambler.ru
+myreptile.ru
 mytop.live.vkvideo.ru
+nalozhka.yandex.blablacar.youla.euclid116.com
 nalozhka.yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 nashindex.ru
 nashvek.ru
@@ -959,7 +969,6 @@ nel.wb.ru
 neobasnet.timeout.ru
 neosap.ru
 netlog.ru
-newline.ucoz.ru
 newmonyti.ru
 newmygreenwaycom.webim2.ru
 news.2xclick.ru
@@ -993,6 +1002,7 @@ ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
 ox.techart.ru
+ozon.yandex.ozon.hostmaster.euclid116.com
 ozon.yandex.paypail24h-support-id58765.elearningmine.com
 p.winline.ru
 p95bxv.ru
@@ -1003,6 +1013,7 @@ partner.market.yandex.ru
 partner.yandex.ru
 partners.sbermarketing.ru
 pay.yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
+pay.yandex.ww7.raid2024.com
 paypal-merchant.ru
 pb.adriver.ru
 pbnet.ru
@@ -1596,6 +1607,7 @@ www.xz8.ru
 www.yaemgovno.ru
 www.yandex.com
 www.yandex.net
+www.yandex.ozon.euclid116.com
 www.yastatic.ru
 www.yelvornwec.ru
 www.yougameplay.ru
@@ -1617,17 +1629,29 @@ yandex-dmp-sync.rutarget.ru
 yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
+yandex.avito.avito.hostmaster.euclid116.com
 yandex.avito.avito.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.blablacar.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
+yandex.blablacar.sbermegamarket.cdek.euclid116.com
+yandex.blablacar.youla.euclid116.com
+yandex.cdek.pochta.avito.ozon.euclid116.com
 yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com
 yandex.membership-amazion-id184645.elearningmine.com
+yandex.nalozhka.hostmaster.euclid116.com
+yandex.old4.imagingforwindows.com
+yandex.ozon.euclid116.com
+yandex.ozon.hostmaster.euclid116.com
 yandex.paypail24h-support-id58765.elearningmine.com
 yandex.pochta.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
+yandex.sberbank.youla.id2pa.msofficeemrproject.com
 yandex.sbermegamarket.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
+yandex.ww7.raid2024.com
+yandex.www.pay.hostmaster.euclid116.com
 yandex.www.slid3.com
+yandex.yk-mid-prod2-res.campaign.glynntaffassistedliving.com
 yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
@@ -1635,6 +1659,17 @@ ybej5ohp0x.ru
 ydom21.ru
 yelvornwec.ru
 yhzn0f.ru
+ym2bnbmvu0.ru
+ym6hoxikc7.ru
+ym9szv0fcx.ru
+ymfvh58rms.ru
+ymhkttb64y.ru
+ymj76ohocq.ru
+ymob5uffw9.ru
+yms1p1qgmp.ru
+ymv43udrja.ru
+ymz0eeqo0k.ru
+ymzz66daya.ru
 yougameplay.ru
 yuga.ru
 zachestnyibiznes.ru

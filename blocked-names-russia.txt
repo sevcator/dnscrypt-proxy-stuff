@@ -104,7 +104,6 @@
 2972298868.mc.yandex.ru
 2976769886.mc.yandex.ru
 2nosm7.ru
-3--1--000000000000000000000000.stbid.ru
 3019262739.mc.yandex.ru
 3105589--23304496-111-mnews.ms.vk.com
 3159994466.mc.yandex.ru
@@ -208,7 +207,6 @@
 743244193.mc.yandex.ru
 743922699.mc.yandex.ru
 7443352--152992737-111-mnews.ms.vk.com
-75830b0559444101a79605ba1156e5dc.ops.beeline.ru
 777-club.ru
 7bs4fapoe73t25ibj5o5yh6xpy.mc.yandex.ru
 7nkbwdf1uq.ru
@@ -235,11 +233,11 @@
 952212.log.rutube.ru
 95913--33348177-111-mnews.ms.vk.com
 959226489.mc.yandex.ru
+96089--33348177-111-mnews.ms.vk.com
 96206--63199063-111-mnews.ms.vk.com
 a.kupibilet.ru
 a.mts.ru
 a.pikabu.ru
-a.pr-cy.ru
 a.ria.ru
 a.snsv.ru
 a.suprion.ru
@@ -496,11 +494,11 @@ bs.yandex.ru
 buy-accs.ru
 buzzoola-sync.rutarget.ru
 bvl5bziz9d.ru
-c.admetr.ru
 c.botfaqtor.ru
 c.sibnet.ru
 c.snsv.ru
 c1.politexpert.ru
+c7xxbd.ru
 callback.onlinepbx.ru
 callibri.ru
 calltracking.alytics.ru
@@ -726,7 +724,6 @@ frontlog.tutu.ru
 fsk-ees.ru
 fulledu.ru
 g4blin.ru
-galatrading.ru
 gameinstaller.ru
 gamelights.ru
 gamepla-y.ru
@@ -759,13 +756,11 @@ graph.digiseller.ru
 greatgamer.ru
 greatgrace.ru
 grs-pub.platform.dbankcloud.ru
-gru0z6.ru
 gso.amocrm.ru
 gt-frontend.weborama-tech.ru
 gw.botfaqtor.ru
 h21.ru
 hasard.ru
-hc.uralweb.ru
 heroeswm.ru
 hhcdn.ru
 hisearch-drru.dt.dbankcloud.ru
@@ -902,6 +897,7 @@ logs.adplay.ru
 logs.profi.ru
 loki.maximonline.ru
 loveadvert.ru
+loyalty-sentry.dixy.ru
 lp.mobiletracking.ru
 m.leboard.ru
 m.winline.ru
@@ -1059,6 +1055,7 @@ popgameplay.ru
 poppers-rush.ru
 popunder.ru
 popupclick.ru
+posthog.livelib.ru
 prbn.ru
 pricelib.ru
 privacy-cs.mail.ru
@@ -1224,7 +1221,6 @@ serving.laimroll.ru
 sexgramm.ru
 sexyma.ru
 sfr7ag.ru
-sg-hosadmin.vm-cs.ru
 sgm.punchmedia.ru
 sgood.ru
 share.yandex.net
@@ -1519,7 +1515,6 @@ winlinebet.ru
 wmcasher.ru
 wolist.ru
 wordstat.yandex.ru
-work5.ru
 workspay.ru
 wosoft.ru
 wowlink.ru

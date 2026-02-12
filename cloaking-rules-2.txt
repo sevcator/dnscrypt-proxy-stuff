@@ -26,7 +26,7 @@ broadcom.com 45.155.204.190
 canva.com 45.155.204.190
 =cdn.id.supercell.com 144.31.14.104
 =cdn.oaistatic.com 45.155.204.190
-chatgpt.com 94.131.119.22
+chatgpt.com 80.74.29.235
 =clashofclans.inbox.supercell.com 144.31.14.104
 claude.ai 80.74.29.235
 codeium.com 45.155.204.190
@@ -74,7 +74,7 @@ nvidia.com 45.155.204.190
 onetrust.com 45.155.204.190
 =open-exp.spotifycdn.com 45.155.204.190
 =open.spotify.com 45.155.204.190
-openai.com 94.131.119.22
+openai.com 80.74.29.235
 patreon.com 45.155.204.190
 =proactivebackend-pa.googleapis.com 142.251.40.202
 pump.fun 45.155.204.190
@@ -83,6 +83,7 @@ qwant.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
+=robinfrontend-pa.googleapis.com 173.194.220.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
 =robinfrontend-pa.googleapis.com 173.194.73.95

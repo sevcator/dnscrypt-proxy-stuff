@@ -11,6 +11,7 @@
 02ip.ru
 04xmhp.ru
 0gs25f.ru
+0p6fsponf9.ru
 0pn.ru
 1.off3.ru
 1.ska4at.ru
@@ -29,7 +30,6 @@
 102197844.mc.yandex.ru
 102954.wavesend.ru
 103527516.mc.yandex.ru
-1073--na--da.stbid.ru
 1073--na--soloway.stbid.ru
 107376.wavesend.ru
 1074a----adspector.stbid.ru
@@ -61,6 +61,7 @@
 1p3opxwwet.ru
 1pamm.ru
 1stat.ru
+1truba.ru
 1xstavka.ru
 2.off3.ru
 2.ska4at.ru
@@ -78,7 +79,6 @@
 23122.ms.vk.com
 23212.ms.vk.com
 2327760784.mc.yandex.ru
-24-bt.ru
 24112.ms.vk.com
 24122.ms.vk.com
 24212.ms.vk.com
@@ -156,6 +156,7 @@
 45212.ms.vk.com
 452885495.mc.yandex.ru
 45950.wavesend.ru
+47-detsad.ru
 483327265.mc.yandex.ru
 48778.wavesend.ru
 4930194--43618728-111-mnews.ms.vk.com
@@ -264,7 +265,6 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -377,12 +377,10 @@ analytics.sutochno.ru
 analytics.tele2.ru
 analytics.tripster.ru
 analytics.vgtimes.ru
-androidonliner.ru
 anekbook.ru
 anime-337.animesvosts.ru
 anime.jutsubest.ru
 animesvosts.ru
-anodpo.ru
 antalya.ru
 ap.adriver.ru
 api-an.tutu.ru
@@ -424,9 +422,9 @@ audience.yandex.ru
 auth.tlauncher.ru
 autocontext.begun.ru
 autofill.yandex.ru
+autoiwc.ru
 autoru-mag.s3.yandex.net
 autous.ru
-avito.yandex.youla.id4africakhuvenesa.studentbloggntnu.com
 avr.i-trailer.ru
 avramstroy.ru
 avto-optika.ru
@@ -474,7 +472,6 @@ bingo-time.ru
 blablacar.sbermarket.yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 blablacar.yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com
 blocked.botfaqtor.ru
-bms-cloud.ru
 bn.winlinebet.ru
 bonus-betting.ru
 bonuscake.ru
@@ -503,10 +500,6 @@ calltracking.alytics.ru
 catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
-cdek.yandex.avito.www-0yaod5caz-com.xmp0ld.com
-cdek.yandex.blablacar.www-0yaod5caz-com.xmp0ld.com
-cdek.yandex.sber.www-0yaod5caz-com.xmp0ld.com
-cdek.yandex.youla.id4africakhuvenesa.studentbloggntnu.com
 cdn-files.adx.com.ru
 cdn-res.tlauncher.ru
 cdn-rtb.sape.ru
@@ -690,7 +683,6 @@ events.ivi.ru
 events.maps.vk.com
 evt.uchi.ru
 exad.smi2.ru
-expertnov.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
@@ -710,7 +702,6 @@ filmplus.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
-fniturdiasmidamre.ru
 forextimes.ru
 fp.bonuscake.ru
 free-gluten.ru
@@ -757,7 +748,6 @@ gso.amocrm.ru
 gt-frontend.weborama-tech.ru
 gw.botfaqtor.ru
 h21.ru
-habhijozi.ru
 hasard.ru
 heroeswm.ru
 hhcdn.ru
@@ -778,7 +768,6 @@ hitcrypt.6wzdsf.ru
 hitcrypt.aan8bq.ru
 hitcrypt.g4blin.ru
 hitcrypt.icyh3e.ru
-hitcrypt.junyx9.ru
 hitcrypt.mb9pzp.ru
 hitcrypt.rbcv7s.ru
 hitcrypt.sfr7ag.ru
@@ -788,6 +777,7 @@ hitcrypt.xgd3kl.ru
 hitlist.ru
 hitman-pro.ru
 holm.ru
+homesty.ru
 homework.ru
 hostiman.ru
 hro7sgymmjjutujwuy2b42ijzy.mc.yandex.ru
@@ -801,6 +791,7 @@ iceprogs.ru
 icyh3e.ru
 id.adx.com.ru
 id.google.ru
+id18.47-detsad.ru
 ideibiznesa2015.ru
 im-sentry.sportmaster.ru
 image.sendsay.ru
@@ -850,7 +841,6 @@ kamint.ru
 kevents.auth.gid.ru
 kfe0mn.ru
 kiks.yandex.ru
-kinugort.ru
 km6ujg2xkoumicib4rl6ztiqvm.mc.yandex.ru
 kolypontu.ru
 konget.ru
@@ -866,7 +856,6 @@ labubi.ru
 ladycash.ru
 lagernet.ru
 laimroll.ru
-lampic-home.ru
 lc2ads.ru
 leadback.ru
 leadball.ru
@@ -877,6 +866,7 @@ leboard.ru
 lenta.sparrow.ru
 lenta.svk-native.ru
 lib.usedesk.ru
+libraart.ru
 likemore-go.imgsmail.ru
 linkbox.nocoshop.ru
 linkfeed.ru
@@ -900,7 +890,6 @@ lp.mobiletracking.ru
 m.leboard.ru
 m.winline.ru
 m1-shop.ru
-m1.ggrust.ru
 magna.ru
 mail.ioc.ac.ru
 mail.radar.imgsmail.ru
@@ -917,7 +906,6 @@ matomo.datago.ru
 matomo.finam.ru
 matomo.tutu.ru
 matomo.x5.ru
-matsuro.ru
 mb9pzp.ru
 mc.kinopoisk.ru
 mc.yandex.com
@@ -962,6 +950,7 @@ moevideo-sync.rutarget.ru
 momijoy.ru
 mosertolovo.ru
 movies5.fox-fan.ru
+mp3lalala.ru
 mps.tlauncher.ru
 mpsuadv.ru
 mpuls.ru
@@ -971,9 +960,7 @@ mstat.mos.ru
 mts-dsp-sync.rutarget.ru
 myqualification.rambler.ru
 mytop.live.vkvideo.ru
-nalozhka.yandex.bestsell1day.com
 nalozhka.yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
-nalozhka.yandex.sber.www-0yaod5caz-com.xmp0ld.com
 nashindex.ru
 nashvek.ru
 nel.wb.ru
@@ -1045,7 +1032,6 @@ plastgroup.ru
 play-winner.ru
 playgogo.ru
 pobedastaff.ru
-podbor-par.ru
 pokrutim.ru
 pool.stbid.ru
 popgameplay.ru
@@ -1053,6 +1039,7 @@ poppers-rush.ru
 popunder.ru
 popupclick.ru
 posthog.livelib.ru
+practiserussiangarments.com
 prbn.ru
 pricelib.ru
 privacy-cs.mail.ru
@@ -1060,6 +1047,7 @@ prlog.ru
 prod-msk-ad-analytics-tracker.novofon.ru
 prodmp.ru
 profile.ad-tech.ru
+profmedik.ru
 programmatic.ru
 promo-nu.ru
 promo-reklama.ru
@@ -1101,7 +1089,6 @@ redirect.appmetrica.yandex.com
 redirect.appmetrica.yandex.ru
 redllama.ru
 redsurf.ru
-referatbooks.ru
 reformal.ru
 regionads.ru
 reklama.mail.ru
@@ -1116,7 +1103,6 @@ res.tlauncher.ru
 retargeting.adx.com.ru
 riabir.ru
 rmbn.ru
-robinsreplica.ru
 robluxglft.ru
 rosenberg.appmetrica.yandex.net
 rot.rusoul.ru
@@ -1199,6 +1185,8 @@ sentry.uteka.ru
 sentry.winline.ru
 sentry.x5.ru
 seo-service.domclick.ru
+serial-box.ru
+serval.getads.ru
 serve.getads.ru
 servers1.adriver.ru
 servers10.adriver.ru
@@ -1292,6 +1280,7 @@ statad.ru
 statchecker.yandex.ru
 static-mon.yandex.net
 static.a.mts.ru
+static.bs-dante.ru
 static.calltouch.ru
 static.marketolog.mts.ru
 static.me-talk.ru
@@ -1333,7 +1322,6 @@ supergame007.ru
 supergame777.ru
 supertop.ru
 superwin777.ru
-supplyb2b.ru
 sur.gorodkirov.ru
 svk-native.ru
 sweet211.ru
@@ -1497,13 +1485,11 @@ widget.sparrow.ru
 widgets.livetex.ru
 widgets.planeta.ru
 wiki.alytics.ru
-wildice.ru
 win-777-win.ru
 win777win.ru
 winer777.ru
 winline.ru
 winlinebet.ru
-winnote.ru
 wmcasher.ru
 wolist.ru
 wordstat.yandex.ru
@@ -1644,45 +1630,30 @@ yadro.ru
 yaemgovno.ru
 yandex-dmp-sync.rutarget.ru
 yandex-sync.rutarget.ru
-yandex.4hgod1.jiuse9156.com
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.avito.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.avito.old1.danceartsamarillo.com
-yandex.avito.www-0yaod5caz-com.xmp0ld.com
-yandex.avito.youla.bid4awin.com
-yandex.bestsell1day.com
 yandex.blablacar.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
-yandex.blablacar.www-0yaod5caz-com.xmp0ld.com
-yandex.blablacar.youla.id4africakhuvenesa.studentbloggntnu.com
 yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com
 yandex.membership-amazion-id184645.elearningmine.com
 yandex.paypail24h-support-id58765.elearningmine.com
 yandex.pochta.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
-yandex.pochtabank.www-0yaod5caz-com.xmp0ld.com
-yandex.sber.www-0yaod5caz-com.xmp0ld.com
-yandex.sberbank.nod32.thevalley-inn.com
 yandex.sbermegamarket.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 yandex.www.slid3.com
-yandex.www.youla.id4africakhuvenesa.studentbloggntnu.com
-yandex.youla.id4africakhuvenesa.studentbloggntnu.com
 yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 ybej5ohp0x.ru
 ydom21.ru
 yhzn0f.ru
-ym4fzkkl0e.ru
-ym9wmtgcs6.ru
-ymftn32zlr.ru
-ymj76ohocq.ru
-ymndg9vtn4.ru
-ymr8fm2jmd.ru
-ymu2ah8air.ru
-ymvjchlb26.ru
+ym58meolvu.ru
+ym7f6hodzp.ru
+ymsx4z8gou.ru
+ymzrjcdc53.ru
 yougameplay.ru
 yuga.ru
 zachestnyibiznes.ru

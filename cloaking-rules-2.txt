@@ -53,7 +53,7 @@ framer.com 45.155.204.190
 =generativelanguage.googleapis.com 80.74.29.235
 =gew1-dealer.spotify.com 45.155.204.190
 =gew1-spclient.spotify.com 45.155.204.190
-grok.com 185.250.151.50
+grok.com 94.131.119.22
 guidedhacking.com 45.155.204.190
 intel.com 45.155.204.190
 jetbrains.ai 45.155.204.190
@@ -81,6 +81,7 @@ pump.fun 45.155.204.190
 qwant.com 45.155.204.190
 =rewards.bing.com 185.250.151.49
 =robinfrontend-pa.googleapis.com 108.177.14.95
+=robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
 =robinfrontend-pa.googleapis.com 172.253.130.95
 =robinfrontend-pa.googleapis.com 173.194.220.95

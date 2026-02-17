@@ -11,7 +11,6 @@
 02ip.ru
 04xmhp.ru
 0gs25f.ru
-0p6fsponf9.ru
 0pn.ru
 1.off3.ru
 1.ska4at.ru
@@ -61,7 +60,6 @@
 1p3opxwwet.ru
 1pamm.ru
 1stat.ru
-1truba.ru
 1xstavka.ru
 2.off3.ru
 2.ska4at.ru
@@ -156,7 +154,6 @@
 45212.ms.vk.com
 452885495.mc.yandex.ru
 45950.wavesend.ru
-47-detsad.ru
 483327265.mc.yandex.ru
 48778.wavesend.ru
 4930194--43618728-111-mnews.ms.vk.com
@@ -265,6 +262,7 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
+ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -391,7 +389,6 @@ api.a.mts.ru
 api.adeeply.ru
 api.admile.ru
 api.appmetrica.yandex.ru
-api.captcha.clickfraud.ru
 api.expf.ru
 api.lbs.yandex.ru
 api.nopbreak.ru
@@ -422,7 +419,6 @@ audience.yandex.ru
 auth.tlauncher.ru
 autocontext.begun.ru
 autofill.yandex.ru
-autoiwc.ru
 autoru-mag.s3.yandex.net
 autous.ru
 avr.i-trailer.ru
@@ -459,7 +455,6 @@ bbj3nb.ru
 bdgadv.ru
 bee-cake.ru
 begun.ru
-bersa-tools.ru
 beta.mediafort.ru
 between-sync.rutarget.ru
 bfds.sberbank.ru
@@ -477,7 +472,6 @@ bonus-betting.ru
 bonuscake.ru
 borzjournal.ru
 botfaqtor.ru
-brandsoft74.ru
 brick360.ru
 browser-updater.yandex.net
 bs-dante.ru
@@ -485,6 +479,7 @@ bs-meta.yandex.ru
 bs-metadsp.yandex.ru
 bs.orsk.ru
 bs.serving-sys.ru
+bs.webtalk.ru
 bs.yandex.ru
 buy-accs.ru
 buzzoola-sync.rutarget.ru
@@ -493,6 +488,7 @@ c.botfaqtor.ru
 c.sibnet.ru
 c.snsv.ru
 c1.politexpert.ru
+c3se4i.ru
 c7xxbd.ru
 callback.onlinepbx.ru
 callibri.ru
@@ -686,7 +682,6 @@ exad.smi2.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
-f.gdeslon.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fast2load.ru
 faststat.advideo.ru
@@ -755,6 +750,7 @@ hisearch-drru.dt.dbankcloud.ru
 hit.28yw0a.ru
 hit.aan8bq.ru
 hit.bbj3nb.ru
+hit.bee-cake.ru
 hit.g4blin.ru
 hit.icyh3e.ru
 hit.mb9pzp.ru
@@ -766,6 +762,7 @@ hit.xgd3kl.ru
 hitcrypt.04xmhp.ru
 hitcrypt.6wzdsf.ru
 hitcrypt.aan8bq.ru
+hitcrypt.bee-cake.ru
 hitcrypt.g4blin.ru
 hitcrypt.icyh3e.ru
 hitcrypt.mb9pzp.ru
@@ -777,7 +774,6 @@ hitcrypt.xgd3kl.ru
 hitlist.ru
 hitman-pro.ru
 holm.ru
-homesty.ru
 homework.ru
 hostiman.ru
 hro7sgymmjjutujwuy2b42ijzy.mc.yandex.ru
@@ -791,7 +787,6 @@ iceprogs.ru
 icyh3e.ru
 id.adx.com.ru
 id.google.ru
-id18.47-detsad.ru
 ideibiznesa2015.ru
 im-sentry.sportmaster.ru
 image.sendsay.ru
@@ -866,7 +861,6 @@ leboard.ru
 lenta.sparrow.ru
 lenta.svk-native.ru
 lib.usedesk.ru
-libraart.ru
 likemore-go.imgsmail.ru
 linkbox.nocoshop.ru
 linkfeed.ru
@@ -893,7 +887,6 @@ m1-shop.ru
 magna.ru
 mail.ioc.ac.ru
 mail.radar.imgsmail.ru
-makesaleshop.ru
 man-live.ru
 mapp.winline.ru
 market.freedom-vrn.ru
@@ -950,7 +943,6 @@ moevideo-sync.rutarget.ru
 momijoy.ru
 mosertolovo.ru
 movies5.fox-fan.ru
-mp3lalala.ru
 mps.tlauncher.ru
 mpsuadv.ru
 mpuls.ru
@@ -976,7 +968,6 @@ news.mediametrics.ru
 news.rin.ru
 news.smi2.ru
 news.softodrom.ru
-nova.rambler.ru
 novosti.gnezdo.ru
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 ntdtv.ru
@@ -1001,7 +992,6 @@ otclick-adv.ru
 otvet.radar.imgsmail.ru
 ox.techart.ru
 ozon.yandex.paypail24h-support-id58765.elearningmine.com
-p.winline.ru
 p95bxv.ru
 papi.gameinstaller.ru
 paradocs.ru
@@ -1047,7 +1037,6 @@ prlog.ru
 prod-msk-ad-analytics-tracker.novofon.ru
 prodmp.ru
 profile.ad-tech.ru
-profmedik.ru
 programmatic.ru
 promo-nu.ru
 promo-reklama.ru
@@ -1064,7 +1053,6 @@ punchmedia.ru
 push.svk-native.ru
 pushlog.wsoft.ru
 pwcalc.ru
-pxcounter.ru
 qip.ru
 qoopler.ru
 qos-api.ott.yandex.net
@@ -1185,7 +1173,6 @@ sentry.uteka.ru
 sentry.winline.ru
 sentry.x5.ru
 seo-service.domclick.ru
-serial-box.ru
 serval.getads.ru
 serve.getads.ru
 servers1.adriver.ru
@@ -1464,7 +1451,6 @@ w.rulive.ru
 w13mk6.ru
 wavesend.ru
 wcm.weborama-tech.ru
-weatherarchive.ru
 web-metrica.yandex.ru
 web.redhelper.ru
 webkamerton.ru
@@ -1514,7 +1500,6 @@ www.777win.ru
 www.8si.ru
 www.ad-words.ru
 www.adv.yandex.ru
-www.advertising.ru
 www.advertising.yandex.ru
 www.advokatemelyanov.ru
 www.adylalahb.ru
@@ -1592,7 +1577,6 @@ www.supergame777.ru
 www.superwin777.ru
 www.teamx.ru
 www.tinka.ru
-www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
 www.topwebnovosti.ru
@@ -1601,7 +1585,6 @@ www.unlockers.ru
 www.uralmetalloprokat.ru
 www.videonow.ru
 www.vigvam.ru
-www.weatherarchive.ru
 www.win-777-win.ru
 www.win777win.ru
 www.winer777.ru
@@ -1633,7 +1616,6 @@ yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.avito.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
-yandex.avito.old1.danceartsamarillo.com
 yandex.blablacar.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
 yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
@@ -1650,10 +1632,6 @@ yast.rutube.ru
 ybej5ohp0x.ru
 ydom21.ru
 yhzn0f.ru
-ym58meolvu.ru
-ym7f6hodzp.ru
-ymsx4z8gou.ru
-ymzrjcdc53.ru
 yougameplay.ru
 yuga.ru
 zachestnyibiznes.ru

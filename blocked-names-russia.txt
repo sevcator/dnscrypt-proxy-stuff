@@ -8,11 +8,9 @@
 =yandex.ru
 
 # schakal.ru alive hosts
-02dxbo9u.ru
 02ip.ru
 04xmhp.ru
 0gs25f.ru
-0p6fsponf9.ru
 0pn.ru
 1.off3.ru
 1.ska4at.ru
@@ -79,7 +77,6 @@
 23122.ms.vk.com
 23212.ms.vk.com
 2327760784.mc.yandex.ru
-24-bt.ru
 24112.ms.vk.com
 24122.ms.vk.com
 24212.ms.vk.com
@@ -362,7 +359,6 @@ amc.yandex.ru
 amnsreiuojy.ru
 amp.smi2.ru
 ampcid.google.ru
-amrom.ru
 an.mail.ru
 an.media-active.ru
 an.yandex.com
@@ -425,7 +421,6 @@ auth.tlauncher.ru
 autocontext.begun.ru
 autofill.yandex.ru
 autoru-mag.s3.yandex.net
-autoservice-khimki.ru
 autous.ru
 avr.i-trailer.ru
 avramstroy.ru
@@ -455,6 +450,7 @@ banners-bt.wildberries.ru
 banners.adfox.ru
 banshop.gruntovik.ru
 bardatm.ru
+base-promo.ru
 base.animesvosts.ru
 bazr.ru
 bbj3nb.ru
@@ -505,7 +501,6 @@ catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
 cdek.cdek.yandex.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
-cdek.yandex.hood123.com
 cdek.yandex.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
 cdek.yandex.www.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
 cdn-files.adx.com.ru
@@ -622,7 +617,6 @@ cuzrfkzwkn.ru
 cvt1.sibnet.ru
 cybertown.ru
 d.botfaqtor.ru
-dachnikexpert.ru
 dadata.ru
 daily.heroeswm.ru
 dapf.ru
@@ -711,10 +705,7 @@ filmplus.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
-fokino-prim.ru
 forextimes.ru
-forumbzk.ru
-forumozery.ru
 fp.bonuscake.ru
 free-gluten.ru
 freedom-vrn.ru
@@ -852,7 +843,6 @@ jux9ms4vc7.ru
 kaluga-gov.ru
 kamin-premium.ru
 kamint.ru
-kbrbank.ru
 kevents.auth.gid.ru
 kfe0mn.ru
 kiks.yandex.ru
@@ -882,7 +872,6 @@ leboard.ru
 lenta.sparrow.ru
 lenta.svk-native.ru
 lib.usedesk.ru
-libraart.ru
 likemore-go.imgsmail.ru
 linkbox.nocoshop.ru
 linkfeed.ru
@@ -934,12 +923,12 @@ media.fulledu.ru
 mediametrics.ru
 mediarepost.ru
 mediatoday.ru
+megagamer777.ru
 metrica-yandex.com
 metrica.yandex.com
 metrica.yandex.ru
 metrics-drru.dt.dbankcloud.ru
 metrics.aviasales.ru
-metrics.labsystech.ru
 metrics.prom.third-party-app.sberdevices.ru
 metrics.tricolor.ru
 metrics5.dt.dbankcloud.ru
@@ -949,8 +938,10 @@ metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
 minimo.callibri.ru
+mint-stl.ru
 mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
+mistralkorea.ru
 mlb1.adriver.ru
 mlb2.adriver.ru
 mlb3.adriver.ru
@@ -965,6 +956,7 @@ module.callibri.ru
 moevideo-sync.rutarget.ru
 momijoy.ru
 mosertolovo.ru
+mosty-best.ru
 movies5.fox-fan.ru
 mps.tlauncher.ru
 mpsuadv.ru
@@ -1015,8 +1007,8 @@ otclick-adv.ru
 otvet.radar.imgsmail.ru
 ox.techart.ru
 ozon.yandex.paypail24h-support-id58765.elearningmine.com
-p1.ggrust.ru
 p95bxv.ru
+pabloescobaro.ru
 papi.gameinstaller.ru
 paradocs.ru
 parking.reg.ru
@@ -1151,8 +1143,8 @@ s4.intimshop.ru
 sape.ru
 sba.yandex.net
 sbbe.group-ib.ru
+sbeachparty.ru
 sber.yandex.slid3.com
-sbermarket.yandex.eod6n9.jstv60.com
 sbermarket.yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 sbermarketing.ru
 sc.grattis.ru
@@ -1333,6 +1325,7 @@ supercleanspb.ru
 supergame-777.ru
 supergame007.ru
 supergame777.ru
+supergamer777.ru
 supertop.ru
 superwin777.ru
 sur.gorodkirov.ru
@@ -1357,7 +1350,6 @@ tags.adriver.ru
 tags.soloway.ru
 takedrivers.ru
 tapstat.ru
-taxi-5minute.ru
 tbmods.ru
 tcnewhimki.ru
 teamx.ru
@@ -1463,6 +1455,7 @@ videotarget-sync.rutarget.ru
 vidroll.ru
 vigvam.ru
 vihub.ru
+vip22gr.ru
 vipko.ru
 visor.adtec.ru
 visor.sberbank.ru
@@ -1470,7 +1463,6 @@ vkl-design.ru
 vmkxcsss.ru
 vp.rambler.ru
 vseobuch.ru
-vseumeyka.ru
 vsexshop.ru
 vst.sibnet.ru
 vstat.rtr-vesti.ru
@@ -1481,6 +1473,7 @@ w13mk6.ru
 wavesend.ru
 wcm.weborama-tech.ru
 web-metrica.yandex.ru
+web-metrics.cdek.ru
 web.redhelper.ru
 webkamerton.ru
 webkurchatov.ru
@@ -1541,6 +1534,7 @@ www.amt-k.ru
 www.audi-club.ru
 www.avramstroy.ru
 www.avto-optika.ru
+www.base-promo.ru
 www.betsonsport.ru
 www.bingo-time.ru
 www.cityads.ru
@@ -1578,8 +1572,12 @@ www.linkfeed.ru
 www.liveexpert.ru
 www.mastertarget.ru
 www.mc.yandex.ru
+www.megagamer777.ru
+www.mint-stl.ru
+www.mosty-best.ru
 www.newmonyti.ru
 www.otclick-adv.ru
+www.pabloescobaro.ru
 www.play-winner.ru
 www.playgogo.ru
 www.popgameplay.ru
@@ -1590,6 +1588,7 @@ www.pricelib.ru
 www.promo-nu.ru
 www.redirect.appmetrica.yandex.com
 www.saf-oil.ru
+www.sbeachparty.ru
 www.semena-tut.ru
 www.sosi-pisos.ru
 www.sosi-xyi.ru
@@ -1604,6 +1603,7 @@ www.super-win777.ru
 www.supergame-777.ru
 www.supergame007.ru
 www.supergame777.ru
+www.supergamer777.ru
 www.superwin777.ru
 www.teamx.ru
 www.tinka.ru
@@ -1615,6 +1615,7 @@ www.unlockers.ru
 www.uralmetalloprokat.ru
 www.videonow.ru
 www.vigvam.ru
+www.vip22gr.ru
 www.win-777-win.ru
 www.win777win.ru
 www.winer777.ru
@@ -1651,22 +1652,14 @@ yandex.avito.cdek.g3fjpod0fmoppkn6.themodernkitchengroup.com
 yandex.blablacar.g3fjpod0fmoppkn6.themodernkitchengroup.com
 yandex.blablacar.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
-yandex.cod63.com
-yandex.eod6n9.jstv60.com
-yandex.hood123.com
 yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com
 yandex.membership-amazion-id184645.elearningmine.com
-yandex.nalozhka.eod6n9.jstv60.com
-yandex.old4.imagingforwindows.com
 yandex.paypail24h-support-id58765.elearningmine.com
 yandex.pochta.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
-yandex.sber.sber.kelphqgid0010.britamgroup.com
 yandex.sbermegamarket.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
-yandex.sbermegamarket.sbermegamarket.7od0nl.shopifyfacebook.com
-yandex.shield779.zt6.com
 yandex.www.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
 yandex.www.slid3.com
 yandex.youla.u-lld6.adydv.com

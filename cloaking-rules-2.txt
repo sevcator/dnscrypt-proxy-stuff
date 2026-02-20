@@ -89,16 +89,14 @@ qwant.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 142.251.38.106
 =robinfrontend-pa.googleapis.com 172.217.19.234
 =robinfrontend-pa.googleapis.com 172.217.20.170
-=robinfrontend-pa.googleapis.com 172.217.21.170
-=robinfrontend-pa.googleapis.com 172.253.130.95
 =robinfrontend-pa.googleapis.com 173.194.73.95
 =robinfrontend-pa.googleapis.com 209.85.233.95
+=robinfrontend-pa.googleapis.com 216.58.207.202
 =robinfrontend-pa.googleapis.com 216.58.207.234
 =robinfrontend-pa.googleapis.com 216.58.211.10
 =robinfrontend-pa.googleapis.com 64.233.161.95
 =robinfrontend-pa.googleapis.com 64.233.162.95
 =robinfrontend-pa.googleapis.com 64.233.164.95
-=robinfrontend-pa.googleapis.com 64.233.165.95
 =robinfrontend-pa.googleapis.com 74.125.131.95
 =robinfrontend-pa.googleapis.com 74.125.205.95
 rutor.info 172.64.33.155

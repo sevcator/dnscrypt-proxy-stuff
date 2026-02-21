@@ -930,7 +930,6 @@ metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
 minimo.callibri.ru
-mint-stl.ru
 mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
 mistralkorea.ru
@@ -1000,7 +999,6 @@ otvet.radar.imgsmail.ru
 ox.techart.ru
 ozon.yandex.paypail24h-support-id58765.elearningmine.com
 p95bxv.ru
-pabloescobaro.ru
 papi.gameinstaller.ru
 paradocs.ru
 parking.reg.ru
@@ -1136,7 +1134,6 @@ s4.intimshop.ru
 sape.ru
 sba.yandex.net
 sbbe.group-ib.ru
-sbeachparty.ru
 sber.yandex.slid3.com
 sbermarket.yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 sbermarketing.ru
@@ -1328,7 +1325,6 @@ sweet211.ru
 swft.vedomosti.ru
 sync.adplay.ru
 sync.opendsp.ru
-sync.paradocs.ru
 sync.rambler.ru
 sync.rutarget.ru
 sync.videonow.ru
@@ -1449,7 +1445,6 @@ videotarget-sync.rutarget.ru
 vidroll.ru
 vigvam.ru
 vihub.ru
-vip22gr.ru
 vipko.ru
 visor.adtec.ru
 visor.sberbank.ru
@@ -1567,11 +1562,9 @@ www.liveexpert.ru
 www.mastertarget.ru
 www.mc.yandex.ru
 www.megagamer777.ru
-www.mint-stl.ru
 www.mosty-best.ru
 www.newmonyti.ru
 www.otclick-adv.ru
-www.pabloescobaro.ru
 www.play-winner.ru
 www.playgogo.ru
 www.popgameplay.ru
@@ -1583,7 +1576,6 @@ www.promo-nu.ru
 www.redirect.appmetrica.yandex.com
 www.s1b-security.ru
 www.saf-oil.ru
-www.sbeachparty.ru
 www.semena-tut.ru
 www.socanalitic.ru
 www.sosi-pisos.ru
@@ -1611,7 +1603,6 @@ www.unlockers.ru
 www.uralmetalloprokat.ru
 www.videonow.ru
 www.vigvam.ru
-www.vip22gr.ru
 www.win-777-win.ru
 www.win777win.ru
 www.winer777.ru

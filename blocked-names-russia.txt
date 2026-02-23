@@ -304,7 +304,6 @@ ads.photosight.ru
 ads.rustore.ru
 ads.x5media.ru
 adsdk.yandex.ru
-adslinks.ru
 adsniper.ru
 adspector-sync.rutarget.ru
 adsrv.hh.ru
@@ -314,6 +313,7 @@ adtv-service.teletarget.ru
 adv-adplatform.ru
 adv.vz.ru
 advast.sibnet.ru
+advert-journal.ru
 advertise.ru
 advertising.ru
 advertising.yandex.ru
@@ -724,7 +724,6 @@ getandgo.ru
 getyoursoft.ru
 ggjadv435qu4aborvaytooob3q.mc.yandex.ru
 gigamega.ru
-gitlab.skillbox.ru
 glavruba.ru
 globalscience.ru
 glopages.ru

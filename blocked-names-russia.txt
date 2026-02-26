@@ -43,7 +43,6 @@
 1292346964.mc.yandex.ru
 1389011008.mc.yandex.ru
 1498207985.mc.yandex.ru
-14b3x6oa.ru
 1515713492.mc.yandex.ru
 1604910854.mc.yandex.ru
 1778216199.mc.yandex.ru
@@ -344,6 +343,7 @@ aidata-sync.rutarget.ru
 aksonural.ru
 alarmobninsk.ru
 alfa-medosmotr.ru
+all-for-kompa.ru
 all4bath.ru
 alloysteel.ru
 allstat-pp.ru
@@ -356,7 +356,6 @@ amc.yandex.ru
 amnsreiuojy.ru
 amp.smi2.ru
 ampcid.google.ru
-amrom.ru
 an.mail.ru
 an.media-active.ru
 an.yandex.com
@@ -376,9 +375,7 @@ analytics.tripster.ru
 analytics.vgtimes.ru
 anekbook.ru
 anime-337.animesvosts.ru
-anime.jutsubest.ru
 animesvosts.ru
-anodpo.ru
 antalya.ru
 ap.adriver.ru
 api-an.tutu.ru
@@ -408,6 +405,7 @@ appmetrica.yandex.ru
 appmetrika.yandex.ru
 apptracer.ru
 ar.tns-counter.ru
+area-grove-sync.brightgrove.ru
 armconsul.ru
 asiandogs.ru
 ask-gps.ru
@@ -428,6 +426,7 @@ avto-optika.ru
 awaps.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
+azinocasinoclub.ru
 b.dotbrataev.ru
 b.netall.ru
 b13.penzainform.ru
@@ -439,6 +438,7 @@ b4.csdnevnik.ru
 b5.csdnevnik.ru
 b6.csdnevnik.ru
 back.winline.ru
+baket.ru
 bakteso.ru
 balakovo24.ru
 balam.paradocs.ru
@@ -475,8 +475,10 @@ bonuscake.ru
 borzjournal.ru
 botanical-research-archive.wildfern.ru
 botfaqtor.ru
+brandsoft74.ru
 brick360.ru
 bright-field-stat.brightvale.ru
+bright-grove-park.brightgrove.ru
 browser-updater.yandex.net
 bs-dante.ru
 bs-meta.yandex.ru
@@ -499,9 +501,6 @@ calltracking.alytics.ru
 catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
-cdek.cdek.yandex.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
-cdek.yandex.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
-cdek.yandex.www.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
 cdn-files.adx.com.ru
 cdn-res.tlauncher.ru
 cdn-rtb.sape.ru
@@ -596,7 +595,6 @@ counter.yadro.ru
 counter.yandex.com
 counter.yandex.ru
 covid-19.wp20.ru
-cp.14b3x6oa.ru
 cp.onicon.ru
 cpa-elements.rambler.ru
 cpa.hh.ru
@@ -604,6 +602,8 @@ cprojects.radar.imgsmail.ru
 cr-frontend.weborama-tech.ru
 crash-reports.browser.yandex.net
 crest-logic-point.clearcrest.ru
+crm-charmstore.ru
+crystal-mind.ru
 crystalpvp.ru
 cs.agency2.ru
 cs.avito.ru
@@ -699,6 +699,7 @@ exad.smi2.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
+f2a4ipk6.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fast-flow-point.rapidbrook.ru
 fast2load.ru
@@ -708,20 +709,21 @@ fcgi5.2xclick.ru
 fcgi5.gnezdo.ru
 fcgi7.gnezdo.ru
 feeds.kommersant.ru
+feme.ru
 filedrive.nocoshop.ru
 filekeeper.nocoshop.ru
 filestation.nocoshop.ru
 filmplus.ru
-floor-trade.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
 forest-deep-sync-node.wildfern.ru
 fp.bonuscake.ru
 free-gluten.ru
-free-t.ru
 freedom-vrn.ru
+fresh-cliff-high.freshcliff.ru
 frontlog.tutu.ru
+frontmetrics.tutu.ru
 fsk-ees.ru
 fulledu.ru
 g4blin.ru
@@ -737,12 +739,14 @@ gdeslon.ru
 gdl.adeeply.ru
 gdl.i9dhjx.ru
 gdl.topoads.ru
+geo-fresh-node.freshcliff.ru
 geo-rock-sync-base.swiftcanyon.ru
 geo.grattis.ru
 geofamily.ru
 getads.ru
 getandgo.ru
 getyoursoft.ru
+geyz.ru
 ggjadv435qu4aborvaytooob3q.mc.yandex.ru
 gigamega.ru
 glavruba.ru
@@ -822,6 +826,7 @@ img.usamodelkina.ru
 img.yuga.ru
 img0.liveinternet.ru
 img02.ad-tech.ru
+imperiatechno.ru
 impression.appmetrica.yandex.com
 indetiske.ya.ru
 inetlog.ru
@@ -856,7 +861,6 @@ js.smi2.ru
 js.yuga.ru
 justclick.ru
 justiva.ru
-justmj.ru
 jux9ms4vc7.ru
 kamin-premium.ru
 kamint.ru
@@ -889,6 +893,7 @@ leboard.ru
 lenta.sparrow.ru
 lenta.svk-native.ru
 lib.usedesk.ru
+light-grove-hub.brightgrove.ru
 light-valley-hub.brightvale.ru
 likemore-go.imgsmail.ru
 linkbox.nocoshop.ru
@@ -918,6 +923,7 @@ mail.ioc.ac.ru
 mail.radar.imgsmail.ru
 main-cool-harbor-sys.coolharbor.ru
 main-crest-auth.clearcrest.ru
+makesaleshop.ru
 man-live.ru
 mapp.winline.ru
 market.freedom-vrn.ru
@@ -975,7 +981,6 @@ modato.ru
 module.callibri.ru
 moevideo-sync.rutarget.ru
 momijoy.ru
-mosertolovo.ru
 mosty-best.ru
 movies5.fox-fan.ru
 mps.tlauncher.ru
@@ -1013,6 +1018,7 @@ nytva-nmz.ru
 nz3zieacj626woftx53w2k3vci.mc.yandex.ru
 obmensadami.ru
 ocean-harbor-gate.coolharbor.ru
+oco-nso.ru
 odds.ru
 ogeri.ru
 ogtz5yn2u1.ru
@@ -1024,13 +1030,14 @@ onetarget.ru
 opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
-orangmebel.ru
 orenburgkniga.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
+otzyvuvse.ru
 ox.techart.ru
 ozon.yandex.paypail24h-support-id58765.elearningmine.com
+p1.ggrust.ru
 p95bxv.ru
 papi.gameinstaller.ru
 paradocs.ru
@@ -1038,7 +1045,6 @@ parking.reg.ru
 partner.market.yandex.ru
 partner.yandex.ru
 partners.sbermarketing.ru
-pay.yandex.food05.com
 pay.yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 paypal-merchant.ru
 pb.adriver.ru
@@ -1078,7 +1084,6 @@ prlog.ru
 prod-msk-ad-analytics-tracker.novofon.ru
 prodmp.ru
 profile.ad-tech.ru
-profmedik.ru
 programmatic.ru
 promo-nu.ru
 promo-reklama.ru
@@ -1102,7 +1107,6 @@ quicklinks.nocoshop.ru
 quiet-air-monitor.quietwind.ru
 quotiq.ru
 r0.mail.ru
-r2.ggrust.ru
 r3.mail.ru
 r5hsid.ru
 radar.imgsmail.ru
@@ -1173,6 +1177,7 @@ s4.intimshop.ru
 sape.ru
 sba.yandex.net
 sbbe.group-ib.ru
+sber.yandex.avito.bid2do.com
 sber.yandex.slid3.com
 sbermarket.yandex.invalid2.munih.com
 sbermarket.yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
@@ -1335,6 +1340,7 @@ staticcf0.ntvk1.ru
 statika.mpsuadv.ru
 statistics-bt.wildberries.ru
 statistics.fppressa.ru
+statistics.gs-labs.ru
 stats-dev.videonow.ru
 stats.avito.ru
 stats.gastronom.ru
@@ -1352,6 +1358,7 @@ storm-bay-watch.stormbay.ru
 stream.datago.ru
 studlance.ru
 subscriptions.rambler.ru
+summit-cliff-sync.freshcliff.ru
 super-game777.ru
 super-traf.ru
 super-win777.ru
@@ -1441,6 +1448,7 @@ trkleads.ru
 ts.tracker-api.vk-analytics.ru
 tt.ttarget.ru
 ttarget.ru
+ttds.ru
 tuj4te2e2qckmaisyz7zjdtl6q.mc.yandex.ru
 turbobit.nocoshop.ru
 tutad.ru
@@ -1506,7 +1514,6 @@ vuryua.ru
 vzarabotke.ru
 w.rulive.ru
 w13mk6.ru
-wa8.ru
 water-network-node.rapidbrook.ru
 wavesend.ru
 wcm.weborama-tech.ru
@@ -1539,7 +1546,6 @@ win777win.ru
 winer777.ru
 winline.ru
 winlinebet.ru
-winnote.ru
 wmcasher.ru
 wolist.ru
 wood-processing-unit.smartpine.ru
@@ -1570,12 +1576,14 @@ www.advokatemelyanov.ru
 www.adylalahb.ru
 www.aksonural.ru
 www.alfa-medosmotr.ru
+www.all-for-kompa.ru
 www.all4wap.ru
 www.alloysteel.ru
 www.amt-k.ru
 www.audi-club.ru
 www.avramstroy.ru
 www.avto-optika.ru
+www.azinocasinoclub.ru
 www.base-promo.ru
 www.betsonsport.ru
 www.bingo-time.ru
@@ -1654,6 +1662,7 @@ www.toptracker.ru
 www.topwebnovosti.ru
 www.udobrit.ru
 www.unlockers.ru
+www.uralmetalloprokat.ru
 www.videonow.ru
 www.vigvam.ru
 www.win-777-win.ru
@@ -1664,7 +1673,6 @@ www.wordstat.yandex.ru
 www.wwwomen.ru
 www.xz8.ru
 www.yaemgovno.ru
-www.yandex.blablacar.g3fjpod0fmoppkn6.themodernkitchengroup.com
 www.yandex.com
 www.yandex.invalid2.munih.com
 www.yandex.net
@@ -1690,13 +1698,10 @@ yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.avito.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
-yandex.avito.cdek.g3fjpod0fmoppkn6.themodernkitchengroup.com
-yandex.avito.good2goatl.com
-yandex.blablacar.g3fjpod0fmoppkn6.themodernkitchengroup.com
+yandex.avito.bid2do.com
 yandex.blablacar.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
-yandex.cdek.831ld1t.jiuse9100.com
-yandex.food05.com
+yandex.cod63.com
 yandex.invalid2.munih.com
 yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
@@ -1704,22 +1709,23 @@ yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com
 yandex.membership-amazion-id184645.elearningmine.com
 yandex.paypail24h-support-id58765.elearningmine.com
 yandex.pochta.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
-yandex.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
 yandex.sberbank.orders.ld18gop.com
+yandex.sbermarket.sbermarket.feelgood70s.com
 yandex.sbermegamarket.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
-yandex.sbermegamarket.sbermegamarket.7od0nl.shopifyfacebook.com
-yandex.www.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
+yandex.shield779.zt6.com
 yandex.www.slid3.com
-yandex.youla.avito.ozon.bid4awin.com
 yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 ybej5ohp0x.ru
 yhzn0f.ru
 ym7f6hodzp.ru
-ymgd6ta0to.ru
-ymigms14as.ru
-ymptqq71uz.ru
+ymbmlf55en.ru
+ymkm9druw0.ru
+ympa4nv2ql.ru
+yms1p1qgmp.ru
+ymtiqbl1u4.ru
+ymv9ydanm8.ru
 yougameplay.ru
 yuga.ru
 zachestnyibiznes.ru

@@ -81,6 +81,7 @@ pump.fun 45.155.204.190
 qwant.com 45.155.204.190
 =rewards.bing.com 185.250.151.49
 =robinfrontend-pa.googleapis.com 108.177.14.95
+=robinfrontend-pa.googleapis.com 142.250.74.10
 =robinfrontend-pa.googleapis.com 142.251.1.95
 =robinfrontend-pa.googleapis.com 142.251.142.234
 =robinfrontend-pa.googleapis.com 142.251.143.138

@@ -53,7 +53,6 @@
 1cfcee684da84d79a21730432fc15b1f.ops.beeline.ru
 1cont.ru
 1directory.ru
-1krestik.ru
 1l-hit.mail.ru
 1l-view.mail.ru
 1link.mail.ru
@@ -417,7 +416,6 @@ autocontext.begun.ru
 autofill.yandex.ru
 autoru-mag.s3.yandex.net
 autous.ru
-avito.yandex.youla.id4africakhuvenesa.studentbloggntnu.com
 avr.i-trailer.ru
 avramstroy.ru
 avto-optika.ru
@@ -493,10 +491,6 @@ calltracking.alytics.ru
 catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
-cdek.cdek.yandex.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
-cdek.yandex.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
-cdek.yandex.www.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
-cdek.yandex.youla.id4africakhuvenesa.studentbloggntnu.com
 cdn-files.adx.com.ru
 cdn-res.tlauncher.ru
 cdn-rtb.sape.ru
@@ -685,7 +679,6 @@ exad.smi2.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
-f2a4ipk6.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fast2load.ru
 faststat.advideo.ru
@@ -694,7 +687,6 @@ fcgi5.2xclick.ru
 fcgi5.gnezdo.ru
 fcgi7.gnezdo.ru
 feeds.kommersant.ru
-feme.ru
 filedrive.nocoshop.ru
 filekeeper.nocoshop.ru
 filestation.nocoshop.ru
@@ -724,7 +716,6 @@ gdl.i9dhjx.ru
 gdl.topoads.ru
 geo.grattis.ru
 geofamily.ru
-get-loads.ru
 getads.ru
 getandgo.ru
 getyoursoft.ru
@@ -778,7 +769,6 @@ hitcrypt.xgd3kl.ru
 hitlist.ru
 hitman-pro.ru
 holm.ru
-homesty.ru
 homework.ru
 hostiman.ru
 hro7sgymmjjutujwuy2b42ijzy.mc.yandex.ru
@@ -831,7 +821,6 @@ jimbot.ru
 jordan.qunis.ru
 journal-bt.wildberries.ru
 jps.ru
-jqk2me2mzf.ru
 js.advideo.ru
 js.smi2.ru
 js.yuga.ru
@@ -848,7 +837,6 @@ kolypontu.ru
 konget.ru
 kontrolnaya-rabota.ru
 kraken.rambler.ru
-krasotia.ru
 kurganobl.ru
 kz.tns-counter.ru
 l.utorria.ru
@@ -856,7 +844,6 @@ l2top.ru
 l6at5oaidmndrqqs3eohlvcciy.mc.yandex.ru
 ladycash.ru
 laimroll.ru
-lampic-home.ru
 lc2ads.ru
 ldoe-analytics.kefirgames.ru
 leadback.ru
@@ -962,7 +949,6 @@ mstat.mos.ru
 mts-dsp-sync.rutarget.ru
 myqualification.rambler.ru
 mytop.live.vkvideo.ru
-nalozhka.yandex.bestsell1day.com
 nalozhka.yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 nashindex.ru
 nashvek.ru
@@ -998,7 +984,6 @@ onetarget.ru
 opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
-orangmebel.ru
 orenburgkniga.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
@@ -1043,7 +1028,6 @@ popupclick.ru
 posthog.livelib.ru
 practiserussiangarments.com
 prbn.ru
-premiaon.ru
 pricelib.ru
 privacy-cs.mail.ru
 prlog.ru
@@ -1101,7 +1085,6 @@ report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
 retargeting.adx.com.ru
-rgxhvozon.yandex.fox-god999.com
 riabir.ru
 rmbn.ru
 rosenberg.appmetrica.yandex.net
@@ -1136,9 +1119,7 @@ s1.mpsuadv.ru
 s1b-security.ru
 s2.mpsuadv.ru
 s4.intimshop.ru
-sanatoriikavkaza.ru
 sape.ru
-save-youtube.ru
 sba.yandex.net
 sbbe.group-ib.ru
 sber.yandex.slid3.com
@@ -1172,6 +1153,7 @@ sentry.belkacar.ru
 sentry.domclick.ru
 sentry.hh.ru
 sentry.iptv.rt.ru
+sentry.matchtv.ru
 sentry.megapteka.ru
 sentry.mos.ru
 sentry.ozon.ru
@@ -1231,7 +1213,6 @@ sobory.ru
 socanalitic.ru
 socgate.ru
 socialsend.ru
-soft-icq.ru
 softboard.ru
 softcatalog.ru
 softodrom.ru
@@ -1320,7 +1301,6 @@ supercleanspb.ru
 supergamer777.ru
 supertop.ru
 superwin777.ru
-supplyb2b.ru
 sur.gorodkirov.ru
 svk-native.ru
 sweet211.ru
@@ -1388,7 +1368,6 @@ tracking.ott.yandex.ru
 tracking.retailrocket.ru
 tradingdesk-sync.rutarget.ru
 trafffgen.rambler.ru
-transit-logistics.ru
 trigub.ru
 trimay.ru
 trk.adeeply.ru
@@ -1415,7 +1394,6 @@ unlockers.ru
 upandshare.nocoshop.ru
 uptime-info.yandex.ru
 uptolike.ru
-url.premiaon.ru
 user-banner.wb.ru
 userator.ru
 usercenter-drru.dt.dbankcloud.ru
@@ -1460,7 +1438,6 @@ vuryua.ru
 vzarabotke.ru
 w.rulive.ru
 w13mk6.ru
-wa8.ru
 wavesend.ru
 wcm.weborama-tech.ru
 web-metrica.yandex.ru
@@ -1558,7 +1535,6 @@ www.jps.ru
 www.justclick.ru
 www.kolypontu.ru
 www.kontrolnaya-rabota.ru
-www.krasotia.ru
 www.linkfeed.ru
 www.liveexpert.ru
 www.mastertarget.ru
@@ -1606,14 +1582,12 @@ www.wordstat.yandex.ru
 www.wwwomen.ru
 www.xz8.ru
 www.yaemgovno.ru
-www.yandex.blablacar.g3fjpod0fmoppkn6.themodernkitchengroup.com
 www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yougameplay.ru
 www.yuga.ru
 wwwomen.ru
-x2.ggrust.ru
 x81p4z.ru
 xaf0ec.ru
 xcec.ru
@@ -1631,44 +1605,23 @@ yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.avito.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
-yandex.avito.cdek.g3fjpod0fmoppkn6.themodernkitchengroup.com
-yandex.bestsell1day.com
-yandex.blablacar.g3fjpod0fmoppkn6.themodernkitchengroup.com
 yandex.blablacar.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
-yandex.blablacar.youla.id4africakhuvenesa.studentbloggntnu.com
-yandex.cdek.sap.zahid3d.com
-yandex.fox-god999.com
 yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com
 yandex.membership-amazion-id184645.elearningmine.com
-yandex.ozon.dod0z.iitter.com
-yandex.ozon.ww1.zahid3d.com
 yandex.paypail24h-support-id58765.elearningmine.com
 yandex.pochta.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
-yandex.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
 yandex.sberbank.orders.ld18gop.com
 yandex.sbermegamarket.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
-yandex.www.sber.g3fjpod0fmoppkn6.themodernkitchengroup.com
 yandex.www.slid3.com
-yandex.www.youla.id4africakhuvenesa.studentbloggntnu.com
-yandex.youla.id4africakhuvenesa.studentbloggntnu.com
 yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
-ym5mltbu4n.ru
-ymasp97aek.ru
-ymcuu1pbh3.ru
-ymeaijk57n.ru
-ymfkho15xs.ru
-ymhkttb64y.ru
-ympa4nv2ql.ru
-yms9e1wolu.ru
 yougameplay.ru
 yuga.ru
-z.1krestik.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru
 zapchast-gazkotel.ru

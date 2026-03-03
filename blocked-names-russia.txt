@@ -13,7 +13,6 @@
 0gs25f.ru
 0pn.ru
 1.off3.ru
-1.ska4at.ru
 1004261127.mc.yandex.ru
 1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
 1013a--10180--257.stbid.ru
@@ -28,7 +27,6 @@
 102197844.mc.yandex.ru
 102954.wavesend.ru
 103527516.mc.yandex.ru
-1073--na--soloway.stbid.ru
 107376.wavesend.ru
 1074a----adspector.stbid.ru
 1074a--genergy.stbid.ru
@@ -148,7 +146,6 @@
 4292693--23482909-111-mnews.ms.vk.com
 43212.ms.vk.com
 438130389.mc.yandex.ru
-44212.ms.vk.com
 45212.ms.vk.com
 452885495.mc.yandex.ru
 45950.wavesend.ru
@@ -522,7 +519,6 @@ checker.cityads.ru
 checks.botfaqtor.ru
 chessfor.ru
 chiptuner.ru
-cinemateka3d.ru
 cityads.ru
 ckct.ru
 clck.dzen.ru
@@ -605,9 +601,7 @@ cuzrfkzwkn.ru
 cvt1.sibnet.ru
 cybertown.ru
 d.botfaqtor.ru
-dachnikexpert.ru
 dadata.ru
-daily.heroeswm.ru
 dapf.ru
 darknagar.ru
 data.punchmedia.ru
@@ -984,7 +978,6 @@ onetarget.ru
 opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
-orenburgkniga.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
@@ -1058,7 +1051,6 @@ r0.mail.ru
 r3.mail.ru
 r5hsid.ru
 radar.imgsmail.ru
-radio.mediametrics.ru
 rate-metrics.prodoctorov.ru
 rate.ru
 rbcv7s.ru
@@ -1204,7 +1196,6 @@ sm.rtb.mts.ru
 smartfiles.nocoshop.ru
 smi2.ru
 sminewsnet.ru
-smsactivator.ru
 snsv.ru
 sntr.avito.ru
 sntr.lifehacker.ru
@@ -1292,7 +1283,6 @@ steam-account.ru
 stmtag.ru
 stoletie.ru
 storage.agency2.ru
-storage.sbermarketing.ru
 stream.datago.ru
 studlance.ru
 subscriptions.rambler.ru

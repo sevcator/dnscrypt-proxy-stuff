@@ -248,7 +248,6 @@ a7.smi2.ru
 aan8bq.ru
 abs.firstvds.ru
 abt.s3.yandex.net
-ac-bastion.ru
 ac6ruv8t.ru
 accidentallyrussian.com
 acollector.wb.ru
@@ -481,6 +480,7 @@ c.sibnet.ru
 c.snsv.ru
 c3se4i.ru
 c7xxbd.ru
+cabinet.adzone.ru
 callback.onlinepbx.ru
 callibri.ru
 calltracking.alytics.ru
@@ -542,7 +542,6 @@ code.4hunqp.ru
 code.clicktex.ru
 code.directadvert.ru
 code.moviead55.ru
-codhacks.ru
 common.radar.imgsmail.ru
 compare.meteoservice.ru
 connect-drru.hispace.dbankcloud.ru
@@ -668,7 +667,6 @@ events.ivi.ru
 events.maps.vk.com
 evt.uchi.ru
 exad.smi2.ru
-expertnov.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
@@ -830,7 +828,6 @@ kolypontu.ru
 konget.ru
 kontrolnaya-rabota.ru
 kraken.rambler.ru
-krasotia.ru
 kurganobl.ru
 kz.tns-counter.ru
 l.utorria.ru
@@ -916,7 +913,6 @@ metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
 minimo.callibri.ru
-mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
 mistralkorea.ru
 mlb1.adriver.ru
@@ -944,7 +940,6 @@ mts-dsp-sync.rutarget.ru
 myjino.ru
 myqualification.rambler.ru
 mytop.live.vkvideo.ru
-nalozhka.yandex.blablacar.youla.euclid116.com
 nalozhka.yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 nashindex.ru
 nashvek.ru
@@ -984,7 +979,6 @@ ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
 ox.techart.ru
-ozon.yandex.ozon.hostmaster.euclid116.com
 ozon.yandex.paypail24h-support-id58765.elearningmine.com
 p95bxv.ru
 papi.gameinstaller.ru
@@ -1151,6 +1145,7 @@ sentry.iptv.rt.ru
 sentry.matchtv.ru
 sentry.megapteka.ru
 sentry.mos.ru
+sentry.np-internal.ru
 sentry.ozon.ru
 sentry.rshbcloud.ru
 sentry.sca.ad-tech.ru
@@ -1244,6 +1239,7 @@ stat.adrun.ru
 stat.adtec.ru
 stat.advideo.ru
 stat.adx.com.ru
+stat.aif.ru
 stat.azbyka.ru
 stat.clickfrog.ru
 stat.gc.vkplay.ru
@@ -1528,7 +1524,6 @@ www.jps.ru
 www.justclick.ru
 www.kolypontu.ru
 www.kontrolnaya-rabota.ru
-www.krasotia.ru
 www.linkfeed.ru
 www.liveexpert.ru
 www.mastertarget.ru
@@ -1578,7 +1573,6 @@ www.xz8.ru
 www.yaemgovno.ru
 www.yandex.com
 www.yandex.net
-www.yandex.ozon.euclid116.com
 www.yastatic.ru
 www.yougameplay.ru
 www.yuga.ru
@@ -1599,34 +1593,22 @@ yandex-dmp-sync.rutarget.ru
 yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
-yandex.avito.avito.hostmaster.euclid116.com
 yandex.avito.avito.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.blablacar.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
-yandex.blablacar.sbermegamarket.cdek.euclid116.com
-yandex.blablacar.youla.euclid116.com
-yandex.cdek.pochta.avito.ozon.euclid116.com
 yandex.ld40xfmh3jjry9lzv1iq2396wjc4j1vy.pl.0070tv.com
 yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com
 yandex.membership-amazion-id184645.elearningmine.com
-yandex.nalozhka.hostmaster.euclid116.com
-yandex.ozon.euclid116.com
-yandex.ozon.hostmaster.euclid116.com
 yandex.paypail24h-support-id58765.elearningmine.com
 yandex.pochta.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.sberbank.orders.ld18gop.com
 yandex.sbermegamarket.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
-yandex.sbermegamarket.sbermegamarket.7od0nl.shopifyfacebook.com
-yandex.www.pay.hostmaster.euclid116.com
 yandex.www.slid3.com
 yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
-ym5onutd2k.ru
-ymb0dnxa4z.ru
-ymu2ah8air.ru
 yougameplay.ru
 yuga.ru
 zachestnyibiznes.ru

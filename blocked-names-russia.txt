@@ -82,7 +82,6 @@
 2498089395.mc.yandex.ru
 24gadget.ru
 24log.ru
-24lov.ru
 24new.ru
 25112.ms.vk.com
 25122.ms.vk.com
@@ -209,7 +208,6 @@
 836613652.mc.yandex.ru
 881047328.mc.yandex.ru
 8si.ru
-9--000000000000000000000000.stbid.ru
 9--f4dbdf21672c5990eb9910ae.stbid.ru
 931131.log.rutube.ru
 931221.log.rutube.ru
@@ -371,6 +369,7 @@ analytics.vgtimes.ru
 anekbook.ru
 anime-337.animesvosts.ru
 animesvosts.ru
+anodpo.ru
 antalya.ru
 ap.adriver.ru
 api-an.tutu.ru
@@ -606,7 +605,6 @@ data.skwstat.ru
 data.videonow.ru
 datalytics.utair.ru
 datatracking.ru
-dcdn.heroeswm.ru
 dct.mango-office.ru
 delta.mediafort.ru
 demo.punchmedia.ru
@@ -1125,7 +1123,6 @@ secretfiles.nocoshop.ru
 secure-ads.yandex.com
 secure-ads.yandex.ru
 selec1.adriver.ru
-semena-tut.ru
 sendbox.nocoshop.ru
 sentry-api.sberdevices.ru
 sentry-devtools.qsrapp.ru
@@ -1174,7 +1171,6 @@ servers9.adriver.ru
 serving.a.mts.ru
 serving.laimroll.ru
 sexgramm.ru
-sexyma.ru
 sfr7ag.ru
 sgm.punchmedia.ru
 sgood.ru
@@ -1264,7 +1260,6 @@ static.skwstat.ru
 static.traffic.ru
 static.videonow.ru
 static.yandex.net
-static.zachestnyibiznes.ru
 staticcf0.ntvk1.ru
 statika.mpsuadv.ru
 statistics-bt.wildberries.ru
@@ -1278,7 +1273,6 @@ stats.mos.ru
 stats.rustore.ru
 stats2.videonow.ru
 stavkiprognozy.ru
-steam-account.ru
 stmtag.ru
 stoletie.ru
 storage.agency2.ru
@@ -1456,11 +1450,11 @@ win777win.ru
 winer777.ru
 winline.ru
 winlinebet.ru
+winrating.ru
 wmcasher.ru
 wolist.ru
 wordstat.yandex.ru
 workspay.ru
-wosoft.ru
 wowlink.ru
 wp20.ru
 wrc-info.ru
@@ -1543,7 +1537,6 @@ www.pricelib.ru
 www.redirect.appmetrica.yandex.com
 www.s1b-security.ru
 www.saf-oil.ru
-www.semena-tut.ru
 www.socanalitic.ru
 www.sosi-pisos.ru
 www.sosi-xyi.ru

@@ -49,7 +49,6 @@ framer.com 45.155.204.190
 =game.clashroyaleapp.com 45.95.233.23
 =gamea.clashofclans.com 193.23.209.189
 =gemini.google.com 80.74.29.235
-=generativelanguage.googleapis.com 185.250.151.49
 =generativelanguage.googleapis.com 80.74.29.235
 =gew1-dealer.spotify.com 45.155.204.190
 =gew1-spclient.spotify.com 45.155.204.190
@@ -59,7 +58,6 @@ intel.com 45.155.204.190
 jetbrains.ai 45.155.204.190
 jetbrains.com 45.155.204.190
 =jules.google.com 80.74.29.235
-=jules.google.com 94.131.119.22
 =labs.google 185.250.151.50
 linear.app 45.155.204.190
 =login5.spotify.com 45.155.204.190
@@ -83,7 +81,7 @@ qwant.com 45.155.204.190
 =robinfrontend-pa.googleapis.com 108.177.14.95
 =robinfrontend-pa.googleapis.com 142.250.150.95
 =robinfrontend-pa.googleapis.com 142.251.1.95
-=robinfrontend-pa.googleapis.com 173.194.220.95
+=robinfrontend-pa.googleapis.com 172.253.130.95
 =robinfrontend-pa.googleapis.com 173.194.221.95
 =robinfrontend-pa.googleapis.com 173.194.222.95
 =robinfrontend-pa.googleapis.com 173.194.73.95

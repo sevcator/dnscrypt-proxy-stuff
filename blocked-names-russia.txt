@@ -1276,6 +1276,7 @@ tag.a.mts.ru
 tag.digitaltarget.ru
 tag.perx.ru
 tag.rutarget.ru
+tagmanager.andata.ru
 tags.adriver.ru
 tags.soloway.ru
 takedrivers.ru
@@ -1403,6 +1404,7 @@ web.redhelper.ru
 webkamerton.ru
 webkurchatov.ru
 weborama-tech.ru
+webstat.profi.ru
 websurf.ru
 weupload.nocoshop.ru
 wf-ru-frontend.weborama-tech.ru

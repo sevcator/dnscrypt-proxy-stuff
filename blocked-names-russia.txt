@@ -29,7 +29,6 @@
 103527516.mc.yandex.ru
 107376.wavesend.ru
 1074a----adspector.stbid.ru
-1074a--genergy.stbid.ru
 1076--cookieid.stbid.ru
 11078243--28658784-111-mnews.ms.vk.com
 111101111.ru
@@ -182,7 +181,6 @@
 61028.wavesend.ru
 632121.ms.vk.com
 632221.ms.vk.com
-64-school.ru
 642121.ms.vk.com
 642221.ms.vk.com
 652121.ms.vk.com
@@ -197,7 +195,6 @@
 7443352--152992737-111-mnews.ms.vk.com
 7558411527765562698-otm.ops.beeline.ru
 777-club.ru
-777win.ru
 7bs4fapoe73t25ibj5o5yh6xpy.mc.yandex.ru
 7nkbwdf1uq.ru
 81640.mstat.mos.ru
@@ -433,7 +430,6 @@ banners.adfox.ru
 banshop.gruntovik.ru
 bardatm.ru
 base-promo.ru
-base.animesvosts.ru
 bazr.ru
 bbj3nb.ru
 bdgadv.ru
@@ -640,12 +636,10 @@ effad.ru
 egg.afisha.ru
 eimage.sendsay.ru
 energy63.ru
-englishtopic.ru
 err.agava.ru
 err.lenta.ru
 error-hub.tinkoff.ru
 error.videonow.ru
-essay.englishtopic.ru
 ev.adriver.ru
 evangroup.ru
 event-analytics-backend.skyeng.ru
@@ -739,7 +733,6 @@ hitcrypt.g4blin.ru
 hitcrypt.icyh3e.ru
 hitcrypt.mb9pzp.ru
 hitcrypt.rbcv7s.ru
-hitcrypt.sfr7ag.ru
 hitcrypt.udqrh6.ru
 hitcrypt.x81p4z.ru
 hitcrypt.xgd3kl.ru
@@ -988,7 +981,6 @@ pixel.smr8.ru
 pjkyxrd15e.ru
 pkeeper3.ru
 pl2.skwstat.ru
-plastgroup.ru
 pobedastaff.ru
 pochta.yandex.id2023wa.com
 pokrutim.ru
@@ -1134,7 +1126,6 @@ sentry.sravni-team.ru
 sentry.streamvi.ru
 sentry.sutochno.ru
 sentry.truemachine.ru
-sentry.trychatgpt.ru
 sentry.tutorplace.ru
 sentry.tutu.ru
 sentry.uteka.ru
@@ -1388,7 +1379,6 @@ vihub.ru
 vipko.ru
 visor.adtec.ru
 visor.sberbank.ru
-vkl-design.ru
 vmkxcsss.ru
 vp.rambler.ru
 vseobuch.ru
@@ -1445,7 +1435,6 @@ www.1pamm.ru
 www.423.ru
 www.5forex.ru
 www.777-club.ru
-www.777win.ru
 www.8si.ru
 www.ad-words.ru
 www.adv.yandex.ru
@@ -1552,7 +1541,6 @@ yandex.pochta.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.
 yandex.sberbank.orders.ld18gop.com
 yandex.sbermegamarket.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 yandex.sbermegamarket.sbermegamarket.7od0nl.shopifyfacebook.com
-yandex.yk-mid-prod2-res.campaign.glynntaffassistedliving.com
 yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru

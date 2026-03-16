@@ -151,7 +151,6 @@
 4930194--43618728-111-mnews.ms.vk.com
 494489157.mc.yandex.ru
 496993964.mc.yandex.ru
-4hunqp.ru
 4px.ru
 531111.ms.dzen.ru
 531121.ms.dzen.ru
@@ -442,14 +441,12 @@ bid.adx.com.ru
 bidder.rutarget.ru
 bidder.videonow.ru
 bidvol-sync.rutarget.ru
-blablacar.yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com
 blocked.botfaqtor.ru
 bn.winlinebet.ru
 bonuscake.ru
 bonusmega.ru
 borzjournal.ru
 botfaqtor.ru
-brandsoft74.ru
 brick360.ru
 browser-updater.yandex.net
 bs-dante.ru
@@ -459,7 +456,6 @@ bs.orsk.ru
 bs.serving-sys.ru
 bs.webtalk.ru
 bs.yandex.ru
-bus-lunch.irktorgnewss.ru
 buzzoola-sync.rutarget.ru
 bvl5bziz9d.ru
 c.botfaqtor.ru
@@ -474,7 +470,6 @@ calltracking.alytics.ru
 catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
-cdek.yandex.hood123.com
 cdn-files.adx.com.ru
 cdn-res.tlauncher.ru
 cdn-rtb.sape.ru
@@ -492,7 +487,6 @@ cdn.dsp-rambler.ru
 cdn.dsp.onetarget.ru
 cdn.getandgo.ru
 cdn.gpmdata.ru
-cdn.mediatoday.ru
 cdn.otclick-adv.ru
 cdn.punchmedia.ru
 cdn.retailrocket.ru
@@ -525,7 +519,6 @@ cm.a.mts.ru
 cm.p.altergeo.ru
 cm.tns-counter.ru
 cnb.cnews.ru
-code.4hunqp.ru
 code.clicktex.ru
 code.directadvert.ru
 code.moviead55.ru
@@ -654,7 +647,6 @@ exad.smi2.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
-f2a4ipk6.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fast2load.ru
 faststat.advideo.ru
@@ -670,14 +662,11 @@ filmplus.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
-fokino-prim.ru
-forumstatic.ru
 fp.bonuscake.ru
 free-gluten.ru
 freedom-vrn.ru
 frontlog.tutu.ru
 frontmetrics.tutu.ru
-fsk-ees.ru
 fulledu.ru
 g4blin.ru
 gameinstaller.ru
@@ -706,7 +695,6 @@ greatgrace.ru
 grs-pub.platform.dbankcloud.ru
 gso.amocrm.ru
 gt-frontend.weborama-tech.ru
-gunshot-servers.ru
 gw.botfaqtor.ru
 h21.ru
 hasard.ru
@@ -740,7 +728,6 @@ hitlist.ru
 hitman-pro.ru
 holm.ru
 homework.ru
-hoster-test.ru
 hostiman.ru
 hro7sgymmjjutujwuy2b42ijzy.mc.yandex.ru
 ht-systems.ru
@@ -757,7 +744,6 @@ ideibiznesa2015.ru
 im-sentry.sportmaster.ru
 image.sendsay.ru
 images.sparrow.ru
-img.bazr.ru
 img.goodcustomers.ru
 img.usamodelkina.ru
 img.yuga.ru
@@ -782,7 +768,6 @@ ipgrabber.ru
 ipgraber.ru
 iplis.ru
 iplogger.ru
-irktorgnewss.ru
 is.luxup.ru
 iviruseries3.ru
 j.adlooxtracking.ru
@@ -797,9 +782,7 @@ js.smi2.ru
 js.yuga.ru
 justclick.ru
 justiva.ru
-justmj.ru
 jux9ms4vc7.ru
-kaluga-gov.ru
 kamin-premium.ru
 kamint.ru
 kevents.auth.gid.ru
@@ -922,7 +905,6 @@ mts-dsp-sync.rutarget.ru
 myjino.ru
 myqualification.rambler.ru
 mytop.live.vkvideo.ru
-nalozhka.yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
 nashindex.ru
 nel.wb.ru
 neobasnet.timeout.ru
@@ -948,7 +930,6 @@ ogeri.ru
 ogtz5yn2u1.ru
 ohmybid-sync.rutarget.ru
 ohmybidvideo-sync.rutarget.ru
-old.fsk-ees.ru
 omniqa.ru
 onetarget.ru
 opendsp.ru
@@ -957,7 +938,6 @@ openx.cnews.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
-otzyvuvse.ru
 ox.techart.ru
 papi.gameinstaller.ru
 paradocs.ru
@@ -982,7 +962,6 @@ pjkyxrd15e.ru
 pkeeper3.ru
 pl2.skwstat.ru
 pobedastaff.ru
-pochta.yandex.id2023wa.com
 pokrutim.ru
 pool.stbid.ru
 poppers-rush.ru
@@ -1018,7 +997,6 @@ qos-api.ott.yandex.net
 quicklinks.nocoshop.ru
 quotiq.ru
 r0.mail.ru
-r2.ggrust.ru
 r3.mail.ru
 r5hsid.ru
 radar.imgsmail.ru
@@ -1030,7 +1008,6 @@ rcmjs.rambler.ru
 read.sendsay.ru
 readme.ru
 readto.ru
-receivers.ru
 recreativ.ru
 redirect-frontend.weborama-tech.ru
 redirect.appmetrica.yandex.com
@@ -1361,7 +1338,6 @@ v7.mpsuadv.ru
 vafrike.ru
 vast.nashindex.ru
 vastroll.ru
-veteor.ru
 vi.adplay.ru
 vi2.adplay.ru
 vi3.adplay.ru
@@ -1416,7 +1392,6 @@ widgets.planeta.ru
 wiki.alytics.ru
 winline.ru
 winlinebet.ru
-winnote.ru
 wmcasher.ru
 wolist.ru
 wordstat.yandex.ru
@@ -1487,7 +1462,6 @@ www.poppers-rush.ru
 www.popunder.ru
 www.pr-cy.ru
 www.pricelib.ru
-www.receivers.ru
 www.redirect.appmetrica.yandex.com
 www.s1b-security.ru
 www.saf-oil.ru
@@ -1529,25 +1503,12 @@ yandex-dmp-sync.rutarget.ru
 yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
-yandex.blablacar.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
-yandex.blablacar.membership-amazion-id184645.elearningmine.com
-yandex.cardbtcid7tiz47s7pfvzczwwc75fuvuftigi2c6ezmfxp6vq5vl3kad.onion.darknet2web.com
-yandex.hood123.com
-yandex.id2023wa.com
-yandex.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
-yandex.mcid-6195d92e-4428-4537-b1b4-750cd73951f5.ep-mimecast.inyoketuber.com
 yandex.membership-amazion-id184645.elearningmine.com
-yandex.pochta.mcid-08b21a4f-ddee-4fd0-ba18-fb34735ae636.ep-mimecast.inyoketuber.com
 yandex.sberbank.orders.ld18gop.com
-yandex.sbermegamarket.mcid-03d2f950-7e13-47e3-9c04-e45950834c9f.ep-mimecast.inyoketuber.com
-yandex.sbermegamarket.sbermegamarket.7od0nl.shopifyfacebook.com
 yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
-ym7f6hodzp.ru
-ymdw2aq0if.ru
-ymlgbi0m5g.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

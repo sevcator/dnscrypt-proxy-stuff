@@ -20,7 +20,6 @@
 1013a--ma--10204--cp1.stbid.ru
 1013a--ma--10204--cp12.stbid.ru
 1013a--ma--10204--cp17.stbid.ru
-1013a--ma--8935--cp199.stbid.ru
 10196121--15722194-111-mnews.ms.vk.com
 101flag.ru
 101floor.ru
@@ -28,7 +27,6 @@
 102954.wavesend.ru
 103527516.mc.yandex.ru
 107376.wavesend.ru
-1074a----adspector.stbid.ru
 1076--cookieid.stbid.ru
 11078243--28658784-111-mnews.ms.vk.com
 111101111.ru
@@ -83,7 +81,6 @@
 24log.ru
 24new.ru
 25112.ms.vk.com
-25122.ms.vk.com
 25212.ms.vk.com
 2640225934.mc.yandex.ru
 2648299211.mc.yandex.ru
@@ -346,7 +343,6 @@ analytics.alloka.ru
 analytics.click-or-die.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
-analytics.marquiz.ru
 analytics.max-admin.ru
 analytics.mobile.yandex.net
 analytics.sberhealth.ru
@@ -1025,7 +1021,6 @@ report.ap.yandex-net.ru
 report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
-retargeting.adx.com.ru
 riabir.ru
 rmbn.ru
 rosenberg.appmetrica.yandex.net
@@ -1039,7 +1034,6 @@ rtb.agency2.ru
 rtb.opendsp.ru
 rtb.videonow.ru
 rtb27.videonow.ru
-rtb32.videonow.ru
 rulate.ru
 rulive.ru
 rum.cdnvideo.ru
@@ -1223,7 +1217,6 @@ stats2.videonow.ru
 stavkiprognozy.ru
 stmtag.ru
 stoletie.ru
-storage.agency2.ru
 stream.datago.ru
 studlance.ru
 subscriptions.rambler.ru
@@ -1476,7 +1469,6 @@ www.udobrit.ru
 www.unlockers.ru
 www.uralmetalloprokat.ru
 www.videonow.ru
-www.vigvam.ru
 www.wm-goldenclick.ru
 www.wordstat.yandex.ru
 www.wwwomen.ru

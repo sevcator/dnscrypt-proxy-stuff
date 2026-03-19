@@ -11,6 +11,7 @@
 02ip.ru
 04xmhp.ru
 0gs25f.ru
+0p6fsponf9.ru
 0pn.ru
 1.off3.ru
 1004261127.mc.yandex.ru
@@ -58,6 +59,7 @@
 1p3opxwwet.ru
 1pamm.ru
 1stat.ru
+1truba.ru
 1xstavka.ru
 2.off3.ru
 2.ska4at.ru
@@ -179,6 +181,7 @@
 551411.ms.dzen.ru
 552121.ms.dzen.ru
 552411.ms.dzen.ru
+581781--150226042-111-mnews.ms.vk.com
 596862210.mc.yandex.ru
 5d0rac.ru
 5dhnv8.ru
@@ -254,7 +257,6 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -370,7 +372,6 @@ ap.adriver.ru
 api-an.tutu.ru
 api-metric.gosweb.gosuslugi.ru
 api-statist.tinkoff.ru
-api-ui.opendsp.ru
 api-x.tutu.ru
 api.a.mts.ru
 api.adeeply.ru
@@ -463,6 +464,7 @@ bs.orsk.ru
 bs.serving-sys.ru
 bs.webtalk.ru
 bs.yandex.ru
+bus-lunch.irktorgnewss.ru
 buzzoola-sync.rutarget.ru
 bvl5bziz9d.ru
 c.botfaqtor.ru
@@ -479,6 +481,7 @@ cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
 cdek.yandex.avito.www-0yaod5caz-com.xmp0ld.com
 cdek.yandex.blablacar.www-0yaod5caz-com.xmp0ld.com
+cdek.yandex.hood123.com
 cdek.yandex.sber.www-0yaod5caz-com.xmp0ld.com
 cdn-files.adx.com.ru
 cdn-res.tlauncher.ru
@@ -488,7 +491,6 @@ cdn.adplay.ru
 cdn.adtec.ru
 cdn.adv-adplatform.ru
 cdn.advideo.ru
-cdn.adx.com.ru
 cdn.bazr.ru
 cdn.botfaqtor.ru
 cdn.callibri.ru
@@ -535,7 +537,6 @@ code.directadvert.ru
 code.moviead55.ru
 common.radar.imgsmail.ru
 compare.meteoservice.ru
-computer76.ru
 connect-drru.hispace.dbankcloud.ru
 connect.ok.ru
 consultant-online.ru
@@ -650,7 +651,6 @@ err.agava.ru
 err.lenta.ru
 error-hub.tinkoff.ru
 error.videonow.ru
-eukmxmlk.ru
 ev.adriver.ru
 evangroup.ru
 event-analytics-backend.skyeng.ru
@@ -665,7 +665,6 @@ exad.smi2.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
-f2a4ipk6.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fast2load.ru
 faststat.advideo.ru
@@ -678,6 +677,7 @@ filedrive.nocoshop.ru
 filekeeper.nocoshop.ru
 filestation.nocoshop.ru
 filmplus.ru
+floor-trade.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
@@ -717,6 +717,7 @@ gso.amocrm.ru
 gt-frontend.weborama-tech.ru
 gw.botfaqtor.ru
 h21.ru
+ha-front.wavesend.ru
 hasard.ru
 heroeswm.ru
 hhcdn.ru
@@ -748,7 +749,6 @@ hitcrypt.xgd3kl.ru
 hitlist.ru
 hitman-pro.ru
 holm.ru
-homesty.ru
 homework.ru
 hostiman.ru
 hro7sgymmjjutujwuy2b42ijzy.mc.yandex.ru
@@ -791,6 +791,7 @@ ipgrabber.ru
 ipgraber.ru
 iplis.ru
 iplogger.ru
+irktorgnewss.ru
 is.luxup.ru
 iviruseries3.ru
 j.adlooxtracking.ru
@@ -996,6 +997,7 @@ pjkyxrd15e.ru
 pkeeper3.ru
 pl2.skwstat.ru
 pobedastaff.ru
+pochta.yandex.id2023wa.com
 pokrutim.ru
 pool.stbid.ru
 poppers-rush.ru
@@ -1010,11 +1012,11 @@ prlog.ru
 prod-msk-ad-analytics-tracker.novofon.ru
 prodmp.ru
 profile.ad-tech.ru
-profmedik.ru
 programmatic.ru
 promo-reklama.ru
 promo.cityads.ru
 promo.rzonline.ru
+propan.ru
 proppellerads.ru
 propub.ru
 proxy.wavesend.ru
@@ -1026,6 +1028,7 @@ punchmedia.ru
 push.svk-native.ru
 pushlog.wsoft.ru
 px126.telecid.ru
+px181.telecid.ru
 q7wiow.ru
 qip.ru
 qoopler.ru
@@ -1033,7 +1036,6 @@ qos-api.ott.yandex.net
 quicklinks.nocoshop.ru
 quotiq.ru
 r0.mail.ru
-r1.ggrust.ru
 r3.mail.ru
 r5hsid.ru
 radar.imgsmail.ru
@@ -1064,6 +1066,7 @@ req.pm2.punchmedia.ru
 res.tlauncher.ru
 riabir.ru
 rmbn.ru
+rome-tour.ru
 rosenberg.appmetrica.yandex.net
 rot.rusoul.ru
 rq.adfox.ru
@@ -1100,6 +1103,7 @@ sape.ru
 sba.yandex.net
 sbbe.group-ib.ru
 sber.yandex.slid3.com
+sberbank.yandex.avito.uid1666815670250447677.keygenlion.com
 sbermarketing.ru
 sc.grattis.ru
 scczkjidyov6zvha6vs3py3yca.mc.yandex.ru
@@ -1139,7 +1143,6 @@ sentry.sca.ad-tech.ru
 sentry.sravni-team.ru
 sentry.streamvi.ru
 sentry.sutochno.ru
-sentry.truemachine.ru
 sentry.tutorplace.ru
 sentry.tutu.ru
 sentry.uteka.ru
@@ -1175,6 +1178,7 @@ sjsmartcontent.ru
 ska4at.ru
 skwstat.ru
 skypromotion.ru
+slavaptz.ru
 sm.rtb.mts.ru
 smartfiles.nocoshop.ru
 smi2.ru
@@ -1364,7 +1368,6 @@ uvtaero.ru
 uzbdbqqpwugr3m4dsimed4zsxy.mc.yandex.ru
 uznatpochemu.ru
 v.adfox.ru
-v1.eukmxmlk.ru
 v1.mpsuadv.ru
 v2.mpsuadv.ru
 v3.mpsuadv.ru
@@ -1385,7 +1388,6 @@ videonow.ru
 videoprodavec.ru
 videotarget-sync.rutarget.ru
 vidroll.ru
-vigevou.ru
 vigvam.ru
 vihub.ru
 vipko.ru
@@ -1425,6 +1427,7 @@ widget.skobeeff.ru
 widget.sparrow.ru
 widgets.livetex.ru
 widgets.planeta.ru
+widgets.rankw.ru
 wiki.alytics.ru
 winline.ru
 winlinebet.ru
@@ -1497,6 +1500,7 @@ www.poppers-rush.ru
 www.popunder.ru
 www.pr-cy.ru
 www.pricelib.ru
+www.propan.ru
 www.redirect.appmetrica.yandex.com
 www.s1b-security.ru
 www.saf-oil.ru
@@ -1521,6 +1525,7 @@ www.yandex.net
 www.yastatic.ru
 www.yuga.ru
 wwwomen.ru
+x2.ggrust.ru
 x81p4z.ru
 xaf0ec.ru
 xcec.ru
@@ -1528,7 +1533,6 @@ xgd3kl.ru
 xrampokrovnaluze.ru
 xray.mail.ru
 xvbc1u.ru
-xvest5.ru
 xvllq2.ru
 y8lsyibocd.ru
 ya-distrib.ru
@@ -1538,20 +1542,26 @@ yandex-dmp-sync.rutarget.ru
 yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
+yandex.avito.uid1666815670250447677.keygenlion.com
 yandex.avito.www-0yaod5caz-com.xmp0ld.com
 yandex.blablacar.www-0yaod5caz-com.xmp0ld.com
-yandex.g2ggold888.com
+yandex.hood123.com
+yandex.id2023wa.com
 yandex.membership-amazion-id184645.elearningmine.com
 yandex.pochtabank.www-0yaod5caz-com.xmp0ld.com
 yandex.sber.www-0yaod5caz-com.xmp0ld.com
 yandex.sberbank.orders.ld18gop.com
+yandex.sbermarket.sbermarket.feelgood70s.com
+yandex.youla.avito.ozon.bid4awin.com
 yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
-ym08mhgmbi.ru
-ymigms14as.ru
-ymqhq7yfu5.ru
+ym2plj2gcn.ru
+ym7f6hodzp.ru
+ymdwvb5k3r.ru
+ymgd6ta0to.ru
+ymv43udrja.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

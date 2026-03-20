@@ -11,7 +11,6 @@
 02ip.ru
 04xmhp.ru
 0gs25f.ru
-0p6fsponf9.ru
 0pn.ru
 1.off3.ru
 1004261127.mc.yandex.ru
@@ -59,7 +58,6 @@
 1p3opxwwet.ru
 1pamm.ru
 1stat.ru
-1truba.ru
 1xstavka.ru
 2.off3.ru
 2.ska4at.ru
@@ -69,6 +67,7 @@
 2090054158.mc.yandex.ru
 2115840513.mc.yandex.ru
 2119055885.mc.yandex.ru
+2167163--9693056-111-mnews.ms.vk.com
 21847--224317011-111-mnews.ms.vk.com
 2254395861.mc.yandex.ru
 2265851037.mc.yandex.ru
@@ -87,6 +86,7 @@
 24gadget.ru
 24log.ru
 24new.ru
+2508891--89493-111-mnews.ms.vk.com
 25112.ms.vk.com
 25212.ms.vk.com
 2640225934.mc.yandex.ru
@@ -134,6 +134,7 @@
 373012692.mc.yandex.ru
 3735081328.mc.yandex.ru
 3781651657.mc.yandex.ru
+383070--18591998-111-mnews.ms.vk.com
 3830838041.mc.yandex.ru
 3866760921.mc.yandex.ru
 3936667634.mc.yandex.ru
@@ -196,6 +197,7 @@
 652121.ms.vk.com
 652221.ms.vk.com
 669919130.mc.yandex.ru
+68849--211649692-111-mnews.ms.vk.com
 694807445.mc.yandex.ru
 6i7y3i.ru
 6rn05mmbct.ru
@@ -464,7 +466,6 @@ bs.orsk.ru
 bs.serving-sys.ru
 bs.webtalk.ru
 bs.yandex.ru
-bus-lunch.irktorgnewss.ru
 buzzoola-sync.rutarget.ru
 bvl5bziz9d.ru
 c.botfaqtor.ru
@@ -479,10 +480,6 @@ calltracking.alytics.ru
 catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
-cdek.yandex.avito.www-0yaod5caz-com.xmp0ld.com
-cdek.yandex.blablacar.www-0yaod5caz-com.xmp0ld.com
-cdek.yandex.hood123.com
-cdek.yandex.sber.www-0yaod5caz-com.xmp0ld.com
 cdn-files.adx.com.ru
 cdn-res.tlauncher.ru
 cdn-rtb.sape.ru
@@ -574,7 +571,6 @@ cpa.hh.ru
 cprojects.radar.imgsmail.ru
 cr-frontend.weborama-tech.ru
 crash-reports.browser.yandex.net
-crm-charmstore.ru
 crystalpvp.ru
 cs.agency2.ru
 cs.avito.ru
@@ -665,6 +661,7 @@ exad.smi2.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
+f2a4ipk6.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fast2load.ru
 faststat.advideo.ru
@@ -677,7 +674,6 @@ filedrive.nocoshop.ru
 filekeeper.nocoshop.ru
 filestation.nocoshop.ru
 filmplus.ru
-floor-trade.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
@@ -791,7 +787,6 @@ ipgrabber.ru
 ipgraber.ru
 iplis.ru
 iplogger.ru
-irktorgnewss.ru
 is.luxup.ru
 iviruseries3.ru
 j.adlooxtracking.ru
@@ -816,6 +811,7 @@ km6ujg2xkoumicib4rl6ztiqvm.mc.yandex.ru
 konget.ru
 kontrolnaya-rabota.ru
 kraken.rambler.ru
+krasotia.ru
 kurganobl.ru
 kuzina-teatr.ru
 kz.tns-counter.ru
@@ -902,6 +898,7 @@ metrika.mos.ru
 metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
+microsoftnet.ru
 minimo.callibri.ru
 mirroruploads.nocoshop.ru
 mistralkorea.ru
@@ -938,7 +935,6 @@ n4.r.dmg.digitaltarget.ru
 n5.r.dmg.digitaltarget.ru
 n6.r.dmg.digitaltarget.ru
 n7.r.dmg.digitaltarget.ru
-nalozhka.yandex.sber.www-0yaod5caz-com.xmp0ld.com
 nashindex.ru
 nel.wb.ru
 neobasnet.timeout.ru
@@ -997,7 +993,6 @@ pjkyxrd15e.ru
 pkeeper3.ru
 pl2.skwstat.ru
 pobedastaff.ru
-pochta.yandex.id2023wa.com
 pokrutim.ru
 pool.stbid.ru
 poppers-rush.ru
@@ -1066,12 +1061,12 @@ req.pm2.punchmedia.ru
 res.tlauncher.ru
 riabir.ru
 rmbn.ru
-rome-tour.ru
 rosenberg.appmetrica.yandex.net
 rot.rusoul.ru
 rq.adfox.ru
 rr.tracker.mobiletracking.ru
 rs.mail.ru
+rtb-bm1.videonow.ru
 rtb.admile.ru
 rtb.adplay.ru
 rtb.agency2.ru
@@ -1103,7 +1098,6 @@ sape.ru
 sba.yandex.net
 sbbe.group-ib.ru
 sber.yandex.slid3.com
-sberbank.yandex.avito.uid1666815670250447677.keygenlion.com
 sbermarketing.ru
 sc.grattis.ru
 scczkjidyov6zvha6vs3py3yca.mc.yandex.ru
@@ -1178,7 +1172,6 @@ sjsmartcontent.ru
 ska4at.ru
 skwstat.ru
 skypromotion.ru
-slavaptz.ru
 sm.rtb.mts.ru
 smartfiles.nocoshop.ru
 smi2.ru
@@ -1334,6 +1327,7 @@ tracking.ott.yandex.ru
 tracking.retailrocket.ru
 tradingdesk-sync.rutarget.ru
 trafffgen.rambler.ru
+transit-logistics.ru
 trigub.ru
 trimay.ru
 trk.adeeply.ru
@@ -1489,6 +1483,7 @@ www.jimbot.ru
 www.jps.ru
 www.justclick.ru
 www.kontrolnaya-rabota.ru
+www.krasotia.ru
 www.linkfeed.ru
 www.liveexpert.ru
 www.mastertarget.ru
@@ -1525,7 +1520,6 @@ www.yandex.net
 www.yastatic.ru
 www.yuga.ru
 wwwomen.ru
-x2.ggrust.ru
 x81p4z.ru
 xaf0ec.ru
 xcec.ru
@@ -1542,26 +1536,16 @@ yandex-dmp-sync.rutarget.ru
 yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
-yandex.avito.uid1666815670250447677.keygenlion.com
-yandex.avito.www-0yaod5caz-com.xmp0ld.com
-yandex.blablacar.www-0yaod5caz-com.xmp0ld.com
-yandex.hood123.com
-yandex.id2023wa.com
+yandex.blablacar.bid4awin.com
+yandex.g2ggold888.com
 yandex.membership-amazion-id184645.elearningmine.com
-yandex.pochtabank.www-0yaod5caz-com.xmp0ld.com
-yandex.sber.www-0yaod5caz-com.xmp0ld.com
 yandex.sberbank.orders.ld18gop.com
-yandex.sbermarket.sbermarket.feelgood70s.com
-yandex.youla.avito.ozon.bid4awin.com
 yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
-ym2plj2gcn.ru
-ym7f6hodzp.ru
-ymdwvb5k3r.ru
-ymgd6ta0to.ru
-ymv43udrja.ru
+ym7qp1jvti.ru
+yms9e1wolu.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

@@ -46,6 +46,7 @@
 1604910854.mc.yandex.ru
 1778216199.mc.yandex.ru
 1832103985.mc.yandex.ru
+1896906--2070309-111-mnews.ms.vk.com
 1930279011.mc.yandex.ru
 195457380.mc.yandex.ru
 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
@@ -210,6 +211,7 @@
 777-club.ru
 7bs4fapoe73t25ibj5o5yh6xpy.mc.yandex.ru
 7nkbwdf1uq.ru
+80614--152386495-111-mnews.ms.vk.com
 81640.mstat.mos.ru
 836613652.mc.yandex.ru
 881047328.mc.yandex.ru
@@ -661,7 +663,6 @@ exad.smi2.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
-f2a4ipk6.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fast2load.ru
 faststat.advideo.ru
@@ -694,7 +695,6 @@ gdeslon.ru
 gdl.adeeply.ru
 gdl.i9dhjx.ru
 gdl.topoads.ru
-geo.grattis.ru
 geofamily.ru
 getads.ru
 getandgo.ru
@@ -811,7 +811,6 @@ km6ujg2xkoumicib4rl6ztiqvm.mc.yandex.ru
 konget.ru
 kontrolnaya-rabota.ru
 kraken.rambler.ru
-krasotia.ru
 kurganobl.ru
 kuzina-teatr.ru
 kz.tns-counter.ru
@@ -898,7 +897,6 @@ metrika.mos.ru
 metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
-microsoftnet.ru
 minimo.callibri.ru
 mirroruploads.nocoshop.ru
 mistralkorea.ru
@@ -1083,6 +1081,11 @@ rum4.cdnvideo.ru
 rum5.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
+russia.swing-zone.com
+russian.swing-zone.com
+russianla.swing-zone.com
+russianlan.swing-zone.com
+russianlang.swing-zone.com
 russianlanguag.swing-zone.com
 russianlanguage.swing-zone.com
 russianlovematch.com
@@ -1099,7 +1102,6 @@ sba.yandex.net
 sbbe.group-ib.ru
 sber.yandex.slid3.com
 sbermarketing.ru
-sc.grattis.ru
 scczkjidyov6zvha6vs3py3yca.mc.yandex.ru
 scounter.rambler.ru
 scripts.botfaqtor.ru
@@ -1327,7 +1329,6 @@ tracking.ott.yandex.ru
 tracking.retailrocket.ru
 tradingdesk-sync.rutarget.ru
 trafffgen.rambler.ru
-transit-logistics.ru
 trigub.ru
 trimay.ru
 trk.adeeply.ru
@@ -1358,7 +1359,6 @@ user-banner.wb.ru
 userator.ru
 usercenter-drru.dt.dbankcloud.ru
 utarget.ru
-uvtaero.ru
 uzbdbqqpwugr3m4dsimed4zsxy.mc.yandex.ru
 uznatpochemu.ru
 v.adfox.ru
@@ -1483,7 +1483,6 @@ www.jimbot.ru
 www.jps.ru
 www.justclick.ru
 www.kontrolnaya-rabota.ru
-www.krasotia.ru
 www.linkfeed.ru
 www.liveexpert.ru
 www.mastertarget.ru
@@ -1527,7 +1526,6 @@ xgd3kl.ru
 xrampokrovnaluze.ru
 xray.mail.ru
 xvbc1u.ru
-xvllq2.ru
 y8lsyibocd.ru
 ya-distrib.ru
 yabs.yandex.ru
@@ -1536,16 +1534,11 @@ yandex-dmp-sync.rutarget.ru
 yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
-yandex.blablacar.bid4awin.com
-yandex.g2ggold888.com
 yandex.membership-amazion-id184645.elearningmine.com
-yandex.sberbank.orders.ld18gop.com
 yandex.youla.u-lld6.adydv.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
-ym7qp1jvti.ru
-yms9e1wolu.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

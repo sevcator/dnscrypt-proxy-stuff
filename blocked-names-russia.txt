@@ -40,7 +40,10 @@
 1252805053.mc.yandex.ru
 1292346964.mc.yandex.ru
 1348477--176841276-111-mnews.ms.vk.com
+1357585--176841276-111-mnews.ms.vk.com
+1358241--176841276-111-mnews.ms.vk.com
 1389011008.mc.yandex.ru
+146416--19453692-111-mnews.ms.vk.com
 1498207985.mc.yandex.ru
 1515713492.mc.yandex.ru
 1604910854.mc.yandex.ru
@@ -61,7 +64,6 @@
 1stat.ru
 1xstavka.ru
 2.off3.ru
-2.ska4at.ru
 2004552439.mc.yandex.ru
 2046163364.mc.yandex.ru
 2071002862.mc.yandex.ru
@@ -90,6 +92,7 @@
 2508891--89493-111-mnews.ms.vk.com
 25112.ms.vk.com
 25212.ms.vk.com
+262233--23372133-111-mnews.ms.vk.com
 2640225934.mc.yandex.ru
 2648299211.mc.yandex.ru
 2739034217.mc.yandex.ru
@@ -208,6 +211,7 @@
 7443352--152992737-111-mnews.ms.vk.com
 7558411527765562698-otm.ops.beeline.ru
 75985--31897553-111-mnews.ms.vk.com
+77-222-63-82.swtest.ru
 777-club.ru
 7bs4fapoe73t25ibj5o5yh6xpy.mc.yandex.ru
 7nkbwdf1uq.ru
@@ -483,7 +487,6 @@ catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
 cdn-files.adx.com.ru
-cdn-res.tlauncher.ru
 cdn-rtb.sape.ru
 cdn.ad-tech.ru
 cdn.adplay.ru
@@ -628,7 +631,6 @@ dryum.ru
 ds-frontend.weborama-tech.ru
 ds.serving-sys.ru
 dsp-rambler.ru
-dsp.groupminteraction.ru
 dsp.programmatic.ru
 dsp.rtb.mts.ru
 duhboga.ru
@@ -695,6 +697,7 @@ gdeslon.ru
 gdl.adeeply.ru
 gdl.i9dhjx.ru
 gdl.topoads.ru
+geo.grattis.ru
 geofamily.ru
 getads.ru
 getandgo.ru
@@ -963,6 +966,7 @@ onetarget.ru
 opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
+originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
@@ -1058,6 +1062,7 @@ report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
 riabir.ru
+richmedia.wavesend.ru
 rmbn.ru
 rosenberg.appmetrica.yandex.net
 rot.rusoul.ru
@@ -1102,6 +1107,7 @@ sba.yandex.net
 sbbe.group-ib.ru
 sber.yandex.slid3.com
 sbermarketing.ru
+sc.grattis.ru
 scczkjidyov6zvha6vs3py3yca.mc.yandex.ru
 scounter.rambler.ru
 scripts.botfaqtor.ru
@@ -1257,6 +1263,7 @@ stats.mos.ru
 stats.rustore.ru
 stats2.videonow.ru
 stavkiprognozy.ru
+steam-account.ru
 stmtag.ru
 stoletie.ru
 stream.datago.ru
@@ -1303,7 +1310,6 @@ test.rutube.ru
 testingmetriksbre.ru
 tgel2ebtx.ru
 tinyfiles.nocoshop.ru
-tj4rxr.ru
 tk.promit.ru
 tl.rulate.ru
 tlauncher.ru
@@ -1440,6 +1446,7 @@ wt.rutube.ru
 www.1cont.ru
 www.1directory.ru
 www.1pamm.ru
+www.24log.ru
 www.423.ru
 www.5forex.ru
 www.777-club.ru

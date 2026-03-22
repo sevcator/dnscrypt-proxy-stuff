@@ -20,8 +20,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "sevcator"
+          git config user.email "68725282+sevcator@users.noreply.github.com"
           mv .github/working/cloaking-rules.txt ./
           git add cloaking-rules.txt
           git commit -m "⚡ Cloaking Rules - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"

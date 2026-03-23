@@ -43,6 +43,7 @@
 1357585--176841276-111-mnews.ms.vk.com
 1358241--176841276-111-mnews.ms.vk.com
 1389011008.mc.yandex.ru
+14087849--112510789-111-mnews.ms.vk.com
 146416--19453692-111-mnews.ms.vk.com
 1498207985.mc.yandex.ru
 1515713492.mc.yandex.ru
@@ -70,8 +71,10 @@
 2090054158.mc.yandex.ru
 2115840513.mc.yandex.ru
 2119055885.mc.yandex.ru
+2167057--9693056-111-mnews.ms.vk.com
 2167163--9693056-111-mnews.ms.vk.com
 21847--224317011-111-mnews.ms.vk.com
+2193980--16468115-111-mnews.ms.vk.com
 2254395861.mc.yandex.ru
 2265851037.mc.yandex.ru
 227691651.mc.yandex.ru
@@ -85,6 +88,7 @@
 24212.ms.vk.com
 24222.ms.vk.com
 2484657855.mc.yandex.ru
+24924478--29534144-111-mnews.ms.vk.com
 2498089395.mc.yandex.ru
 24gadget.ru
 24log.ru
@@ -94,6 +98,7 @@
 25212.ms.vk.com
 262233--23372133-111-mnews.ms.vk.com
 2640225934.mc.yandex.ru
+264307--23372133-111-mnews.ms.vk.com
 2648299211.mc.yandex.ru
 2739034217.mc.yandex.ru
 2743255556.mc.yandex.ru
@@ -163,6 +168,7 @@
 494489157.mc.yandex.ru
 496993964.mc.yandex.ru
 4976170--35068738-111-mnews.ms.vk.com
+4hunqp.ru
 4px.ru
 5-182-5-41.botfaqtor.ru
 531111.ms.dzen.ru
@@ -206,6 +212,7 @@
 6i7y3i.ru
 6rn05mmbct.ru
 6wzdsf.ru
+70929--21560979-111-mnews.ms.vk.com
 743244193.mc.yandex.ru
 743922699.mc.yandex.ru
 7443352--152992737-111-mnews.ms.vk.com
@@ -511,7 +518,6 @@ cdn2.adrun.ru
 cdnrtbsape.ru
 checker.cityads.ru
 checks.botfaqtor.ru
-chessfor.ru
 chiptuner.ru
 cityads.ru
 ckct.ru
@@ -534,9 +540,11 @@ cm.a.mts.ru
 cm.p.altergeo.ru
 cm.tns-counter.ru
 cnb.cnews.ru
+code.4hunqp.ru
 code.clicktex.ru
 code.directadvert.ru
 code.moviead55.ru
+com.swtest.ru
 common.radar.imgsmail.ru
 compare.meteoservice.ru
 connect-drru.hispace.dbankcloud.ru
@@ -573,6 +581,7 @@ covid-19.wp20.ru
 cp.onicon.ru
 cpa-elements.rambler.ru
 cpa.hh.ru
+cpanel.hothat.ru
 cprojects.radar.imgsmail.ru
 cr-frontend.weborama-tech.ru
 crash-reports.browser.yandex.net
@@ -626,7 +635,6 @@ dowonline.ru
 dp.tinkoff.ru
 dr.yandex.net
 drivenetwork.ru
-drovatorg.ru
 dryum.ru
 ds-frontend.weborama-tech.ru
 ds.serving-sys.ru
@@ -667,6 +675,7 @@ eyenewton.ru
 ezstat.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fast2load.ru
+fastfine.ru
 faststat.advideo.ru
 fcgi4.gnezdo.ru
 fcgi5.2xclick.ru
@@ -721,6 +730,7 @@ hasard.ru
 heroeswm.ru
 hhcdn.ru
 hisearch-drru.dt.dbankcloud.ru
+hit.04xmhp.ru
 hit.28yw0a.ru
 hit.aan8bq.ru
 hit.bbj3nb.ru
@@ -750,12 +760,14 @@ hitman-pro.ru
 holm.ru
 homework.ru
 hostiman.ru
+hothat.ru
 hro7sgymmjjutujwuy2b42ijzy.mc.yandex.ru
 ht-systems.ru
 http-check-headers.yandex.ru
 hwmonitor-ru.ru
 hybrid.ru
 hyper-sync.rutarget.ru
+i-services.ru
 iacis.ru
 iceprogs.ru
 icyh3e.ru
@@ -795,7 +807,6 @@ iviruseries3.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
-jimbot.ru
 jordan.qunis.ru
 journal-bt.wildberries.ru
 jps.ru
@@ -901,6 +912,7 @@ metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
 minimo.callibri.ru
+mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
 mistralkorea.ru
 mlb1.adriver.ru
@@ -955,7 +967,6 @@ ntscorp.ru
 ntvk1.ru
 nytva-nmz.ru
 nz3zieacj626woftx53w2k3vci.mc.yandex.ru
-obmensadami.ru
 odds.ru
 ogeri.ru
 ogtz5yn2u1.ru
@@ -976,6 +987,7 @@ paradocs.ru
 parking.reg.ru
 partner.market.yandex.ru
 partner.yandex.ru
+partners.sbermarketing.ru
 paypal-merchant.ru
 pb.adriver.ru
 pbnet.ru
@@ -1099,7 +1111,6 @@ rutarget.ru
 s.suprion.ru
 s1.intimshop.ru
 s1.mpsuadv.ru
-s1b-security.ru
 s2.mpsuadv.ru
 s4.intimshop.ru
 sape.ru
@@ -1112,7 +1123,6 @@ scczkjidyov6zvha6vs3py3yca.mc.yandex.ru
 scounter.rambler.ru
 scripts.botfaqtor.ru
 sdk-api.apptracer.ru
-sdvgpro.ru
 searchnews-drru.dt.dbankcloud.ru
 secretfiles.nocoshop.ru
 secure-ads.yandex.com
@@ -1189,7 +1199,6 @@ sntr.avito.ru
 sntr.lifehacker.ru
 sobolev.net.ru
 sobory.ru
-socanalitic.ru
 socgate.ru
 socialsend.ru
 softboard.ru
@@ -1416,6 +1425,7 @@ websurf.ru
 weupload.nocoshop.ru
 wf-ru-frontend.weborama-tech.ru
 whiteboxdigital.ru
+whrc.ru
 widget.adplay.ru
 widget.cleversite.ru
 widget.info-app5shs.ru
@@ -1434,6 +1444,7 @@ winlinebet.ru
 wmcasher.ru
 wolist.ru
 wordstat.yandex.ru
+workius.ru
 workspay.ru
 wowlink.ru
 wp20.ru
@@ -1467,14 +1478,12 @@ www.avto-optika.ru
 www.azinocasinoclub.ru
 www.betsonsport.ru
 www.bonusmega.ru
-www.chessfor.ru
 www.cityads.ru
 www.clck.ru
 www.comagic.ru
 www.consultant-online.ru
 www.directadvert.ru
 www.drivenetwork.ru
-www.drovatorg.ru
 www.free-gluten.ru
 www.gdeslon.ru
 www.girlporn.ru
@@ -1486,7 +1495,6 @@ www.holm.ru
 www.homework.ru
 www.igorkurbonov.ru
 www.iplogger.ru
-www.jimbot.ru
 www.jps.ru
 www.justclick.ru
 www.kontrolnaya-rabota.ru
@@ -1495,7 +1503,6 @@ www.liveexpert.ru
 www.mastertarget.ru
 www.mc.yandex.ru
 www.moveandgrooven.ru
-www.obmensadami.ru
 www.otclick-adv.ru
 www.poppers-rush.ru
 www.popunder.ru
@@ -1503,9 +1510,7 @@ www.pr-cy.ru
 www.pricelib.ru
 www.propan.ru
 www.redirect.appmetrica.yandex.com
-www.s1b-security.ru
 www.saf-oil.ru
-www.socanalitic.ru
 www.startup.mobile.yandex.net
 www.stoletie.ru
 www.tinka.ru
@@ -1530,6 +1535,7 @@ x81p4z.ru
 xaf0ec.ru
 xcec.ru
 xgd3kl.ru
+xn--p1ai.swtest.ru
 xrampokrovnaluze.ru
 xray.mail.ru
 xvbc1u.ru

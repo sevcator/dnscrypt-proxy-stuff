@@ -75,6 +75,7 @@
 264307--23372133-111.news.ms.vk.com
 28yw0a.ru
 2993753--15829245-111-mnews.ms.vk.com
+309854--29892348-111-mnews.ms.vk.com
 3105589--23304496-111-mnews.ms.vk.com
 317729.redirect.appmetrica.yandex.com
 325856--15911874-111-mnews.ms.vk.com
@@ -151,6 +152,8 @@
 75985--31897553-111-mnews.ms.vk.com
 77-222-63-82.swtest.ru
 7741293--152992737-111-mnews.ms.vk.com
+7755463--152992737-111-mnews.ms.vk.com
+7755898--152992737-111-mnews.ms.vk.com
 777-club.ru
 7nkbwdf1uq.ru
 80614--152386495-111-mnews.ms.vk.com
@@ -201,7 +204,6 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -314,7 +316,6 @@ anekbook.ru
 animesvosts.ru
 anodpo.ru
 antalya.ru
-ap.adriver.ru
 api-an.tutu.ru
 api-metric.gosweb.gosuslugi.ru
 api-statist.tinkoff.ru
@@ -359,7 +360,6 @@ avto-optika.ru
 awaps.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
-azinocasinoclub.ru
 b.dotbrataev.ru
 b.netall.ru
 b13.penzainform.ru
@@ -387,6 +387,7 @@ bazr.ru
 bbj3nb.ru
 bdgadv.ru
 bee-cake.ru
+beeline-sararov-inet1.ru
 begun.ru
 beta.mediafort.ru
 between-sync.rutarget.ru
@@ -401,7 +402,6 @@ bonuscake.ru
 bonusmega.ru
 borzjournal.ru
 botfaqtor.ru
-brick360.ru
 browser-updater.yandex.net
 bs-dante.ru
 bs-meta.yandex.ru
@@ -547,6 +547,7 @@ delta.mediafort.ru
 demo.punchmedia.ru
 demos.ru
 detmir-stats.ru
+dialtest.ru
 dienai.ru
 digitaltarget.ru
 direct.yandex.net
@@ -569,6 +570,7 @@ drivenetwork.ru
 dryum.ru
 ds-frontend.weborama-tech.ru
 ds.serving-sys.ru
+dsfmmim.ru
 dsp-rambler.ru
 dsp.programmatic.ru
 dsp.rtb.mts.ru
@@ -645,6 +647,7 @@ getyoursoft.ru
 gigamega.ru
 glopages.ru
 gnezdo.ru
+go.linkify.ru
 goodcustomers.ru
 goon.ru
 gouploads.nocoshop.ru
@@ -1034,6 +1037,7 @@ russianlanguage.swing-zone.com
 russianlovematch.com
 rustrackers.ru
 rutarget.ru
+s-k-o.ru
 s.suprion.ru
 s1.intimshop.ru
 s1.mpsuadv.ru
@@ -1048,6 +1052,7 @@ sc.grattis.ru
 scounter.rambler.ru
 scripts.botfaqtor.ru
 sdk-api.apptracer.ru
+sdvgpro.ru
 searchnews-drru.dt.dbankcloud.ru
 secretfiles.nocoshop.ru
 secure-ads.yandex.com
@@ -1396,7 +1401,6 @@ www.amt-k.ru
 www.audi-club.ru
 www.avramstroy.ru
 www.avto-optika.ru
-www.azinocasinoclub.ru
 www.betsonsport.ru
 www.bonusmega.ru
 www.cityads.ru
@@ -1469,6 +1473,7 @@ yandex-sync.rutarget.ru
 yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.membership-amazion-id184645.elearningmine.com
+yandex.old4me.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru

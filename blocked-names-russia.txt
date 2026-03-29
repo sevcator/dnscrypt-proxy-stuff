@@ -41,6 +41,9 @@
 146416--19453692-111-mnews.ms.vk.com
 147429--19453692-111-mnews.ms.vk.com
 1720157--25280329-111-mnews.ms.vk.com
+1724894--25280329-111-mnews.ms.vk.com
+1725917--25280329-111-mnews.ms.vk.com
+1727405--25280329-111-mnews.ms.vk.com
 1896906--2070309-111-mnews.ms.vk.com
 190867--88797119-111-mnews.ms.vk.com
 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
@@ -91,6 +94,7 @@
 34312.ms.vk.com
 34412.ms.vk.com
 34512.ms.vk.com
+3474082.redirect.appmetrica.yandex.com
 3484607--34777837-111-mnews.ms.vk.com
 35212.ms.vk.com
 35312.ms.vk.com
@@ -101,6 +105,7 @@
 3809085--755816-111-mnews.ms.vk.com
 383070--18591998-111-mnews.ms.vk.com
 386325--18591998-111-mnews.ms.vk.com
+388716--18591998-111-mnews.ms.vk.com
 423.ru
 4237138.redirect.appmetrica.yandex.com
 4292693--23482909-111-mnews.ms.vk.com
@@ -546,6 +551,7 @@ cvt1.sibnet.ru
 cybertown.ru
 d.botfaqtor.ru
 dadata.ru
+daily.heroeswm.ru
 darknagar.ru
 data.punchmedia.ru
 data.skwstat.ru
@@ -764,6 +770,7 @@ kiks.yandex.ru
 konget.ru
 kontrolnaya-rabota.ru
 kraken.rambler.ru
+kremz.ru
 kurganobl.ru
 kuzina-teatr.ru
 kz.tns-counter.ru
@@ -1459,6 +1466,7 @@ www.udobrit.ru
 www.unlockers.ru
 www.uralmetalloprokat.ru
 www.videonow.ru
+www.vigvam.ru
 www.vk-analytics.ru
 www.wm-goldenclick.ru
 www.wordstat.yandex.ru

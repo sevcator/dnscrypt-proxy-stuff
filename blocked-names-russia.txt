@@ -25,8 +25,10 @@
 102954.wavesend.ru
 10345539--15722194-111-mnews.ms.vk.com
 10346835--15722194-111-mnews.ms.vk.com
+10349108--15722194-111-mnews.ms.vk.com
 10353551--15722194-111-mnews.ms.vk.com
 10354264--15722194-111-mnews.ms.vk.com
+10379226--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 1076--cookieid.stbid.ru
 11078243--28658784-111-mnews.ms.vk.com
@@ -38,6 +40,7 @@
 1357585--176841276-111-mnews.ms.vk.com
 1358241--176841276-111-mnews.ms.vk.com
 14087849--112510789-111-mnews.ms.vk.com
+145488--2357771-111-mnews.ms.vk.com
 146416--19453692-111-mnews.ms.vk.com
 147429--19453692-111-mnews.ms.vk.com
 1720157--25280329-111-mnews.ms.vk.com
@@ -80,6 +83,7 @@
 262233--23372133-111-mnews.ms.vk.com
 264307--23372133-111-mnews.ms.vk.com
 264307--23372133-111.news.ms.vk.com
+274743--23372133-111-mnews.ms.vk.com
 28yw0a.ru
 2993753--15829245-111-mnews.ms.vk.com
 309854--29892348-111-mnews.ms.vk.com
@@ -110,6 +114,7 @@
 4237138.redirect.appmetrica.yandex.com
 4292693--23482909-111-mnews.ms.vk.com
 43212.ms.vk.com
+44233--217589574-111-mnews.ms.vk.com
 45212.ms.vk.com
 45950.wavesend.ru
 48778.wavesend.ru
@@ -166,6 +171,7 @@
 7755898--152992737-111-mnews.ms.vk.com
 777-club.ru
 7773815--152992737-111-mnews.ms.vk.com
+7777888--152992737-111-mnews.ms.vk.com
 7nkbwdf1uq.ru
 7ooo.ru
 80614--152386495-111-mnews.ms.vk.com
@@ -413,6 +419,7 @@ bidder.rutarget.ru
 bidvol-sync.rutarget.ru
 blocked.botfaqtor.ru
 bn.winlinebet.ru
+bonus-betting.ru
 bonuscake.ru
 bonusmega.ru
 borzjournal.ru
@@ -663,11 +670,11 @@ gigamega.ru
 gjv7fg.ru
 glopages.ru
 gnezdo.ru
-go.linkify.ru
 goodcustomers.ru
 goon.ru
 gouploads.nocoshop.ru
 goya.rutube.ru
+gravura.ru
 greatgrace.ru
 grs-pub.platform.dbankcloud.ru
 gru0z6.ru
@@ -907,6 +914,7 @@ news.mediametrics.ru
 news.rin.ru
 news.smi2.ru
 novosti.gnezdo.ru
+nq.appmetrica.yandex.net
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 ntdtv.ru
 ntscorp.ru
@@ -1105,6 +1113,7 @@ sentry.sutochno.ru
 sentry.tutorplace.ru
 sentry.tutu.ru
 sentry.uteka.ru
+sentry.wb.ru
 sentry.winline.ru
 sentry.x5.ru
 seo-service.domclick.ru
@@ -1215,7 +1224,6 @@ statistics7.broccoligames.ru
 stats-dev.videonow.ru
 stats.avito.ru
 stats.gastronom.ru
-stats.klops.ru
 stats.mos.ru
 stats.rustore.ru
 stats2.videonow.ru
@@ -1435,6 +1443,7 @@ www.gdeslon.ru
 www.girlporn.ru
 www.glopages.ru
 www.goatse.ru
+www.gravura.ru
 www.greatgrace.ru
 www.h21.ru
 www.holm.ru

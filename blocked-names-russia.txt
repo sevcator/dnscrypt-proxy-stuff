@@ -14,7 +14,6 @@
 0pn.ru
 1.off3.ru
 1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
-1013a--10180--257.stbid.ru
 1013a--10180--259.stbid.ru
 1013a--ma--10204--cp1.stbid.ru
 1013a--ma--10204--cp12.stbid.ru
@@ -28,7 +27,10 @@
 10349108--15722194-111-mnews.ms.vk.com
 10353551--15722194-111-mnews.ms.vk.com
 10354264--15722194-111-mnews.ms.vk.com
+10373353--15722194-111-mnews.ms.vk.com
 10379226--15722194-111-mnews.ms.vk.com
+10379226--15722194-111.news.ms.vk.com
+10386254--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 1076--cookieid.stbid.ru
 11078243--28658784-111-mnews.ms.vk.com
@@ -36,6 +38,7 @@
 111552--63199063-111-mnews.ms.vk.com
 111558--63199063-111-mnews.ms.vk.com
 111563--63199063-111-mnews.ms.vk.com
+1264274--119533440-111-mnews.ms.vk.com
 1348477--176841276-111-mnews.ms.vk.com
 1357585--176841276-111-mnews.ms.vk.com
 1358241--176841276-111-mnews.ms.vk.com
@@ -47,6 +50,7 @@
 1724894--25280329-111-mnews.ms.vk.com
 1725917--25280329-111-mnews.ms.vk.com
 1727405--25280329-111-mnews.ms.vk.com
+18567680--25232578-111-mnews.ms.vk.com
 1896906--2070309-111-mnews.ms.vk.com
 190867--88797119-111-mnews.ms.vk.com
 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
@@ -169,6 +173,7 @@
 7741293--152992737-111-mnews.ms.vk.com
 7755463--152992737-111-mnews.ms.vk.com
 7755898--152992737-111-mnews.ms.vk.com
+7768288--152992737-111-mnews.ms.vk.com
 777-club.ru
 7773815--152992737-111-mnews.ms.vk.com
 7777888--152992737-111-mnews.ms.vk.com
@@ -178,6 +183,7 @@
 81640.mstat.mos.ru
 896278--38168721-111-mnews.ms.vk.com
 8si.ru
+91180--27345776-111-mnews.ms.vk.com
 931131.log.rutube.ru
 931221.log.rutube.ru
 931222.log.rutube.ru
@@ -199,6 +205,7 @@
 99905--99021016-111-mnews.ms.vk.com
 99905--99021016-111.news.ms.vk.com
 a.kupibilet.ru
+a.mt.ru
 a.mts.ru
 a.pikabu.ru
 a.ria.ru
@@ -226,6 +233,7 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
+ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -334,7 +342,6 @@ analytics.move.ru
 analytics.sberhealth.ru
 analytics.sutochno.ru
 analytics.tele2.ru
-analytics.tripster.ru
 analytics.vgtimes.ru
 anekbook.ru
 animesvosts.ru
@@ -421,7 +428,6 @@ blocked.botfaqtor.ru
 bn.winlinebet.ru
 bonus-betting.ru
 bonuscake.ru
-bonusmega.ru
 borzjournal.ru
 botfaqtor.ru
 browser-updater.yandex.net
@@ -459,7 +465,6 @@ cdn.callibri.ru
 cdn.catsnetwork.ru
 cdn.dsp-rambler.ru
 cdn.dsp.onetarget.ru
-cdn.getandgo.ru
 cdn.gpmdata.ru
 cdn.otclick-adv.ru
 cdn.punchmedia.ru
@@ -518,7 +523,6 @@ count.yandex.ru
 counter.24log.ru
 counter.drom.ru
 counter.dsp.groupminteraction.ru
-counter.kuper.ru
 counter.megagroup.ru
 counter.megaindex.ru
 counter.mojgorod.ru
@@ -530,7 +534,6 @@ counter.smotrim.ru
 counter.yadro.ru
 counter.yandex.com
 counter.yandex.ru
-covid-19.wp20.ru
 cp.onicon.ru
 cpa-elements.rambler.ru
 cpa.hh.ru
@@ -608,6 +611,7 @@ edu-sentry.mos.ru
 effad.ru
 egg.afisha.ru
 eimage.sendsay.ru
+elama.ru
 energy63.ru
 err.agava.ru
 err.lenta.ru
@@ -664,10 +668,10 @@ gdl.topoads.ru
 geo.grattis.ru
 geofamily.ru
 getads.ru
-getandgo.ru
 getyoursoft.ru
 gigamega.ru
 gjv7fg.ru
+globalscience.ru
 glopages.ru
 gnezdo.ru
 goodcustomers.ru
@@ -818,6 +822,7 @@ loyalty-sentry.dixy.ru
 lp.mobiletracking.ru
 m-api.a.mts.ru
 m-cm.a.mts.ru
+m.7ooo.ru
 m.leboard.ru
 m.winline.ru
 m1-shop.ru
@@ -837,6 +842,7 @@ matomo.finam.ru
 matomo.tutu.ru
 matomo.x5.ru
 matsuro.ru
+mayak01.ru
 mb9pzp.ru
 mc.kinopoisk.ru
 mc.yandex.com
@@ -881,6 +887,7 @@ modato.ru
 module.callibri.ru
 moevideo-sync.rutarget.ru
 momijoy.ru
+mon.avito.ru
 moveandgrooven.ru
 movies5.fox-fan.ru
 mps.tlauncher.ru
@@ -888,7 +895,6 @@ mpsuadv.ru
 mpuls.ru
 mpush.winline.ru
 ms-ads-image.t-static.ru
-ms.propub.ru
 mstat.mos.ru
 mts-dsp-sync.rutarget.ru
 myjino.ru
@@ -981,7 +987,6 @@ promo.cityads.ru
 promo.rzonline.ru
 propan.ru
 proppellerads.ru
-propub.ru
 proxy.wavesend.ru
 ps.punchmedia.ru
 ps2.punchmedia.ru
@@ -1000,7 +1005,6 @@ quicklinks.nocoshop.ru
 quotiq.ru
 r0.mail.ru
 r3.mail.ru
-r5hsid.ru
 radar.imgsmail.ru
 radio.mediametrics.ru
 rate-metrics.prodoctorov.ru
@@ -1072,7 +1076,6 @@ s4.intimshop.ru
 sape.ru
 sba.yandex.net
 sbbe.group-ib.ru
-sber.yandex.slid3.com
 sbermarketing.ru
 sc.grattis.ru
 scounter.rambler.ru
@@ -1185,6 +1188,7 @@ st.yagla.ru
 startup-mobile.ap.yandex-net.ru
 startup.mobile.yandex.net
 stat-analytics.mediavitrina.ru
+stat.5-tv.ru
 stat.adrun.ru
 stat.adtec.ru
 stat.advideo.ru
@@ -1381,6 +1385,7 @@ weupload.nocoshop.ru
 wf-ru-frontend.weborama-tech.ru
 whiteboxdigital.ru
 whrc.ru
+whreceiverrrrrrrrr.ru
 widget.adplay.ru
 widget.cleversite.ru
 widget.info-app5shs.ru
@@ -1402,7 +1407,6 @@ wordstat.yandex.ru
 workius.ru
 workspay.ru
 wowlink.ru
-wp20.ru
 wrc-info.ru
 ws.callibri.ru
 ws.calltouch.ru
@@ -1431,7 +1435,6 @@ www.audi-club.ru
 www.avramstroy.ru
 www.avto-optika.ru
 www.betsonsport.ru
-www.bonusmega.ru
 www.cityads.ru
 www.clck.ru
 www.comagic.ru
@@ -1469,6 +1472,7 @@ www.saf-oil.ru
 www.startup.mobile.yandex.net
 www.stoletie.ru
 www.tinka.ru
+www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
 www.udobrit.ru
@@ -1494,16 +1498,12 @@ xgd3kl.ru
 xn--p1ai.swtest.ru
 xrampokrovnaluze.ru
 xray.mail.ru
-xvbc1u.ru
 y8lsyibocd.ru
 ya-distrib.ru
 yabs.yandex.ru
 yadro.ru
 yandex-dmp-sync.rutarget.ru
 yandex-sync.rutarget.ru
-yandex.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
-yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
-yandex.membership-amazion-id184645.elearningmine.com
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru

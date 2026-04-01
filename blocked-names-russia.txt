@@ -31,6 +31,7 @@
 10379226--15722194-111-mnews.ms.vk.com
 10379226--15722194-111.news.ms.vk.com
 10386254--15722194-111-mnews.ms.vk.com
+10396161--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 1076--cookieid.stbid.ru
 11078243--28658784-111-mnews.ms.vk.com
@@ -111,6 +112,7 @@
 366387--23712441-111-mnews.ms.vk.com
 3806815--755816-111-mnews.ms.vk.com
 3809085--755816-111-mnews.ms.vk.com
+3809921--755816-111-mnews.ms.vk.com
 383070--18591998-111-mnews.ms.vk.com
 386325--18591998-111-mnews.ms.vk.com
 388716--18591998-111-mnews.ms.vk.com
@@ -311,7 +313,9 @@ aemetrics.aliexpress.ru
 af.click.ru
 aflink.ru
 aflt.market.yandex.ru
+aflt.travel.yandex.ru
 agency2.ru
+agentis.ru
 ai.technocore.ru
 aidata-sync.rutarget.ru
 aksonural.ru
@@ -491,6 +495,7 @@ clicks.gdeslon.ru
 client-telemetry.tutu.ru
 clients.streamwood.ru
 cloud.radar.imgsmail.ru
+cloudpub.ru
 cloudshare.nocoshop.ru
 cls.ad-tech.ru
 clubtk.ru
@@ -823,7 +828,6 @@ lp.mobiletracking.ru
 m-api.a.mts.ru
 m-cm.a.mts.ru
 m.7ooo.ru
-m.leboard.ru
 m.winline.ru
 m1-shop.ru
 magna.ru
@@ -940,6 +944,7 @@ originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
+otzyvuvse.ru
 ox.techart.ru
 p.winline.ru
 papi.gameinstaller.ru
@@ -1233,6 +1238,7 @@ stats.rustore.ru
 stats2.videonow.ru
 stavkiprognozy.ru
 steam-account.ru
+stephanos.ru
 stmtag.ru
 stoletie.ru
 stream.datago.ru
@@ -1334,6 +1340,7 @@ user-banner.wb.ru
 userator.ru
 usercenter-drru.dt.dbankcloud.ru
 utarget.ru
+uucyc.ru
 uznatpochemu.ru
 v.adfox.ru
 v1.mpsuadv.ru
@@ -1490,6 +1497,7 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
+wwwolmkjnh.ru
 wwwomen.ru
 x81p4z.ru
 xaf0ec.ru

@@ -32,7 +32,11 @@
 10379226--15722194-111.news.ms.vk.com
 10386254--15722194-111-mnews.ms.vk.com
 10396161--15722194-111-mnews.ms.vk.com
+10406094--15722194-111-mnews.ms.vk.com
+10410666--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
+107419--99021016-111-mnews.ms.vk.com
+107420--99021016-111-mnews.ms.vk.com
 1076--cookieid.stbid.ru
 11078243--28658784-111-mnews.ms.vk.com
 111101111.ru
@@ -89,6 +93,7 @@
 264307--23372133-111-mnews.ms.vk.com
 264307--23372133-111.news.ms.vk.com
 274743--23372133-111-mnews.ms.vk.com
+280922--23372133-111-mnews.ms.vk.com
 28yw0a.ru
 2993753--15829245-111-mnews.ms.vk.com
 309854--29892348-111-mnews.ms.vk.com
@@ -179,6 +184,7 @@
 777-club.ru
 7773815--152992737-111-mnews.ms.vk.com
 7777888--152992737-111-mnews.ms.vk.com
+7826073--152992737-111-mnews.ms.vk.com
 7nkbwdf1uq.ru
 7ooo.ru
 80614--152386495-111-mnews.ms.vk.com
@@ -235,7 +241,6 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -267,7 +272,6 @@ adriver-sync.rutarget.ru
 adriver.ru
 adrun.ru
 ads-gdl.imovideo.ru
-ads-lot.ru
 ads-storage.avito.ru
 ads.adfox.ru
 ads.adtec.ru
@@ -315,7 +319,6 @@ aflink.ru
 aflt.market.yandex.ru
 aflt.travel.yandex.ru
 agency2.ru
-agentis.ru
 ai.technocore.ru
 aidata-sync.rutarget.ru
 aksonural.ru
@@ -495,7 +498,6 @@ clicks.gdeslon.ru
 client-telemetry.tutu.ru
 clients.streamwood.ru
 cloud.radar.imgsmail.ru
-cloudpub.ru
 cloudshare.nocoshop.ru
 cls.ad-tech.ru
 clubtk.ru
@@ -520,6 +522,7 @@ content.adriver.ru
 content.directadvert.ru
 content.printdirect.ru
 contextbar.ru
+contiteh.ru
 corolain.ru
 count.rin.ru
 count.yandeg.ru
@@ -567,6 +570,7 @@ cybertown.ru
 d.botfaqtor.ru
 dadata.ru
 daily.heroeswm.ru
+dapf.ru
 darknagar.ru
 data.punchmedia.ru
 data.skwstat.ru
@@ -604,6 +608,7 @@ dsp-rambler.ru
 dsp.programmatic.ru
 dsp.rtb.mts.ru
 duhboga.ru
+dw.adeeply.ru
 dx-frontend.weborama-tech.ru
 e1.skwstat.ru
 easy-monetization.s3.yandex.net
@@ -828,6 +833,7 @@ lp.mobiletracking.ru
 m-api.a.mts.ru
 m-cm.a.mts.ru
 m.7ooo.ru
+m.leboard.ru
 m.winline.ru
 m1-shop.ru
 magna.ru
@@ -944,7 +950,6 @@ originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
-otzyvuvse.ru
 ox.techart.ru
 p.winline.ru
 papi.gameinstaller.ru
@@ -1003,6 +1008,7 @@ pushlog.wsoft.ru
 px126.telecid.ru
 px181.telecid.ru
 q7wiow.ru
+qcdnfront.winline.ru
 qip.ru
 qoopler.ru
 qos-api.ott.yandex.net
@@ -1091,6 +1097,7 @@ searchnews-drru.dt.dbankcloud.ru
 secretfiles.nocoshop.ru
 secure-ads.yandex.com
 secure-ads.yandex.ru
+seeky.adeeply.ru
 selec1.adriver.ru
 sendbox.nocoshop.ru
 sentry-api.sberdevices.ru
@@ -1238,7 +1245,6 @@ stats.rustore.ru
 stats2.videonow.ru
 stavkiprognozy.ru
 steam-account.ru
-stephanos.ru
 stmtag.ru
 stoletie.ru
 stream.datago.ru
@@ -1497,7 +1503,6 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
-wwwolmkjnh.ru
 wwwomen.ru
 x81p4z.ru
 xaf0ec.ru

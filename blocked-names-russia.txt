@@ -10,7 +10,6 @@
 # schakal.ru alive hosts
 02ip.ru
 04xmhp.ru
-0gs25f.ru
 0pn.ru
 1.off3.ru
 1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
@@ -38,9 +37,13 @@
 10433166--15722194-111-mnews.ms.vk.com
 10433316--15722194-111-mnews.ms.vk.com
 10433526--15722194-111-mnews.ms.vk.com
+10434462--15722194-111-mnews.ms.vk.com
 10438558--15722194-111-mnews.ms.vk.com
 10446980--15722194-111-mnews.ms.vk.com
 10455413--15722194-111-mnews.ms.vk.com
+10460884--15722194-111-mnews.ms.vk.com
+10461343--15722194-111-mnews.ms.vk.com
+10468788--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 107419--99021016-111-mnews.ms.vk.com
 107420--99021016-111-mnews.ms.vk.com
@@ -90,7 +93,6 @@
 2193980--16468115-111-mnews.ms.vk.com
 22852239--24199209-111-mnews.ms.vk.com
 23112.ms.vk.com
-23122.ms.vk.com
 23212.ms.vk.com
 24112.ms.vk.com
 24122.ms.vk.com
@@ -238,7 +240,6 @@
 98026--99021016-111-mnews.ms.vk.com
 99905--99021016-111-mnews.ms.vk.com
 99905--99021016-111.news.ms.vk.com
-a.kupibilet.ru
 a.mt.ru
 a.mts.ru
 a.pikabu.ru
@@ -267,6 +268,7 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
+ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -477,6 +479,7 @@ bs.webtalk.ru
 bs.yandex.ru
 buzzoola-sync.rutarget.ru
 bvl5bziz9d.ru
+bws3v7zh.ru
 c.botfaqtor.ru
 c.sibnet.ru
 c.snsv.ru
@@ -543,6 +546,7 @@ code.moviead55.ru
 com.swtest.ru
 common.radar.imgsmail.ru
 compare.meteoservice.ru
+config.widget.info-app5shs.ru
 connect-drru.hispace.dbankcloud.ru
 connect.ok.ru
 consultant-online.ru
@@ -665,6 +669,7 @@ ev.adriver.ru
 evangroup.ru
 event-analytics-backend.skyeng.ru
 event.playground.ru
+event.tradedealer.ru
 events-drru.op.dbankcloud.ru
 events.adx.com.ru
 events.cardsmobile.ru
@@ -747,7 +752,6 @@ hit.icyh3e.ru
 hit.mb9pzp.ru
 hit.q7wiow.ru
 hit.rbcv7s.ru
-hit.sfr7ag.ru
 hit.udqrh6.ru
 hit.x81p4z.ru
 hit.xgd3kl.ru
@@ -765,7 +769,7 @@ hitlist.ru
 hitman-pro.ru
 holm.ru
 homework.ru
-hostiman.ru
+hoster-test.ru
 hothat.ru
 ht-systems.ru
 http-check-headers.yandex.ru
@@ -828,7 +832,6 @@ kevents.auth.gid.ru
 kfe0mn.ru
 kiks.yandex.ru
 konget.ru
-kontrolnaya-rabota.ru
 kraken.rambler.ru
 kremz.ru
 kurganobl.ru
@@ -898,6 +901,7 @@ mc.kinopoisk.ru
 mc.yandex.com
 mc.yandex.ru
 mcc.russia.inf.miui.com
+mck3.ru
 media-adv.market.yandex.ru
 media-adv.vs.market.yandex.net
 media-adv.yandex.com
@@ -913,6 +917,7 @@ metrica.yandex.com
 metrica.yandex.ru
 metrics-drru.dt.dbankcloud.ru
 metrics.aviasales.ru
+metrics.labsystech.ru
 metrics.prom.third-party-app.sberdevices.ru
 metrics.tricolor.ru
 metrics5.dt.dbankcloud.ru
@@ -984,6 +989,7 @@ ogeri.ru
 ogtz5yn2u1.ru
 ohmybid-sync.rutarget.ru
 ohmybidvideo-sync.rutarget.ru
+ol8ts0.ru
 omniqa.ru
 onetarget.ru
 opendsp.ru
@@ -1066,6 +1072,7 @@ rate.ru
 rbcv7s.ru
 rcm.rambler.ru
 rcmjs.rambler.ru
+re-tracker.ru
 read.sendsay.ru
 readme.ru
 readto.ru
@@ -1253,6 +1260,7 @@ stat.azbyka.ru
 stat.clickfrog.ru
 stat.gc.vkplay.ru
 stat.playfamily.ru
+stat.pravmir.ru
 stat.radar.imgsmail.ru
 stat.sputnik.ru
 stat.tlauncher.ru
@@ -1514,7 +1522,6 @@ www.igorkurbonov.ru
 www.iplogger.ru
 www.jps.ru
 www.justclick.ru
-www.kontrolnaya-rabota.ru
 www.linkfeed.ru
 www.liveexpert.ru
 www.mastertarget.ru
@@ -1548,7 +1555,9 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
+wwwkjhsmlksd.ru
 wwwomen.ru
+wwwyademaks.ru
 wxanalytics.ru
 x0c.ru
 x81p4z.ru

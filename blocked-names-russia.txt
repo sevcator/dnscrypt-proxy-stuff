@@ -44,6 +44,7 @@
 10460884--15722194-111-mnews.ms.vk.com
 10461343--15722194-111-mnews.ms.vk.com
 10468788--15722194-111-mnews.ms.vk.com
+10475220--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 107419--99021016-111-mnews.ms.vk.com
 107420--99021016-111-mnews.ms.vk.com
@@ -53,6 +54,7 @@
 111552--63199063-111-mnews.ms.vk.com
 111558--63199063-111-mnews.ms.vk.com
 111563--63199063-111-mnews.ms.vk.com
+112006--99021016-111-mnews.ms.vk.com
 1181371--17309915-111-mnews.ms.vk.com
 1253581--23553134-111-mnews.ms.vk.com
 1264274--119533440-111-mnews.ms.vk.com
@@ -71,6 +73,8 @@
 1724894--25280329-111-mnews.ms.vk.com
 1725917--25280329-111-mnews.ms.vk.com
 1727405--25280329-111-mnews.ms.vk.com
+172743--28514668-111-mnews.ms.vk.com
+1742772--25280329-111-mnews.ms.vk.com
 18567680--25232578-111-mnews.ms.vk.com
 1896906--2070309-111-mnews.ms.vk.com
 190867--88797119-111-mnews.ms.vk.com
@@ -128,6 +132,7 @@
 3484607--34777837-111-mnews.ms.vk.com
 3499486--34777837-111-mnews.ms.vk.com
 3499529--34777837-111-mnews.ms.vk.com
+3512751--34777837-111-mnews.ms.vk.com
 35212.ms.vk.com
 35312.ms.vk.com
 35412.ms.vk.com
@@ -212,6 +217,7 @@
 7847718--152992737-111-mnews.ms.vk.com
 7858110--152992737-111-mnews.ms.vk.com
 7863097--152992737-111-mnews.ms.vk.com
+7895890--152992737-111-mnews.ms.vk.com
 7nkbwdf1uq.ru
 7ooo.ru
 80614--152386495-111-mnews.ms.vk.com
@@ -442,6 +448,7 @@ b5.csdnevnik.ru
 b6.csdnevnik.ru
 back.winline.ru
 bakteso.ru
+balakovo24.ru
 ban.zab.ru
 banner.aismo.ru
 banner.consultant.ru
@@ -461,9 +468,9 @@ beta.mediafort.ru
 between-sync.rutarget.ru
 bfds.sberbank.ru
 bid.adx.com.ru
-bidder.rutarget.ru
 bidvol-sync.rutarget.ru
 blocked.botfaqtor.ru
+blogs.softodrom.ru
 bn.winlinebet.ru
 bonus-betting.ru
 bonuscake.ru
@@ -479,7 +486,6 @@ bs.webtalk.ru
 bs.yandex.ru
 buzzoola-sync.rutarget.ru
 bvl5bziz9d.ru
-bws3v7zh.ru
 c.botfaqtor.ru
 c.sibnet.ru
 c.snsv.ru
@@ -724,6 +730,7 @@ getads.ru
 getyoursoft.ru
 gigamega.ru
 gjv7fg.ru
+gk7qlc.ru
 globalscience.ru
 glopages.ru
 gnezdo.ru
@@ -769,7 +776,6 @@ hitlist.ru
 hitman-pro.ru
 holm.ru
 homework.ru
-hoster-test.ru
 hothat.ru
 ht-systems.ru
 http-check-headers.yandex.ru
@@ -901,7 +907,6 @@ mc.kinopoisk.ru
 mc.yandex.com
 mc.yandex.ru
 mcc.russia.inf.miui.com
-mck3.ru
 media-adv.market.yandex.ru
 media-adv.vs.market.yandex.net
 media-adv.yandex.com
@@ -1072,7 +1077,6 @@ rate.ru
 rbcv7s.ru
 rcm.rambler.ru
 rcmjs.rambler.ru
-re-tracker.ru
 read.sendsay.ru
 readme.ru
 readto.ru
@@ -1302,7 +1306,6 @@ stopforumspamcom.ru
 storage.sbermarketing.ru
 store-sentry.vkplay.ru
 stream.datago.ru
-studlance.ru
 subscriptions.rambler.ru
 super-traf.ru
 supercleanspb.ru
@@ -1442,7 +1445,6 @@ weatherarchive.ru
 web-metrica.yandex.ru
 web-metrics.cdek.ru
 web.redhelper.ru
-webkamerton.ru
 webkurchatov.ru
 weborama-tech.ru
 webstat.profi.ru
@@ -1517,7 +1519,6 @@ www.gravura.ru
 www.greatgrace.ru
 www.h21.ru
 www.holm.ru
-www.homework.ru
 www.igorkurbonov.ru
 www.iplogger.ru
 www.jps.ru
@@ -1555,9 +1556,7 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
-wwwkjhsmlksd.ru
 wwwomen.ru
-wwwyademaks.ru
 wxanalytics.ru
 x0c.ru
 x81p4z.ru

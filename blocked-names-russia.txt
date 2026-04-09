@@ -45,6 +45,7 @@
 10461343--15722194-111-mnews.ms.vk.com
 10468788--15722194-111-mnews.ms.vk.com
 10475220--15722194-111-mnews.ms.vk.com
+10487522--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 107419--99021016-111-mnews.ms.vk.com
 107420--99021016-111-mnews.ms.vk.com
@@ -218,6 +219,7 @@
 7858110--152992737-111-mnews.ms.vk.com
 7863097--152992737-111-mnews.ms.vk.com
 7895890--152992737-111-mnews.ms.vk.com
+7900522--152992737-111-mnews.ms.vk.com
 7nkbwdf1uq.ru
 7ooo.ru
 80614--152386495-111-mnews.ms.vk.com
@@ -274,7 +276,6 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.kissanime.org.ru
@@ -450,6 +451,7 @@ back.winline.ru
 bakteso.ru
 balakovo24.ru
 ban.zab.ru
+bank.yuga.ru
 banner.aismo.ru
 banner.consultant.ru
 banner.zol.ru
@@ -850,7 +852,6 @@ laimroll.ru
 lc2ads.ru
 ldoe-analytics.kefirgames.ru
 leadback.ru
-leadball.ru
 leadgid.ru
 leadgidads.ru
 leadhit.ru
@@ -979,7 +980,6 @@ news.2xclick.ru
 news.gnezdo.ru
 news.gnezdo2.ru
 news.mediametrics.ru
-news.rin.ru
 news.smi2.ru
 nkwnb7.ru
 nogiledeneli.ru
@@ -1049,7 +1049,6 @@ promo-reklama.ru
 promo.cityads.ru
 promo.rzonline.ru
 propan.ru
-proppellerads.ru
 proxy.wavesend.ru
 ps.punchmedia.ru
 ps2.punchmedia.ru

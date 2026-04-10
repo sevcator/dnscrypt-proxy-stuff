@@ -58,6 +58,7 @@
 112006--99021016-111-mnews.ms.vk.com
 1181371--17309915-111-mnews.ms.vk.com
 1253581--23553134-111-mnews.ms.vk.com
+1255389--23553134-111-mnews.ms.vk.com
 1264274--119533440-111-mnews.ms.vk.com
 1348477--176841276-111-mnews.ms.vk.com
 1357585--176841276-111-mnews.ms.vk.com
@@ -67,7 +68,9 @@
 145488--2357771-111-mnews.ms.vk.com
 146416--19453692-111-mnews.ms.vk.com
 147008--2357771-111-mnews.ms.vk.com
+14735.beacon.alice.yandex.ru
 147429--19453692-111-mnews.ms.vk.com
+150685--19453692-111-mnews.ms.vk.com
 167562--28514668-111-mnews.ms.vk.com
 167570--28514668-111-mnews.ms.vk.com
 1720157--25280329-111-mnews.ms.vk.com
@@ -133,6 +136,7 @@
 3484607--34777837-111-mnews.ms.vk.com
 3499486--34777837-111-mnews.ms.vk.com
 3499529--34777837-111-mnews.ms.vk.com
+3512406--34777837-111-mnews.ms.vk.com
 3512751--34777837-111-mnews.ms.vk.com
 35212.ms.vk.com
 35312.ms.vk.com
@@ -667,7 +671,6 @@ edu-sentry.mos.ru
 effad.ru
 egg.afisha.ru
 eimage.sendsay.ru
-elama.ru
 energy63.ru
 err.agava.ru
 err.lenta.ru

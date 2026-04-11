@@ -46,6 +46,9 @@
 10468788--15722194-111-mnews.ms.vk.com
 10475220--15722194-111-mnews.ms.vk.com
 10487522--15722194-111-mnews.ms.vk.com
+10508346--15722194-111-mnews.ms.vk.com
+10511888--15722194-111-mnews.ms.vk.com
+10513430--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 107419--99021016-111-mnews.ms.vk.com
 107420--99021016-111-mnews.ms.vk.com
@@ -56,6 +59,7 @@
 111558--63199063-111-mnews.ms.vk.com
 111563--63199063-111-mnews.ms.vk.com
 112006--99021016-111-mnews.ms.vk.com
+113418--99021016-111-mnews.ms.vk.com
 1181371--17309915-111-mnews.ms.vk.com
 1253581--23553134-111-mnews.ms.vk.com
 1255389--23553134-111-mnews.ms.vk.com
@@ -124,6 +128,7 @@
 3105589--23304496-111-mnews.ms.vk.com
 317729.redirect.appmetrica.yandex.com
 325856--15911874-111-mnews.ms.vk.com
+328492--19928749-111-mnews.ms.vk.com
 33212.ms.vk.com
 33312.ms.vk.com
 33412.ms.vk.com
@@ -147,6 +152,7 @@
 3809085--755816-111-mnews.ms.vk.com
 3809921--755816-111-mnews.ms.vk.com
 3814280--755816-111-mnews.ms.vk.com
+3817311--755816-111-mnews.ms.vk.com
 383070--18591998-111-mnews.ms.vk.com
 386325--18591998-111-mnews.ms.vk.com
 388716--18591998-111-mnews.ms.vk.com
@@ -354,7 +360,6 @@ aemetrics.aliexpress.ru
 aeuandnuaoegogn.ru
 af.click.ru
 afeoadaueodgeouaoueofu.ru
-aflink.ru
 aflt.market.yandex.ru
 aflt.travel.yandex.ru
 agency2.ru
@@ -386,6 +391,7 @@ analytics.click-or-die.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
 analytics.max-admin.ru
+analytics.mediadash.ru
 analytics.mobile.yandex.net
 analytics.move.ru
 analytics.sberhealth.ru
@@ -405,6 +411,7 @@ api.adeeply.ru
 api.admile.ru
 api.appmetrica.yandex.ru
 api.expf.ru
+api.eye.sbdv.ru
 api.lbs.yandex.ru
 api.nopbreak.ru
 api.utorria.ru
@@ -427,6 +434,7 @@ asiandogs.ru
 ask-gps.ru
 asl-company.ru
 asr.openssp.ru
+astana-lk.genom-eko.ru
 astralab-sync.rutarget.ru
 audi-club.ru
 audience.yandex.ru
@@ -475,6 +483,7 @@ between-sync.rutarget.ru
 bfds.sberbank.ru
 bid.adx.com.ru
 bidvol-sync.rutarget.ru
+blackhatrussia.com
 blocked.botfaqtor.ru
 blogs.softodrom.ru
 bn.winlinebet.ru
@@ -529,6 +538,7 @@ cdnrtbsape.ru
 cf.b3.a1.top.list.ru
 checker.cityads.ru
 checks.botfaqtor.ru
+cherepovec-lk.genom-eko.ru
 chiptuner.ru
 cityads.ru
 ckct.ru
@@ -539,6 +549,7 @@ clckdm.domclick.ru
 clcuahx.ru
 cleversite.ru
 click.yandex.ru
+clickbeat.sberdevices.ru
 clickfraud.ru
 clickfrog.ru
 clicks.gdeslon.ru
@@ -630,7 +641,9 @@ dcyilib.ru
 delta.mediafort.ru
 demo.punchmedia.ru
 demos.ru
+depot3.dev-ms.ru
 detmir-stats.ru
+dev-ms.ru
 df.cf.b3.a1.top.list.ru
 dienai.ru
 digitaltarget.ru
@@ -716,7 +729,6 @@ free-gluten.ru
 freedom-vrn.ru
 frontlog.tutu.ru
 frontmetrics.tutu.ru
-fulledu.ru
 g4blin.ru
 gaeuaoufhaheghf.ru
 gameinstaller.ru
@@ -729,6 +741,7 @@ gdeslon.ru
 gdl.adeeply.ru
 gdl.i9dhjx.ru
 gdl.topoads.ru
+genom-eko.ru
 geo.grattis.ru
 geofamily.ru
 getads.ru
@@ -752,6 +765,7 @@ gw.botfaqtor.ru
 h21.ru
 ha-front.wavesend.ru
 hasard.ru
+hdlt.ru
 heroeswm.ru
 hhcdn.ru
 hisearch-drru.dt.dbankcloud.ru
@@ -807,6 +821,7 @@ indetiske.ya.ru
 inetlog.ru
 info-dvd.ru
 info.kinoclub77.ru
+infoclicker.ru
 informer.yandex.ru
 init.videonow.ru
 injectroblox.ru
@@ -822,10 +837,13 @@ ipgrabber.ru
 ipgraber.ru
 iplis.ru
 iplogger.ru
+irktorgnewss.ru
 is.luxup.ru
 iviruseries3.ru
+iworknet.ru
 j.adlooxtracking.ru
 j.uralweb.ru
+jdsncjxjujdww.ru
 jet.zbp.ru
 jgjuogz.ru
 jordan.qunis.ru
@@ -837,6 +855,7 @@ js.yuga.ru
 justclick.ru
 justiva.ru
 jux9ms4vc7.ru
+kaliningrad-lk.genom-eko.ru
 kamin-premium.ru
 kamint.ru
 kevents.auth.gid.ru
@@ -866,6 +885,7 @@ likemore-go.imgsmail.ru
 linkbox.nocoshop.ru
 linkfeed.ru
 linkslot.ru
+liptrans.ru
 liquidfile.nocoshop.ru
 liveexpert.ru
 livesurf.ru
@@ -916,7 +936,6 @@ media-adv.vs.market.yandex.net
 media-adv.yandex.com
 media-advcycle.imgsmail.ru
 media-stat.mail.ru
-media.fulledu.ru
 mediametrics.ru
 mediarepost.ru
 mediatoday.ru
@@ -997,6 +1016,7 @@ ogeri.ru
 ogtz5yn2u1.ru
 ohmybid-sync.rutarget.ru
 ohmybidvideo-sync.rutarget.ru
+okr.sbdv.ru
 ol8ts0.ru
 omniqa.ru
 onetarget.ru
@@ -1103,6 +1123,7 @@ res.tlauncher.ru
 richmedia.wavesend.ru
 rmbn.ru
 rosenberg.appmetrica.yandex.net
+rostov-na-donu-lk.genom-eko.ru
 rot.rusoul.ru
 rq.adfox.ru
 rr.tracker.mobiletracking.ru
@@ -1134,6 +1155,7 @@ russianlanguage.swing-zone.com
 russianlovematch.com
 rustrackers.ru
 rutarget.ru
+s-k-o.ru
 s.suprion.ru
 s1.intimshop.ru
 s1.mpsuadv.ru
@@ -1235,7 +1257,6 @@ soloway.ru
 solta-sync.rutarget.ru
 sopr-api.cian.ru
 southrap.ru
-sovetclub.ru
 sovetnik.market.yandex.ru
 sp.aviasales.ru
 sparrow.ru
@@ -1303,6 +1324,7 @@ stats.rustore.ru
 stats2.videonow.ru
 stavkiprognozy.ru
 steam-account.ru
+sterlitamak.tulpar-trade.ru
 stmtag.ru
 stopforumspamcom.ru
 storage.sbermarketing.ru
@@ -1354,6 +1376,7 @@ tk.promit.ru
 tl.rulate.ru
 tlauncher.ru
 tns-counter.ru
+tomsk-lk.genom-eko.ru
 top-fwz1.mail.ru
 top.elec.ru
 top.gde.ru
@@ -1383,6 +1406,7 @@ trkleads.ru
 ts.tracker-api.vk-analytics.ru
 tt.ttarget.ru
 ttarget.ru
+tulpar-trade.ru
 turbobit.nocoshop.ru
 tutad.ru
 ua-content.adriver.ru
@@ -1393,6 +1417,7 @@ uberupload.nocoshop.ru
 udqrh6.ru
 ukguk71.ru
 ukrashulya.ru
+ulyanovsk-lk.genom-eko.ru
 unisound.cdnvideo.ru
 unlockers.ru
 upandshare.nocoshop.ru
@@ -1430,6 +1455,7 @@ visor.adtec.ru
 visor.sberbank.ru
 vmkxcsss.ru
 vnikitskom.ru
+volgograd-lk.genom-eko.ru
 vp.rambler.ru
 vsem.ru
 vsemp.ru
@@ -1558,6 +1584,8 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
+www.zhit-vmeste.ru
+wwwlkefgmoivertlfewr.ru
 wwwomen.ru
 wxanalytics.ru
 x0c.ru
@@ -1577,9 +1605,11 @@ yandex-sync.rutarget.ru
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
+ym8ne8amtw.ru
+ymph9imeg1.ru
 yuga.ru
 zachestnyibiznes.ru
-zags.kurganobl.ru
 zaometallniva.ru
 zen-mobile-site.mediascope.mc.yandex.ru
+zhit-vmeste.ru
 zippyfiles.nocoshop.ru

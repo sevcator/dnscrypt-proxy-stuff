@@ -51,6 +51,12 @@
 10511888--15722194-111-mnews.ms.vk.com
 10513430--15722194-111-mnews.ms.vk.com
 10522299--15722194-111-mnews.ms.vk.com
+10531298--15722194-111-mnews.ms.vk.com
+10532348--15722194-111-mnews.ms.vk.com
+10532498--15722194-111-mnews.ms.vk.com
+10532719--15722194-111-mnews.ms.vk.com
+10538379--15722194-111-mnews.ms.vk.com
+10542003--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 107419--99021016-111-mnews.ms.vk.com
 107420--99021016-111-mnews.ms.vk.com
@@ -63,6 +69,7 @@
 112006--99021016-111-mnews.ms.vk.com
 113418--99021016-111-mnews.ms.vk.com
 113700--99021016-111-mnews.ms.vk.com
+114812--99021016-111-mnews.ms.vk.com
 117230--18682310-111-mnews.ms.vk.com
 1181371--17309915-111-mnews.ms.vk.com
 1253581--23553134-111-mnews.ms.vk.com
@@ -71,6 +78,7 @@
 1348477--176841276-111-mnews.ms.vk.com
 1357585--176841276-111-mnews.ms.vk.com
 1358241--176841276-111-mnews.ms.vk.com
+1386662--176841276-111-mnews.ms.vk.com
 14087849--112510789-111-mnews.ms.vk.com
 14143695--112510789-111-mnews.ms.vk.com
 145488--2357771-111-mnews.ms.vk.com
@@ -87,6 +95,7 @@
 1727405--25280329-111-mnews.ms.vk.com
 172743--28514668-111-mnews.ms.vk.com
 1742772--25280329-111-mnews.ms.vk.com
+179280--28514668-111-mnews.ms.vk.com
 18567680--25232578-111-mnews.ms.vk.com
 1896906--2070309-111-mnews.ms.vk.com
 1898167--2070309-111-mnews.ms.vk.com
@@ -149,6 +158,7 @@
 3512406--34777837-111-mnews.ms.vk.com
 3512751--34777837-111-mnews.ms.vk.com
 35212.ms.vk.com
+3525246--34777837-111-mnews.ms.vk.com
 35312.ms.vk.com
 35412.ms.vk.com
 35512.ms.vk.com
@@ -214,6 +224,7 @@
 652121.ms.vk.com
 652221.ms.vk.com
 68849--211649692-111-mnews.ms.vk.com
+696415--160329499-111-mnews.ms.vk.com
 6i7y3i.ru
 6rn05mmbct.ru
 70929--21560979-111-mnews.ms.vk.com
@@ -320,12 +331,14 @@ adregain.ru
 adriver-sync.rutarget.ru
 adriver.ru
 adrun.ru
+ads-gate.wildberries.ru
 ads-gdl.imovideo.ru
 ads-storage.avito.ru
 ads.adfox.ru
 ads.adtec.ru
 ads.adv-adplatform.ru
 ads.edadeal.ru
+ads.giftclick.ru
 ads.internal.edadeal.ru
 ads.photosight.ru
 ads.rustore.ru
@@ -420,6 +433,7 @@ api.expf.ru
 api.eye.sbdv.ru
 api.lbs.yandex.ru
 api.nopbreak.ru
+api.s.mindbox.ru
 api.utorria.ru
 api.venyoo.ru
 api.vigo.ru
@@ -569,6 +583,7 @@ code.4hunqp.ru
 code.clicktex.ru
 code.directadvert.ru
 code.moviead55.ru
+code.r5hsid.ru
 com.swtest.ru
 common.radar.imgsmail.ru
 compare.meteoservice.ru
@@ -668,6 +683,7 @@ drivenetwork.ru
 dryum.ru
 ds-frontend.weborama-tech.ru
 ds.serving-sys.ru
+dsfmmim.ru
 dsp-rambler.ru
 dsp.programmatic.ru
 dsp.rtb.mts.ru
@@ -823,6 +839,7 @@ informer.yandex.ru
 init.videonow.ru
 injectroblox.ru
 inkoleasing.ru
+inkuh.ru
 innovation-lab.ru
 inplayer.ru
 instreamvideo.ru
@@ -836,6 +853,7 @@ iplis.ru
 iplogger.ru
 is.luxup.ru
 iviruseries3.ru
+iworknet.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
@@ -854,6 +872,8 @@ kamint.ru
 kevents.auth.gid.ru
 kfe0mn.ru
 kiks.yandex.ru
+kinolivehd.ru
+kjhsmlksd.ru
 konget.ru
 kraken.rambler.ru
 kremz.ru
@@ -929,7 +949,6 @@ media-adv.yandex.com
 media-advcycle.imgsmail.ru
 media-stat.mail.ru
 mediametrics.ru
-mediarepost.ru
 mediatoday.ru
 megatkani.ru
 metrica-yandex.com
@@ -964,6 +983,7 @@ module.callibri.ru
 moevideo-sync.rutarget.ru
 momijoy.ru
 mon.avito.ru
+morereferatov.ru
 moveandgrooven.ru
 movies5.fox-fan.ru
 mps.tlauncher.ru
@@ -1015,6 +1035,7 @@ onetarget.ru
 opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
+optawa.ru
 originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
@@ -1053,6 +1074,7 @@ popupclick.ru
 posthog.livelib.ru
 practiserussiangarments.com
 prbn.ru
+premiaon.ru
 pricelib.ru
 privacy-cs.mail.ru
 prlog.ru
@@ -1074,6 +1096,8 @@ punchmedia.ru
 push.svk-native.ru
 pushlog.wsoft.ru
 px126.telecid.ru
+px140.telecid.ru
+px143.telecid.ru
 px181.telecid.ru
 q7wiow.ru
 qcdnfront.winline.ru
@@ -1084,6 +1108,7 @@ quicklinks.nocoshop.ru
 quotiq.ru
 r0.mail.ru
 r3.mail.ru
+r5hsid.ru
 radar.imgsmail.ru
 radio.mediametrics.ru
 rate-metrics.prodoctorov.ru
@@ -1146,6 +1171,7 @@ russianlanguage.swing-zone.com
 russianlovematch.com
 rustrackers.ru
 rutarget.ru
+s-k-o.ru
 s.suprion.ru
 s1.intimshop.ru
 s1.mpsuadv.ru
@@ -1317,6 +1343,7 @@ stopforumspamcom.ru
 storage.sbermarketing.ru
 store-sentry.vkplay.ru
 stream.datago.ru
+suaarea.ru
 subscriptions.rambler.ru
 super-traf.ru
 supercleanspb.ru
@@ -1381,6 +1408,7 @@ tracker.comagic.ru
 tracker.smartcallback.ru
 tracking.appmetrica.yandex.net
 tracking.ott.yandex.ru
+tracking.ozon.ru
 tracking.retailrocket.ru
 tradingdesk-sync.rutarget.ru
 trafffgen.rambler.ru
@@ -1407,6 +1435,8 @@ unlockers.ru
 upandshare.nocoshop.ru
 uptime-info.yandex.ru
 uptolike.ru
+url.premiaon.ru
+url.suaarea.ru
 user-banner.wb.ru
 userator.ru
 usercenter-drru.dt.dbankcloud.ru
@@ -1531,6 +1561,7 @@ www.greatgrace.ru
 www.h21.ru
 www.holm.ru
 www.igorkurbonov.ru
+www.inkuh.ru
 www.iplogger.ru
 www.jps.ru
 www.justclick.ru
@@ -1567,11 +1598,13 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
+wwwolmkjnh.ru
 wwwomen.ru
 wxanalytics.ru
 x0c.ru
 x81p4z.ru
 xaf0ec.ru
+xamubee.ru
 xcec.ru
 xgd3kl.ru
 xn--p1ai.swtest.ru

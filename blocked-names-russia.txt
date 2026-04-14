@@ -11,9 +11,7 @@
 02ip.ru
 04xmhp.ru
 0pn.ru
-1.off3.ru
 1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
-1013a--10180--259.stbid.ru
 1013a--ma--10204--cp1.stbid.ru
 1013a--ma--10204--cp12.stbid.ru
 1013a--ma--10204--cp17.stbid.ru
@@ -57,11 +55,16 @@
 10532719--15722194-111-mnews.ms.vk.com
 10538379--15722194-111-mnews.ms.vk.com
 10542003--15722194-111-mnews.ms.vk.com
+10545914--15722194-111-mnews.ms.vk.com
+10548088--15722194-111-mnews.ms.vk.com
+10548249--15722194-111-mnews.ms.vk.com
+10548565--15722194-111-mnews.ms.vk.com
+10548956--15722194-111-mnews.ms.vk.com
+10550610--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 107419--99021016-111-mnews.ms.vk.com
 107420--99021016-111-mnews.ms.vk.com
 1076--cookieid.stbid.ru
-11078243--28658784-111-mnews.ms.vk.com
 111101111.ru
 111552--63199063-111-mnews.ms.vk.com
 111558--63199063-111-mnews.ms.vk.com
@@ -95,12 +98,14 @@
 1727405--25280329-111-mnews.ms.vk.com
 172743--28514668-111-mnews.ms.vk.com
 1742772--25280329-111-mnews.ms.vk.com
+1754029--25280329-111-mnews.ms.vk.com
 179280--28514668-111-mnews.ms.vk.com
 18567680--25232578-111-mnews.ms.vk.com
 1896906--2070309-111-mnews.ms.vk.com
 1898167--2070309-111-mnews.ms.vk.com
 190867--88797119-111-mnews.ms.vk.com
 191752--88797119-111-mnews.ms.vk.com
+19651--193636043-111-mnews.ms.vk.com
 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
 1cfcee684da84d79a21730432fc15b1f.ops.beeline.ru
 1cont.ru
@@ -112,10 +117,8 @@
 1pamm.ru
 1stat.ru
 1xstavka.ru
-2.off3.ru
 2167057--9693056-111-mnews.ms.vk.com
 2167163--9693056-111-mnews.ms.vk.com
-21847--224317011-111-mnews.ms.vk.com
 2193980--16468115-111-mnews.ms.vk.com
 22852239--24199209-111-mnews.ms.vk.com
 23112.ms.vk.com
@@ -163,6 +166,7 @@
 35412.ms.vk.com
 35512.ms.vk.com
 366387--23712441-111-mnews.ms.vk.com
+376713--23712441-111-mnews.ms.vk.com
 3806815--755816-111-mnews.ms.vk.com
 3809085--755816-111-mnews.ms.vk.com
 3809921--755816-111-mnews.ms.vk.com
@@ -228,7 +232,6 @@
 6i7y3i.ru
 6rn05mmbct.ru
 70929--21560979-111-mnews.ms.vk.com
-7443352--152992737-111-mnews.ms.vk.com
 7558411527765562698-otm.ops.beeline.ru
 75985--31897553-111-mnews.ms.vk.com
 77-222-63-82.swtest.ru
@@ -302,9 +305,9 @@ activepr.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
+ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
-ad.kissanime.org.ru
 ad.mail.ru
 ad.video-mech.ru
 ad1.mpsuadv.ru
@@ -527,7 +530,6 @@ c7xxbd.ru
 cabinet.adzone.ru
 callback.onlinepbx.ru
 callibri.ru
-calltracking.alytics.ru
 catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
@@ -640,7 +642,6 @@ ct-ws-front.calltouch.ru
 ct3-24.ru
 culturaltracking.ru
 cusok.ru
-cuzrfkzwkn.ru
 cvt1.sibnet.ru
 cybertown.ru
 d.botfaqtor.ru
@@ -683,7 +684,6 @@ drivenetwork.ru
 dryum.ru
 ds-frontend.weborama-tech.ru
 ds.serving-sys.ru
-dsfmmim.ru
 dsp-rambler.ru
 dsp.programmatic.ru
 dsp.rtb.mts.ru
@@ -751,6 +751,7 @@ gaeuaoufhaheghf.ru
 gameinstaller.ru
 gamelights.ru
 gate.leadgenic.ru
+gazetanet.ru
 gb2-banners.adriver.ru
 gb2-files.adriver.ru
 gd.1cont.ru
@@ -839,7 +840,6 @@ informer.yandex.ru
 init.videonow.ru
 injectroblox.ru
 inkoleasing.ru
-inkuh.ru
 innovation-lab.ru
 inplayer.ru
 instreamvideo.ru
@@ -853,7 +853,6 @@ iplis.ru
 iplogger.ru
 is.luxup.ru
 iviruseries3.ru
-iworknet.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
@@ -870,10 +869,7 @@ jux9ms4vc7.ru
 kamin-premium.ru
 kamint.ru
 kevents.auth.gid.ru
-kfe0mn.ru
 kiks.yandex.ru
-kinolivehd.ru
-kjhsmlksd.ru
 konget.ru
 kraken.rambler.ru
 kremz.ru
@@ -1074,7 +1070,6 @@ popupclick.ru
 posthog.livelib.ru
 practiserussiangarments.com
 prbn.ru
-premiaon.ru
 pricelib.ru
 privacy-cs.mail.ru
 prlog.ru
@@ -1171,11 +1166,11 @@ russianlanguage.swing-zone.com
 russianlovematch.com
 rustrackers.ru
 rutarget.ru
-s-k-o.ru
 s.suprion.ru
 s1.intimshop.ru
 s1.mpsuadv.ru
 s2.mpsuadv.ru
+sage-collector.tbank.ru
 sape.ru
 sba.yandex.net
 sbbe.group-ib.ru
@@ -1199,7 +1194,6 @@ sentry-mobile-ingest.kuper.ru
 sentry-mobile.alfabank.ru
 sentry-mobile.ivi.ru
 sentry-mobile.lamoda.ru
-sentry-mobile.mm.ru
 sentry-relay.beeline.ru
 sentry-saas.rambler-co.ru
 sentry-tech.cdek.ru
@@ -1343,10 +1337,8 @@ stopforumspamcom.ru
 storage.sbermarketing.ru
 store-sentry.vkplay.ru
 stream.datago.ru
-suaarea.ru
 subscriptions.rambler.ru
 super-traf.ru
-supercleanspb.ru
 supertop.ru
 sur.gorodkirov.ru
 svk-native.ru
@@ -1369,7 +1361,6 @@ tags.soloway.ru
 takedrivers.ru
 tapstat.ru
 tbmods.ru
-tcnewhimki.ru
 teaserfast.ru
 teasers.ru
 tech-script.ru
@@ -1435,8 +1426,6 @@ unlockers.ru
 upandshare.nocoshop.ru
 uptime-info.yandex.ru
 uptolike.ru
-url.premiaon.ru
-url.suaarea.ru
 user-banner.wb.ru
 userator.ru
 usercenter-drru.dt.dbankcloud.ru
@@ -1552,6 +1541,7 @@ www.directadvert.ru
 www.drivenetwork.ru
 www.forextimes.ru
 www.free-gluten.ru
+www.gazetanet.ru
 www.gdeslon.ru
 www.girlporn.ru
 www.glopages.ru
@@ -1561,7 +1551,6 @@ www.greatgrace.ru
 www.h21.ru
 www.holm.ru
 www.igorkurbonov.ru
-www.inkuh.ru
 www.iplogger.ru
 www.jps.ru
 www.justclick.ru
@@ -1592,13 +1581,11 @@ www.vk-analytics.ru
 www.wm-goldenclick.ru
 www.wordstat.yandex.ru
 www.wwwomen.ru
-www.xrampokrovnaluze.ru
 www.xz8.ru
 www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
-wwwolmkjnh.ru
 wwwomen.ru
 wxanalytics.ru
 x0c.ru
@@ -1608,7 +1595,6 @@ xamubee.ru
 xcec.ru
 xgd3kl.ru
 xn--p1ai.swtest.ru
-xrampokrovnaluze.ru
 xray.mail.ru
 y8lsyibocd.ru
 ya-distrib.ru

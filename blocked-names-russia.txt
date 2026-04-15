@@ -61,6 +61,8 @@
 10548565--15722194-111-mnews.ms.vk.com
 10548956--15722194-111-mnews.ms.vk.com
 10550610--15722194-111-mnews.ms.vk.com
+10569157--15722194-111-mnews.ms.vk.com
+10577855--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 107419--99021016-111-mnews.ms.vk.com
 107420--99021016-111-mnews.ms.vk.com
@@ -73,6 +75,7 @@
 113418--99021016-111-mnews.ms.vk.com
 113700--99021016-111-mnews.ms.vk.com
 114812--99021016-111-mnews.ms.vk.com
+116915--99021016-111-mnews.ms.vk.com
 117230--18682310-111-mnews.ms.vk.com
 1181371--17309915-111-mnews.ms.vk.com
 1253581--23553134-111-mnews.ms.vk.com
@@ -192,6 +195,7 @@
 4px.ru
 5-182-5-41.botfaqtor.ru
 5024644--35068738-111-mnews.ms.vk.com
+5073349--35068738-111-mnews.ms.vk.com
 531111.ms.dzen.ru
 531121.ms.dzen.ru
 531211.ms.dzen.ru
@@ -462,6 +466,7 @@ audi-club.ru
 audience.yandex.ru
 auth.sape.ru
 auth.tlauncher.ru
+auto.yuga.ru
 autocontext.begun.ru
 autoru-mag.s3.yandex.net
 autous.ru
@@ -1234,7 +1239,6 @@ serving.a.mts.ru
 serving.laimroll.ru
 sexgramm.ru
 sfr7ag.ru
-sgm.punchmedia.ru
 sgood.ru
 share.yandex.net
 sharemefiles.ru

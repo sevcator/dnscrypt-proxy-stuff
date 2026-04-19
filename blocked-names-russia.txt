@@ -66,6 +66,7 @@
 10589496--15722194-111-mnews.ms.vk.com
 10590200--15722194-111-mnews.ms.vk.com
 10598570--15722194-111-mnews.ms.vk.com
+10620951--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 107419--99021016-111-mnews.ms.vk.com
 107420--99021016-111-mnews.ms.vk.com
@@ -112,6 +113,7 @@
 186694--28514668-111-mnews.ms.vk.com
 1896906--2070309-111-mnews.ms.vk.com
 1898167--2070309-111-mnews.ms.vk.com
+190436--28514668-111-mnews.ms.vk.com
 190867--88797119-111-mnews.ms.vk.com
 191752--88797119-111-mnews.ms.vk.com
 19651--193636043-111-mnews.ms.vk.com
@@ -155,6 +157,7 @@
 317729.redirect.appmetrica.yandex.com
 325856--15911874-111-mnews.ms.vk.com
 328492--19928749-111-mnews.ms.vk.com
+32mfedericod4.sg-hosadmin.vm-cs.ru
 33212.ms.vk.com
 33312.ms.vk.com
 33412.ms.vk.com
@@ -184,11 +187,11 @@
 383070--18591998-111-mnews.ms.vk.com
 386325--18591998-111-mnews.ms.vk.com
 388716--18591998-111-mnews.ms.vk.com
+393568--18591998-111-mnews.ms.vk.com
 4190005.redirect.appmetrica.yandex.com
 423.ru
 4237138.redirect.appmetrica.yandex.com
 4285257--6384628-111-mnews.ms.vk.com
-4292693--23482909-111-mnews.ms.vk.com
 43212.ms.vk.com
 44233--217589574-111-mnews.ms.vk.com
 45212.ms.vk.com
@@ -474,6 +477,7 @@ auth.sape.ru
 auth.tlauncher.ru
 auto.yuga.ru
 autocontext.begun.ru
+autonews58.ru
 autoru-mag.s3.yandex.net
 autous.ru
 avr.i-trailer.ru
@@ -671,7 +675,10 @@ dcyilib.ru
 delta.mediafort.ru
 demo.punchmedia.ru
 demos.ru
+depot3.dev-ms.ru
+derbent.ru
 detmir-stats.ru
+dev-ms.ru
 df.cf.b3.a1.top.list.ru
 dienai.ru
 digitaltarget.ru
@@ -742,7 +749,9 @@ fcgi4.gnezdo.ru
 fcgi5.2xclick.ru
 fcgi5.gnezdo.ru
 fcgi7.gnezdo.ru
+federicod4.sg-hosadmin.vm-cs.ru
 feeds.kommersant.ru
+feme.ru
 fiiauediehduefuge.ru
 filedrive.nocoshop.ru
 filekeeper.nocoshop.ru
@@ -753,6 +762,7 @@ flotprom.ru
 flyroll.ru
 fmon.citilink.ru
 forextimes.ru
+forumstatic.ru
 fp.bonuscake.ru
 free-gluten.ru
 freedom-vrn.ru
@@ -864,6 +874,7 @@ ipgrabber.ru
 ipgraber.ru
 iplis.ru
 iplogger.ru
+irktorgnewss.ru
 is.luxup.ru
 iviruseries3.ru
 j.adlooxtracking.ru
@@ -881,6 +892,7 @@ justiva.ru
 jux9ms4vc7.ru
 kamin-premium.ru
 kamint.ru
+kbrbank.ru
 kevents.auth.gid.ru
 kiks.yandex.ru
 konget.ru
@@ -900,6 +912,7 @@ leadgid.ru
 leadgidads.ru
 leadhit.ru
 leboard.ru
+lenatara.ru
 lenta.sparrow.ru
 lenta.svk-native.ru
 lib.usedesk.ru
@@ -974,6 +987,7 @@ metrika.mos.ru
 metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
+microsoftnet.ru
 minimo.callibri.ru
 mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
@@ -1152,6 +1166,7 @@ report.ap.yandex-net.ru
 report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
+rezale.ru
 richmedia.wavesend.ru
 rmbn.ru
 rosenberg.appmetrica.yandex.net
@@ -1240,6 +1255,7 @@ sentry.uteka.ru
 sentry.wb.ru
 sentry.winline.ru
 sentry.x5.ru
+sentry26-test.avito.ru
 seo-service.domclick.ru
 serval.getads.ru
 serve.getads.ru
@@ -1256,6 +1272,7 @@ serving.a.mts.ru
 serving.laimroll.ru
 sexgramm.ru
 sfr7ag.ru
+sg-hosadmin.vm-cs.ru
 sgood.ru
 share.yandex.net
 sharemefiles.ru
@@ -1476,6 +1493,7 @@ vihub.ru
 vipko.ru
 visor.adtec.ru
 visor.sberbank.ru
+vm-cs.ru
 vmkxcsss.ru
 vnikitskom.ru
 vp.rambler.ru
@@ -1613,7 +1631,9 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
+wwwkjhsmlksd.ru
 wwwomen.ru
+wwwyamaha666.ru
 wxanalytics.ru
 x0c.ru
 x81p4z.ru
@@ -1632,6 +1652,8 @@ yandex-sync.rutarget.ru
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
+ym7vbt5htm.ru
+ymtiqbl1u4.ru
 yuga.ru
 zachestnyibiznes.ru
 zaometallniva.ru

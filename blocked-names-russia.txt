@@ -121,6 +121,7 @@
 190436--28514668-111-mnews.ms.vk.com
 190867--88797119-111-mnews.ms.vk.com
 191752--88797119-111-mnews.ms.vk.com
+196195--88797119-111-mnews.ms.vk.com
 19651--193636043-111-mnews.ms.vk.com
 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
 1cfcee684da84d79a21730432fc15b1f.ops.beeline.ru
@@ -163,7 +164,6 @@
 317729.redirect.appmetrica.yandex.com
 325856--15911874-111-mnews.ms.vk.com
 328492--19928749-111-mnews.ms.vk.com
-32mfedericod4.sg-hosadmin.vm-cs.ru
 33212.ms.vk.com
 33312.ms.vk.com
 33412.ms.vk.com
@@ -306,6 +306,7 @@
 95913--33348177-111-mnews.ms.vk.com
 96089--33348177-111-mnews.ms.vk.com
 96287--99021016-111-mnews.ms.vk.com
+973584--19976640-111-mnews.ms.vk.com
 98026--99021016-111-mnews.ms.vk.com
 99905--99021016-111-mnews.ms.vk.com
 99905--99021016-111.news.ms.vk.com
@@ -416,7 +417,6 @@ afeoadaueodgeouaoueofu.ru
 aflt.market.yandex.ru
 aflt.travel.yandex.ru
 agency2.ru
-agentis.ru
 ahwwclo.ru
 ai.technocore.ru
 aidata-sync.rutarget.ru
@@ -533,12 +533,10 @@ bee-cake.ru
 begun.ru
 bestveb.ru
 beta.mediafort.ru
-beton.ru
 between-sync.rutarget.ru
 bfds.sberbank.ru
 bid.adx.com.ru
 bidvol-sync.rutarget.ru
-bkdc.ru
 blocked.botfaqtor.ru
 blogs.softodrom.ru
 bn.winlinebet.ru
@@ -767,7 +765,6 @@ fcgi4.gnezdo.ru
 fcgi5.2xclick.ru
 fcgi5.gnezdo.ru
 fcgi7.gnezdo.ru
-federicod4.sg-hosadmin.vm-cs.ru
 feeds.kommersant.ru
 fiiauediehduefuge.ru
 filedrive.nocoshop.ru
@@ -781,6 +778,7 @@ fmon.citilink.ru
 forextimes.ru
 fp.bonuscake.ru
 free-gluten.ru
+friendlydomain.ru
 frontlog.tutu.ru
 frontmetrics.tutu.ru
 g.mindbox.ru
@@ -861,7 +859,6 @@ icyh3e.ru
 id.adx.com.ru
 id.google.ru
 ideibiznesa2015.ru
-igorkurbonov.ru
 im-sentry.sportmaster.ru
 image.sendsay.ru
 images.sparrow.ru
@@ -958,6 +955,7 @@ man-live.ru
 mapp.winline.ru
 marketing-info.wildberries.ru
 marketplace-sentry.wb.ru
+markway.ru
 masterh5.adriver.ru
 masterh7.adriver.ru
 mastertarget.ru
@@ -1017,7 +1015,6 @@ moevideo-sync.rutarget.ru
 momijoy.ru
 mon.avito.ru
 morereferatov.ru
-moveandgrooven.ru
 movies5.fox-fan.ru
 mps.tlauncher.ru
 mpsuadv.ru
@@ -1038,7 +1035,6 @@ n6.r.dmg.digitaltarget.ru
 n7.r.dmg.digitaltarget.ru
 nashindex.ru
 nbh0sl.ru
-nedoos.ru
 nel.wb.ru
 neobasnet.timeout.ru
 neosap.ru
@@ -1073,7 +1069,6 @@ originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
-oxyhealth.ru
 p.winline.ru
 papi.gameinstaller.ru
 paradocs.ru
@@ -1169,7 +1164,6 @@ reklama.mail.ru
 reklamamarketing.ru
 release-me.ru
 remontmechty.ru
-remontpozitif.ru
 repo.tlauncher.ru
 report-partners.appmetrica.yandex.net
 report.ap.yandex-net.ru
@@ -1279,10 +1273,8 @@ servers8.adriver.ru
 servers9.adriver.ru
 serving.a.mts.ru
 serving.laimroll.ru
-servisniy-center-apple-samara.ru
 sexgramm.ru
 sfr7ag.ru
-sg-hosadmin.vm-cs.ru
 sgood.ru
 share.yandex.net
 sharemefiles.ru
@@ -1296,7 +1288,6 @@ sjsmartcontent.ru
 skwstat.ru
 skypromotion.ru
 sm.rtb.mts.ru
-smartbobr.ru
 smartfiles.nocoshop.ru
 smi2.ru
 snsv.ru
@@ -1318,6 +1309,7 @@ sovetnik.market.yandex.ru
 sp.aviasales.ru
 sparrow.ru
 sporttouch.radar.imgsmail.ru
+srv249204.hoster-test.ru
 sskarta.ru
 ssl.adriver.ru
 ssp-rtb-ap.sape.ru
@@ -1331,7 +1323,6 @@ st.directadvert.ru
 st.film.ru
 st.top100.ru
 st.yagla.ru
-stalker.bkdc.ru
 startup-mobile.ap.yandex-net.ru
 startup.mobile.yandex.net
 stat-analytics.mediavitrina.ru
@@ -1503,7 +1494,6 @@ vihub.ru
 vipko.ru
 visor.adtec.ru
 visor.sberbank.ru
-vm-cs.ru
 vmkxcsss.ru
 vnikitskom.ru
 vp.rambler.ru
@@ -1537,7 +1527,6 @@ wf-ru-frontend.weborama-tech.ru
 whatismyipaddress.ru
 whiteboxdigital.ru
 whiteline.mail.ru
-whreceiverrrrrrrrr.ru
 widget.adplay.ru
 widget.cleversite.ru
 widget.info-app5shs.ru
@@ -1603,7 +1592,6 @@ www.gravura.ru
 www.greatgrace.ru
 www.h21.ru
 www.holm.ru
-www.igorkurbonov.ru
 www.iplogger.ru
 www.jps.ru
 www.justclick.ru
@@ -1611,17 +1599,15 @@ www.linkfeed.ru
 www.liveexpert.ru
 www.mastertarget.ru
 www.mc.yandex.ru
-www.moveandgrooven.ru
 www.otclick-adv.ru
-www.oxyhealth.ru
 www.poppers-rush.ru
 www.popunder.ru
 www.pr-cy.ru
 www.pricelib.ru
 www.propan.ru
 www.redirect.appmetrica.yandex.com
-www.remontpozitif.ru
 www.saf-oil.ru
+www.srv249204.hoster-test.ru
 www.startup.mobile.yandex.net
 www.tinka.ru
 www.tnative.ru
@@ -1642,7 +1628,6 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
-www.zhit-vmeste.ru
 wwwomen.ru
 wxanalytics.ru
 x0c.ru
@@ -1662,12 +1647,9 @@ yandex-sync.rutarget.ru
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
-ymfkho15xs.ru
-ymv9ydanm8.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru
 zaometallniva.ru
 zen-mobile-site.mediascope.mc.yandex.ru
-zhit-vmeste.ru
 zippyfiles.nocoshop.ru

@@ -68,6 +68,8 @@
 10620951--15722194-111-mnews.ms.vk.com
 10633753--15722194-111-mnews.ms.vk.com
 10639173--15722194-111-mnews.ms.vk.com
+10668043--15722194-111-mnews.ms.vk.com
+10682894--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 107419--99021016-111-mnews.ms.vk.com
 107420--99021016-111-mnews.ms.vk.com
@@ -114,6 +116,8 @@
 1742772--25280329-111-mnews.ms.vk.com
 1754029--25280329-111-mnews.ms.vk.com
 179280--28514668-111-mnews.ms.vk.com
+1797542--25280329-111-mnews.ms.vk.com
+1798043--25280329-111-mnews.ms.vk.com
 18567680--25232578-111-mnews.ms.vk.com
 186694--28514668-111-mnews.ms.vk.com
 1896906--2070309-111-mnews.ms.vk.com
@@ -814,6 +818,7 @@ grs-pub.platform.dbankcloud.ru
 gru0z6.ru
 gso.amocrm.ru
 gw.botfaqtor.ru
+gw2.botfaqtor.ru
 h21.ru
 ha-front.wavesend.ru
 haproxy-api-yc-v3-lb.mindbox.ru
@@ -1052,6 +1057,7 @@ nq.appmetrica.yandex.net
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 ntscorp.ru
 ntvk1.ru
+numerotelefono.ru
 nytva-nmz.ru
 ogeri.ru
 ogtz5yn2u1.ru

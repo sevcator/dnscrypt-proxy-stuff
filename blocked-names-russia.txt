@@ -90,6 +90,7 @@
 1255389--23553134-111-mnews.ms.vk.com
 1264274--119533440-111-mnews.ms.vk.com
 1348477--176841276-111-mnews.ms.vk.com
+135433--99021016-111-mnews.ms.vk.com
 1357585--176841276-111-mnews.ms.vk.com
 1358241--176841276-111-mnews.ms.vk.com
 1386662--176841276-111-mnews.ms.vk.com
@@ -97,6 +98,7 @@
 1394924--176841276-111-mnews.ms.vk.com
 14087849--112510789-111-mnews.ms.vk.com
 14143695--112510789-111-mnews.ms.vk.com
+1436873--176841276-111-mnews.ms.vk.com
 145488--2357771-111-mnews.ms.vk.com
 146416--19453692-111-mnews.ms.vk.com
 147008--2357771-111-mnews.ms.vk.com
@@ -138,6 +140,7 @@
 1pamm.ru
 1stat.ru
 1xstavka.ru
+204738--28514668-111-mnews.ms.vk.com
 2167057--9693056-111-mnews.ms.vk.com
 2167163--9693056-111-mnews.ms.vk.com
 2193980--16468115-111-mnews.ms.vk.com
@@ -374,6 +377,7 @@ adriver.ru
 adrun.ru
 ads-gate.wildberries.ru
 ads-gdl.imovideo.ru
+ads-media.wildberries.ru
 ads-storage.avito.ru
 ads.adfox.ru
 ads.adtec.ru
@@ -892,7 +896,6 @@ ipgraber.ru
 iplis.ru
 iplogger.ru
 is.luxup.ru
-iviruseries3.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
@@ -1601,7 +1604,6 @@ www.holm.ru
 www.iplogger.ru
 www.jps.ru
 www.justclick.ru
-www.linkfeed.ru
 www.liveexpert.ru
 www.mastertarget.ru
 www.mc.yandex.ru

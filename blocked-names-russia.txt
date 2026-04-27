@@ -70,9 +70,13 @@
 10639173--15722194-111-mnews.ms.vk.com
 10668043--15722194-111-mnews.ms.vk.com
 10682894--15722194-111-mnews.ms.vk.com
+10706675--15722194-111-mnews.ms.vk.com
+10716211--15722194-111-mnews.ms.vk.com
+10729373--15722194-111-mnews.ms.vk.com
 107376.wavesend.ru
 107419--99021016-111-mnews.ms.vk.com
 107420--99021016-111-mnews.ms.vk.com
+10752592--15722194-111-mnews.ms.vk.com
 111101111.ru
 111552--63199063-111-mnews.ms.vk.com
 111558--63199063-111-mnews.ms.vk.com
@@ -93,6 +97,7 @@
 135433--99021016-111-mnews.ms.vk.com
 1357585--176841276-111-mnews.ms.vk.com
 1358241--176841276-111-mnews.ms.vk.com
+137828--99021016-111-mnews.ms.vk.com
 1386662--176841276-111-mnews.ms.vk.com
 1394774--176841276-111-mnews.ms.vk.com
 1394924--176841276-111-mnews.ms.vk.com
@@ -252,6 +257,7 @@
 5d0rac.ru
 5dhnv8.ru
 5forex.ru
+5nubdeqb.ru
 61028.wavesend.ru
 629695--34350462-111-mnews.ms.vk.com
 630518--34350462-111-mnews.ms.vk.com
@@ -272,6 +278,7 @@
 75543--21560979-111-mnews.ms.vk.com
 7558411527765562698-otm.ops.beeline.ru
 75985--31897553-111-mnews.ms.vk.com
+77-222-53-134.swtest.ru
 77-222-63-82.swtest.ru
 7741293--152992737-111-mnews.ms.vk.com
 7755463--152992737-111-mnews.ms.vk.com
@@ -541,6 +548,7 @@ bee-cake.ru
 begun.ru
 bestveb.ru
 beta.mediafort.ru
+beton.ru
 between-sync.rutarget.ru
 bfds.sberbank.ru
 bid.adx.com.ru
@@ -548,6 +556,7 @@ bidvol-sync.rutarget.ru
 blocked.botfaqtor.ru
 blogs.softodrom.ru
 bn.winlinebet.ru
+bntva.ru
 bonus-betting.ru
 bonuscake.ru
 borzjournal.ru
@@ -716,6 +725,7 @@ dmp.mpsuadv.ru
 dmp.sbermarketing.ru
 dna-sklad.ru
 dnkeeper-drru.platform.dbankcloud.ru
+domznaniya.ru
 doprodavec.ru
 doptik.ru
 down.mvip8.ru
@@ -726,6 +736,7 @@ drivenetwork.ru
 dryum.ru
 ds-frontend.weborama-tech.ru
 ds.serving-sys.ru
+dsfmmim.ru
 dsp-rambler.ru
 dsp.programmatic.ru
 dsp.rtb.mts.ru
@@ -784,6 +795,7 @@ flotprom.ru
 flyroll.ru
 fmon.citilink.ru
 forextimes.ru
+forum-people.ru
 fp.bonuscake.ru
 free-gluten.ru
 friendlydomain.ru
@@ -880,6 +892,7 @@ indetiske.ya.ru
 inetlog.ru
 info-dvd.ru
 info.kinoclub77.ru
+infoclicker.ru
 informer.yandex.ru
 init.videonow.ru
 injectroblox.ru
@@ -1074,6 +1087,7 @@ opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
 optawa.ru
+orangmebel.ru
 originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
@@ -1222,6 +1236,7 @@ s1.mpsuadv.ru
 s2.mpsuadv.ru
 sage-collector.tbank.ru
 sape.ru
+sauna-life.ru
 sba.yandex.net
 sbbe.group-ib.ru
 sbermarketing.ru
@@ -1505,6 +1520,7 @@ visor.adtec.ru
 visor.sberbank.ru
 vmkxcsss.ru
 vnikitskom.ru
+voronezh.sauna-life.ru
 vp.rambler.ru
 vsem.ru
 vsemp.ru
@@ -1512,6 +1528,7 @@ vseobuch.ru
 vsexshop.ru
 vst.sibnet.ru
 vstat.rtr-vesti.ru
+vswhv5zt.ru
 vuryua.ru
 vzarabotke.ru
 w.rulive.ru
@@ -1636,6 +1653,8 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
+wwwkjhsmlksd.ru
+wwwmountainsinsea.ru
 wwwomen.ru
 wxanalytics.ru
 x0c.ru
@@ -1655,6 +1674,12 @@ yandex-sync.rutarget.ru
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
+ymdwvb5k3r.ru
+ymf7bcklz2.ru
+ymfw4u9lss.ru
+ymlkdsf31b.ru
+ymtiqbl1u4.ru
+ymv43udrja.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

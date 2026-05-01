@@ -236,7 +236,6 @@
 4px.ru
 5-182-5-41.botfaqtor.ru
 5024644--35068738-111-mnews.ms.vk.com
-502502.ru
 5073349--35068738-111-mnews.ms.vk.com
 5111330--35068738-111-mnews.ms.vk.com
 5114539--43618728-111-mnews.ms.vk.com
@@ -561,7 +560,6 @@ bfds.sberbank.ru
 bid.adx.com.ru
 bidvol-sync.rutarget.ru
 biznesplan26.ru
-blackhatrussia.com
 blocked.botfaqtor.ru
 blogs.softodrom.ru
 bn.winlinebet.ru
@@ -686,6 +684,7 @@ cprojects.radar.imgsmail.ru
 cr-frontend.weborama-tech.ru
 crash-reports.browser.yandex.net
 crash.ant.sberbank.ru
+creative.skyyads.ru
 crystalpvp.ru
 cs.agency2.ru
 cs.avito.ru
@@ -726,7 +725,6 @@ digitaltarget.ru
 direct.yandex.net
 direct.yandex.ru
 directadvert.ru
-divnimir.ru
 dl.metabar.ru
 dmg.digitaltarget.ru
 dmp-profiles.sbermarketing.ru
@@ -734,7 +732,6 @@ dmp.mpsuadv.ru
 dmp.sbermarketing.ru
 dna-sklad.ru
 dnkeeper-drru.platform.dbankcloud.ru
-domznaniya.ru
 doprodavec.ru
 doptik.ru
 down.mvip8.ru
@@ -745,7 +742,6 @@ drivenetwork.ru
 dryum.ru
 ds-frontend.weborama-tech.ru
 ds.serving-sys.ru
-dsfmmim.ru
 dsp-rambler.ru
 dsp.programmatic.ru
 dsp.rtb.mts.ru
@@ -808,7 +804,6 @@ fp.bonuscake.ru
 free-gluten.ru
 frontlog.tutu.ru
 frontmetrics.tutu.ru
-fsoufsefenugnufo.ru
 g.mindbox.ru
 g4blin.ru
 gaeuaoufhaheghf.ru
@@ -931,7 +926,6 @@ kamin-premium.ru
 kamint.ru
 kevents.auth.gid.ru
 kiks.yandex.ru
-kjhsmlksd.ru
 konget.ru
 kraken.rambler.ru
 kremz.ru
@@ -998,7 +992,6 @@ mc.kinopoisk.ru
 mc.yandex.com
 mc.yandex.ru
 mcc.russia.inf.miui.com
-mck3.ru
 media-adv.market.yandex.ru
 media-adv.vs.market.yandex.net
 media-adv.yandex.com
@@ -1080,7 +1073,6 @@ nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 ntvk1.ru
 numerotelefono.ru
 nytva-nmz.ru
-obter4.ru
 ogeri.ru
 ogtz5yn2u1.ru
 ohmybid-sync.rutarget.ru
@@ -1191,7 +1183,6 @@ reklama.mail.ru
 reklamamarketing.ru
 release-me.ru
 remontmechty.ru
-remontpozitif.ru
 repo.tlauncher.ru
 report-partners.appmetrica.yandex.net
 report.ap.yandex-net.ru
@@ -1314,6 +1305,7 @@ site.yandex.net
 sjsmartcontent.ru
 skwstat.ru
 skypromotion.ru
+skyyads.ru
 sm.rtb.mts.ru
 smartfiles.nocoshop.ru
 smi2.ru
@@ -1521,7 +1513,6 @@ vihub.ru
 vipko.ru
 visor.adtec.ru
 visor.sberbank.ru
-vkplayerpro.ru
 vmkxcsss.ru
 vnikitskom.ru
 vp.rambler.ru
@@ -1609,7 +1600,6 @@ www.clck.ru
 www.comagic.ru
 www.consultant-online.ru
 www.directadvert.ru
-www.divnimir.ru
 www.drivenetwork.ru
 www.forextimes.ru
 www.free-gluten.ru
@@ -1635,7 +1625,6 @@ www.pr-cy.ru
 www.pricelib.ru
 www.propan.ru
 www.redirect.appmetrica.yandex.com
-www.remontpozitif.ru
 www.saf-oil.ru
 www.srv249204.hoster-test.ru
 www.startup.mobile.yandex.net
@@ -1658,7 +1647,6 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
-wwwolmkjnh.ru
 wwwomen.ru
 wxanalytics.ru
 x0c.ru
@@ -1678,7 +1666,6 @@ yandex-sync.rutarget.ru
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
-ymg3rlu8df.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

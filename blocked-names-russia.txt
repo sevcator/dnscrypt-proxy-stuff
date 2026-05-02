@@ -956,6 +956,7 @@ livesurf.ru
 log.api-maps.yandex.ru
 log.rutube.ru
 log.strm.yandex.ru
+logger.citydrive.ru
 logger.id.sber.ru
 logger.ivi.ru
 logger.moviead55.ru
@@ -1156,7 +1157,6 @@ qip.ru
 qoopler.ru
 qos-api.ott.yandex.net
 quicklinks.nocoshop.ru
-quizzes.g.mindbox.ru
 quotiq.ru
 r0.mail.ru
 r3.mail.ru
@@ -1259,6 +1259,7 @@ sentry-saas.rambler-co.ru
 sentry-tech.cdek.ru
 sentry-vk-cloud.juicedev.ru
 sentry.belkacar.ru
+sentry.citydrive.ru
 sentry.domclick.ru
 sentry.hh.ru
 sentry.iptv.rt.ru
@@ -1383,7 +1384,6 @@ statika.mpsuadv.ru
 statistics-bt.wildberries.ru
 statistics.fppressa.ru
 statistics.gs-labs.ru
-stats-dev.videonow.ru
 stats.avito.ru
 stats.gastronom.ru
 stats.mos.ru
@@ -1511,7 +1511,6 @@ vidroll.ru
 vigvam.ru
 vihub.ru
 vipko.ru
-visor.adtec.ru
 visor.sberbank.ru
 vmkxcsss.ru
 vnikitskom.ru

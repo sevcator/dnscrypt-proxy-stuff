@@ -436,6 +436,7 @@ adzone.innovation-lab.ru
 aemetrics.aliexpress.ru
 aeuandnuaoegogn.ru
 af.click.ru
+af37coaum.ru
 afeoadaueodgeouaoueofu.ru
 aflt.market.yandex.ru
 aflt.travel.yandex.ru
@@ -518,6 +519,7 @@ auth.sape.ru
 auth.tlauncher.ru
 auto.yuga.ru
 autocontext.begun.ru
+autonews58.ru
 autoru-mag.s3.yandex.net
 autous.ru
 avr.i-trailer.ru
@@ -717,7 +719,6 @@ dct.mango-office.ru
 dcyilib.ru
 delta.mediafort.ru
 demo.punchmedia.ru
-demos.ru
 detmir-stats.ru
 df.cf.b3.a1.top.list.ru
 dienai.ru
@@ -732,6 +733,7 @@ dmp.mpsuadv.ru
 dmp.sbermarketing.ru
 dna-sklad.ru
 dnkeeper-drru.platform.dbankcloud.ru
+domznaniya.ru
 doprodavec.ru
 doptik.ru
 down.mvip8.ru
@@ -760,7 +762,6 @@ effad.ru
 egg.afisha.ru
 eimage.sendsay.ru
 email-images.mindbox.ru
-energy63.ru
 err.agava.ru
 err.lenta.ru
 error-hub.tinkoff.ru
@@ -800,6 +801,7 @@ flotprom.ru
 flyroll.ru
 fmon.citilink.ru
 forextimes.ru
+forum-people.ru
 fp.bonuscake.ru
 free-gluten.ru
 frontlog.tutu.ru
@@ -922,7 +924,6 @@ js.smi2.ru
 js.yuga.ru
 justclick.ru
 jux9ms4vc7.ru
-kamin-premium.ru
 kamint.ru
 kevents.auth.gid.ru
 kiks.yandex.ru
@@ -1090,6 +1091,7 @@ originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
+otzyvuvse.ru
 p.winline.ru
 paradocs.ru
 parking.reg.ru
@@ -1280,6 +1282,7 @@ sentry.winline.ru
 sentry.x5.ru
 sentry26-test.avito.ru
 seo-service.domclick.ru
+sergey-computers.ru
 serval.getads.ru
 serve.getads.ru
 servers1.adriver.ru
@@ -1307,6 +1310,7 @@ sjsmartcontent.ru
 skwstat.ru
 skypromotion.ru
 skyyads.ru
+slavaptz.ru
 sm.rtb.mts.ru
 smartfiles.nocoshop.ru
 smi2.ru
@@ -1486,6 +1490,7 @@ uptolike.ru
 user-banner.wb.ru
 userator.ru
 usercenter-drru.dt.dbankcloud.ru
+ut2.ru
 utarget.ru
 uucyc.ru
 uznatpochemu.ru
@@ -1501,7 +1506,6 @@ vi.adplay.ru
 vi2.adplay.ru
 vi3.adplay.ru
 victorycorp.ru
-vid.adeeply.ru
 video.videonow.ru
 videofan.ru
 videonow.ru
@@ -1646,7 +1650,9 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
+wwwkjhsmlksd.ru
 wwwomen.ru
+wwwyamaha666.ru
 wxanalytics.ru
 x0c.ru
 x81p4z.ru
@@ -1665,6 +1671,9 @@ yandex-sync.rutarget.ru
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
+ym6hoxikc7.ru
+ymgd6ta0to.ru
+ymw6xldi2m.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

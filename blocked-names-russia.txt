@@ -11,6 +11,7 @@
 02ip.ru
 04xmhp.ru
 0pn.ru
+1.igra-mobila.ru
 1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
 1013a--ma--10204--cp1.stbid.ru
 1013a--ma--10204--cp12.stbid.ru
@@ -145,7 +146,6 @@
 19651--193636043-111-mnews.ms.vk.com
 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
 1cfcee684da84d79a21730432fc15b1f.ops.beeline.ru
-1cont.ru
 1directory.ru
 1l-hit.mail.ru
 1l-view.mail.ru
@@ -413,6 +413,7 @@ adv-adplatform.ru
 adv.advertology.ru
 adv.vz.ru
 advast.sibnet.ru
+advert-journal.ru
 advertise.ru
 advertising.ru
 advertising.yandex.ru
@@ -436,7 +437,6 @@ adzone.innovation-lab.ru
 aemetrics.aliexpress.ru
 aeuandnuaoegogn.ru
 af.click.ru
-af37coaum.ru
 afeoadaueodgeouaoueofu.ru
 aflt.market.yandex.ru
 aflt.travel.yandex.ru
@@ -519,7 +519,6 @@ auth.sape.ru
 auth.tlauncher.ru
 auto.yuga.ru
 autocontext.begun.ru
-autonews58.ru
 autoru-mag.s3.yandex.net
 autous.ru
 avr.i-trailer.ru
@@ -557,14 +556,17 @@ bee-cake.ru
 begun.ru
 bestveb.ru
 beta.mediafort.ru
+beton.ru
 between-sync.rutarget.ru
 bfds.sberbank.ru
 bid.adx.com.ru
 bidvol-sync.rutarget.ru
+bizkon72.ru
 biznesplan26.ru
 blocked.botfaqtor.ru
 blogs.softodrom.ru
 bn.winlinebet.ru
+bntva.ru
 bonus-betting.ru
 bonuscake.ru
 borzjournal.ru
@@ -801,7 +803,6 @@ flotprom.ru
 flyroll.ru
 fmon.citilink.ru
 forextimes.ru
-forum-people.ru
 fp.bonuscake.ru
 free-gluten.ru
 frontlog.tutu.ru
@@ -815,7 +816,6 @@ gate.leadgenic.ru
 gazetanet.ru
 gb2-banners.adriver.ru
 gb2-files.adriver.ru
-gd.1cont.ru
 gdeslon.ru
 gdl.i9dhjx.ru
 gdl.topoads.ru
@@ -885,6 +885,7 @@ icyh3e.ru
 id.adx.com.ru
 id.google.ru
 ideibiznesa2015.ru
+igra-mobila.ru
 im-sentry.sportmaster.ru
 image.sendsay.ru
 images.sparrow.ru
@@ -1087,11 +1088,11 @@ opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
 optawa.ru
+orangmebel.ru
 originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
-otzyvuvse.ru
 p.winline.ru
 paradocs.ru
 parking.reg.ru
@@ -1282,7 +1283,6 @@ sentry.winline.ru
 sentry.x5.ru
 sentry26-test.avito.ru
 seo-service.domclick.ru
-sergey-computers.ru
 serval.getads.ru
 serve.getads.ru
 servers1.adriver.ru
@@ -1302,6 +1302,7 @@ share.yandex.net
 sharemefiles.ru
 shoppilot.ru
 show.openssp.ru
+shtormtruck.ru
 sib2.adriver.ru
 sibtel.adriver.ru
 sir-fermer.ru
@@ -1310,7 +1311,6 @@ sjsmartcontent.ru
 skwstat.ru
 skypromotion.ru
 skyyads.ru
-slavaptz.ru
 sm.rtb.mts.ru
 smartfiles.nocoshop.ru
 smi2.ru
@@ -1452,6 +1452,7 @@ top5.mail.ru
 topcpa.ru
 topoads.ru
 toptracker.ru
+toskprimorye.ru
 touchmail.radar.imgsmail.ru
 track.ssnd.ru
 track.tbank.ru
@@ -1490,7 +1491,6 @@ uptolike.ru
 user-banner.wb.ru
 userator.ru
 usercenter-drru.dt.dbankcloud.ru
-ut2.ru
 utarget.ru
 uucyc.ru
 uznatpochemu.ru
@@ -1635,6 +1635,7 @@ www.tinka.ru
 www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
+www.toskprimorye.ru
 www.udobrit.ru
 www.unlockers.ru
 www.uralmetalloprokat.ru
@@ -1652,7 +1653,6 @@ www.yastatic.ru
 www.yuga.ru
 wwwkjhsmlksd.ru
 wwwomen.ru
-wwwyamaha666.ru
 wxanalytics.ru
 x0c.ru
 x81p4z.ru
@@ -1671,8 +1671,8 @@ yandex-sync.rutarget.ru
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
-ym6hoxikc7.ru
-ymgd6ta0to.ru
+ym8ne8amtw.ru
+ymg3rlu8df.ru
 ymw6xldi2m.ru
 yuga.ru
 zachestnyibiznes.ru

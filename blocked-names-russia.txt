@@ -11,7 +11,6 @@
 02ip.ru
 04xmhp.ru
 0pn.ru
-1.igra-mobila.ru
 1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
 1013a--ma--10204--cp1.stbid.ru
 1013a--ma--10204--cp12.stbid.ru
@@ -83,7 +82,6 @@
 10767733--15722194-111-mnews.ms.vk.com
 10778735--15722194-111-mnews.ms.vk.com
 10788286--15722194-111-mnews.ms.vk.com
-111101111.ru
 111552--63199063-111-mnews.ms.vk.com
 111558--63199063-111-mnews.ms.vk.com
 111563--63199063-111-mnews.ms.vk.com
@@ -391,7 +389,6 @@ adregain.ru
 adriver-sync.rutarget.ru
 adriver.ru
 adrun.ru
-ads-gate.wildberries.ru
 ads-gdl.imovideo.ru
 ads-media.wildberries.ru
 ads-storage.avito.ru
@@ -413,7 +410,6 @@ adv-adplatform.ru
 adv.advertology.ru
 adv.vz.ru
 advast.sibnet.ru
-advert-journal.ru
 advertise.ru
 advertising.ru
 advertising.yandex.ru
@@ -456,7 +452,6 @@ alternativas.ru
 alytics.ru
 alzhxjo.ru
 amc.yandex.ru
-amnsreiuojy.ru
 amp.smi2.ru
 ampcid.google.ru
 an.mail.ru
@@ -465,10 +460,8 @@ an.yandex.com
 an.yandex.ru
 analytics.a-plus.ru
 analytics.alloka.ru
-analytics.click-or-die.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
-analytics.max-admin.ru
 analytics.mediadash.ru
 analytics.mobile.yandex.net
 analytics.move.ru
@@ -477,6 +470,7 @@ analytics.sutochno.ru
 analytics.tele2.ru
 analytics.vgtimes.ru
 anekbook.ru
+anekdotgid.ru
 animesvosts.ru
 anits.ru
 ankerch-crimea.ru
@@ -492,7 +486,6 @@ api.appmetrica.yandex.ru
 api.expf.ru
 api.eye.sbdv.ru
 api.lbs.yandex.ru
-api.nopbreak.ru
 api.s.mindbox.ru
 api.utorria.ru
 api.venyoo.ru
@@ -510,7 +503,6 @@ ar.tns-counter.ru
 aristo.ru
 armconsul.ru
 ask-gps.ru
-asl-company.ru
 asr.openssp.ru
 astralab-sync.rutarget.ru
 audi-club.ru
@@ -561,7 +553,6 @@ between-sync.rutarget.ru
 bfds.sberbank.ru
 bid.adx.com.ru
 bidvol-sync.rutarget.ru
-bizkon72.ru
 biznesplan26.ru
 blocked.botfaqtor.ru
 blogs.softodrom.ru
@@ -577,14 +568,13 @@ bs-meta.yandex.ru
 bs-metadsp.yandex.ru
 bs.orsk.ru
 bs.serving-sys.ru
-bs.webtalk.ru
 bs.yandex.ru
+business-online.ru
 buzzoola-sync.rutarget.ru
 bvl5bziz9d.ru
 c.botfaqtor.ru
 c.sibnet.ru
 c.snsv.ru
-c3se4i.ru
 cabinet.adzone.ru
 callback.onlinepbx.ru
 callibri.ru
@@ -715,7 +705,6 @@ darknagar.ru
 data.punchmedia.ru
 data.skwstat.ru
 data.videonow.ru
-datalytics.utair.ru
 datatracking.ru
 dct.mango-office.ru
 dcyilib.ru
@@ -735,7 +724,6 @@ dmp.mpsuadv.ru
 dmp.sbermarketing.ru
 dna-sklad.ru
 dnkeeper-drru.platform.dbankcloud.ru
-domznaniya.ru
 doprodavec.ru
 doptik.ru
 down.mvip8.ru
@@ -746,6 +734,7 @@ drivenetwork.ru
 dryum.ru
 ds-frontend.weborama-tech.ru
 ds.serving-sys.ru
+dsfmmim.ru
 dsp-rambler.ru
 dsp.programmatic.ru
 dsp.rtb.mts.ru
@@ -763,11 +752,13 @@ edu-sentry.mos.ru
 effad.ru
 egg.afisha.ru
 eimage.sendsay.ru
+el-vent.ru
 email-images.mindbox.ru
 err.agava.ru
 err.lenta.ru
 error-hub.tinkoff.ru
 error.videonow.ru
+esatmask.ru
 ev.adriver.ru
 evangroup.ru
 event-analytics-backend.skyeng.ru
@@ -802,15 +793,14 @@ filmplus.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
+fnauendaieghidfo.ru
 forextimes.ru
-fp.bonuscake.ru
 free-gluten.ru
 frontlog.tutu.ru
 frontmetrics.tutu.ru
 g.mindbox.ru
 g4blin.ru
 gaeuaoufhaheghf.ru
-gameinstaller.ru
 gamelights.ru
 gate.leadgenic.ru
 gazetanet.ru
@@ -843,13 +833,13 @@ gw2.botfaqtor.ru
 h21.ru
 ha-front.wavesend.ru
 haproxy-api-yc-v3-lb.mindbox.ru
+hdlt.ru
 heroeswm.ru
 hhcdn.ru
 hisearch-drru.dt.dbankcloud.ru
 hit.04xmhp.ru
 hit.28yw0a.ru
 hit.bbj3nb.ru
-hit.bee-cake.ru
 hit.g4blin.ru
 hit.icyh3e.ru
 hit.mb9pzp.ru
@@ -860,7 +850,6 @@ hit.x81p4z.ru
 hit.xgd3kl.ru
 hit.yhzn0f.ru
 hitcrypt.04xmhp.ru
-hitcrypt.bee-cake.ru
 hitcrypt.g4blin.ru
 hitcrypt.icyh3e.ru
 hitcrypt.mb9pzp.ru
@@ -873,6 +862,7 @@ hitlist.ru
 hitman-pro.ru
 holm.ru
 homework.ru
+hoster-test.ru
 hothat.ru
 ht-systems.ru
 http-check-headers.yandex.ru
@@ -885,7 +875,6 @@ icyh3e.ru
 id.adx.com.ru
 id.google.ru
 ideibiznesa2015.ru
-igra-mobila.ru
 im-sentry.sportmaster.ru
 image.sendsay.ru
 images.sparrow.ru
@@ -926,13 +915,14 @@ js.yuga.ru
 justclick.ru
 jux9ms4vc7.ru
 kamint.ru
+kamni-furnitura.ru
 kevents.auth.gid.ru
 kiks.yandex.ru
 konget.ru
 kraken.rambler.ru
+krebson.ru
 kremz.ru
 kurganobl.ru
-kuzina-teatr.ru
 kz.tns-counter.ru
 l.utorria.ru
 l2top.ru
@@ -973,6 +963,35 @@ m.7ooo.ru
 m.leboard.ru
 m.winline.ru
 m1-shop.ru
+m11.krebson.ru
+m12.krebson.ru
+m13.krebson.ru
+m15.krebson.ru
+m17.krebson.ru
+m18.krebson.ru
+m20.krebson.ru
+m21.krebson.ru
+m22.krebson.ru
+m23.krebson.ru
+m24.krebson.ru
+m25.krebson.ru
+m26.krebson.ru
+m27.krebson.ru
+m28.krebson.ru
+m29.krebson.ru
+m30.krebson.ru
+m31.krebson.ru
+m32.krebson.ru
+m33.krebson.ru
+m34.krebson.ru
+m35.krebson.ru
+m36.krebson.ru
+m37.krebson.ru
+m38.krebson.ru
+m39.krebson.ru
+m40.krebson.ru
+m41.krebson.ru
+m42.krebson.ru
 magna.ru
 mail.ioc.ac.ru
 mail.radar.imgsmail.ru
@@ -1008,7 +1027,6 @@ metrica.yandex.com
 metrica.yandex.ru
 metrics-drru.dt.dbankcloud.ru
 metrics.aviasales.ru
-metrics.labsystech.ru
 metrics.prom.third-party-app.sberdevices.ru
 metrics.tricolor.ru
 metrics5.dt.dbankcloud.ru
@@ -1018,6 +1036,7 @@ metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
 minimo.callibri.ru
+mining-bitcoin.ru
 mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
 mistralkorea.ru
@@ -1044,6 +1063,7 @@ mpsuadv.ru
 mpuls.ru
 mpush.winline.ru
 ms-ads-image.t-static.ru
+msk.el-vent.ru
 mstat.mos.ru
 mts-dsp-sync.rutarget.ru
 myjino.ru
@@ -1062,7 +1082,6 @@ nel.wb.ru
 neobasnet.timeout.ru
 neosap.ru
 netlog.ru
-newmygreenwaycom.webim2.ru
 news.2xclick.ru
 news.gnezdo.ru
 news.gnezdo2.ru
@@ -1088,7 +1107,6 @@ opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
 optawa.ru
-orangmebel.ru
 originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
@@ -1171,6 +1189,7 @@ rate.ru
 rbcv7s.ru
 rcm.rambler.ru
 rcmjs.rambler.ru
+re-tracker.ru
 read.sendsay.ru
 readme.ru
 readto.ru
@@ -1242,7 +1261,6 @@ sc.grattis.ru
 scounter.rambler.ru
 scripts.botfaqtor.ru
 sdk-api.apptracer.ru
-sdvgpro.ru
 searchnews-drru.dt.dbankcloud.ru
 secretfiles.nocoshop.ru
 secure-ads.yandex.com
@@ -1251,7 +1269,6 @@ seeky.adeeply.ru
 selec1.adriver.ru
 sendbox.nocoshop.ru
 sentry-api.sberdevices.ru
-sentry-devtools.qsrapp.ru
 sentry-ingest.kuper.ru
 sentry-mobile-ingest.kuper.ru
 sentry-mobile.alfabank.ru
@@ -1269,7 +1286,6 @@ sentry.iptv.rt.ru
 sentry.matchtv.ru
 sentry.megapteka.ru
 sentry.mos.ru
-sentry.np-internal.ru
 sentry.ozon.ru
 sentry.rshbcloud.ru
 sentry.sca.ad-tech.ru
@@ -1302,7 +1318,6 @@ share.yandex.net
 sharemefiles.ru
 shoppilot.ru
 show.openssp.ru
-shtormtruck.ru
 sib2.adriver.ru
 sibtel.adriver.ru
 sir-fermer.ru
@@ -1322,7 +1337,6 @@ sobory.ru
 socgate.ru
 socialsend.ru
 softboard.ru
-softcatalog.ru
 softodrom.ru
 soglkuki.prolexgroup.ru
 soloway.ru
@@ -1387,14 +1401,15 @@ staticcf0.ntvk1.ru
 statika.mpsuadv.ru
 statistics-bt.wildberries.ru
 statistics.fppressa.ru
-statistics.gs-labs.ru
 stats.avito.ru
 stats.gastronom.ru
 stats.mos.ru
 stats.rustore.ru
 stats2.videonow.ru
 stavkiprognozy.ru
+stcdn.business-online.ru
 steam-account.ru
+sterlitamak.tulpar-trade.ru
 stmtag.ru
 stopforumspamcom.ru
 storage.sbermarketing.ru
@@ -1452,7 +1467,6 @@ top5.mail.ru
 topcpa.ru
 topoads.ru
 toptracker.ru
-toskprimorye.ru
 touchmail.radar.imgsmail.ru
 track.ssnd.ru
 track.tbank.ru
@@ -1473,6 +1487,7 @@ trkleads.ru
 ts.tracker-api.vk-analytics.ru
 tt.ttarget.ru
 ttarget.ru
+tulpar-trade.ru
 turbobit.nocoshop.ru
 tutad.ru
 ua-content.adriver.ru
@@ -1604,6 +1619,7 @@ www.comagic.ru
 www.consultant-online.ru
 www.directadvert.ru
 www.drivenetwork.ru
+www.el-vent.ru
 www.forextimes.ru
 www.free-gluten.ru
 www.gazetanet.ru
@@ -1635,7 +1651,6 @@ www.tinka.ru
 www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
-www.toskprimorye.ru
 www.udobrit.ru
 www.unlockers.ru
 www.uralmetalloprokat.ru
@@ -1651,12 +1666,11 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
-wwwkjhsmlksd.ru
+wwwlkefgmoivertlfewr.ru
 wwwomen.ru
 wxanalytics.ru
 x0c.ru
 x81p4z.ru
-xaf0ec.ru
 xamubee.ru
 xcec.ru
 xgd3kl.ru
@@ -1672,8 +1686,8 @@ yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
 ym8ne8amtw.ru
-ymg3rlu8df.ru
-ymw6xldi2m.ru
+ymou53hpwq.ru
+ymv43udrja.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

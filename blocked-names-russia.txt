@@ -11,6 +11,7 @@
 02ip.ru
 04xmhp.ru
 0pn.ru
+1.igra-mobila.ru
 1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
 1013a--ma--10204--cp1.stbid.ru
 1013a--ma--10204--cp12.stbid.ru
@@ -470,7 +471,6 @@ analytics.sutochno.ru
 analytics.tele2.ru
 analytics.vgtimes.ru
 anekbook.ru
-anekdotgid.ru
 animesvosts.ru
 anits.ru
 ankerch-crimea.ru
@@ -511,8 +511,10 @@ auth.sape.ru
 auth.tlauncher.ru
 auto.yuga.ru
 autocontext.begun.ru
+autonews58.ru
 autoru-mag.s3.yandex.net
 autous.ru
+aux6.ru
 avr.i-trailer.ru
 avramstroy.ru
 awaps.yandex.net
@@ -548,16 +550,15 @@ bee-cake.ru
 begun.ru
 bestveb.ru
 beta.mediafort.ru
-beton.ru
 between-sync.rutarget.ru
 bfds.sberbank.ru
 bid.adx.com.ru
 bidvol-sync.rutarget.ru
+bizkon72.ru
 biznesplan26.ru
 blocked.botfaqtor.ru
 blogs.softodrom.ru
 bn.winlinebet.ru
-bntva.ru
 bonus-betting.ru
 bonuscake.ru
 borzjournal.ru
@@ -569,7 +570,6 @@ bs-metadsp.yandex.ru
 bs.orsk.ru
 bs.serving-sys.ru
 bs.yandex.ru
-business-online.ru
 buzzoola-sync.rutarget.ru
 bvl5bziz9d.ru
 c.botfaqtor.ru
@@ -724,6 +724,8 @@ dmp.mpsuadv.ru
 dmp.sbermarketing.ru
 dna-sklad.ru
 dnkeeper-drru.platform.dbankcloud.ru
+domznaniya.ru
+donarch.ru
 doprodavec.ru
 doptik.ru
 down.mvip8.ru
@@ -734,7 +736,6 @@ drivenetwork.ru
 dryum.ru
 ds-frontend.weborama-tech.ru
 ds.serving-sys.ru
-dsfmmim.ru
 dsp-rambler.ru
 dsp.programmatic.ru
 dsp.rtb.mts.ru
@@ -752,13 +753,12 @@ edu-sentry.mos.ru
 effad.ru
 egg.afisha.ru
 eimage.sendsay.ru
-el-vent.ru
 email-images.mindbox.ru
+ermak-cafe.ru
 err.agava.ru
 err.lenta.ru
 error-hub.tinkoff.ru
 error.videonow.ru
-esatmask.ru
 ev.adriver.ru
 evangroup.ru
 event-analytics-backend.skyeng.ru
@@ -798,6 +798,7 @@ forextimes.ru
 free-gluten.ru
 frontlog.tutu.ru
 frontmetrics.tutu.ru
+fsoufsefenugnufo.ru
 g.mindbox.ru
 g4blin.ru
 gaeuaoufhaheghf.ru
@@ -816,6 +817,7 @@ getyoursoft.ru
 gigamega.ru
 gjv7fg.ru
 gk7qlc.ru
+global.slon-e.ru
 globalscience.ru
 glopages.ru
 gnezdo.ru
@@ -833,7 +835,6 @@ gw2.botfaqtor.ru
 h21.ru
 ha-front.wavesend.ru
 haproxy-api-yc-v3-lb.mindbox.ru
-hdlt.ru
 heroeswm.ru
 hhcdn.ru
 hisearch-drru.dt.dbankcloud.ru
@@ -862,7 +863,6 @@ hitlist.ru
 hitman-pro.ru
 holm.ru
 homework.ru
-hoster-test.ru
 hothat.ru
 ht-systems.ru
 http-check-headers.yandex.ru
@@ -875,6 +875,7 @@ icyh3e.ru
 id.adx.com.ru
 id.google.ru
 ideibiznesa2015.ru
+igra-mobila.ru
 im-sentry.sportmaster.ru
 image.sendsay.ru
 images.sparrow.ru
@@ -902,6 +903,7 @@ ipgraber.ru
 iplis.ru
 iplogger.ru
 is.luxup.ru
+iworknet.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
@@ -915,12 +917,10 @@ js.yuga.ru
 justclick.ru
 jux9ms4vc7.ru
 kamint.ru
-kamni-furnitura.ru
 kevents.auth.gid.ru
 kiks.yandex.ru
 konget.ru
 kraken.rambler.ru
-krebson.ru
 kremz.ru
 kurganobl.ru
 kz.tns-counter.ru
@@ -935,6 +935,7 @@ leadgid.ru
 leadgidads.ru
 leadhit.ru
 leboard.ru
+lenatara.ru
 lenta.sparrow.ru
 lenta.svk-native.ru
 lib.usedesk.ru
@@ -955,7 +956,6 @@ logger.moviead55.ru
 logs.adplay.ru
 logs.profi.ru
 loki.maximonline.ru
-loveadvert.ru
 loyalty-sentry.dixy.ru
 m-api.a.mts.ru
 m-cm.a.mts.ru
@@ -963,35 +963,6 @@ m.7ooo.ru
 m.leboard.ru
 m.winline.ru
 m1-shop.ru
-m11.krebson.ru
-m12.krebson.ru
-m13.krebson.ru
-m15.krebson.ru
-m17.krebson.ru
-m18.krebson.ru
-m20.krebson.ru
-m21.krebson.ru
-m22.krebson.ru
-m23.krebson.ru
-m24.krebson.ru
-m25.krebson.ru
-m26.krebson.ru
-m27.krebson.ru
-m28.krebson.ru
-m29.krebson.ru
-m30.krebson.ru
-m31.krebson.ru
-m32.krebson.ru
-m33.krebson.ru
-m34.krebson.ru
-m35.krebson.ru
-m36.krebson.ru
-m37.krebson.ru
-m38.krebson.ru
-m39.krebson.ru
-m40.krebson.ru
-m41.krebson.ru
-m42.krebson.ru
 magna.ru
 mail.ioc.ac.ru
 mail.radar.imgsmail.ru
@@ -1020,6 +991,8 @@ media-adv.yandex.com
 media-advcycle.imgsmail.ru
 media-stat.mail.ru
 mediametrics.ru
+mediascope.ru
+mediascope7.mediascope.ru
 mediatoday.ru
 megatkani.ru
 metrica-yandex.com
@@ -1036,7 +1009,6 @@ metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
 minimo.callibri.ru
-mining-bitcoin.ru
 mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
 mistralkorea.ru
@@ -1063,7 +1035,6 @@ mpsuadv.ru
 mpuls.ru
 mpush.winline.ru
 ms-ads-image.t-static.ru
-msk.el-vent.ru
 mstat.mos.ru
 mts-dsp-sync.rutarget.ru
 myjino.ru
@@ -1189,7 +1160,6 @@ rate.ru
 rbcv7s.ru
 rcm.rambler.ru
 rcmjs.rambler.ru
-re-tracker.ru
 read.sendsay.ru
 readme.ru
 readto.ru
@@ -1205,6 +1175,7 @@ reklama.mail.ru
 reklamamarketing.ru
 release-me.ru
 remontmechty.ru
+remontpozitif.ru
 repo.tlauncher.ru
 report-partners.appmetrica.yandex.net
 report.ap.yandex-net.ru
@@ -1327,6 +1298,7 @@ skwstat.ru
 skypromotion.ru
 skyyads.ru
 sm.rtb.mts.ru
+smartbobr.ru
 smartfiles.nocoshop.ru
 smi2.ru
 snsv.ru
@@ -1405,9 +1377,9 @@ stats.avito.ru
 stats.gastronom.ru
 stats.mos.ru
 stats.rustore.ru
+stats.skrinshoter.ru
 stats2.videonow.ru
 stavkiprognozy.ru
-stcdn.business-online.ru
 steam-account.ru
 sterlitamak.tulpar-trade.ru
 stmtag.ru
@@ -1467,6 +1439,7 @@ top5.mail.ru
 topcpa.ru
 topoads.ru
 toptracker.ru
+toskprimorye.ru
 touchmail.radar.imgsmail.ru
 track.ssnd.ru
 track.tbank.ru
@@ -1619,7 +1592,6 @@ www.comagic.ru
 www.consultant-online.ru
 www.directadvert.ru
 www.drivenetwork.ru
-www.el-vent.ru
 www.forextimes.ru
 www.free-gluten.ru
 www.gazetanet.ru
@@ -1644,6 +1616,7 @@ www.pr-cy.ru
 www.pricelib.ru
 www.propan.ru
 www.redirect.appmetrica.yandex.com
+www.remontpozitif.ru
 www.saf-oil.ru
 www.srv249204.hoster-test.ru
 www.startup.mobile.yandex.net
@@ -1651,6 +1624,7 @@ www.tinka.ru
 www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
+www.toskprimorye.ru
 www.udobrit.ru
 www.unlockers.ru
 www.uralmetalloprokat.ru
@@ -1666,7 +1640,6 @@ www.yandex.com
 www.yandex.net
 www.yastatic.ru
 www.yuga.ru
-wwwlkefgmoivertlfewr.ru
 wwwomen.ru
 wxanalytics.ru
 x0c.ru
@@ -1685,12 +1658,13 @@ yandex-sync.rutarget.ru
 yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
-ym8ne8amtw.ru
-ymou53hpwq.ru
-ymv43udrja.ru
+ym4fzkkl0e.ru
+ymfw4u9lss.ru
+ymu2ah8air.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru
 zaometallniva.ru
+zbum2hkm.ru
 zen-mobile-site.mediascope.mc.yandex.ru
 zippyfiles.nocoshop.ru

@@ -26,6 +26,7 @@ canva.com 77.239.114.0
 chatgpt.com 77.239.114.0
 =clashofclans.inbox.supercell.com 77.239.114.0
 claude.ai 77.239.114.0
+claude.com 77.239.114.0
 codeium.com 77.239.114.0
 =copilot.microsoft.com 77.239.114.0
 deepl.com 77.239.114.0
@@ -82,14 +83,13 @@ squadbustersgame.com 108.61.167.26
 squareup.com 77.239.114.0
 =stitch.withgoogle.com 62.133.62.97
 =store.supercell.com 77.239.114.0
-=sydney.bing.com 62.133.62.97
 tailscale.com 103.27.157.38
 tidal.com 77.239.114.0
 trae.ai 77.239.114.0
 tria.ge 77.239.114.0
 truthsocial.com 103.27.157.38
 =usher.ttvnw.net 77.239.114.0
-=web.archive.org 77.239.114.0
+=web.archive.org 103.27.157.38
 =webchannel-alkalimakersuite-pa.clients6.google.com 62.133.62.97
 windsurf.com 77.239.114.0
 =www-growth.scdn.co 77.239.114.0

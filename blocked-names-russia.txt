@@ -117,6 +117,7 @@
 147008--2357771-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
 147429--19453692-111-mnews.ms.vk.com
+1501810--176841276-111-mnews.ms.vk.com
 150685--19453692-111-mnews.ms.vk.com
 151466--19453692-111-mnews.ms.vk.com
 1604189--55490878-111-mnews.ms.vk.com
@@ -147,6 +148,7 @@
 191752--88797119-111-mnews.ms.vk.com
 196195--88797119-111-mnews.ms.vk.com
 19651--193636043-111-mnews.ms.vk.com
+199482--88797119-111-mnews.ms.vk.com
 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
 1cfcee684da84d79a21730432fc15b1f.ops.beeline.ru
 1directory.ru
@@ -158,6 +160,7 @@
 1stat.ru
 1xstavka.ru
 204738--28514668-111-mnews.ms.vk.com
+21040.beacon.alice.yandex.ru
 2167057--9693056-111-mnews.ms.vk.com
 2167163--9693056-111-mnews.ms.vk.com
 2193980--16468115-111-mnews.ms.vk.com
@@ -197,6 +200,7 @@
 34212.ms.vk.com
 34412.ms.vk.com
 34512.ms.vk.com
+346034--19928749-111-mnews.ms.vk.com
 3474082.redirect.appmetrica.yandex.com
 3484607--34777837-111-mnews.ms.vk.com
 3499486--34777837-111-mnews.ms.vk.com
@@ -234,6 +238,7 @@
 459431--26945709-111-mnews.ms.vk.com
 45950.wavesend.ru
 48778.wavesend.ru
+49074--85016643-111-mnews.ms.vk.com
 495004--32943546-111-mnews.ms.vk.com
 495960--32943546-111-mnews.ms.vk.com
 4976170--35068738-111-mnews.ms.vk.com
@@ -244,6 +249,7 @@
 5073349--35068738-111-mnews.ms.vk.com
 5111330--35068738-111-mnews.ms.vk.com
 5114539--43618728-111-mnews.ms.vk.com
+5163250--35068738-111-mnews.ms.vk.com
 531111.ms.dzen.ru
 531121.ms.dzen.ru
 531211.ms.dzen.ru
@@ -305,6 +311,8 @@
 777-club.ru
 7773815--152992737-111-mnews.ms.vk.com
 7777888--152992737-111-mnews.ms.vk.com
+77874--148515594-111-mnews.ms.vk.com
+78208--148515594-111-mnews.ms.vk.com
 7826073--152992737-111-mnews.ms.vk.com
 7839324--152992737-111-mnews.ms.vk.com
 7847718--152992737-111-mnews.ms.vk.com
@@ -317,6 +325,7 @@
 7nkbwdf1uq.ru
 7ooo.ru
 80614--152386495-111-mnews.ms.vk.com
+8066227--152992737-111-mnews.ms.vk.com
 81640.mstat.mos.ru
 88215--147830639-111-mnews.ms.vk.com
 896278--38168721-111-mnews.ms.vk.com
@@ -335,6 +344,7 @@
 951131.log.rutube.ru
 951221.log.rutube.ru
 951222.log.rutube.ru
+95134--27345776-111-mnews.ms.vk.com
 952211.log.rutube.ru
 952212.log.rutube.ru
 96287--99021016-111-mnews.ms.vk.com
@@ -578,6 +588,7 @@ bs-metadsp.yandex.ru
 bs.orsk.ru
 bs.serving-sys.ru
 bs.yandex.ru
+bugpuk.ru
 buzzoola-sync.rutarget.ru
 bvl5bziz9d.ru
 c.botfaqtor.ru
@@ -596,7 +607,6 @@ cdn.adplay.ru
 cdn.adtec.ru
 cdn.adv-adplatform.ru
 cdn.advideo.ru
-cdn.adzone.ru
 cdn.bazr.ru
 cdn.botfaqtor.ru
 cdn.callibri.ru
@@ -748,6 +758,7 @@ dsp.programmatic.ru
 dsp.rtb.mts.ru
 duhboga.ru
 dw.adeeply.ru
+dw.skyyads.ru
 dx-frontend.weborama-tech.ru
 e1.skwstat.ru
 easy-monetization.s3.yandex.net

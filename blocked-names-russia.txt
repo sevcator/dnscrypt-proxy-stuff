@@ -19,9 +19,18 @@
 10379226--15722194-111.news.ms.vk.com
 10841875--15722194-111-mnews.ms.vk.com
 10876262--15722194-111-mnews.ms.vk.com
+10933407--15722194-111-mnews.ms.vk.com
+10967364--15722194-111-mnews.ms.vk.com
+10971737--15722194-111-mnews.ms.vk.com
 111101111.ru
+1125853--46042333-111-mnews.ms.vk.com
+1126515--46042333-111-mnews.ms.vk.com
+1128761--46042333-111-mnews.ms.vk.com
+1327027--119533440-111-mnews.ms.vk.com
+1337287--119533440-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
 1501810--176841276-111-mnews.ms.vk.com
+1530888--176841276-111-mnews.ms.vk.com
 1886379--25280329-111-mnews.ms.vk.com
 1892297--25280329-111-mnews.ms.vk.com
 1905795--2070309-111-mnews.ms.vk.com
@@ -47,6 +56,7 @@
 2513734--89493-111-mnews.ms.vk.com
 25212.ms.vk.com
 264307--23372133-111.news.ms.vk.com
+268817--28514668-111-mnews.ms.vk.com
 28yw0a.ru
 296520--128234813-111-mnews.ms.vk.com
 317729.redirect.appmetrica.yandex.com
@@ -74,6 +84,7 @@
 4hunqp.ru
 4px.ru
 5-182-5-41.botfaqtor.ru
+501774--16980751-111-mnews.ms.vk.com
 5163250--35068738-111-mnews.ms.vk.com
 531111.ms.dzen.ru
 531121.ms.dzen.ru
@@ -123,7 +134,9 @@
 7ooo.ru
 8066227--152992737-111-mnews.ms.vk.com
 81640.mstat.mos.ru
+84534--21560979-111-mnews.ms.vk.com
 8si.ru
+90852--148515594-111-mnews.ms.vk.com
 931131.log.rutube.ru
 931221.log.rutube.ru
 931222.log.rutube.ru
@@ -200,6 +213,7 @@ ads.edadeal.ru
 ads.photosight.ru
 ads.rustore.ru
 ads.x5media.ru
+ads.yandex.com
 adsdk.yandex.ru
 adservings.ru
 adsniper.ru
@@ -274,6 +288,7 @@ api.expf.ru
 api.eye.sbdv.ru
 api.lbs.yandex.ru
 api.s.mindbox.ru
+api.skyyads.ru
 api.venyoo.ru
 api.wavesend.ru
 api.zmqdez.ru
@@ -336,6 +351,7 @@ bfds.sberbank.ru
 bid.adx.com.ru
 biznesplan26.ru
 blocked.botfaqtor.ru
+blog.sape.ru
 blogs.softodrom.ru
 bn.winlinebet.ru
 bonus-betting.ru
@@ -686,6 +702,7 @@ laimroll.ru
 lc2ads.ru
 ldoe-analytics.kefirgames.ru
 leadback.ru
+leadball.ru
 leadgid.ru
 leadgidads.ru
 leadhit.ru
@@ -980,6 +997,7 @@ sentry.hh.ru
 sentry.iptv.rt.ru
 sentry.matchtv.ru
 sentry.megapteka.ru
+sentry.mm.ru
 sentry.mos.ru
 sentry.obs.mts.ru
 sentry.ozon.ru
@@ -1293,6 +1311,7 @@ www.alfa-medosmotr.ru
 www.all4wap.ru
 www.alloysteel.ru
 www.amt-k.ru
+www.audi-club.ru
 www.avramstroy.ru
 www.betsonsport.ru
 www.cityads.ru

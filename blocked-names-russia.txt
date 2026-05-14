@@ -22,12 +22,15 @@
 10933407--15722194-111-mnews.ms.vk.com
 10967364--15722194-111-mnews.ms.vk.com
 10971737--15722194-111-mnews.ms.vk.com
+10977664--15722194-111-mnews.ms.vk.com
+10983107--15722194-111-mnews.ms.vk.com
 111101111.ru
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
 1327027--119533440-111-mnews.ms.vk.com
 1337287--119533440-111-mnews.ms.vk.com
+1351738--119533440-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
 1501810--176841276-111-mnews.ms.vk.com
 1530888--176841276-111-mnews.ms.vk.com
@@ -45,6 +48,7 @@
 1xstavka.ru
 21040.beacon.alice.yandex.ru
 23112.ms.vk.com
+23123727--24199209-111-mnews.ms.vk.com
 23212.ms.vk.com
 24112.ms.vk.com
 24122.ms.vk.com
@@ -79,6 +83,7 @@
 43212.ms.vk.com
 45212.ms.vk.com
 45950.wavesend.ru
+4635284--17862264-111-mnews.ms.vk.com
 48778.wavesend.ru
 49074--85016643-111-mnews.ms.vk.com
 4hunqp.ru
@@ -133,10 +138,12 @@
 7nkbwdf1uq.ru
 7ooo.ru
 8066227--152992737-111-mnews.ms.vk.com
+8081485--152992737-111-mnews.ms.vk.com
 81640.mstat.mos.ru
 84534--21560979-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
+90916--148515594-111-mnews.ms.vk.com
 931131.log.rutube.ru
 931221.log.rutube.ru
 931222.log.rutube.ru
@@ -152,6 +159,7 @@
 952211.log.rutube.ru
 952212.log.rutube.ru
 99905--99021016-111.news.ms.vk.com
+9levl1.ru
 a.mt.ru
 a.mts.ru
 a.pikabu.ru
@@ -161,6 +169,7 @@ a.ucoz.ru
 a.wb.ru
 a.winline.ru
 a0.smi2.ru
+a0.top.list.ru
 a1.smi2.ru
 a24help.ru
 a3.smi2.ru
@@ -466,6 +475,7 @@ cprojects.radar.imgsmail.ru
 cr-frontend.weborama-tech.ru
 crash-reports.browser.yandex.net
 creative.skyyads.ru
+creative.topoads.ru
 crystalpvp.ru
 cs.agency2.ru
 cs.avito.ru
@@ -507,6 +517,7 @@ dmg.digitaltarget.ru
 dmp-profiles.sbermarketing.ru
 dmp.mpsuadv.ru
 dmp.sbermarketing.ru
+dmrussia-kubernetes-744b7742.cs299.cdn-settings.appsflyersdk.com
 dnkeeper-drru.platform.dbankcloud.ru
 doprodavec.ru
 doptik.ru
@@ -627,6 +638,7 @@ hit.x81p4z.ru
 hit.xgd3kl.ru
 hit.yhzn0f.ru
 hitcrypt.04xmhp.ru
+hitcrypt.9levl1.ru
 hitcrypt.g4blin.ru
 hitcrypt.icyh3e.ru
 hitcrypt.mb9pzp.ru
@@ -1370,7 +1382,6 @@ y8lsyibocd.ru
 ya-distrib.ru
 yabs.yandex.ru
 yadro.ru
-yandexcloud-api.t2.ru
 yast.rutube.ru
 yhzn0f.ru
 yuga.ru

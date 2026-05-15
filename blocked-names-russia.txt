@@ -28,12 +28,15 @@
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
+1168468--46042333-111-mnews.ms.vk.com
+1315402--28429027-111-mnews.ms.vk.com
 1327027--119533440-111-mnews.ms.vk.com
 1337287--119533440-111-mnews.ms.vk.com
 1351738--119533440-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
 1501810--176841276-111-mnews.ms.vk.com
 1530888--176841276-111-mnews.ms.vk.com
+160061--99021016-111-mnews.ms.vk.com
 1886379--25280329-111-mnews.ms.vk.com
 1892297--25280329-111-mnews.ms.vk.com
 1905795--2070309-111-mnews.ms.vk.com
@@ -61,6 +64,7 @@
 25212.ms.vk.com
 264307--23372133-111.news.ms.vk.com
 268817--28514668-111-mnews.ms.vk.com
+274196--28514668-111-mnews.ms.vk.com
 28yw0a.ru
 296520--128234813-111-mnews.ms.vk.com
 317729.redirect.appmetrica.yandex.com
@@ -130,6 +134,7 @@
 652221.ms.vk.com
 6i7y3i.ru
 6rn05mmbct.ru
+6yd.ru
 77055--21560979-111-mnews.ms.vk.com
 777-club.ru
 77874--148515594-111-mnews.ms.vk.com
@@ -140,6 +145,7 @@
 8066227--152992737-111-mnews.ms.vk.com
 8081485--152992737-111-mnews.ms.vk.com
 81640.mstat.mos.ru
+8167901--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
@@ -164,6 +170,7 @@ a.mt.ru
 a.mts.ru
 a.pikabu.ru
 a.ria.ru
+a.rutube.ru
 a.snsv.ru
 a.ucoz.ru
 a.wb.ru
@@ -277,6 +284,7 @@ analytics.mediadash.ru
 analytics.mobile.yandex.net
 analytics.move.ru
 analytics.sberhealth.ru
+analytics.skyeng.ru
 analytics.sutochno.ru
 analytics.tele2.ru
 analytics.vgtimes.ru
@@ -352,6 +360,7 @@ bardatm.ru
 bazr.ru
 bbj3nb.ru
 bdgadv.ru
+be.a0.top.list.ru
 bee-cake.ru
 begun.ru
 bestveb.ru
@@ -376,6 +385,7 @@ bs.serving-sys.ru
 bs.yandex.ru
 budvawshes.ru
 bugpuk.ru
+business-online.ru
 bvl5bziz9d.ru
 c.botfaqtor.ru
 c.sibnet.ru
@@ -504,6 +514,7 @@ data.skwstat.ru
 data.videonow.ru
 datatracking.ru
 dct.mango-office.ru
+de-luxe-profi.ru
 delta.mediafort.ru
 demo.punchmedia.ru
 detmir-stats.ru
@@ -641,6 +652,7 @@ hitcrypt.04xmhp.ru
 hitcrypt.9levl1.ru
 hitcrypt.g4blin.ru
 hitcrypt.icyh3e.ru
+hitcrypt.kfe0mn.ru
 hitcrypt.mb9pzp.ru
 hitcrypt.nbh0sl.ru
 hitcrypt.rbcv7s.ru
@@ -689,6 +701,7 @@ iplogger.ru
 is.luxup.ru
 j.adlooxtracking.ru
 j.uralweb.ru
+jdsncjxjujdww.ru
 jet.zbp.ru
 jordan.qunis.ru
 journal-bt.wildberries.ru
@@ -701,6 +714,7 @@ jux9ms4vc7.ru
 kamint.ru
 kavanga.ru
 kevents.auth.gid.ru
+kfe0mn.ru
 kiks.yandex.ru
 konget.ru
 kraken.rambler.ru
@@ -750,6 +764,7 @@ mail.ioc.ac.ru
 mail.radar.imgsmail.ru
 man-live.ru
 mapp.winline.ru
+marketing.trvl.yandex.net
 marketplace-sentry.wb.ru
 masterh5.adriver.ru
 masterh7.adriver.ru
@@ -807,6 +822,7 @@ modato.ru
 module.callibri.ru
 momijoy.ru
 mon.avito.ru
+moo.6yd.ru
 morereferatov.ru
 motoren.ru
 movies5.fox-fan.ru
@@ -843,6 +859,7 @@ ohmybid-sync.rutarget.ru
 okr.sbdv.ru
 ol8ts0.ru
 omniqa.ru
+onenews24.ru
 onetarget.ru
 opendsp.ru
 openshare.nocoshop.ru
@@ -1111,6 +1128,7 @@ static-mon.yandex.net
 static.a.mts.ru
 static.bs-dante.ru
 static.calltouch.ru
+static.de-luxe-profi.ru
 static.marketolog.mts.ru
 static.me-talk.ru
 static.nativerent.ru
@@ -1131,6 +1149,7 @@ stats.rustore.ru
 stats.skrinshoter.ru
 stats2.videonow.ru
 stavkiprognozy.ru
+stcdn.business-online.ru
 steam-account.ru
 stmtag.ru
 store-sentry.vkplay.ru
@@ -1183,6 +1202,7 @@ top100.rambler.ru
 top5.mail.ru
 topcpa.ru
 toptracker.ru
+toskprimorye.ru
 touchmail.radar.imgsmail.ru
 track.ssnd.ru
 track.tbank.ru
@@ -1236,6 +1256,7 @@ vi2.adplay.ru
 vi3.adplay.ru
 victorycorp.ru
 vid.skyyads.ru
+vid.topoads.ru
 video.videonow.ru
 videofan.ru
 videonow.ru
@@ -1360,6 +1381,7 @@ www.tinka.ru
 www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
+www.toskprimorye.ru
 www.udobrit.ru
 www.unlockers.ru
 www.videonow.ru
@@ -1384,6 +1406,8 @@ yabs.yandex.ru
 yadro.ru
 yast.rutube.ru
 yhzn0f.ru
+ym7qp1jvti.ru
+ymv43udrja.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

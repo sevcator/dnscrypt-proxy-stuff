@@ -24,19 +24,23 @@
 10971737--15722194-111-mnews.ms.vk.com
 10977664--15722194-111-mnews.ms.vk.com
 10983107--15722194-111-mnews.ms.vk.com
-111101111.ru
+11005712--15722194-111-mnews.ms.vk.com
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
 1168468--46042333-111-mnews.ms.vk.com
+1179258--46042333-111-mnews.ms.vk.com
 1315402--28429027-111-mnews.ms.vk.com
 1327027--119533440-111-mnews.ms.vk.com
 1337287--119533440-111-mnews.ms.vk.com
 1351738--119533440-111-mnews.ms.vk.com
+1369825--119533440-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
 1501810--176841276-111-mnews.ms.vk.com
 1530888--176841276-111-mnews.ms.vk.com
+1541252--176841276-111-mnews.ms.vk.com
 160061--99021016-111-mnews.ms.vk.com
+162979--211664435-111-mnews.ms.vk.com
 1886379--25280329-111-mnews.ms.vk.com
 1892297--25280329-111-mnews.ms.vk.com
 1905795--2070309-111-mnews.ms.vk.com
@@ -53,6 +57,7 @@
 23112.ms.vk.com
 23123727--24199209-111-mnews.ms.vk.com
 23212.ms.vk.com
+2326152--35647551-111-mnews.ms.vk.com
 24112.ms.vk.com
 24122.ms.vk.com
 24212.ms.vk.com
@@ -88,6 +93,7 @@
 45212.ms.vk.com
 45950.wavesend.ru
 4635284--17862264-111-mnews.ms.vk.com
+4646919--17862264-111-mnews.ms.vk.com
 48778.wavesend.ru
 49074--85016643-111-mnews.ms.vk.com
 4hunqp.ru
@@ -134,7 +140,6 @@
 652221.ms.vk.com
 6i7y3i.ru
 6rn05mmbct.ru
-6yd.ru
 77055--21560979-111-mnews.ms.vk.com
 777-club.ru
 77874--148515594-111-mnews.ms.vk.com
@@ -146,6 +151,7 @@
 8081485--152992737-111-mnews.ms.vk.com
 81640.mstat.mos.ru
 8167901--152992737-111-mnews.ms.vk.com
+8189520--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
@@ -268,6 +274,7 @@ alloysteel.ru
 allstat-pp.ru
 alt-cloud.radar.imgsmail.ru
 altergeo.ru
+alternativas.ru
 alytics.ru
 amc.yandex.ru
 amp.smi2.ru
@@ -367,6 +374,7 @@ bestveb.ru
 beta.mediafort.ru
 bfds.sberbank.ru
 bid.adx.com.ru
+bidder.rutarget.ru
 biznesplan26.ru
 blocked.botfaqtor.ru
 blog.sape.ru
@@ -385,11 +393,11 @@ bs.serving-sys.ru
 bs.yandex.ru
 budvawshes.ru
 bugpuk.ru
-business-online.ru
 bvl5bziz9d.ru
 c.botfaqtor.ru
 c.sibnet.ru
 c.snsv.ru
+c4.be.a0.top.list.ru
 cabinet.adzone.ru
 callback.onlinepbx.ru
 callibri.ru
@@ -504,6 +512,7 @@ cusok.ru
 cvt1.sibnet.ru
 cybertown.ru
 d.botfaqtor.ru
+da.c4.be.a0.top.list.ru
 dadata.ru
 dadu.ru
 daily.heroeswm.ru
@@ -514,7 +523,6 @@ data.skwstat.ru
 data.videonow.ru
 datatracking.ru
 dct.mango-office.ru
-de-luxe-profi.ru
 delta.mediafort.ru
 demo.punchmedia.ru
 detmir-stats.ru
@@ -701,7 +709,6 @@ iplogger.ru
 is.luxup.ru
 j.adlooxtracking.ru
 j.uralweb.ru
-jdsncjxjujdww.ru
 jet.zbp.ru
 jordan.qunis.ru
 journal-bt.wildberries.ru
@@ -822,7 +829,6 @@ modato.ru
 module.callibri.ru
 momijoy.ru
 mon.avito.ru
-moo.6yd.ru
 morereferatov.ru
 motoren.ru
 movies5.fox-fan.ru
@@ -832,6 +838,7 @@ mpuls.ru
 mpush.winline.ru
 ms-ads-image.t-static.ru
 mstat.mos.ru
+myjulia.ru
 myqualification.rambler.ru
 mytop.live.vkvideo.ru
 nashindex.ru
@@ -1030,6 +1037,7 @@ sentry.mm.ru
 sentry.mos.ru
 sentry.obs.mts.ru
 sentry.ozon.ru
+sentry.poryadok.ru
 sentry.rshbcloud.ru
 sentry.sca.ad-tech.ru
 sentry.sravni-team.ru
@@ -1079,6 +1087,7 @@ sobory.ru
 socgate.ru
 socialsend.ru
 softboard.ru
+softcatalog.ru
 softodrom.ru
 soglkuki.prolexgroup.ru
 soloway.ru
@@ -1088,6 +1097,7 @@ sovetnik.market.yandex.ru
 sp.aviasales.ru
 sparrow.ru
 sporttouch.radar.imgsmail.ru
+srand04rf.ru
 sskarta.ru
 ssl.adriver.ru
 ssp-rtb-ap.sape.ru
@@ -1128,7 +1138,6 @@ static-mon.yandex.net
 static.a.mts.ru
 static.bs-dante.ru
 static.calltouch.ru
-static.de-luxe-profi.ru
 static.marketolog.mts.ru
 static.me-talk.ru
 static.nativerent.ru
@@ -1149,7 +1158,6 @@ stats.rustore.ru
 stats.skrinshoter.ru
 stats2.videonow.ru
 stavkiprognozy.ru
-stcdn.business-online.ru
 steam-account.ru
 stmtag.ru
 store-sentry.vkplay.ru
@@ -1202,7 +1210,6 @@ top100.rambler.ru
 top5.mail.ru
 topcpa.ru
 toptracker.ru
-toskprimorye.ru
 touchmail.radar.imgsmail.ru
 track.ssnd.ru
 track.tbank.ru
@@ -1297,9 +1304,9 @@ webstat.profi.ru
 websurf.ru
 weupload.nocoshop.ru
 wf-ru-frontend.weborama-tech.ru
+whbackend.ru
 whiteboxdigital.ru
 whiteline.mail.ru
-whpayment.ru
 widget.adplay.ru
 widget.cleversite.ru
 widget.info-app5shs.ru
@@ -1376,12 +1383,12 @@ www.pricelib.ru
 www.propan.ru
 www.redirect.appmetrica.yandex.com
 www.saf-oil.ru
+www.srand04rf.ru
 www.startup.mobile.yandex.net
 www.tinka.ru
 www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
-www.toskprimorye.ru
 www.udobrit.ru
 www.unlockers.ru
 www.videonow.ru
@@ -1406,8 +1413,6 @@ yabs.yandex.ru
 yadro.ru
 yast.rutube.ru
 yhzn0f.ru
-ym7qp1jvti.ru
-ymv43udrja.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

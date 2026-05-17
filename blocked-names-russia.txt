@@ -25,11 +25,14 @@
 10977664--15722194-111-mnews.ms.vk.com
 10983107--15722194-111-mnews.ms.vk.com
 11005712--15722194-111-mnews.ms.vk.com
+11013144--15722194-111-mnews.ms.vk.com
+11015967--15722194-111-mnews.ms.vk.com
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
 1168468--46042333-111-mnews.ms.vk.com
 1179258--46042333-111-mnews.ms.vk.com
+1189908--46042333-111-mnews.ms.vk.com
 1315402--28429027-111-mnews.ms.vk.com
 1327027--119533440-111-mnews.ms.vk.com
 1337287--119533440-111-mnews.ms.vk.com
@@ -41,6 +44,7 @@
 1541252--176841276-111-mnews.ms.vk.com
 160061--99021016-111-mnews.ms.vk.com
 162979--211664435-111-mnews.ms.vk.com
+163345--211664435-111-mnews.ms.vk.com
 1886379--25280329-111-mnews.ms.vk.com
 1892297--25280329-111-mnews.ms.vk.com
 1905795--2070309-111-mnews.ms.vk.com
@@ -152,6 +156,7 @@
 81640.mstat.mos.ru
 8167901--152992737-111-mnews.ms.vk.com
 8189520--152992737-111-mnews.ms.vk.com
+8207126--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
@@ -317,6 +322,7 @@ api.venyoo.ru
 api.wavesend.ru
 api.zmqdez.ru
 apistats.rg.ru
+app.microgent.ru
 app.uaas.yandex.ru
 appmetrica.sovcombank.ru
 appmetrica.yandex.com
@@ -810,6 +816,7 @@ metrika.mos.ru
 metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
+microgent.ru
 minimo.callibri.ru
 mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
@@ -842,6 +849,7 @@ myjulia.ru
 myqualification.rambler.ru
 mytop.live.vkvideo.ru
 nashindex.ru
+nashvek.ru
 nbh0sl.ru
 nel.wb.ru
 neobasnet.timeout.ru
@@ -891,6 +899,7 @@ personalization-speedtest.g.mindbox.ru
 personalization-web-stable.mindbox.ru
 personalization-web.g.mindbox.ru
 personalization-web.s.mindbox.ru
+philjournal.ru
 piper.amocrm.ru
 pixel.adlooxtracking.ru
 pixel.demo.dsp.onetarget.ru
@@ -1097,7 +1106,6 @@ sovetnik.market.yandex.ru
 sp.aviasales.ru
 sparrow.ru
 sporttouch.radar.imgsmail.ru
-srand04rf.ru
 sskarta.ru
 ssl.adriver.ru
 ssp-rtb-ap.sape.ru
@@ -1351,6 +1359,7 @@ www.alfa-medosmotr.ru
 www.all4wap.ru
 www.alloysteel.ru
 www.amt-k.ru
+www.app.microgent.ru
 www.audi-club.ru
 www.avramstroy.ru
 www.betsonsport.ru
@@ -1376,6 +1385,7 @@ www.mastertarget.ru
 www.mc.yandex.ru
 www.mir-stalkera.ru
 www.motoren.ru
+www.myjulia.ru
 www.otclick-adv.ru
 www.popunder.ru
 www.pr-cy.ru
@@ -1383,7 +1393,6 @@ www.pricelib.ru
 www.propan.ru
 www.redirect.appmetrica.yandex.com
 www.saf-oil.ru
-www.srand04rf.ru
 www.startup.mobile.yandex.net
 www.tinka.ru
 www.tnative.ru
@@ -1413,6 +1422,7 @@ yabs.yandex.ru
 yadro.ru
 yast.rutube.ru
 yhzn0f.ru
+ymj6ixnzd4.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

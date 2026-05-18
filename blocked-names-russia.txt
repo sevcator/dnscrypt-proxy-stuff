@@ -27,6 +27,10 @@
 11005712--15722194-111-mnews.ms.vk.com
 11013144--15722194-111-mnews.ms.vk.com
 11015967--15722194-111-mnews.ms.vk.com
+11025126--15722194-111-mnews.ms.vk.com
+11027611--15722194-111-mnews.ms.vk.com
+11028390--15722194-111-mnews.ms.vk.com
+11029037--15722194-111-mnews.ms.vk.com
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
@@ -34,10 +38,12 @@
 1179258--46042333-111-mnews.ms.vk.com
 1189908--46042333-111-mnews.ms.vk.com
 1315402--28429027-111-mnews.ms.vk.com
+1323061--28429027-111-mnews.ms.vk.com
 1327027--119533440-111-mnews.ms.vk.com
 1337287--119533440-111-mnews.ms.vk.com
 1351738--119533440-111-mnews.ms.vk.com
 1369825--119533440-111-mnews.ms.vk.com
+1390048--119533440-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
 1501810--176841276-111-mnews.ms.vk.com
 1530888--176841276-111-mnews.ms.vk.com
@@ -157,6 +163,10 @@
 8167901--152992737-111-mnews.ms.vk.com
 8189520--152992737-111-mnews.ms.vk.com
 8207126--152992737-111-mnews.ms.vk.com
+8221145--152992737-111-mnews.ms.vk.com
+8221365--152992737-111-mnews.ms.vk.com
+8221650--152992737-111-mnews.ms.vk.com
+8230992--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
@@ -322,7 +332,6 @@ api.venyoo.ru
 api.wavesend.ru
 api.zmqdez.ru
 apistats.rg.ru
-app.microgent.ru
 app.uaas.yandex.ru
 appmetrica.sovcombank.ru
 appmetrica.yandex.com
@@ -669,6 +678,7 @@ hitcrypt.icyh3e.ru
 hitcrypt.kfe0mn.ru
 hitcrypt.mb9pzp.ru
 hitcrypt.nbh0sl.ru
+hitcrypt.nkwnb7.ru
 hitcrypt.rbcv7s.ru
 hitcrypt.udqrh6.ru
 hitcrypt.x81p4z.ru
@@ -816,7 +826,6 @@ metrika.mos.ru
 metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
-microgent.ru
 minimo.callibri.ru
 mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
@@ -939,6 +948,7 @@ pub.nashindex.ru
 punchmedia.ru
 push.svk-native.ru
 pushlog.wsoft.ru
+px460.telecid.ru
 q7wiow.ru
 qcdnfront.winline.ru
 qcdnwsys.winline.ru
@@ -1359,7 +1369,6 @@ www.alfa-medosmotr.ru
 www.all4wap.ru
 www.alloysteel.ru
 www.amt-k.ru
-www.app.microgent.ru
 www.audi-club.ru
 www.avramstroy.ru
 www.betsonsport.ru
@@ -1422,7 +1431,6 @@ yabs.yandex.ru
 yadro.ru
 yast.rutube.ru
 yhzn0f.ru
-ymj6ixnzd4.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

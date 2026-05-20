@@ -33,6 +33,7 @@
 11029037--15722194-111-mnews.ms.vk.com
 11034620--15722194-111-mnews.ms.vk.com
 11040837--15722194-111-mnews.ms.vk.com
+11051462--15722194-111-mnews.ms.vk.com
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
@@ -40,8 +41,11 @@
 1179258--46042333-111-mnews.ms.vk.com
 1189908--46042333-111-mnews.ms.vk.com
 1204029--46042333-111-mnews.ms.vk.com
+1208216--46042333-111-mnews.ms.vk.com
+1208278--46042333-111-mnews.ms.vk.com
 1315402--28429027-111-mnews.ms.vk.com
 1323061--28429027-111-mnews.ms.vk.com
+1326480--28429027-111-mnews.ms.vk.com
 1327027--119533440-111-mnews.ms.vk.com
 1337287--119533440-111-mnews.ms.vk.com
 1351738--119533440-111-mnews.ms.vk.com
@@ -53,6 +57,8 @@
 1530888--176841276-111-mnews.ms.vk.com
 1541252--176841276-111-mnews.ms.vk.com
 160061--99021016-111-mnews.ms.vk.com
+162719--99021016-111-mnews.ms.vk.com
+162738--99021016-111-mnews.ms.vk.com
 162979--211664435-111-mnews.ms.vk.com
 163345--211664435-111-mnews.ms.vk.com
 1886379--25280329-111-mnews.ms.vk.com
@@ -115,6 +121,7 @@
 5-182-5-41.botfaqtor.ru
 501774--16980751-111-mnews.ms.vk.com
 5163250--35068738-111-mnews.ms.vk.com
+5226474--35068738-111-mnews.ms.vk.com
 531111.ms.dzen.ru
 531121.ms.dzen.ru
 531211.ms.dzen.ru
@@ -175,6 +182,8 @@
 8246077--152992737-111-mnews.ms.vk.com
 8247684--152992737-111-mnews.ms.vk.com
 8254064--152992737-111-mnews.ms.vk.com
+8262068--152992737-111-mnews.ms.vk.com
+8262720--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
@@ -221,7 +230,6 @@ actionpay.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.mail.ru
@@ -379,7 +387,6 @@ bakteso.ru
 balakovo24.ru
 ban.zab.ru
 bank.yuga.ru
-bankocc.ru
 banner.aismo.ru
 banner.consultant.ru
 banner.zol.ru
@@ -621,7 +628,6 @@ fcgi5.2xclick.ru
 fcgi5.gnezdo.ru
 fcgi7.gnezdo.ru
 feeds.kommersant.ru
-feme.ru
 ff.astv.ru
 filedrive.nocoshop.ru
 filekeeper.nocoshop.ru

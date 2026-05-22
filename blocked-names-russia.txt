@@ -50,8 +50,10 @@
 1337287--119533440-111-mnews.ms.vk.com
 1351738--119533440-111-mnews.ms.vk.com
 1369825--119533440-111-mnews.ms.vk.com
+1374017--119533440-111-mnews.ms.vk.com
 1390048--119533440-111-mnews.ms.vk.com
 1401234--119533440-111-mnews.ms.vk.com
+1409252--119533440-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
 1501810--176841276-111-mnews.ms.vk.com
 1530888--176841276-111-mnews.ms.vk.com
@@ -106,6 +108,7 @@
 35312.ms.vk.com
 35412.ms.vk.com
 35512.ms.vk.com
+3bra.solonettochka.ru
 4190005.redirect.appmetrica.yandex.com
 423.ru
 4237138.redirect.appmetrica.yandex.com
@@ -184,6 +187,9 @@
 8254064--152992737-111-mnews.ms.vk.com
 8262068--152992737-111-mnews.ms.vk.com
 8262720--152992737-111-mnews.ms.vk.com
+8279913--152992737-111-mnews.ms.vk.com
+8280625--152992737-111-mnews.ms.vk.com
+8285982--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
@@ -538,8 +544,10 @@ cstatic-ru-cv.weborama-tech.ru
 cstatic.weborama-tech.ru
 ct-ws-front.calltouch.ru
 ct3-24.ru
+ctx.weborama-tech.ru
 culturaltracking.ru
 cusok.ru
+cv187306.tw1.ru
 cvt1.sibnet.ru
 cybertown.ru
 d.banner.aismo.ru
@@ -572,7 +580,6 @@ dmrussia-kubernetes-744b7742.cs299.cdn-settings.appsflyersdk.com
 dnkeeper-drru.platform.dbankcloud.ru
 doprodavec.ru
 doptik.ru
-down.mvip8.ru
 dowonline.ru
 dp.tinkoff.ru
 dr.yandex.net
@@ -620,6 +627,7 @@ eyenewton.ru
 ezstat.ru
 f.gdeslon.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
+falseflag1.ru
 fast2load.ru
 fastfine.ru
 faststat.advideo.ru
@@ -1135,7 +1143,6 @@ sovetnik.market.yandex.ru
 sp.aviasales.ru
 sparrow.ru
 sporttouch.radar.imgsmail.ru
-sskarta.ru
 ssl.adriver.ru
 ssp-rtb-ap.sape.ru
 ssp-rtb-eu.sape.ru
@@ -1249,6 +1256,7 @@ top5.mail.ru
 topcpa.ru
 toptracker.ru
 touchmail.radar.imgsmail.ru
+trace-flow.ru
 track.ssnd.ru
 track.tbank.ru
 track.wfolio.ru
@@ -1341,7 +1349,6 @@ webstat.profi.ru
 websurf.ru
 weupload.nocoshop.ru
 wf-ru-frontend.weborama-tech.ru
-whbackend.ru
 whiteboxdigital.ru
 whiteline.mail.ru
 widget.adplay.ru
@@ -1396,6 +1403,7 @@ www.cityhostelkazan.ru
 www.clck.ru
 www.comagic.ru
 www.consultant-online.ru
+www.cv187306.tw1.ru
 www.directadvert.ru
 www.drivenetwork.ru
 www.forextimes.ru

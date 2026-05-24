@@ -33,12 +33,15 @@
 11028390--15722194-111-mnews.ms.vk.com
 11029037--15722194-111-mnews.ms.vk.com
 11034620--15722194-111-mnews.ms.vk.com
+11038122--15722194-111-mnews.ms.vk.com
 11040837--15722194-111-mnews.ms.vk.com
 11051462--15722194-111-mnews.ms.vk.com
 11063140--15722194-111-mnews.ms.vk.com
 11072861--15722194-111-mnews.ms.vk.com
 11078420--15722194-111-mnews.ms.vk.com
 11079244--15722194-111-mnews.ms.vk.com
+11094537--15722194-111-mnews.ms.vk.com
+11094978--15722194-111-mnews.ms.vk.com
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
@@ -58,6 +61,7 @@
 1323061--28429027-111-mnews.ms.vk.com
 1326480--28429027-111-mnews.ms.vk.com
 1327027--119533440-111-mnews.ms.vk.com
+1330155--28429027-111-mnews.ms.vk.com
 1337287--119533440-111-mnews.ms.vk.com
 1351738--119533440-111-mnews.ms.vk.com
 1369825--119533440-111-mnews.ms.vk.com
@@ -66,6 +70,7 @@
 1401234--119533440-111-mnews.ms.vk.com
 1406332--119533440-111-mnews.ms.vk.com
 1409252--119533440-111-mnews.ms.vk.com
+1409734--119533440-111-mnews.ms.vk.com
 1418294--119533440-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
 1501810--176841276-111-mnews.ms.vk.com
@@ -97,6 +102,7 @@
 23212.ms.vk.com
 2326152--35647551-111-mnews.ms.vk.com
 2330697--35647551-111-mnews.ms.vk.com
+2331004--35647551-111-mnews.ms.vk.com
 2331111--35647551-111-mnews.ms.vk.com
 24112.ms.vk.com
 24122.ms.vk.com
@@ -186,6 +192,8 @@
 652221.ms.vk.com
 6i7y3i.ru
 6rn05mmbct.ru
+6yd.ru
+7167434--26284064-111-mnews.ms.vk.com
 77055--21560979-111-mnews.ms.vk.com
 777-club.ru
 77874--148515594-111-mnews.ms.vk.com
@@ -212,7 +220,9 @@
 8279913--152992737-111-mnews.ms.vk.com
 8280625--152992737-111-mnews.ms.vk.com
 8285982--152992737-111-mnews.ms.vk.com
+8317238--152992737-111-mnews.ms.vk.com
 8317988--152992737-111-mnews.ms.vk.com
+8320983--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
@@ -293,6 +303,7 @@ ads.adfox.ru
 ads.adtec.ru
 ads.adv-adplatform.ru
 ads.edadeal.ru
+ads.gpm-ssp.ru
 ads.photosight.ru
 ads.rustore.ru
 ads.x5media.ru
@@ -486,6 +497,7 @@ cdn.snsv.ru
 cdn2.adplay.ru
 cdn2.adrun.ru
 cdnrtbsape.ru
+cgig.ru
 checker.cityads.ru
 checks.botfaqtor.ru
 chiptuner.ru
@@ -586,6 +598,7 @@ data.skwstat.ru
 data.videonow.ru
 datatracking.ru
 dct.mango-office.ru
+de-luxe-profi.ru
 delta.mediafort.ru
 demo.punchmedia.ru
 detmir-stats.ru
@@ -650,7 +663,6 @@ eyenewton.ru
 ezstat.ru
 f.gdeslon.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
-falseflag1.ru
 fast2load.ru
 fastfine.ru
 faststat.advideo.ru
@@ -773,6 +785,7 @@ iplogger.ru
 is.luxup.ru
 j.adlooxtracking.ru
 j.uralweb.ru
+jdsncjxjujdww.ru
 jet.zbp.ru
 jordan.qunis.ru
 journal-bt.wildberries.ru
@@ -893,6 +906,7 @@ modato.ru
 module.callibri.ru
 momijoy.ru
 mon.avito.ru
+moo.6yd.ru
 morereferatov.ru
 motoren.ru
 movies5.fox-fan.ru
@@ -1082,6 +1096,7 @@ secretfiles.nocoshop.ru
 secure-ads.yandex.com
 secure-ads.yandex.ru
 seeky.adeeply.ru
+sekretuspeha54.ru
 selec1.adriver.ru
 sendbox.nocoshop.ru
 sentry-api.sberdevices.ru
@@ -1115,9 +1130,9 @@ sentry.tutorplace.ru
 sentry.tutu.ru
 sentry.uteka.ru
 sentry.wb.ru
+sentry.webinar.ru
 sentry.winline.ru
 sentry.x5.ru
-sentry26-test.avito.ru
 seo-service.domclick.ru
 serval.getads.ru
 serve.getads.ru
@@ -1206,6 +1221,7 @@ static.a.mts.ru
 static.banner.aismo.ru
 static.bs-dante.ru
 static.calltouch.ru
+static.de-luxe-profi.ru
 static.marketolog.mts.ru
 static.me-talk.ru
 static.nativerent.ru
@@ -1311,6 +1327,7 @@ ukrashulya.ru
 unisound.cdnvideo.ru
 unlockers.ru
 upandshare.nocoshop.ru
+upsrv.ru
 uptime-info.yandex.ru
 uptolike.ru
 userator.ru

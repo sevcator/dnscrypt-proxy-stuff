@@ -52,6 +52,7 @@
 11182356--15722194-111-mnews.ms.vk.com
 11186704--15722194-111-mnews.ms.vk.com
 11189536--15722194-111-mnews.ms.vk.com
+11216941--15722194-111-mnews.ms.vk.com
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
@@ -75,6 +76,9 @@
 1327027--119533440-111-mnews.ms.vk.com
 1330155--28429027-111-mnews.ms.vk.com
 1337287--119533440-111-mnews.ms.vk.com
+1341390--28429027-111-mnews.ms.vk.com
+1341471--28429027-111-mnews.ms.vk.com
+1341555--28429027-111-mnews.ms.vk.com
 1351738--119533440-111-mnews.ms.vk.com
 1369825--119533440-111-mnews.ms.vk.com
 1374017--119533440-111-mnews.ms.vk.com
@@ -250,6 +254,8 @@
 8317238--152992737-111-mnews.ms.vk.com
 8317988--152992737-111-mnews.ms.vk.com
 8320983--152992737-111-mnews.ms.vk.com
+8350357--152992737-111-mnews.ms.vk.com
+8366852--152992737-111-mnews.ms.vk.com
 8368076--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
 87108--24472133-111-mnews.ms.vk.com
@@ -394,6 +400,7 @@ analytics.mediadash.ru
 analytics.mobile.yandex.net
 analytics.move.ru
 analytics.sberhealth.ru
+analytics.skyeng.ru
 analytics.sutochno.ru
 analytics.tele2.ru
 analytics.vgtimes.ru
@@ -478,6 +485,7 @@ bfds.sberbank.ru
 bid.adx.com.ru
 bidder.rutarget.ru
 biznesplan26.ru
+bjtajoox.ru
 blocked.botfaqtor.ru
 blog.sape.ru
 blogs.softodrom.ru
@@ -951,6 +959,7 @@ mstat.mos.ru
 myjulia.ru
 myqualification.rambler.ru
 mytop.live.vkvideo.ru
+n8ndjalil.ru
 nashindex.ru
 nashvek.ru
 nbh0sl.ru
@@ -1007,6 +1016,7 @@ piper.amocrm.ru
 pixel.adlooxtracking.ru
 pixel.demo.dsp.onetarget.ru
 pixel.dsp.onetarget.ru
+pixel.getads.ru
 pixel.id.x5.ru
 pixel.konnektu.ru
 pixel.rambler.ru
@@ -1039,6 +1049,7 @@ propub.ru
 proxy.wavesend.ru
 ps.punchmedia.ru
 ps2.punchmedia.ru
+pseyumd.ru
 pu.softlot.ru
 pub.nashindex.ru
 punchmedia.ru
@@ -1105,7 +1116,6 @@ rum2.cdnvideo.ru
 rum3.cdnvideo.ru
 rum4.cdnvideo.ru
 rum5.cdnvideo.ru
-rum6.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
 russianlanguage.swing-zone.com

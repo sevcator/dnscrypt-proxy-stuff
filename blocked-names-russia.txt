@@ -53,6 +53,7 @@
 11186704--15722194-111-mnews.ms.vk.com
 11189536--15722194-111-mnews.ms.vk.com
 11216941--15722194-111-mnews.ms.vk.com
+11234742--15722194-111-mnews.ms.vk.com
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
@@ -124,6 +125,8 @@
 2330697--35647551-111-mnews.ms.vk.com
 2331004--35647551-111-mnews.ms.vk.com
 2331111--35647551-111-mnews.ms.vk.com
+2338446--35647551-111-mnews.ms.vk.com
+240397--177936254-111-mnews.ms.vk.com
 24112.ms.vk.com
 24122.ms.vk.com
 24212.ms.vk.com
@@ -254,7 +257,10 @@
 8317238--152992737-111-mnews.ms.vk.com
 8317988--152992737-111-mnews.ms.vk.com
 8320983--152992737-111-mnews.ms.vk.com
+8349863--152992737-111-mnews.ms.vk.com
 8350357--152992737-111-mnews.ms.vk.com
+8350845--152992737-111-mnews.ms.vk.com
+8363540--152992737-111-mnews.ms.vk.com
 8366852--152992737-111-mnews.ms.vk.com
 8368076--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
@@ -810,7 +816,6 @@ info-dvd.ru
 info.kinoclub77.ru
 informer.yandex.ru
 init.videonow.ru
-injectroblox.ru
 innovation-lab.ru
 inplayer.ru
 instreamvideo.ru
@@ -840,6 +845,7 @@ kevents.auth.gid.ru
 kfe0mn.ru
 kiks.yandex.ru
 konget.ru
+kontrolnaya-rabota.ru
 kraken.rambler.ru
 kremz.ru
 kurganobl.ru
@@ -930,7 +936,6 @@ mh8.adriver.ru
 minimo.callibri.ru
 mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
-mistralkorea.ru
 mlb1.adriver.ru
 mlb2.adriver.ru
 mlb3.adriver.ru
@@ -1513,13 +1518,11 @@ www.pr-cy.ru
 www.pricelib.ru
 www.propan.ru
 www.redirect.appmetrica.yandex.com
-www.saf-oil.ru
 www.startup.mobile.yandex.net
 www.tinka.ru
 www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
-www.udobrit.ru
 www.unlockers.ru
 www.videonow.ru
 www.vigvam.ru

@@ -54,6 +54,7 @@
 11189536--15722194-111-mnews.ms.vk.com
 11216941--15722194-111-mnews.ms.vk.com
 11234742--15722194-111-mnews.ms.vk.com
+11253649--15722194-111-mnews.ms.vk.com
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
@@ -684,6 +685,7 @@ edu-sentry.mos.ru
 effad.ru
 egg.afisha.ru
 eimage.sendsay.ru
+ekaterinburg.media-talk.ru
 email-images.mindbox.ru
 err.agava.ru
 err.lenta.ru
@@ -814,6 +816,7 @@ indetiske.ya.ru
 inetlog.ru
 info-dvd.ru
 info.kinoclub77.ru
+infoclicker.ru
 informer.yandex.ru
 init.videonow.ru
 innovation-lab.ru
@@ -828,6 +831,7 @@ ipgraber.ru
 iplis.ru
 iplogger.ru
 is.luxup.ru
+ivanovo.media-talk.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
@@ -917,6 +921,7 @@ media-adv.vs.market.yandex.net
 media-adv.yandex.com
 media-advcycle.imgsmail.ru
 media-stat.mail.ru
+media-talk.ru
 mediametrics.ru
 mediatoday.ru
 megatkani.ru
@@ -952,6 +957,7 @@ module.callibri.ru
 momijoy.ru
 mon.avito.ru
 morereferatov.ru
+moskva.media-talk.ru
 motoren.ru
 movies5.fox-fan.ru
 mps.tlauncher.ru
@@ -978,6 +984,7 @@ news.gnezdo2.ru
 news.mediametrics.ru
 news.smi2.ru
 nkwnb7.ru
+novosibirsk.media-talk.ru
 novosti.gnezdo.ru
 nq.appmetrica.yandex.net
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
@@ -1055,6 +1062,7 @@ proxy.wavesend.ru
 ps.punchmedia.ru
 ps2.punchmedia.ru
 pseyumd.ru
+pskov.media-talk.ru
 pu.softlot.ru
 pub.nashindex.ru
 punchmedia.ru
@@ -1131,6 +1139,7 @@ s1.mpsuadv.ru
 s2.mpsuadv.ru
 sage-collector.tbank.ru
 sape.ru
+saransk.media-talk.ru
 sba.yandex.net
 sbbe.group-ib.ru
 sbermarketing.ru
@@ -1373,6 +1382,7 @@ uberupload.nocoshop.ru
 udqrh6.ru
 ukguk71.ru
 ukrashulya.ru
+ulyanovsk.media-talk.ru
 unisound.cdnvideo.ru
 unlockers.ru
 upandshare.nocoshop.ru
@@ -1436,6 +1446,7 @@ webpush-images.mindbox.ru
 webpush-imgproxy.g.mindbox.ru
 webstat.profi.ru
 websurf.ru
+webtm.ru
 weupload.nocoshop.ru
 wf-ru-frontend.weborama-tech.ru
 whiteboxdigital.ru
@@ -1546,6 +1557,8 @@ yabs.yandex.ru
 yadro.ru
 yast.rutube.ru
 yhzn0f.ru
+ymj6ixnzd4.ru
+ymv43udrja.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

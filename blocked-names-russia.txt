@@ -60,6 +60,7 @@
 1128761--46042333-111-mnews.ms.vk.com
 1168468--46042333-111-mnews.ms.vk.com
 1179258--46042333-111-mnews.ms.vk.com
+118113--148515594-111-mnews.ms.vk.com
 1189908--46042333-111-mnews.ms.vk.com
 1195793--46042333-111-mnews.ms.vk.com
 1204029--46042333-111-mnews.ms.vk.com
@@ -67,6 +68,7 @@
 1208278--46042333-111-mnews.ms.vk.com
 1211774--46042333-111-mnews.ms.vk.com
 1212897--46042333-111-mnews.ms.vk.com
+121398--148515594-111-mnews.ms.vk.com
 1227701--46042333-111-mnews.ms.vk.com
 1228418--46042333-111-mnews.ms.vk.com
 1228946--46042333-111-mnews.ms.vk.com
@@ -127,6 +129,7 @@
 2331004--35647551-111-mnews.ms.vk.com
 2331111--35647551-111-mnews.ms.vk.com
 2338446--35647551-111-mnews.ms.vk.com
+2344001--35647551-111-mnews.ms.vk.com
 240397--177936254-111-mnews.ms.vk.com
 24112.ms.vk.com
 24122.ms.vk.com
@@ -146,6 +149,7 @@
 288350--28514668-111-mnews.ms.vk.com
 28yw0a.ru
 296520--128234813-111-mnews.ms.vk.com
+301292--128234813-111-mnews.ms.vk.com
 317729.redirect.appmetrica.yandex.com
 33212.ms.vk.com
 33312.ms.vk.com
@@ -264,7 +268,10 @@
 8363540--152992737-111-mnews.ms.vk.com
 8366852--152992737-111-mnews.ms.vk.com
 8368076--152992737-111-mnews.ms.vk.com
+8446187--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
+8468096--152992737-111-mnews.ms.vk.com
+8469132--152992737-111-mnews.ms.vk.com
 87108--24472133-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
@@ -296,6 +303,7 @@ a.wb.ru
 a.winline.ru
 a0.smi2.ru
 a0.top.list.ru
+a0.top.mail.ru
 a1.smi2.ru
 a24help.ru
 a3.smi2.ru
@@ -624,7 +632,6 @@ css.yuga.ru
 cstatic-ru-cv.weborama-tech.ru
 cstatic.weborama-tech.ru
 ct-ws-front.calltouch.ru
-ct3-24.ru
 ctx.weborama-tech.ru
 culturaltracking.ru
 cusok.ru
@@ -685,7 +692,6 @@ edu-sentry.mos.ru
 effad.ru
 egg.afisha.ru
 eimage.sendsay.ru
-ekaterinburg.media-talk.ru
 email-images.mindbox.ru
 err.agava.ru
 err.lenta.ru
@@ -816,7 +822,6 @@ indetiske.ya.ru
 inetlog.ru
 info-dvd.ru
 info.kinoclub77.ru
-infoclicker.ru
 informer.yandex.ru
 init.videonow.ru
 innovation-lab.ru
@@ -831,10 +836,10 @@ ipgraber.ru
 iplis.ru
 iplogger.ru
 is.luxup.ru
-ivanovo.media-talk.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
+joomla-support.ru
 jordan.qunis.ru
 journal-bt.wildberries.ru
 jps.ru
@@ -921,7 +926,6 @@ media-adv.vs.market.yandex.net
 media-adv.yandex.com
 media-advcycle.imgsmail.ru
 media-stat.mail.ru
-media-talk.ru
 mediametrics.ru
 mediatoday.ru
 megatkani.ru
@@ -957,7 +961,6 @@ module.callibri.ru
 momijoy.ru
 mon.avito.ru
 morereferatov.ru
-moskva.media-talk.ru
 motoren.ru
 movies5.fox-fan.ru
 mps.tlauncher.ru
@@ -984,7 +987,6 @@ news.gnezdo2.ru
 news.mediametrics.ru
 news.smi2.ru
 nkwnb7.ru
-novosibirsk.media-talk.ru
 novosti.gnezdo.ru
 nq.appmetrica.yandex.net
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
@@ -1038,7 +1040,6 @@ pjkyxrd15e.ru
 pkeeper3.ru
 pl2.skwstat.ru
 player.moviead55.ru
-pobedastaff.ru
 point-metrics.wb.ru
 pokrutim.ru
 pool.stbid.ru
@@ -1062,7 +1063,6 @@ proxy.wavesend.ru
 ps.punchmedia.ru
 ps2.punchmedia.ru
 pseyumd.ru
-pskov.media-talk.ru
 pu.softlot.ru
 pub.nashindex.ru
 punchmedia.ru
@@ -1139,7 +1139,6 @@ s1.mpsuadv.ru
 s2.mpsuadv.ru
 sage-collector.tbank.ru
 sape.ru
-saransk.media-talk.ru
 sba.yandex.net
 sbbe.group-ib.ru
 sbermarketing.ru
@@ -1147,7 +1146,6 @@ sc.grattis.ru
 scounter.rambler.ru
 scripts.botfaqtor.ru
 sdk-api.apptracer.ru
-sdvgpro.ru
 searchnews-drru.dt.dbankcloud.ru
 secretfiles.nocoshop.ru
 secure-ads.yandex.com
@@ -1178,6 +1176,7 @@ sentry.mm.ru
 sentry.mos.ru
 sentry.obs.mts.ru
 sentry.ozon.ru
+sentry.p.ecnl.ru
 sentry.poryadok.ru
 sentry.rshbcloud.ru
 sentry.sca.ad-tech.ru
@@ -1382,7 +1381,6 @@ uberupload.nocoshop.ru
 udqrh6.ru
 ukguk71.ru
 ukrashulya.ru
-ulyanovsk.media-talk.ru
 unisound.cdnvideo.ru
 unlockers.ru
 upandshare.nocoshop.ru
@@ -1446,7 +1444,6 @@ webpush-images.mindbox.ru
 webpush-imgproxy.g.mindbox.ru
 webstat.profi.ru
 websurf.ru
-webtm.ru
 weupload.nocoshop.ru
 wf-ru-frontend.weborama-tech.ru
 whiteboxdigital.ru
@@ -1529,11 +1526,13 @@ www.pr-cy.ru
 www.pricelib.ru
 www.propan.ru
 www.redirect.appmetrica.yandex.com
+www.saf-oil.ru
 www.startup.mobile.yandex.net
 www.tinka.ru
 www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
+www.udobrit.ru
 www.unlockers.ru
 www.videonow.ru
 www.vigvam.ru
@@ -1557,8 +1556,6 @@ yabs.yandex.ru
 yadro.ru
 yast.rutube.ru
 yhzn0f.ru
-ymj6ixnzd4.ru
-ymv43udrja.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

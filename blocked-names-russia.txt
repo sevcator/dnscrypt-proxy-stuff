@@ -11,6 +11,7 @@
 02ip.ru
 04xmhp.ru
 0pn.ru
+0topdownloadsld2l1ytilg.freshtorrent.ru
 1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
 1013a--ma--10204--cp1.stbid.ru
 1013a--ma--10204--cp12.stbid.ru
@@ -57,7 +58,9 @@
 11253649--15722194-111-mnews.ms.vk.com
 1125853--46042333-111-mnews.ms.vk.com
 1126515--46042333-111-mnews.ms.vk.com
+11279648--15722194-111-mnews.ms.vk.com
 1128761--46042333-111-mnews.ms.vk.com
+11294196--15722194-111-mnews.ms.vk.com
 1168468--46042333-111-mnews.ms.vk.com
 1179258--46042333-111-mnews.ms.vk.com
 118113--148515594-111-mnews.ms.vk.com
@@ -100,6 +103,7 @@
 1541252--176841276-111-mnews.ms.vk.com
 1555445--176841276-111-mnews.ms.vk.com
 156921--2357771-111-mnews.ms.vk.com
+1569908--176841276-111-mnews.ms.vk.com
 160061--99021016-111-mnews.ms.vk.com
 162719--99021016-111-mnews.ms.vk.com
 162738--99021016-111-mnews.ms.vk.com
@@ -119,6 +123,7 @@
 1pamm.ru
 1stat.ru
 1xstavka.ru
+2020583--25280329-111-mnews.ms.vk.com
 204570--95380917-111-mnews.ms.vk.com
 21040.beacon.alice.yandex.ru
 23112.ms.vk.com
@@ -188,6 +193,7 @@
 501774--16980751-111-mnews.ms.vk.com
 503663--32943546-111-mnews.ms.vk.com
 504887--32943546-111-mnews.ms.vk.com
+506818--32943546-111-mnews.ms.vk.com
 5163250--35068738-111-mnews.ms.vk.com
 5171985--43618728-111-mnews.ms.vk.com
 5226474--35068738-111-mnews.ms.vk.com
@@ -231,6 +237,7 @@
 652221.ms.vk.com
 6i7y3i.ru
 6rn05mmbct.ru
+6yd.ru
 7167434--26284064-111-mnews.ms.vk.com
 7181268--26284064-111-mnews.ms.vk.com
 77055--21560979-111-mnews.ms.vk.com
@@ -268,14 +275,18 @@
 8363540--152992737-111-mnews.ms.vk.com
 8366852--152992737-111-mnews.ms.vk.com
 8368076--152992737-111-mnews.ms.vk.com
+8434477--152992737-111-mnews.ms.vk.com
 8446187--152992737-111-mnews.ms.vk.com
 84534--21560979-111-mnews.ms.vk.com
 8468096--152992737-111-mnews.ms.vk.com
 8469132--152992737-111-mnews.ms.vk.com
+8498999--152992737-111-mnews.ms.vk.com
+8501848--152992737-111-mnews.ms.vk.com
 87108--24472133-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
 90916--148515594-111-mnews.ms.vk.com
+91spzx.ru
 931131.log.rutube.ru
 931221.log.rutube.ru
 931222.log.rutube.ru
@@ -303,7 +314,6 @@ a.wb.ru
 a.winline.ru
 a0.smi2.ru
 a0.top.list.ru
-a0.top.mail.ru
 a1.smi2.ru
 a24help.ru
 a3.smi2.ru
@@ -458,8 +468,10 @@ auth.sape.ru
 auth.tlauncher.ru
 auto.yuga.ru
 autocontext.begun.ru
+autofill.yandex.ru
 autoru-mag.s3.yandex.net
 autous.ru
+avito.0topdownloadsld2l1ytilg.freshtorrent.ru
 avr.i-trailer.ru
 avramstroy.ru
 awaps.yandex.net
@@ -526,6 +538,7 @@ c4.be.a0.top.list.ru
 cabinet.adzone.ru
 callback.onlinepbx.ru
 callibri.ru
+castlehost.ru
 catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
@@ -654,6 +667,7 @@ dct.mango-office.ru
 delta.mediafort.ru
 demo.punchmedia.ru
 detmir-stats.ru
+dialtest.ru
 dienai.ru
 digitaltarget.ru
 direct.yandex.net
@@ -735,6 +749,7 @@ flyroll.ru
 fmon.citilink.ru
 forextimes.ru
 free-gluten.ru
+freshtorrent.ru
 frontlog.tutu.ru
 frontmetrics.tutu.ru
 g4blin.ru
@@ -942,6 +957,7 @@ metrika.mos.ru
 metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
+microsoftnet.ru
 minimo.callibri.ru
 mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
@@ -960,6 +976,7 @@ modato.ru
 module.callibri.ru
 momijoy.ru
 mon.avito.ru
+moo.6yd.ru
 morereferatov.ru
 motoren.ru
 movies5.fox-fan.ru
@@ -1009,6 +1026,7 @@ optawa.ru
 originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
+otopdownloadsid211ytilg.freshtorrent.ru
 otvet.radar.imgsmail.ru
 p.winline.ru
 pageservice-drru.dt.dbankcloud.ru
@@ -1017,6 +1035,7 @@ parking.reg.ru
 partner.market.yandex.ru
 partner.yandex.ru
 partners.sbermarketing.ru
+pay.0topdownloadsld2l1ytilg.freshtorrent.ru
 pb.adriver.ru
 pbnet.ru
 pcyk.ru
@@ -1324,6 +1343,7 @@ tags.adriver.ru
 tags.soloway.ru
 tapstat.ru
 tbmods.ru
+tcmosfilmovskiy.ru
 teaserfast.ru
 teasers.ru
 tech.punchmedia.ru
@@ -1556,6 +1576,7 @@ yabs.yandex.ru
 yadro.ru
 yast.rutube.ru
 yhzn0f.ru
+ymj6ixnzd4.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

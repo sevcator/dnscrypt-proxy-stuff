@@ -69,6 +69,7 @@
 11463509--15722194-111-mnews.ms.vk.com
 11463813--15722194-111-mnews.ms.vk.com
 11515575--15722194-111-mnews.ms.vk.com
+11570266--15722194-111-mnews.ms.vk.com
 1168468--46042333-111-mnews.ms.vk.com
 1179258--46042333-111-mnews.ms.vk.com
 118113--148515594-111-mnews.ms.vk.com
@@ -336,7 +337,6 @@ a.ucoz.ru
 a.wb.ru
 a0.smi2.ru
 a0.top.list.ru
-a0.top.mail.ru
 a1.smi2.ru
 a24help.ru
 a3.smi2.ru
@@ -760,10 +760,10 @@ fcgi5.2xclick.ru
 fcgi5.gnezdo.ru
 fcgi7.gnezdo.ru
 feeds.kommersant.ru
+feme.ru
 ff.astv.ru
 filedrive.nocoshop.ru
 filekeeper.nocoshop.ru
-files.videonow.ru
 filestation.nocoshop.ru
 filmplus.ru
 fin-banners-bt.wildberries.ru
@@ -862,6 +862,7 @@ indetiske.ya.ru
 inetlog.ru
 info-dvd.ru
 info.kinoclub77.ru
+infoclicker.ru
 informer.yandex.ru
 init.videonow.ru
 injectroblox.ru
@@ -897,7 +898,6 @@ kontaktm34.ru
 kontrolnaya-rabota.ru
 kraken.ad-tech.ru
 kraken.rambler.ru
-kremz.ru
 kurganobl.ru
 kz.tns-counter.ru
 l.utorria.ru
@@ -1342,7 +1342,6 @@ stats.rustore.ru
 stats.skrinshoter.ru
 stats2.videonow.ru
 stavkiprognozy.ru
-steam-account.ru
 stmtag.ru
 store-sentry.vkplay.ru
 stream.datago.ru
@@ -1430,6 +1429,7 @@ ukrashulya.ru
 unisound.cdnvideo.ru
 unlockers.ru
 upandshare.nocoshop.ru
+upsrv.ru
 uptime-info.yandex.ru
 uptolike.ru
 userator.ru
@@ -1477,7 +1477,6 @@ wavesend.ru
 wcm.weborama-tech.ru
 weatherarchive.ru
 web-metrica.yandex.ru
-web-metrics.cdek.ru
 web-static-no-content.g.mindbox.ru
 web-static-no-content.s.mindbox.ru
 web-static.mindbox.ru
@@ -1569,6 +1568,7 @@ www.otclick-adv.ru
 www.popunder.ru
 www.pr-cy.ru
 www.pricelib.ru
+www.propan.ru
 www.redirect.appmetrica.yandex.com
 www.saf-oil.ru
 www.startup.mobile.yandex.net

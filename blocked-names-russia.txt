@@ -15,7 +15,6 @@
 1013a--ma--10204--cp1.stbid.ru
 101flag.ru
 102954.wavesend.ru
-10379226--15722194-111.news.ms.vk.com
 104898--148515594-111-mnews.ms.vk.com
 10841875--15722194-111-mnews.ms.vk.com
 10876262--15722194-111-mnews.ms.vk.com
@@ -36,6 +35,7 @@
 11034620--15722194-111-mnews.ms.vk.com
 11038122--15722194-111-mnews.ms.vk.com
 11040837--15722194-111-mnews.ms.vk.com
+11047680--26493942-111-mnews.ms.vk.com
 11051462--15722194-111-mnews.ms.vk.com
 11063140--15722194-111-mnews.ms.vk.com
 11072861--15722194-111-mnews.ms.vk.com
@@ -73,6 +73,7 @@
 11578838--15722194-111-mnews.ms.vk.com
 11591865--15722194-111-mnews.ms.vk.com
 11594196--15722194-111-mnews.ms.vk.com
+11628922--15722194-111-mnews.ms.vk.com
 1168468--46042333-111-mnews.ms.vk.com
 1179258--46042333-111-mnews.ms.vk.com
 118113--148515594-111-mnews.ms.vk.com
@@ -129,6 +130,7 @@
 167590--148515594-111-mnews.ms.vk.com
 181577--99021016-111-mnews.ms.vk.com
 184399--99021016-111-mnews.ms.vk.com
+184546--148515594-111-mnews.ms.vk.com
 1886379--25280329-111-mnews.ms.vk.com
 1892297--25280329-111-mnews.ms.vk.com
 189976--99021016-111-mnews.ms.vk.com
@@ -152,6 +154,8 @@
 2128517--25280329-111-mnews.ms.vk.com
 2136909--25280329-111-mnews.ms.vk.com
 2173278--25280329-111-mnews.ms.vk.com
+2194103--25280329-111-mnews.ms.vk.com
+2194103--25280329-111.news.ms.vk.com
 23112.ms.vk.com
 23123727--24199209-111-mnews.ms.vk.com
 23212.ms.vk.com
@@ -228,6 +232,9 @@
 5226474--35068738-111-mnews.ms.vk.com
 5244972--43618728-111-mnews.ms.vk.com
 5257446--35068738-111-mnews.ms.vk.com
+5261258--43618728-111-mnews.ms.vk.com
+5261258--43618728-111.news.ms.vk.com
+5267306--43618728-111-mnews.ms.vk.com
 531111.ms.dzen.ru
 531121.ms.dzen.ru
 531211.ms.dzen.ru
@@ -334,7 +341,6 @@
 952212.log.rutube.ru
 971845--38168721-111-mnews.ms.vk.com
 9levl1.ru
-a.mt.ru
 a.mts.ru
 a.pikabu.ru
 a.ria.ru
@@ -797,7 +803,6 @@ gigamega.ru
 girlporn.ru
 gjv7fg.ru
 gk7qlc.ru
-globalscience.ru
 glopages.ru
 gnezdo.ru
 gold-meat.ru
@@ -808,7 +813,6 @@ goya.rutube.ru
 grafana.bot.dekma-gay.ru
 greatgrace.ru
 grs-pub.platform.dbankcloud.ru
-gru0z6.ru
 gso.amocrm.ru
 gw.botfaqtor.ru
 gw2.botfaqtor.ru
@@ -864,6 +868,7 @@ img.yuga.ru
 img0.liveinternet.ru
 img01.ad-tech.ru
 img1.advertology.ru
+imobilco.ru
 impression.appmetrica.yandex.com
 indetiske.ya.ru
 inetlog.ru
@@ -937,6 +942,7 @@ logs.profi.ru
 logservice-drru.dt.dbankcloud.ru
 loki.maximonline.ru
 loyalty-sentry.dixy.ru
+lp.mobiletracking.ru
 m-api.a.mts.ru
 m-cm.a.mts.ru
 m.7ooo.ru
@@ -960,7 +966,6 @@ matomo.datago.ru
 matomo.finam.ru
 matomo.tutu.ru
 matomo.x5.ru
-mayak01.ru
 maylohack.ru
 mb9pzp.ru
 mc.kinopoisk.ru
@@ -1027,7 +1032,6 @@ nbh0sl.ru
 nel.wb.ru
 neobasnet.timeout.ru
 neosap.ru
-netlog.ru
 news.2xclick.ru
 news.gnezdo.ru
 news.gnezdo2.ru
@@ -1060,6 +1064,7 @@ originx.adeeply.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
+p.winline.ru
 pageservice-drru.dt.dbankcloud.ru
 paradocs.ru
 parking.reg.ru
@@ -1177,6 +1182,7 @@ rum2.cdnvideo.ru
 rum3.cdnvideo.ru
 rum4.cdnvideo.ru
 rum5.cdnvideo.ru
+rum6.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
 russianlanguage.swing-zone.com
@@ -1202,7 +1208,6 @@ seeky.adeeply.ru
 selec1.adriver.ru
 sendbox.nocoshop.ru
 sentry-api.sberdevices.ru
-sentry-front.pik-infra.ru
 sentry-ingest.kuper.ru
 sentry-mobile-ingest.kuper.ru
 sentry-mobile.alfabank.ru
@@ -1360,7 +1365,6 @@ sur.gorodkirov.ru
 svk-native.ru
 swft.vedomosti.ru
 sync.ad-tech.ru
-sync.adplay.ru
 sync.opendsp.ru
 sync.rambler.ru
 sync.videonow.ru
@@ -1516,7 +1520,7 @@ winlinebet.ru
 wmcasher.ru
 wolist.ru
 wordstat.yandex.ru
-workspay.ru
+work5.ru
 wowlink.ru
 wrc-info.ru
 ws.callibri.ru
@@ -1580,7 +1584,6 @@ www.redirect.appmetrica.yandex.com
 www.saf-oil.ru
 www.startup.mobile.yandex.net
 www.tinka.ru
-www.tnative.ru
 www.tns-counter.ru
 www.toptracker.ru
 www.udobrit.ru

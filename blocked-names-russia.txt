@@ -186,6 +186,7 @@
 28yw0a.ru
 296520--128234813-111-mnews.ms.vk.com
 301292--128234813-111-mnews.ms.vk.com
+309455--128234813-111-mnews.ms.vk.com
 317729.redirect.appmetrica.yandex.com
 323979--14801674-111-mnews.ms.vk.com
 33212.ms.vk.com
@@ -365,7 +366,6 @@ actionpay.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.mail.ru
@@ -1182,7 +1182,6 @@ rum2.cdnvideo.ru
 rum3.cdnvideo.ru
 rum4.cdnvideo.ru
 rum5.cdnvideo.ru
-rum6.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
 russianlanguage.swing-zone.com
@@ -1447,7 +1446,6 @@ userator.ru
 usercenter-drru.dt.dbankcloud.ru
 utarget.ru
 utorria.ru
-uucyc.ru
 uzbek-film.ru
 uznatpochemu.ru
 v.adfox.ru
@@ -1504,7 +1502,6 @@ wf-ru-frontend.weborama-tech.ru
 whiteboxdigital.ru
 whiteline.mail.ru
 widget.adplay.ru
-widget.cleversite.ru
 widget.info-app5shs.ru
 widget.info-static.ru
 widget.kassa.rambler.ru

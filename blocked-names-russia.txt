@@ -159,6 +159,7 @@
 2194103--25280329-111.news.ms.vk.com
 2230150--25280329-111-mnews.ms.vk.com
 2245365--25280329-111-mnews.ms.vk.com
+2247728--25280329-111-mnews.ms.vk.com
 23112.ms.vk.com
 23123727--24199209-111-mnews.ms.vk.com
 23212.ms.vk.com
@@ -171,6 +172,7 @@
 2360895--35647551-111-mnews.ms.vk.com
 2365300--35647551-111-mnews.ms.vk.com
 2370648--35647551-111-mnews.ms.vk.com
+2403263--35647551-111-mnews.ms.vk.com
 240397--177936254-111-mnews.ms.vk.com
 24112.ms.vk.com
 24212.ms.vk.com
@@ -346,6 +348,7 @@
 952212.log.rutube.ru
 971845--38168721-111-mnews.ms.vk.com
 993520--38168721-111-mnews.ms.vk.com
+9jdco01e.ru
 9levl1.ru
 a.mt.ru
 a.mts.ru
@@ -388,6 +391,7 @@ adfstat.yandex.ru
 adhands.ru
 adm.dimonvideo.ru
 admediator.ru
+admetr.ru
 admigo.ru
 admile.ru
 admin.verbox.ru
@@ -442,6 +446,7 @@ af.click.ru
 aflink.ru
 aflt.market.yandex.ru
 agency2.ru
+agentis.ru
 ai.technocore.ru
 aifishki.ru
 aiyandex.com
@@ -501,6 +506,7 @@ apptracer.ru
 ar.tns-counter.ru
 aristo.ru
 armconsul.ru
+arsenal-sb.ru
 ask-gps.ru
 asr.openssp.ru
 audi-club.ru
@@ -548,6 +554,8 @@ be.a0.top.list.ru
 beacon.alice.yandex.ru
 bee-cake.ru
 begun.ru
+bender-search.ru
+bestmasterportal.ru
 bestveb.ru
 beta.mediafort.ru
 bfds.sberbank.ru
@@ -562,10 +570,12 @@ bn.winlinebet.ru
 bonuscake.ru
 borzjournal.ru
 botfaqtor.ru
+brand-search.ru
 browser-updater.yandex.net
 bs-dante.ru
 bs-meta.yandex.ru
 bs-metadsp.yandex.ru
+bs.adservings.ru
 bs.orsk.ru
 bs.serving-sys.ru
 bs.yandex.ru
@@ -573,6 +583,7 @@ budgetrussia.com
 budvawshes.ru
 bugpuk.ru
 bvl5bziz9d.ru
+c.admetr.ru
 c.botfaqtor.ru
 c.sibnet.ru
 c.snsv.ru
@@ -726,6 +737,7 @@ dmp.mpsuadv.ru
 dmp.sbermarketing.ru
 dmrussia-kubernetes-744b7742.cs299.cdn-settings.appsflyersdk.com
 dnkeeper-drru.platform.dbankcloud.ru
+donarch.ru
 doprodavec.ru
 doptik.ru
 dowonline.ru
@@ -749,6 +761,7 @@ easy.au.ru
 easyfiles.nocoshop.ru
 ece8c2alhz.ru
 edirect.efind.ru
+ee77red.ru
 effad.ru
 egg.afisha.ru
 eimage.sendsay.ru
@@ -777,6 +790,7 @@ ezstat.ru
 f.gdeslon.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fabrikamebelispb.ru
+fast-fox.ru
 fast2load.ru
 fastfine.ru
 faststat.advideo.ru
@@ -793,9 +807,11 @@ filestation.nocoshop.ru
 filmplus.ru
 fin-banners-bt.wildberries.ru
 finpremium.ru
+floor-trade.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
+fondihlas.ru
 forextimes.ru
 free-gluten.ru
 frontlog.tutu.ru
@@ -814,6 +830,7 @@ getads.ru
 getyoursoft.ru
 gigamega.ru
 girlporn.ru
+giuediaudnudunfo.ru
 gjv7fg.ru
 gk7qlc.ru
 global.slon-e.ru
@@ -832,6 +849,7 @@ gw2.botfaqtor.ru
 h21.ru
 ha-front.wavesend.ru
 haproxy-api-yc-v3-lb.mindbox.ru
+helpadmins.ru
 heroeswm.ru
 hhcdn.ru
 hit.28yw0a.ru
@@ -893,6 +911,7 @@ injectroblox.ru
 innovation-lab.ru
 inplayer.ru
 instreamvideo.ru
+intertrade-msk.ru
 intimshop.ru
 ip4.tracker-api.vk-analytics.ru
 ipc-ext.s3.yandex.net
@@ -902,6 +921,7 @@ ipgraber.ru
 iplis.ru
 iplogger.ru
 is.luxup.ru
+iworknet.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
@@ -1058,8 +1078,10 @@ nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 ntvk1.ru
 nytva-nmz.ru
 o24o.ru
+obr-khv.ru
 obs.mts.ru
 obzortytvesty.ru
+ofytcx99yi.ru
 ogeri.ru
 ogtz5yn2u1.ru
 ohmybid-sync.rutarget.ru
@@ -1075,6 +1097,7 @@ optawa.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
+oxyhealth.ru
 p.winline.ru
 pageservice-drru.dt.dbankcloud.ru
 paradocs.ru
@@ -1085,11 +1108,11 @@ partners.sbermarketing.ru
 pb.adriver.ru
 pbnet.ru
 pcyk.ru
+penza-job.ru
 peopletouch.ru
 personalization-speedtest.g.mindbox.ru
 personalization-web-stable.mindbox.ru
 personalization-web.g.mindbox.ru
-personalization-web.s.mindbox.ru
 philjournal.ru
 piper.amocrm.ru
 pixel.ad-tech.ru
@@ -1170,6 +1193,7 @@ res.tlauncher.ru
 rezale.ru
 riabir.ru
 richmedia.wavesend.ru
+rkphklelf.ru
 rmbn.ru
 rmetrics.ru
 rosenberg.appmetrica.yandex.net
@@ -1253,6 +1277,7 @@ sentry.webinar.ru
 sentry.winline.ru
 sentry.x5.ru
 seo-service.domclick.ru
+sertuslugi.ru
 serval.getads.ru
 servers1.adriver.ru
 servers10.adriver.ru
@@ -1344,6 +1369,7 @@ static.a.mts.ru
 static.banner.aismo.ru
 static.bs-dante.ru
 static.calltouch.ru
+static.floor-trade.ru
 static.marketolog.mts.ru
 static.me-talk.ru
 static.nativerent.ru
@@ -1394,6 +1420,7 @@ tech.punchmedia.ru
 tech.rtb.mts.ru
 tech.yandex.com
 tehno-politen.ru
+tek-sa.ru
 telemetry.detmir.ru
 telemetry.domclick.ru
 telemetry.dzen.ru
@@ -1505,6 +1532,7 @@ web.redhelper.ru
 webim2.ru
 webkurchatov.ru
 weborama-tech.ru
+webpush-images.mindbox.ru
 webpush-imgproxy.g.mindbox.ru
 websurf.ru
 wemadepro.ru
@@ -1587,6 +1615,8 @@ www.motoren.ru
 www.myjulia.ru
 www.obzortytvesty.ru
 www.otclick-adv.ru
+www.oxyhealth.ru
+www.penza-job.ru
 www.popunder.ru
 www.pr-cy.ru
 www.pricelib.ru
@@ -1594,6 +1624,7 @@ www.propan.ru
 www.redirect.appmetrica.yandex.com
 www.saf-oil.ru
 www.startup.mobile.yandex.net
+www.tek-sa.ru
 www.tinka.ru
 www.tns-counter.ru
 www.toptracker.ru

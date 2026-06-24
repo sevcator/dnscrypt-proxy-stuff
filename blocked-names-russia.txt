@@ -124,6 +124,7 @@
 160061--99021016-111-mnews.ms.vk.com
 1603506--176841276-111-mnews.ms.vk.com
 162719--99021016-111-mnews.ms.vk.com
+162733--2357771-111-mnews.ms.vk.com
 162738--99021016-111-mnews.ms.vk.com
 162810--99021016-111-mnews.ms.vk.com
 162979--211664435-111-mnews.ms.vk.com
@@ -201,7 +202,6 @@
 317729.redirect.appmetrica.yandex.com
 323979--14801674-111-mnews.ms.vk.com
 33212.ms.vk.com
-33312.ms.vk.com
 33412.ms.vk.com
 33512.ms.vk.com
 34212.ms.vk.com
@@ -210,7 +210,6 @@
 346034--19928749-111-mnews.ms.vk.com
 3474082.redirect.appmetrica.yandex.com
 35212.ms.vk.com
-35312.ms.vk.com
 35412.ms.vk.com
 383729--49246642-111-mnews.ms.vk.com
 3842343--755816-111-mnews.ms.vk.com
@@ -381,7 +380,6 @@ actionpay.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.mail.ru
@@ -411,7 +409,6 @@ adriver.ru
 adrun.ru
 ads-gdl.imovideo.ru
 ads-media.wildberries.ru
-ads-storage-avito.cdnvideo.ru
 ads-storage.avito.ru
 ads.adfox.ru
 ads.adtec.ru
@@ -465,7 +462,6 @@ allstat-pp.ru
 alt-cloud.radar.imgsmail.ru
 altergeo.ru
 alternativas.ru
-altezza-club.ru
 alytics.ru
 amc.yandex.ru
 amp.smi2.ru
@@ -564,11 +560,9 @@ beta.mediafort.ru
 bfds.sberbank.ru
 bid.adx.com.ru
 bidder.rutarget.ru
-biznesplan26.ru
 bjtajoox.ru
 blocked.botfaqtor.ru
 blog.sape.ru
-blogs.softodrom.ru
 bn.winlinebet.ru
 bonuscake.ru
 borzjournal.ru
@@ -620,10 +614,8 @@ cdn.snsv.ru
 cdn2.adplay.ru
 cdn2.adrun.ru
 cdnrtbsape.ru
-cgig.ru
 checker.cityads.ru
 checks.botfaqtor.ru
-chiptuner.ru
 cityads.ru
 ckct.ru
 clck.dzen.ru
@@ -786,7 +778,6 @@ ezstat.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fabrikamebelispb.ru
 fast2load.ru
-fastfine.ru
 faststat.advideo.ru
 fcgi4.gnezdo.ru
 fcgi5.2xclick.ru
@@ -920,7 +911,6 @@ js.smi2.ru
 js.yuga.ru
 justclick.ru
 jux9ms4vc7.ru
-kamint.ru
 kavanga.ru
 kayrachemicals.ru
 kevents.auth.gid.ru
@@ -930,7 +920,6 @@ kontaktm34.ru
 kontrolnaya-rabota.ru
 kraken.ad-tech.ru
 kraken.rambler.ru
-kurganobl.ru
 kz.tns-counter.ru
 l.utorria.ru
 l2top.ru
@@ -1094,7 +1083,6 @@ peopletouch.ru
 personalization-speedtest.g.mindbox.ru
 personalization-web-stable.mindbox.ru
 personalization-web.g.mindbox.ru
-philjournal.ru
 piper.amocrm.ru
 pixel.ad-tech.ru
 pixel.adlooxtracking.ru
@@ -1171,7 +1159,6 @@ report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
 rezale.ru
-riabir.ru
 richmedia.wavesend.ru
 rmbn.ru
 rmetrics.ru
@@ -1196,7 +1183,6 @@ rum2.cdnvideo.ru
 rum3.cdnvideo.ru
 rum4.cdnvideo.ru
 rum5.cdnvideo.ru
-rum6.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
 russianlanguage.swing-zone.com
@@ -1288,18 +1274,13 @@ snsv.ru
 sntr.avito.ru
 sntr.lifehacker.ru
 sobolev.net.ru
-sobory.ru
 socgate.ru
 socialsend.ru
-softboard.ru
 softcatalog.ru
-softodrom.ru
-softout.ru
 soglkuki.prolexgroup.ru
 soloway.ru
 somicrososoft.ru
 sopr-api.cian.ru
-southrap.ru
 sovetnik.market.yandex.ru
 sp.aviasales.ru
 sparrow.ru
@@ -1323,7 +1304,6 @@ stafftest.ru
 startup-mobile.ap.yandex-net.ru
 startup.mobile.yandex.net
 stat-analytics.mediavitrina.ru
-stat.5-tv.ru
 stat.adrun.ru
 stat.adtec.ru
 stat.advideo.ru
@@ -1484,7 +1464,6 @@ vihub.ru
 vipko.ru
 visor.sberbank.ru
 vmkxcsss.ru
-vnikitskom.ru
 vp.rambler.ru
 vsem.ru
 vseobuch.ru
@@ -1495,7 +1474,6 @@ vzarabotke.ru
 w.rulive.ru
 wavesend.ru
 wcm.weborama-tech.ru
-weatherarchive.ru
 web-metrica.yandex.ru
 web-static-no-content.g.mindbox.ru
 web-static-no-content.s.mindbox.ru
@@ -1515,7 +1493,6 @@ wf-ru-frontend.weborama-tech.ru
 whiteboxdigital.ru
 whiteline.mail.ru
 widget.adplay.ru
-widget.info-app5shs.ru
 widget.info-static.ru
 widget.kassa.rambler.ru
 widget.lawyer-feedot.ru
@@ -1603,7 +1580,6 @@ www.toptracker.ru
 www.unlockers.ru
 www.uzbek-film.ru
 www.videonow.ru
-www.weatherarchive.ru
 www.wemadepro.ru
 www.wm-goldenclick.ru
 www.wordstat.yandex.ru
@@ -1612,7 +1588,6 @@ www.yandex.com
 www.yandex.net
 www.yuga.ru
 wwwomen.ru
-x0c.ru
 x81p4z.ru
 xamubee.ru
 xcec.ru
@@ -1622,13 +1597,11 @@ y8lsyibocd.ru
 ya-distrib.ru
 yabs.yandex.ru
 yadro.ru
-yandex.blablacar.membership-amazion-id184645.elearningmine.com
 yandex.slid3.com
 yast.rutube.ru
 yhzn0f.ru
 yuga.ru
 zachestnyibiznes.ru
-zags.kurganobl.ru
 zen-mobile-site.mediascope.mc.yandex.ru
 zippyfiles.nocoshop.ru
 znate.ru

@@ -12,6 +12,7 @@
 04xmhp.ru
 0pn.ru
 1000336--38168721-111-mnews.ms.vk.com
+1003471--38168721-111-mnews.ms.vk.com
 1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
 1013a--ma--10204--cp1.stbid.ru
 101flag.ru
@@ -219,6 +220,8 @@
 423.ru
 4237138.redirect.appmetrica.yandex.com
 43212.ms.vk.com
+43311.ms.vk.com
+44311.ms.vk.com
 45212.ms.vk.com
 45950.wavesend.ru
 4635284--17862264-111-mnews.ms.vk.com
@@ -512,7 +515,6 @@ ask-gps.ru
 asr.openssp.ru
 audi-club.ru
 audience.yandex.ru
-auth.sape.ru
 auth.tlauncher.ru
 auto.yuga.ru
 autocontext.begun.ru
@@ -563,6 +565,7 @@ bidder.rutarget.ru
 bjtajoox.ru
 blocked.botfaqtor.ru
 blog.sape.ru
+bms-cloud.ru
 bn.winlinebet.ru
 bonuscake.ru
 borzjournal.ru
@@ -673,6 +676,7 @@ counter.yadro.ru
 counter.yandex.com
 counter.yandex.ru
 counters.adriver.ru
+covid-19.wp20.ru
 cp.onicon.ru
 cpa-elements.rambler.ru
 cpa.hh.ru
@@ -788,6 +792,7 @@ ff.astv.ru
 ffoeefsheuesihfo.ru
 filedrive.nocoshop.ru
 filekeeper.nocoshop.ru
+files1.igry.ru
 filestation.nocoshop.ru
 filmplus.ru
 fin-banners-bt.wildberries.ru
@@ -869,6 +874,7 @@ icyh3e.ru
 id.adx.com.ru
 id.google.ru
 ideibiznesa2015.ru
+igry.ru
 im-sentry.sportmaster.ru
 image.prlog.ru
 image.sendsay.ru
@@ -903,6 +909,7 @@ is.luxup.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
+job-info.ru
 jordan.qunis.ru
 journal-bt.wildberries.ru
 jps.ru
@@ -930,7 +937,6 @@ ldoe-analytics.kefirgames.ru
 leadback.ru
 leadball.ru
 leadgid.ru
-leadgidads.ru
 leadhit.ru
 leboard.ru
 lenta.2xclick.ru
@@ -954,6 +960,7 @@ logservice-drru.dt.dbankcloud.ru
 loki.maximonline.ru
 loyalty-sentry.dixy.ru
 lp.mobiletracking.ru
+lvtroy.ru
 m-api.a.mts.ru
 m-cm.a.mts.ru
 m.leboard.ru
@@ -1021,6 +1028,7 @@ module.callibri.ru
 momijoy.ru
 mon.avito.ru
 morereferatov.ru
+morphed.ru
 motoren.ru
 movies5.fox-fan.ru
 mps.tlauncher.ru
@@ -1103,6 +1111,7 @@ popunder.ru
 popupclick.ru
 posthog.livelib.ru
 prbn.ru
+pressms.ru
 pricelib.ru
 privacy-cs.mail.ru
 prlog.ru
@@ -1371,6 +1380,7 @@ tags.adriver.ru
 tags.soloway.ru
 tapstat.ru
 tbmods.ru
+tbn.ru
 teasers.ru
 tech.punchmedia.ru
 tech.rtb.mts.ru
@@ -1417,6 +1427,7 @@ trk.adeeply.ru
 trk.mail.ru
 trkleads.ru
 ts.tracker-api.vk-analytics.ru
+tsidfrri.ru
 tt.ttarget.ru
 ttarget.ru
 turbobit.nocoshop.ru
@@ -1509,6 +1520,7 @@ wolist.ru
 wordstat.yandex.ru
 work5.ru
 wowlink.ru
+wp20.ru
 wrc-info.ru
 ws.callibri.ru
 ws.calltouch.ru
@@ -1597,11 +1609,13 @@ y8lsyibocd.ru
 ya-distrib.ru
 yabs.yandex.ru
 yadro.ru
+yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.slid3.com
 yast.rutube.ru
 yhzn0f.ru
 yuga.ru
 zachestnyibiznes.ru
+zalive-akvilon.ru
 zen-mobile-site.mediascope.mc.yandex.ru
 zippyfiles.nocoshop.ru
 znate.ru

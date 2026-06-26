@@ -13,6 +13,7 @@
 0pn.ru
 1000336--38168721-111-mnews.ms.vk.com
 1003471--38168721-111-mnews.ms.vk.com
+1005628--38168721-111-mnews.ms.vk.com
 1010--2072b79a-41a4-4c05-b5a2-14f99d1abf69.stbid.ru
 1013a--ma--10204--cp1.stbid.ru
 101flag.ru
@@ -223,6 +224,7 @@
 43311.ms.vk.com
 44311.ms.vk.com
 45212.ms.vk.com
+45311.ms.vk.com
 45950.wavesend.ru
 4635284--17862264-111-mnews.ms.vk.com
 4646919--17862264-111-mnews.ms.vk.com
@@ -465,7 +467,7 @@ allstat-pp.ru
 alt-cloud.radar.imgsmail.ru
 altergeo.ru
 alternativas.ru
-alytics.ru
+altezza-club.ru
 amc.yandex.ru
 amp.smi2.ru
 ampcid.google.ru
@@ -509,7 +511,6 @@ appmetrica.yandex.ru
 appmetrika.yandex.ru
 apptracer.ru
 ar.tns-counter.ru
-aristo.ru
 armconsul.ru
 ask-gps.ru
 asr.openssp.ru
@@ -562,10 +563,10 @@ beta.mediafort.ru
 bfds.sberbank.ru
 bid.adx.com.ru
 bidder.rutarget.ru
+biznesplan26.ru
 bjtajoox.ru
 blocked.botfaqtor.ru
 blog.sape.ru
-bms-cloud.ru
 bn.winlinebet.ru
 bonuscake.ru
 borzjournal.ru
@@ -617,8 +618,10 @@ cdn.snsv.ru
 cdn2.adplay.ru
 cdn2.adrun.ru
 cdnrtbsape.ru
+cgig.ru
 checker.cityads.ru
 checks.botfaqtor.ru
+chiptuner.ru
 cityads.ru
 ckct.ru
 clck.dzen.ru
@@ -782,6 +785,7 @@ ezstat.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fabrikamebelispb.ru
 fast2load.ru
+fastfine.ru
 faststat.advideo.ru
 fcgi4.gnezdo.ru
 fcgi5.2xclick.ru
@@ -792,7 +796,6 @@ ff.astv.ru
 ffoeefsheuesihfo.ru
 filedrive.nocoshop.ru
 filekeeper.nocoshop.ru
-files1.igry.ru
 filestation.nocoshop.ru
 filmplus.ru
 fin-banners-bt.wildberries.ru
@@ -874,7 +877,6 @@ icyh3e.ru
 id.adx.com.ru
 id.google.ru
 ideibiznesa2015.ru
-igry.ru
 im-sentry.sportmaster.ru
 image.prlog.ru
 image.sendsay.ru
@@ -909,7 +911,6 @@ is.luxup.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
-job-info.ru
 jordan.qunis.ru
 journal-bt.wildberries.ru
 jps.ru
@@ -918,6 +919,7 @@ js.smi2.ru
 js.yuga.ru
 justclick.ru
 jux9ms4vc7.ru
+kamint.ru
 kavanga.ru
 kayrachemicals.ru
 kevents.auth.gid.ru
@@ -927,6 +929,8 @@ kontaktm34.ru
 kontrolnaya-rabota.ru
 kraken.ad-tech.ru
 kraken.rambler.ru
+kremz.ru
+kurganobl.ru
 kz.tns-counter.ru
 l.utorria.ru
 l2top.ru
@@ -1091,6 +1095,7 @@ peopletouch.ru
 personalization-speedtest.g.mindbox.ru
 personalization-web-stable.mindbox.ru
 personalization-web.g.mindbox.ru
+philjournal.ru
 piper.amocrm.ru
 pixel.ad-tech.ru
 pixel.adlooxtracking.ru
@@ -1168,6 +1173,7 @@ report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
 rezale.ru
+riabir.ru
 richmedia.wavesend.ru
 rmbn.ru
 rmetrics.ru
@@ -1283,13 +1289,17 @@ snsv.ru
 sntr.avito.ru
 sntr.lifehacker.ru
 sobolev.net.ru
+sobory.ru
 socgate.ru
 socialsend.ru
+softboard.ru
 softcatalog.ru
+softout.ru
 soglkuki.prolexgroup.ru
 soloway.ru
 somicrososoft.ru
 sopr-api.cian.ru
+southrap.ru
 sovetnik.market.yandex.ru
 sp.aviasales.ru
 sparrow.ru
@@ -1475,6 +1485,7 @@ vihub.ru
 vipko.ru
 visor.sberbank.ru
 vmkxcsss.ru
+vnikitskom.ru
 vp.rambler.ru
 vsem.ru
 vseobuch.ru
@@ -1485,6 +1496,7 @@ vzarabotke.ru
 w.rulive.ru
 wavesend.ru
 wcm.weborama-tech.ru
+weatherarchive.ru
 web-metrica.yandex.ru
 web-static-no-content.g.mindbox.ru
 web-static-no-content.s.mindbox.ru
@@ -1497,6 +1509,7 @@ webkurchatov.ru
 weborama-tech.ru
 webpush-images.mindbox.ru
 webpush-imgproxy.g.mindbox.ru
+webstat.profi.ru
 websurf.ru
 wemadepro.ru
 weupload.nocoshop.ru
@@ -1512,7 +1525,6 @@ widget.sparrow.ru
 widgets.livetex.ru
 widgets.planeta.ru
 widgets.rankw.ru
-wiki.alytics.ru
 winline.ru
 winlinebet.ru
 wmcasher.ru
@@ -1592,6 +1604,7 @@ www.toptracker.ru
 www.unlockers.ru
 www.uzbek-film.ru
 www.videonow.ru
+www.weatherarchive.ru
 www.wemadepro.ru
 www.wm-goldenclick.ru
 www.wordstat.yandex.ru
@@ -1610,12 +1623,14 @@ ya-distrib.ru
 yabs.yandex.ru
 yadro.ru
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
+yandex.blablacar.membership-amazion-id184645.elearningmine.com
+yandex.membership-amazion-id184645.elearningmine.com
 yandex.slid3.com
 yast.rutube.ru
 yhzn0f.ru
 yuga.ru
 zachestnyibiznes.ru
-zalive-akvilon.ru
+zags.kurganobl.ru
 zen-mobile-site.mediascope.mc.yandex.ru
 zippyfiles.nocoshop.ru
 znate.ru

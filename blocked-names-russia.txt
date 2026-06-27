@@ -252,6 +252,7 @@
 5257446--35068738-111-mnews.ms.vk.com
 5261258--43618728-111-mnews.ms.vk.com
 5261258--43618728-111.news.ms.vk.com
+526514--32943546-111-mnews.ms.vk.com
 5267306--43618728-111-mnews.ms.vk.com
 531111.ms.dzen.ru
 531121.ms.dzen.ru
@@ -262,6 +263,7 @@
 531511.ms.dzen.ru
 532121.ms.dzen.ru
 532411.ms.dzen.ru
+5335646--43618728-111-mnews.ms.vk.com
 5368540--35068738-111-mnews.ms.vk.com
 541111.ms.dzen.ru
 541121.ms.dzen.ru
@@ -341,6 +343,7 @@
 8530392--152992737-111-mnews.ms.vk.com
 8531524--152992737-111-mnews.ms.vk.com
 87108--24472133-111-mnews.ms.vk.com
+8721366--152992737-111-mnews.ms.vk.com
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
 90916--148515594-111-mnews.ms.vk.com
@@ -433,6 +436,7 @@ adsrv.hh.ru
 adtec.ru
 adv.vz.ru
 advast.sibnet.ru
+advert-journal.ru
 advertise.ru
 advertising.ru
 advertising.yandex.ru
@@ -503,7 +507,6 @@ api.venyoo.ru
 api.wavesend.ru
 api.zmqdez.ru
 apistats.rg.ru
-app-cdek-online.ru
 app.uaas.yandex.ru
 appmetrica.sovcombank.ru
 appmetrica.yandex.com
@@ -543,6 +546,7 @@ balakovo24.ru
 bambun.ru
 ban.zab.ru
 bank.yuga.ru
+bankocc.ru
 banner.aismo.ru
 banner.consultant.ru
 banner.zol.ru
@@ -699,7 +703,6 @@ cspreport.mail.ru
 css.yuga.ru
 cstatic-ru-cv.weborama-tech.ru
 cstatic.weborama-tech.ru
-ct3-24.ru
 ctx.weborama-tech.ru
 culturaltracking.ru
 cusok.ru
@@ -856,6 +859,7 @@ hitcrypt.9levl1.ru
 hitcrypt.g4blin.ru
 hitcrypt.icyh3e.ru
 hitcrypt.kfe0mn.ru
+hitcrypt.lkoi3q.ru
 hitcrypt.mb9pzp.ru
 hitcrypt.nkwnb7.ru
 hitcrypt.rbcv7s.ru
@@ -869,7 +873,6 @@ homework.ru
 hothat.ru
 ht-systems.ru
 http-check-headers.yandex.ru
-hungrywifi.ru
 hwmonitor-ru.ru
 hybrid.ru
 iceprogs.ru
@@ -898,7 +901,6 @@ injectroblox.ru
 innovation-lab.ru
 inplayer.ru
 instreamvideo.ru
-intellicaddev.ru
 intimshop.ru
 ip4.tracker-api.vk-analytics.ru
 ipc-ext.s3.yandex.net
@@ -953,6 +955,7 @@ linkfeed.ru
 linkslot.ru
 liquidfile.nocoshop.ru
 livesurf.ru
+lkoi3q.ru
 log.api-maps.yandex.ru
 log.rutube.ru
 log.strm.yandex.ru
@@ -1000,7 +1003,6 @@ media-advcycle.imgsmail.ru
 media-stat.mail.ru
 mediametrics.ru
 mediatoday.ru
-megatkani.ru
 metrica-yandex.com
 metrica.yandex.com
 metrica.yandex.ru
@@ -1118,6 +1120,7 @@ posthog.livelib.ru
 prbn.ru
 pressms.ru
 pricelib.ru
+priv-obr.ru
 privacy-cs.mail.ru
 prlog.ru
 prodmp.ru
@@ -1304,6 +1307,7 @@ sovetnik.market.yandex.ru
 sp.aviasales.ru
 sparrow.ru
 sporttouch.radar.imgsmail.ru
+srv250136.hoster-test.ru
 ssl.adriver.ru
 ssp-rambler.ad-tech.ru
 ssp-rtb-ap.sape.ru
@@ -1337,6 +1341,7 @@ stat.sputnik.ru
 stat.tlauncher.ru
 stat.tourvisor.ru
 stat.videonow.ru
+stat.vk.ru
 stat1.clickfraud.ru
 stat4.russianfood.com
 statchecker.yandex.ru
@@ -1487,7 +1492,6 @@ visor.sberbank.ru
 vmkxcsss.ru
 vnikitskom.ru
 vp.rambler.ru
-vsem.ru
 vseobuch.ru
 vsexshop.ru
 vst.sibnet.ru
@@ -1498,6 +1502,7 @@ wavesend.ru
 wcm.weborama-tech.ru
 weatherarchive.ru
 web-metrica.yandex.ru
+web-metrics.cdek.ru
 web-static-no-content.g.mindbox.ru
 web-static-no-content.s.mindbox.ru
 web-static.mindbox.ru
@@ -1597,6 +1602,7 @@ www.pricelib.ru
 www.propan.ru
 www.redirect.appmetrica.yandex.com
 www.saf-oil.ru
+www.srv250136.hoster-test.ru
 www.startup.mobile.yandex.net
 www.tinka.ru
 www.tns-counter.ru
@@ -1624,6 +1630,7 @@ yabs.yandex.ru
 yadro.ru
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
+yandex.buy10sell8.davidjonespub.com
 yandex.membership-amazion-id184645.elearningmine.com
 yandex.slid3.com
 yast.rutube.ru
@@ -1631,6 +1638,7 @@ yhzn0f.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru
+zalive-akvilon.ru
 zen-mobile-site.mediascope.mc.yandex.ru
 zippyfiles.nocoshop.ru
 znate.ru

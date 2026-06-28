@@ -81,6 +81,7 @@
 11765405--15722194-111-mnews.ms.vk.com
 1179258--46042333-111-mnews.ms.vk.com
 118113--148515594-111-mnews.ms.vk.com
+11895916--15722194-111-mnews.ms.vk.com
 1189908--46042333-111-mnews.ms.vk.com
 1195793--46042333-111-mnews.ms.vk.com
 1204029--46042333-111-mnews.ms.vk.com
@@ -436,7 +437,6 @@ adsrv.hh.ru
 adtec.ru
 adv.vz.ru
 advast.sibnet.ru
-advert-journal.ru
 advertise.ru
 advertising.ru
 advertising.yandex.ru
@@ -490,7 +490,6 @@ analytics.sutochno.ru
 analytics.tele2.ru
 analytics.vgtimes.ru
 anekbook.ru
-ankerch-crimea.ru
 antalya.ru
 api-an.tutu.ru
 api-statist.tinkoff.ru
@@ -546,7 +545,6 @@ balakovo24.ru
 bambun.ru
 ban.zab.ru
 bank.yuga.ru
-bankocc.ru
 banner.aismo.ru
 banner.consultant.ru
 banner.zol.ru
@@ -1055,6 +1053,7 @@ nashvek.ru
 nel.wb.ru
 neobasnet.timeout.ru
 neosap.ru
+netlog.ru
 news.2xclick.ru
 news.gnezdo.ru
 news.gnezdo2.ru
@@ -1120,7 +1119,6 @@ posthog.livelib.ru
 prbn.ru
 pressms.ru
 pricelib.ru
-priv-obr.ru
 privacy-cs.mail.ru
 prlog.ru
 prodmp.ru
@@ -1512,7 +1510,6 @@ web.redhelper.ru
 webim2.ru
 webkurchatov.ru
 weborama-tech.ru
-webpush-images.mindbox.ru
 webpush-imgproxy.g.mindbox.ru
 webstat.profi.ru
 websurf.ru
@@ -1630,7 +1627,6 @@ yabs.yandex.ru
 yadro.ru
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
-yandex.buy10sell8.davidjonespub.com
 yandex.membership-amazion-id184645.elearningmine.com
 yandex.slid3.com
 yast.rutube.ru
@@ -1638,7 +1634,6 @@ yhzn0f.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru
-zalive-akvilon.ru
 zen-mobile-site.mediascope.mc.yandex.ru
 zippyfiles.nocoshop.ru
 znate.ru

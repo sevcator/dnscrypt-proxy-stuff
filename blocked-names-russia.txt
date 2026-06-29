@@ -83,6 +83,7 @@
 118113--148515594-111-mnews.ms.vk.com
 11895916--15722194-111-mnews.ms.vk.com
 1189908--46042333-111-mnews.ms.vk.com
+11916517--15722194-111-mnews.ms.vk.com
 1195793--46042333-111-mnews.ms.vk.com
 1204029--46042333-111-mnews.ms.vk.com
 1208216--46042333-111-mnews.ms.vk.com
@@ -176,7 +177,9 @@
 2331004--35647551-111-mnews.ms.vk.com
 2331111--35647551-111-mnews.ms.vk.com
 2338446--35647551-111-mnews.ms.vk.com
+2343836--25280329-111-mnews.ms.vk.com
 2344001--35647551-111-mnews.ms.vk.com
+2344204--25280329-111-mnews.ms.vk.com
 2360895--35647551-111-mnews.ms.vk.com
 2365300--35647551-111-mnews.ms.vk.com
 2370648--35647551-111-mnews.ms.vk.com
@@ -185,6 +188,7 @@
 24112.ms.vk.com
 2414765--35647551-111-mnews.ms.vk.com
 24212.ms.vk.com
+2434491--35647551-111-mnews.ms.vk.com
 2463788--8862419-111-mnews.ms.vk.com
 2495490--8862419-111-mnews.ms.vk.com
 24log.ru
@@ -282,6 +286,7 @@
 551511.ms.dzen.ru
 552121.ms.dzen.ru
 552411.ms.dzen.ru
+5529298--35068738-111-mnews.ms.vk.com
 58sport.ru
 5d0rac.ru
 5dhnv8.ru
@@ -304,7 +309,6 @@
 78208--148515594-111-mnews.ms.vk.com
 78734--21560979-111-mnews.ms.vk.com
 7nkbwdf1uq.ru
-7ooo.ru
 8066227--152992737-111-mnews.ms.vk.com
 8081485--152992737-111-mnews.ms.vk.com
 81640.mstat.mos.ru
@@ -389,6 +393,7 @@ actionpay.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
+ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.mail.ru
@@ -569,6 +574,7 @@ biznesplan26.ru
 bjtajoox.ru
 blocked.botfaqtor.ru
 blog.sape.ru
+bms-cloud.ru
 bn.winlinebet.ru
 bonuscake.ru
 borzjournal.ru
@@ -763,6 +769,7 @@ egg.afisha.ru
 eimage.sendsay.ru
 elitpharma.ru
 email-images.mindbox.ru
+enfieldshop.ru
 erkugo.ru
 err.agava.ru
 err.apteka.ru
@@ -804,6 +811,7 @@ finpremium.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
+fondsautina.ru
 free-gluten.ru
 frontlog.tutu.ru
 frontmetrics.tutu.ru
@@ -911,6 +919,7 @@ is.luxup.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jet.zbp.ru
+job-info.ru
 jordan.qunis.ru
 journal-bt.wildberries.ru
 jps.ru
@@ -987,7 +996,6 @@ matomo-tracker.usmall.ru
 matomo.datago.ru
 matomo.finam.ru
 matomo.tutu.ru
-matomo.x5.ru
 maylohack.ru
 mb9pzp.ru
 mc.kinopoisk.ru
@@ -1079,7 +1087,6 @@ onetarget.ru
 opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
-optawa.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
@@ -1226,6 +1233,7 @@ sentry-api.sberdevices.ru
 sentry-ingest.kuper.ru
 sentry-mobile-ingest.kuper.ru
 sentry-mobile.alfabank.ru
+sentry-mobile.avito.ru
 sentry-mobile.ivi.ru
 sentry-mobile.lamoda.ru
 sentry-mobile.lamodatech.ru
@@ -1235,6 +1243,7 @@ sentry-relay.beeline.ru
 sentry-saas.rambler-co.ru
 sentry-tech.cdek.ru
 sentry.baseomni.ru
+sentry.cable.ru
 sentry.citydrive.ru
 sentry.domclick.ru
 sentry.hh.ru
@@ -1366,9 +1375,11 @@ stats.gastronom.ru
 stats.mos.ru
 stats.rustore.ru
 stats.skrinshoter.ru
+stats.vidrock.ru
 stats2.videonow.ru
 stavkiprognozy.ru
 stmtag.ru
+stopmp3.ru
 store-sentry.vkplay.ru
 stream.datago.ru
 subscriptions.rambler.ru
@@ -1483,7 +1494,6 @@ videofan.ru
 videonow.ru
 videoprodavec.ru
 vidroll.ru
-vigvam.ru
 vihub.ru
 vipko.ru
 visor.sberbank.ru
@@ -1627,6 +1637,7 @@ yabs.yandex.ru
 yadro.ru
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
+yandex.buy10sell8.davidjonespub.com
 yandex.membership-amazion-id184645.elearningmine.com
 yandex.slid3.com
 yast.rutube.ru

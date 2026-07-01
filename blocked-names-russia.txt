@@ -287,6 +287,7 @@
 552121.ms.dzen.ru
 552411.ms.dzen.ru
 5529298--35068738-111-mnews.ms.vk.com
+5554856--35068738-111-mnews.ms.vk.com
 58sport.ru
 5d0rac.ru
 5dhnv8.ru
@@ -391,11 +392,9 @@ abt.s3.yandex.net
 accidentallyrussian.com
 acollector.wb.ru
 actionpay.ru
-activespb.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
-ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.mail.ru
@@ -442,7 +441,6 @@ adservings.ru
 adsniper.ru
 adsrv.hh.ru
 adtec.ru
-adtv-service.teletarget.ru
 adv.vz.ru
 advast.sibnet.ru
 advertise.ru
@@ -469,6 +467,7 @@ aflt.market.yandex.ru
 agency2.ru
 ai.technocore.ru
 aifishki.ru
+aitradingfree.ru
 aiyandex.com
 aksonural.ru
 alapage.ru
@@ -704,7 +703,6 @@ cspreport.mail.ru
 css.yuga.ru
 cstatic-ru-cv.weborama-tech.ru
 cstatic.weborama-tech.ru
-cstor.nn2.ru
 ctx.weborama-tech.ru
 culturaltracking.ru
 cusok.ru
@@ -723,12 +721,10 @@ data.videonow.ru
 datatracking.ru
 dcdn.heroeswm.ru
 dct.mango-office.ru
-de-luxe-profi.ru
 delta.mediafort.ru
 demo.punchmedia.ru
 dentalaboralcare.ru
 detmir-stats.ru
-devicesta.ru
 dienai.ru
 digitaltarget.ru
 direct.yandex.net
@@ -804,7 +800,6 @@ ff.astv.ru
 ffoeefsheuesihfo.ru
 filedrive.nocoshop.ru
 filekeeper.nocoshop.ru
-files1.igry.ru
 filestation.nocoshop.ru
 filmplus.ru
 fin-banners-bt.wildberries.ru
@@ -812,7 +807,6 @@ finpremium.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
-fondsautina.ru
 free-gluten.ru
 frontlog.tutu.ru
 frontmetrics.tutu.ru
@@ -847,6 +841,7 @@ gw2.botfaqtor.ru
 h21.ru
 ha-front.wavesend.ru
 haproxy-api-yc-v3-lb.mindbox.ru
+hc.uralweb.ru
 heroeswm.ru
 hhcdn.ru
 hit.28yw0a.ru
@@ -887,7 +882,6 @@ icyh3e.ru
 id.adx.com.ru
 id.google.ru
 ideibiznesa2015.ru
-igry.ru
 im-sentry.sportmaster.ru
 image.prlog.ru
 image.sendsay.ru
@@ -1039,7 +1033,6 @@ modato.ru
 module.callibri.ru
 momijoy.ru
 mon.avito.ru
-morereferatov.ru
 morphed.ru
 motoren.ru
 movies5.fox-fan.ru
@@ -1071,6 +1064,8 @@ news.smi2.ru
 nkwnb7.ru
 novosti.gnezdo.ru
 nq.appmetrica.yandex.net
+ns1.rlnic.ru
+ns2.rlnic.ru
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 ntvk1.ru
 nytva-nmz.ru
@@ -1126,7 +1121,6 @@ posthog.livelib.ru
 prbn.ru
 pressms.ru
 pricelib.ru
-priv-obr.ru
 privacy-cs.mail.ru
 prlog.ru
 prodmp.ru
@@ -1208,10 +1202,8 @@ rum2.cdnvideo.ru
 rum3.cdnvideo.ru
 rum4.cdnvideo.ru
 rum5.cdnvideo.ru
-rum6.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
-russia34.com
 russianlanguage.swing-zone.com
 russianlovematch.com
 rustrackers.ru
@@ -1359,7 +1351,6 @@ static.a.mts.ru
 static.banner.aismo.ru
 static.bs-dante.ru
 static.calltouch.ru
-static.de-luxe-profi.ru
 static.marketolog.mts.ru
 static.me-talk.ru
 static.nativerent.ru
@@ -1566,6 +1557,7 @@ www.ad-words.ru
 www.adv.yandex.ru
 www.advaction.ru
 www.advertising.yandex.ru
+www.aitradingfree.ru
 www.aiyandex.com
 www.aksonural.ru
 www.alfa-medosmotr.ru
@@ -1641,7 +1633,6 @@ yadro.ru
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
 yandex.membership-amazion-id184645.elearningmine.com
-yandex.qfeaaoaw5pqid2b.4tkh7gccy7tjtrr.api.dota2t.com
 yandex.slid3.com
 yast.rutube.ru
 yhzn0f.ru

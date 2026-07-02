@@ -86,6 +86,7 @@
 11916517--15722194-111-mnews.ms.vk.com
 11941167--15722194-111-mnews.ms.vk.com
 1195793--46042333-111-mnews.ms.vk.com
+11966402--15722194-111-mnews.ms.vk.com
 1204029--46042333-111-mnews.ms.vk.com
 1208216--46042333-111-mnews.ms.vk.com
 1208278--46042333-111-mnews.ms.vk.com
@@ -190,6 +191,7 @@
 2414765--35647551-111-mnews.ms.vk.com
 24212.ms.vk.com
 2434491--35647551-111-mnews.ms.vk.com
+2443610--35647551-111-mnews.ms.vk.com
 2463788--8862419-111-mnews.ms.vk.com
 2495490--8862419-111-mnews.ms.vk.com
 24log.ru
@@ -288,6 +290,7 @@
 552411.ms.dzen.ru
 5529298--35068738-111-mnews.ms.vk.com
 5554856--35068738-111-mnews.ms.vk.com
+5563132--35068738-111-mnews.ms.vk.com
 58sport.ru
 5d0rac.ru
 5dhnv8.ru
@@ -608,7 +611,6 @@ cdn.adplay.ru
 cdn.adtec.ru
 cdn.adv-adplatform.ru
 cdn.advideo.ru
-cdn.adzone.ru
 cdn.bazr.ru
 cdn.botfaqtor.ru
 cdn.callibri.ru
@@ -1513,7 +1515,6 @@ web.redhelper.ru
 webim2.ru
 webkurchatov.ru
 weborama-tech.ru
-webpush-images.mindbox.ru
 webpush-imgproxy.g.mindbox.ru
 webstat.profi.ru
 websurf.ru

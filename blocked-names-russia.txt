@@ -201,6 +201,7 @@
 2513734--89493-111-mnews.ms.vk.com
 2516882--89493-111-mnews.ms.vk.com
 25212.ms.vk.com
+2526066--8862419-111-mnews.ms.vk.com
 268817--28514668-111-mnews.ms.vk.com
 274196--28514668-111-mnews.ms.vk.com
 282913--28514668-111-mnews.ms.vk.com
@@ -218,13 +219,11 @@
 34412.ms.vk.com
 34512.ms.vk.com
 346034--19928749-111-mnews.ms.vk.com
-3474082.redirect.appmetrica.yandex.com
 35212.ms.vk.com
 35412.ms.vk.com
 383729--49246642-111-mnews.ms.vk.com
 3842343--755816-111-mnews.ms.vk.com
 403836--18591998-111-mnews.ms.vk.com
-4190005.redirect.appmetrica.yandex.com
 41904--212091484-111-mnews.ms.vk.com
 423.ru
 4237138.redirect.appmetrica.yandex.com
@@ -270,6 +269,7 @@
 531511.ms.dzen.ru
 532121.ms.dzen.ru
 532411.ms.dzen.ru
+532431.ms.dzen.ru
 5335646--43618728-111-mnews.ms.vk.com
 5368540--35068738-111-mnews.ms.vk.com
 541111.ms.dzen.ru
@@ -288,6 +288,7 @@
 551511.ms.dzen.ru
 552121.ms.dzen.ru
 552411.ms.dzen.ru
+552431.ms.dzen.ru
 5529298--35068738-111-mnews.ms.vk.com
 5554856--35068738-111-mnews.ms.vk.com
 5563132--35068738-111-mnews.ms.vk.com
@@ -500,6 +501,7 @@ analytics.sutochno.ru
 analytics.tele2.ru
 analytics.vgtimes.ru
 anekbook.ru
+animesvosts.ru
 antalya.ru
 api-an.tutu.ru
 api-statist.tinkoff.ru
@@ -789,6 +791,7 @@ exad.smi2.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
+f.zakat.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fabrikamebelispb.ru
 fast2load.ru
@@ -1378,6 +1381,7 @@ stavkiprognozy.ru
 stmtag.ru
 store-sentry.vkplay.ru
 stream.datago.ru
+studlance.ru
 subscriptions.rambler.ru
 superstyle.ru
 supertop.ru
@@ -1642,6 +1646,7 @@ yhzn0f.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru
+zakat.ru
 zen-mobile-site.mediascope.mc.yandex.ru
 zippyfiles.nocoshop.ru
 znate.ru

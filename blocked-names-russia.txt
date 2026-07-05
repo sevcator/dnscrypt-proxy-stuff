@@ -400,6 +400,7 @@ actionpay.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
+ad.betcity.ru
 ad.hutor.ru
 ad.kissanime.com.ru
 ad.mail.ru
@@ -526,6 +527,7 @@ appmetrika.yandex.ru
 apptracer.ru
 ar.tns-counter.ru
 armconsul.ru
+ashurbeyli.ru
 ask-gps.ru
 asr.openssp.ru
 audi-club.ru
@@ -726,6 +728,7 @@ data.videonow.ru
 datatracking.ru
 dcdn.heroeswm.ru
 dct.mango-office.ru
+de.vsexshop.ru
 delta.mediafort.ru
 demo.punchmedia.ru
 dentalaboralcare.ru
@@ -811,6 +814,7 @@ filmplus.ru
 fin-banners-bt.wildberries.ru
 finpremium.ru
 flotprom.ru
+flusnews.ru
 flyroll.ru
 fmon.citilink.ru
 free-gluten.ru
@@ -905,7 +909,6 @@ info-dvd.ru
 info.kinoclub77.ru
 informer.yandex.ru
 init.videonow.ru
-injectroblox.ru
 innovation-lab.ru
 inplayer.ru
 instreamvideo.ru
@@ -1080,7 +1083,6 @@ obs.mts.ru
 obzortytvesty.ru
 ogeri.ru
 ogtz5yn2u1.ru
-ohmybid-sync.rutarget.ru
 okr.sbdv.ru
 omniqa.ru
 onenews24.ru
@@ -1181,7 +1183,6 @@ report.ap.yandex-net.ru
 report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
-rezale.ru
 riabir.ru
 richmedia.wavesend.ru
 rlnic.ru
@@ -1208,6 +1209,7 @@ rum2.cdnvideo.ru
 rum3.cdnvideo.ru
 rum4.cdnvideo.ru
 rum5.cdnvideo.ru
+rum6.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
 russianlanguage.swing-zone.com
@@ -1285,6 +1287,7 @@ sgood.ru
 share.yandex.net
 sharemefiles.ru
 show.openssp.ru
+shulepov.ru
 sib2.adriver.ru
 sibtel.adriver.ru
 sir-fermer.ru
@@ -1474,7 +1477,6 @@ userator.ru
 usercenter-drru.dt.dbankcloud.ru
 utarget.ru
 utorria.ru
-uzbek-film.ru
 uznatpochemu.ru
 v.adfox.ru
 v1.mpsuadv.ru
@@ -1585,6 +1587,7 @@ www.directadvert.ru
 www.drivenetwork.ru
 www.elitpharma.ru
 www.erkugo.ru
+www.flusnews.ru
 www.free-gluten.ru
 www.gdeslon.ru
 www.girlporn.ru
@@ -1611,13 +1614,14 @@ www.pricelib.ru
 www.propan.ru
 www.redirect.appmetrica.yandex.com
 www.saf-oil.ru
+www.shulepov.ru
+www.softout.ru
 www.srv250136.hoster-test.ru
 www.startup.mobile.yandex.net
 www.tinka.ru
 www.tns-counter.ru
 www.toptracker.ru
 www.unlockers.ru
-www.uzbek-film.ru
 www.videonow.ru
 www.weatherarchive.ru
 www.wemadepro.ru

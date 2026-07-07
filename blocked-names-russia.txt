@@ -148,6 +148,7 @@
 1905795--2070309-111-mnews.ms.vk.com
 195944--99021016-111-mnews.ms.vk.com
 199482--88797119-111-mnews.ms.vk.com
+1cont.ru
 1directory.ru
 1happy-blog.ru
 1l-hit.mail.ru
@@ -508,7 +509,6 @@ analytics.mobile.yandex.net
 analytics.sberhealth.ru
 analytics.sutochno.ru
 analytics.tele2.ru
-analytics.vgtimes.ru
 anekbook.ru
 anenin.didns.ru
 animesvosts.ru
@@ -642,6 +642,7 @@ cdn.directadvert.ru
 cdn.dsp-rambler.ru
 cdn.dsp.onetarget.ru
 cdn.gpmdata.ru
+cdn.leadback.ru
 cdn.otclick-adv.ru
 cdn.punchmedia.ru
 cdn.retailrocket.ru
@@ -665,6 +666,7 @@ clck.ru
 clck.yandex.net
 clckdm.domclick.ru
 cleversite.ru
+click.rustore.ru
 click.yandex.ru
 clickbeat.sberdevices.ru
 clickfraud.ru
@@ -755,6 +757,7 @@ dcdn.heroeswm.ru
 dct.mango-office.ru
 de-luxe-profi.ru
 de.vsexshop.ru
+dell-partner.ru
 delta.mediafort.ru
 demo.punchmedia.ru
 dentalaboralcare.ru
@@ -865,6 +868,7 @@ gamelights.ru
 gate.leadgenic.ru
 gb2-banners.adriver.ru
 gb2-files.adriver.ru
+gd.1cont.ru
 gdeslon.ru
 gdl.i9dhjx.ru
 gdl.topoads.ru
@@ -1053,8 +1057,6 @@ mastertarget.ru
 matchid.adfox.yandex.ru
 matomo-tracker.usmall.ru
 matomo.datago.ru
-matomo.finam.ru
-matomo.tutu.ru
 maylohack.ru
 mb9pzp.ru
 mc.kinopoisk.ru
@@ -1140,6 +1142,7 @@ nytva-nmz.ru
 o24o.ru
 oboitrade.ru
 obs.mts.ru
+odds.ru
 ogeri.ru
 ogtz5yn2u1.ru
 okr.sbdv.ru
@@ -1177,13 +1180,13 @@ pixel.dsp.onetarget.ru
 pixel.getads.ru
 pixel.konnektu.ru
 pixel.rambler.ru
+pixel.rustore.ru
 pixel.scoring.ru
 pixel.smr8.ru
 pjkyxrd15e.ru
 pkeeper3.ru
 pl2.skwstat.ru
 player.moviead55.ru
-point-metrics.wb.ru
 pokrutim.ru
 pool.stbid.ru
 popunder.ru
@@ -1225,7 +1228,6 @@ quizgo-widget.ru
 quotiq.ru
 r0.mail.ru
 r3.mail.ru
-r5hsid.ru
 radar.imgsmail.ru
 radio.mediametrics.ru
 rate.ru
@@ -1323,7 +1325,6 @@ sentry-relay.beeline.ru
 sentry-saas.rambler-co.ru
 sentry-tech.cdek.ru
 sentry.baseomni.ru
-sentry.belkacar.ru
 sentry.cable.ru
 sentry.domclick.ru
 sentry.hh.ru
@@ -1482,7 +1483,6 @@ t.mail.ru
 t.sports.ru
 tag.a.mts.ru
 tag.digitaltarget.ru
-tag.perx.ru
 tagmanager.andata.ru
 tags.adriver.ru
 tags.soloway.ru
@@ -1729,7 +1729,6 @@ www.weatherarchive.ru
 www.wemadepro.ru
 www.wm-goldenclick.ru
 www.wordstat.yandex.ru
-www.wwwomen.ru
 www.yandex.com
 www.yandex.net
 www.yuga.ru

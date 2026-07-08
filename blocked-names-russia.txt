@@ -875,6 +875,7 @@ gdl.topoads.ru
 geofamily.ru
 get-ads.ru
 getads.ru
+getandgo.ru
 getyoursoft.ru
 gigamega.ru
 girlporn.ru
@@ -1149,6 +1150,7 @@ okr.sbdv.ru
 omniqa.ru
 onenews24.ru
 onetarget.ru
+onfeed.ru
 opendsp.ru
 openshare.nocoshop.ru
 openx.cnews.ru
@@ -1255,6 +1257,7 @@ report.ap.yandex-net.ru
 report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
+rezale.ru
 riabir.ru
 richmedia.wavesend.ru
 rlnic.ru
@@ -1281,7 +1284,6 @@ rum2.cdnvideo.ru
 rum3.cdnvideo.ru
 rum4.cdnvideo.ru
 rum5.cdnvideo.ru
-rum6.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
 russia34.com
@@ -1505,7 +1507,6 @@ temirtau-adm.ru
 test.gutir.ru
 test.rutube.ru
 testingmetriksbre.ru
-texasinst.ru
 tgel2ebtx.ru
 tharelust.didns.ru
 theiconto.didns.ru

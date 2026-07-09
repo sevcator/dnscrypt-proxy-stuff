@@ -868,7 +868,6 @@ gamelights.ru
 gate.leadgenic.ru
 gb2-banners.adriver.ru
 gb2-files.adriver.ru
-gd.1cont.ru
 gdeslon.ru
 gdl.i9dhjx.ru
 gdl.topoads.ru
@@ -1230,6 +1229,7 @@ quizgo-widget.ru
 quotiq.ru
 r0.mail.ru
 r3.mail.ru
+rabota.directrix.ru
 radar.imgsmail.ru
 radio.mediametrics.ru
 rate.ru
@@ -1534,6 +1534,7 @@ toptracker.ru
 touchmail.radar.imgsmail.ru
 trace-flow.ru
 track.ssnd.ru
+track.tbank.ru
 track.wfolio.ru
 tracker-api.vk-analytics.ru
 tracker.comagic.ru
@@ -1608,7 +1609,6 @@ vzarabotke.ru
 w.rulive.ru
 wavesend.ru
 wcm.weborama-tech.ru
-weatherarchive.ru
 web-metrica.yandex.ru
 web-metrics.cdek.ru
 web-static-no-content.g.mindbox.ru
@@ -1726,7 +1726,6 @@ www.tns-counter.ru
 www.toptracker.ru
 www.unlockers.ru
 www.videonow.ru
-www.weatherarchive.ru
 www.wemadepro.ru
 www.wm-goldenclick.ru
 www.wordstat.yandex.ru

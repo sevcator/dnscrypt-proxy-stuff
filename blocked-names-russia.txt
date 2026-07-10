@@ -754,7 +754,6 @@ data.skwstat.ru
 data.videonow.ru
 datatracking.ru
 dcdn.heroeswm.ru
-dct.mango-office.ru
 de-luxe-profi.ru
 de.vsexshop.ru
 dell-partner.ru
@@ -853,7 +852,6 @@ filestation.nocoshop.ru
 filmplus.ru
 fin-banners-bt.wildberries.ru
 find-photo.ru
-finpremium.ru
 flotprom.ru
 flusnews.ru
 flyroll.ru
@@ -911,7 +909,6 @@ hit.tj4rxr.ru
 hit.udqrh6.ru
 hit.x81p4z.ru
 hit.xgd3kl.ru
-hit.yhzn0f.ru
 hitcrypt.04xmhp.ru
 hitcrypt.9levl1.ru
 hitcrypt.g4blin.ru
@@ -1038,6 +1035,7 @@ loki.maximonline.ru
 loyalty-sentry.dixy.ru
 lp.mobiletracking.ru
 lvtroy.ru
+lynxsecurity.ru
 m-api.a.mts.ru
 m-cm.a.mts.ru
 m.leboard.ru
@@ -1156,6 +1154,7 @@ openx.cnews.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
+oybvqan.1xrussia.com
 p.winline.ru
 pageservice-drru.dt.dbankcloud.ru
 paradocs.ru
@@ -1213,7 +1212,6 @@ ps.punchmedia.ru
 ps2.punchmedia.ru
 pseyumd.ru
 pu.softlot.ru
-pub.nashindex.ru
 punchmedia.ru
 push.svk-native.ru
 pushlog.wsoft.ru
@@ -1752,7 +1750,6 @@ yandex.qfeaaoaw5pqid2b.4tkh7gccy7tjtrr.api.dota2t.com
 yandex.shield779.zt6.com
 yandex.slid3.com
 yast.rutube.ru
-yhzn0f.ru
 yuga.ru
 zachestnyibiznes.ru
 zags.kurganobl.ru

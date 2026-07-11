@@ -455,7 +455,6 @@ adsrv.hh.ru
 adtec.ru
 adv.vz.ru
 advast.sibnet.ru
-advert-journal.ru
 advertise.ru
 advertising.ru
 advertising.yandex.ru
@@ -506,6 +505,7 @@ analytics.dns-shop.ru
 analytics.iportal.ru
 analytics.mediadash.ru
 analytics.mobile.yandex.net
+analytics.move.ru
 analytics.sberhealth.ru
 analytics.sutochno.ru
 analytics.tele2.ru
@@ -615,7 +615,6 @@ budvawshes.ru
 bugpuk.ru
 bvl5bziz9d.ru
 c.admetr.ru
-c.botfaqtor.ru
 c.sibnet.ru
 c.snsv.ru
 c2.saintpetersburgresident.ru
@@ -834,6 +833,7 @@ fabrikamebelispb.ru
 fartlaslu.didns.ru
 fast2load.ru
 fastfine.ru
+faststart.ru
 faststat.advideo.ru
 fb2portal.ru
 fcgi4.gnezdo.ru
@@ -861,6 +861,7 @@ forum.chevy-clan.ru
 free-gluten.ru
 frontlog.tutu.ru
 frontmetrics.tutu.ru
+fulledu.ru
 g4blin.ru
 gamelights.ru
 gate.leadgenic.ru
@@ -871,6 +872,7 @@ gdl.i9dhjx.ru
 gdl.topoads.ru
 geofamily.ru
 get-ads.ru
+get-styles.ru
 getads.ru
 getandgo.ru
 getyoursoft.ru
@@ -890,7 +892,6 @@ goya.rutube.ru
 greatgrace.ru
 grs-pub.platform.dbankcloud.ru
 gso.amocrm.ru
-gw.botfaqtor.ru
 gw2.botfaqtor.ru
 h21.ru
 ha-front.wavesend.ru
@@ -948,6 +949,9 @@ img.yuga.ru
 img0.liveinternet.ru
 img01.ad-tech.ru
 img1.advertology.ru
+imgredirect.ad-tech.ru
+imgserve.ad-tech.ru
+imgstats.ad-tech.ru
 imobilco.ru
 impression.appmetrica.yandex.com
 indetiske.ya.ru
@@ -1039,6 +1043,7 @@ lynxsecurity.ru
 m-api.a.mts.ru
 m-cm.a.mts.ru
 m.leboard.ru
+m.spartakfanat.ru
 m.winline.ru
 m1-shop.ru
 magna.ru
@@ -1125,7 +1130,6 @@ netlog.ru
 neuplator.didns.ru
 news.2xclick.ru
 news.gnezdo.ru
-news.gnezdo2.ru
 news.mediametrics.ru
 news.rin.ru
 news.smi2.ru
@@ -1397,6 +1401,7 @@ sovetnik.market.yandex.ru
 sp.aviasales.ru
 spalneochee.didns.ru
 sparrow.ru
+spartakfanat.ru
 sporttouch.radar.imgsmail.ru
 srv250136.hoster-test.ru
 ssl.adriver.ru

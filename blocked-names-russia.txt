@@ -232,6 +232,7 @@
 4237138.redirect.appmetrica.yandex.com
 43212.ms.vk.com
 43311.ms.vk.com
+44212.ms.vk.com
 44311.ms.vk.com
 45212.ms.vk.com
 45311.ms.vk.com
@@ -622,6 +623,7 @@ c4.be.a0.top.list.ru
 cabinet.adzone.ru
 callback.onlinepbx.ru
 callibri.ru
+cartechnic.ru
 catsnetwork.ru
 cb07c9e3599a496095efe7448718de6c.ops.beeline.ru
 cc.calltracking.ru
@@ -685,6 +687,7 @@ code.clicktex.ru
 code.directadvert.ru
 code.moviead55.ru
 cogitoergo.ru
+comm.faststart.ru
 common.radar.imgsmail.ru
 connect-drru.hispace.dbankcloud.ru
 connect.ok.ru
@@ -753,7 +756,6 @@ data.skwstat.ru
 data.videonow.ru
 datatracking.ru
 dcdn.heroeswm.ru
-de-luxe-profi.ru
 de.vsexshop.ru
 dell-partner.ru
 delta.mediafort.ru
@@ -869,7 +871,6 @@ gb2-banners.adriver.ru
 gb2-files.adriver.ru
 gdeslon.ru
 gdl.i9dhjx.ru
-gdl.topoads.ru
 geofamily.ru
 get-ads.ru
 get-styles.ru
@@ -926,6 +927,7 @@ hitlist.ru
 hitman-pro.ru
 holm.ru
 homework.ru
+host.ru
 hoster-test.ru
 hosumwoll.didns.ru
 hot-guys.ru
@@ -974,6 +976,7 @@ iplogger.ru
 ipnodns.ru
 irveree.didns.ru
 is.luxup.ru
+islon.ru
 j.adlooxtracking.ru
 j.uralweb.ru
 jasoungu.didns.ru
@@ -1130,6 +1133,7 @@ netlog.ru
 neuplator.didns.ru
 news.2xclick.ru
 news.gnezdo.ru
+news.gnezdo2.ru
 news.mediametrics.ru
 news.rin.ru
 news.smi2.ru
@@ -1446,7 +1450,6 @@ static.a.mts.ru
 static.banner.aismo.ru
 static.bs-dante.ru
 static.calltouch.ru
-static.de-luxe-profi.ru
 static.marketolog.mts.ru
 static.me-talk.ru
 static.nativerent.ru
@@ -1623,6 +1626,7 @@ web.redhelper.ru
 webim2.ru
 webkurchatov.ru
 weborama-tech.ru
+webpush-images.mindbox.ru
 webpush-imgproxy.g.mindbox.ru
 webstat.profi.ru
 websurf.ru

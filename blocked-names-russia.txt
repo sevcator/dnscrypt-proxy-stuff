@@ -231,6 +231,7 @@
 423.ru
 4237138.redirect.appmetrica.yandex.com
 43212.ms.vk.com
+43213.ms.vk.com
 43311.ms.vk.com
 44212.ms.vk.com
 44311.ms.vk.com
@@ -283,6 +284,7 @@
 541411.ms.dzen.ru
 541511.ms.dzen.ru
 542411.ms.dzen.ru
+542431.ms.dzen.ru
 5473422--35068738-111-mnews.ms.vk.com
 551111.ms.dzen.ru
 551121.ms.dzen.ru
@@ -510,6 +512,7 @@ analytics.move.ru
 analytics.sberhealth.ru
 analytics.sutochno.ru
 analytics.tele2.ru
+analytics.trendsurfers.ru
 anekbook.ru
 anenin.didns.ru
 animesvosts.ru
@@ -792,7 +795,6 @@ dsp.rtb.mts.ru
 dspgate.ru
 dtpchp.ru
 duhboga.ru
-dw.adeeply.ru
 dw.skyyads.ru
 dx-frontend.weborama-tech.ru
 e1.skwstat.ru
@@ -1199,6 +1201,7 @@ pokrutim.ru
 pool.stbid.ru
 popunder.ru
 popupclick.ru
+posthog.checkscan.ru
 posthog.livelib.ru
 prbn.ru
 pressms.ru
@@ -1333,6 +1336,7 @@ sentry-relay.beeline.ru
 sentry-saas.rambler-co.ru
 sentry-tech.cdek.ru
 sentry.baseomni.ru
+sentry.belkacar.ru
 sentry.cable.ru
 sentry.domclick.ru
 sentry.hh.ru
@@ -1645,6 +1649,7 @@ widget.sparrow.ru
 widgets.livetex.ru
 widgets.planeta.ru
 widgets.rankw.ru
+widster.ru
 winline.ru
 winlinebet.ru
 wmcasher.ru
@@ -1739,6 +1744,7 @@ www.wordstat.yandex.ru
 www.yandex.com
 www.yandex.net
 www.yuga.ru
+www.zvetki.ru
 wwwomen.ru
 x81p4z.ru
 xamubee.ru

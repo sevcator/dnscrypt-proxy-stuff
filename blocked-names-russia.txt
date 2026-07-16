@@ -394,11 +394,13 @@ a.wb.ru
 a0.smi2.ru
 a0.top.list.ru
 a1.smi2.ru
+a1279878.xsph.ru
 a24help.ru
 a3.smi2.ru
 a4.smi2.ru
 a6.smi2.ru
 a7.smi2.ru
+aan8bq.ru
 abs.firstvds.ru
 abt.s3.yandex.net
 accidentallyrussian.com
@@ -612,7 +614,6 @@ bs.adservings.ru
 bs.orsk.ru
 bs.serving-sys.ru
 bs.yandex.ru
-budgetrussia.com
 budvawshes.ru
 bugpuk.ru
 bvl5bziz9d.ru
@@ -901,6 +902,7 @@ hc.uralweb.ru
 heroeswm.ru
 hhcdn.ru
 hit.28yw0a.ru
+hit.aan8bq.ru
 hit.bbj3nb.ru
 hit.g4blin.ru
 hit.mb9pzp.ru
@@ -912,6 +914,7 @@ hit.x81p4z.ru
 hit.xgd3kl.ru
 hitcrypt.04xmhp.ru
 hitcrypt.9levl1.ru
+hitcrypt.aan8bq.ru
 hitcrypt.g4blin.ru
 hitcrypt.icyh3e.ru
 hitcrypt.kfe0mn.ru
@@ -1042,7 +1045,6 @@ loki.maximonline.ru
 loyalty-sentry.dixy.ru
 lp.mobiletracking.ru
 lvtroy.ru
-lynxsecurity.ru
 m-api.a.mts.ru
 m-cm.a.mts.ru
 m.leboard.ru
@@ -1165,7 +1167,6 @@ openx.cnews.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
-oybvqan.1xrussia.com
 p.winline.ru
 pageservice-drru.dt.dbankcloud.ru
 paradocs.ru
@@ -1239,7 +1240,6 @@ quizgo-widget.ru
 quotiq.ru
 r0.mail.ru
 r3.mail.ru
-r3.nl.kill-bot.ru
 rabota.directrix.ru
 radar.imgsmail.ru
 radio.mediametrics.ru
@@ -1470,6 +1470,7 @@ stats.rustore.ru
 stats.skrinshoter.ru
 stats2.videonow.ru
 stavkiprognozy.ru
+steam-account.ru
 stmtag.ru
 stopmp3.ru
 store-sentry.vkplay.ru
@@ -1671,6 +1672,7 @@ www.423.ru
 www.5forex.ru
 www.777-club.ru
 www.8si.ru
+www.a1279878.xsph.ru
 www.ad-words.ru
 www.adv.yandex.ru
 www.advaction.ru
@@ -1685,7 +1687,6 @@ www.amt-k.ru
 www.audi-club.ru
 www.avramstroy.ru
 www.betsonsport.ru
-www.budgetrussia.com
 www.cityads.ru
 www.cityhostelkazan.ru
 www.clck.ru

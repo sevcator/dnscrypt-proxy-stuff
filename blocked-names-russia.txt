@@ -92,6 +92,7 @@
 1211774--46042333-111-mnews.ms.vk.com
 1212897--46042333-111-mnews.ms.vk.com
 121398--148515594-111-mnews.ms.vk.com
+12187250--15722194-111-mnews.ms.vk.com
 1227701--46042333-111-mnews.ms.vk.com
 1228418--46042333-111-mnews.ms.vk.com
 1228946--46042333-111-mnews.ms.vk.com
@@ -197,6 +198,7 @@
 2495490--8862419-111-mnews.ms.vk.com
 24log.ru
 24new.ru
+2505962--35647551-111-mnews.ms.vk.com
 2507689--8862419-111-mnews.ms.vk.com
 25112.ms.vk.com
 2513734--89493-111-mnews.ms.vk.com
@@ -277,6 +279,7 @@
 532431.ms.dzen.ru
 5335646--43618728-111-mnews.ms.vk.com
 5368540--35068738-111-mnews.ms.vk.com
+5401810--43618728-111-mnews.ms.vk.com
 541111.ms.dzen.ru
 541121.ms.dzen.ru
 541211.ms.dzen.ru
@@ -834,6 +837,7 @@ ezstat.ru
 f.zakat.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
 fabrikamebelispb.ru
+fail-7.ru
 faoinfo.ru
 fartlaslu.didns.ru
 fast2load.ru
@@ -996,6 +1000,7 @@ jux9ms4vc7.ru
 kamint.ru
 kavanga.ru
 kayrachemicals.ru
+kb.survstat.ru
 kettreha.didns.ru
 kevents.auth.gid.ru
 kfe0mn.ru
@@ -1480,6 +1485,7 @@ subscriptions.rambler.ru
 superstyle.ru
 supertop.ru
 sur.gorodkirov.ru
+survstat.ru
 svk-native.ru
 swft.vedomosti.ru
 sync.ad-tech.ru

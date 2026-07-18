@@ -194,6 +194,7 @@
 24212.ms.vk.com
 2434491--35647551-111-mnews.ms.vk.com
 2443610--35647551-111-mnews.ms.vk.com
+2463585--25280329-111-mnews.ms.vk.com
 2463788--8862419-111-mnews.ms.vk.com
 2495490--8862419-111-mnews.ms.vk.com
 24log.ru
@@ -205,6 +206,7 @@
 2516882--89493-111-mnews.ms.vk.com
 25212.ms.vk.com
 2526066--8862419-111-mnews.ms.vk.com
+2549080--8862419-111-mnews.ms.vk.com
 268817--28514668-111-mnews.ms.vk.com
 274196--28514668-111-mnews.ms.vk.com
 282913--28514668-111-mnews.ms.vk.com
@@ -587,6 +589,7 @@ banners.adfox.ru
 banshop.gruntovik.ru
 bardatm.ru
 barsranma.didns.ru
+baza-nomerov.ru
 bazr.ru
 bbj3nb.ru
 bdgadv.ru
@@ -870,6 +873,7 @@ frontlog.tutu.ru
 frontmetrics.tutu.ru
 fulledu.ru
 g4blin.ru
+gamecall.ru
 gamelights.ru
 gate.leadgenic.ru
 gb2-banners.adriver.ru
@@ -1512,6 +1516,7 @@ tech.punchmedia.ru
 tech.rtb.mts.ru
 tech.yandex.com
 tehno-politen.ru
+telderi.ru
 telemetry.detmir.ru
 telemetry.domclick.ru
 telemetry.dzen.ru
@@ -1707,6 +1712,7 @@ www.erkugo.ru
 www.fb2portal.ru
 www.flusnews.ru
 www.free-gluten.ru
+www.gamecall.ru
 www.gdeslon.ru
 www.geokhi.ru
 www.girlporn.ru

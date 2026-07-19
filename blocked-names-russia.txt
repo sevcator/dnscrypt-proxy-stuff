@@ -176,6 +176,7 @@
 23112.ms.vk.com
 23123727--24199209-111-mnews.ms.vk.com
 23212.ms.vk.com
+23212.ms.vk.ru
 2326152--35647551-111-mnews.ms.vk.com
 2330697--35647551-111-mnews.ms.vk.com
 2331004--35647551-111-mnews.ms.vk.com
@@ -192,10 +193,12 @@
 24112.ms.vk.com
 2414765--35647551-111-mnews.ms.vk.com
 24212.ms.vk.com
+24212.ms.vk.ru
 2434491--35647551-111-mnews.ms.vk.com
 2443610--35647551-111-mnews.ms.vk.com
 2463585--25280329-111-mnews.ms.vk.com
 2463788--8862419-111-mnews.ms.vk.com
+2472837--25280329-111-mnews.ms.vk.com
 2495490--8862419-111-mnews.ms.vk.com
 24log.ru
 24new.ru
@@ -203,8 +206,10 @@
 2507689--8862419-111-mnews.ms.vk.com
 25112.ms.vk.com
 2513734--89493-111-mnews.ms.vk.com
+2515494--35647551-111-mnews.ms.vk.com
 2516882--89493-111-mnews.ms.vk.com
 25212.ms.vk.com
+25212.ms.vk.ru
 2526066--8862419-111-mnews.ms.vk.com
 2549080--8862419-111-mnews.ms.vk.com
 268817--28514668-111-mnews.ms.vk.com
@@ -218,13 +223,16 @@
 317729.redirect.appmetrica.yandex.com
 323979--14801674-111-mnews.ms.vk.com
 32mfedericod4.sg-hosadmin.vm-cs.ru
+33111.ms.vk.ru
 33212.ms.vk.com
 33412.ms.vk.com
 33512.ms.vk.com
+34111.ms.vk.ru
 34212.ms.vk.com
 34412.ms.vk.com
 34512.ms.vk.com
 346034--19928749-111-mnews.ms.vk.com
+35111.ms.vk.ru
 35212.ms.vk.com
 35412.ms.vk.com
 383729--49246642-111-mnews.ms.vk.com
@@ -236,11 +244,14 @@
 43212.ms.vk.com
 43213.ms.vk.com
 43311.ms.vk.com
+43311.ms.vk.ru
 44212.ms.vk.com
 44213.ms.vk.com
 44311.ms.vk.com
+44311.ms.vk.ru
 45212.ms.vk.com
 45311.ms.vk.com
+45311.ms.vk.ru
 45950.wavesend.ru
 4635284--17862264-111-mnews.ms.vk.com
 4646919--17862264-111-mnews.ms.vk.com
@@ -304,6 +315,7 @@
 5554856--35068738-111-mnews.ms.vk.com
 5563132--35068738-111-mnews.ms.vk.com
 5575913--35068738-111-mnews.ms.vk.com
+5738165--35068738-111-mnews.ms.vk.com
 58sport.ru
 5d0rac.ru
 5dhnv8.ru
@@ -370,6 +382,9 @@
 8si.ru
 90852--148515594-111-mnews.ms.vk.com
 90916--148515594-111-mnews.ms.vk.com
+9183875--152992737-111-mnews.ms.vk.com
+9196780--152992737-111-mnews.ms.vk.com
+9209898--152992737-111-mnews.ms.vk.com
 931131.log.rutube.ru
 931221.log.rutube.ru
 931222.log.rutube.ru
@@ -464,6 +479,7 @@ adservings.ru
 adsniper.ru
 adsrv.hh.ru
 adtec.ru
+adv.rustore.ru
 adv.vz.ru
 advast.sibnet.ru
 advertise.ru
@@ -492,7 +508,6 @@ agency2.ru
 ai.technocore.ru
 aifishki.ru
 aitradingfree.ru
-aiyandex.com
 aksonural.ru
 alapage.ru
 alarmobninsk.ru
@@ -696,6 +711,7 @@ code.clicktex.ru
 code.directadvert.ru
 code.moviead55.ru
 cogitoergo.ru
+coin-volcano.ru
 comm.faststart.ru
 common.radar.imgsmail.ru
 connect-drru.hispace.dbankcloud.ru
@@ -752,6 +768,7 @@ culturaltracking.ru
 cusok.ru
 cvt1.sibnet.ru
 cybertown.ru
+cz8.ru
 d.banner.aismo.ru
 d.botfaqtor.ru
 da.c4.be.a0.top.list.ru
@@ -769,7 +786,6 @@ de.vsexshop.ru
 dell-partner.ru
 delta.mediafort.ru
 demo.punchmedia.ru
-dentalaboralcare.ru
 destvence.didns.ru
 detmir-stats.ru
 devicesta.ru
@@ -814,7 +830,6 @@ efxa2idmx6wld7z.xr5.10cek.ru
 egg.afisha.ru
 eimage.sendsay.ru
 elasticsearch.planeta-51.ru
-elitpharma.ru
 email-images.mindbox.ru
 enfieldshop.ru
 erkugo.ru
@@ -834,6 +849,7 @@ events.maps.vk.com
 eventtrace.ru
 evt.uchi.ru
 exad.smi2.ru
+expertsun.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
@@ -1102,6 +1118,7 @@ metrika.mos.ru
 metrika.yandex.ru
 mh6.adriver.ru
 mh8.adriver.ru
+milkly.ru
 minimo.callibri.ru
 mirror.heroeswm.ru
 mirroruploads.nocoshop.ru
@@ -1586,6 +1603,7 @@ ukrashulya.ru
 unisound.cdnvideo.ru
 unlockers.ru
 upandshare.nocoshop.ru
+upsrv.ru
 uptime-info.yandex.ru
 uptolike.ru
 userator.ru
@@ -1639,11 +1657,9 @@ web.redhelper.ru
 webim2.ru
 webkurchatov.ru
 weborama-tech.ru
-webpush-images.mindbox.ru
 webpush-imgproxy.g.mindbox.ru
 webstat.profi.ru
 websurf.ru
-wemadepro.ru
 wesecrets.ru
 weupload.nocoshop.ru
 wf-ru-frontend.weborama-tech.ru
@@ -1689,7 +1705,6 @@ www.adv.yandex.ru
 www.advaction.ru
 www.advertising.yandex.ru
 www.aitradingfree.ru
-www.aiyandex.com
 www.aksonural.ru
 www.alfa-medosmotr.ru
 www.all4wap.ru
@@ -1703,12 +1718,11 @@ www.cityhostelkazan.ru
 www.clck.ru
 www.comagic.ru
 www.consultant-online.ru
-www.dentalaboralcare.ru
 www.directadvert.ru
 www.drinkables.ru
 www.drivenetwork.ru
-www.elitpharma.ru
 www.erkugo.ru
+www.expertsun.ru
 www.fb2portal.ru
 www.flusnews.ru
 www.free-gluten.ru
@@ -1748,7 +1762,6 @@ www.tns-counter.ru
 www.toptracker.ru
 www.unlockers.ru
 www.videonow.ru
-www.wemadepro.ru
 www.wm-goldenclick.ru
 www.wordstat.yandex.ru
 www.yandex.com
@@ -1768,6 +1781,7 @@ yabs.yandex.ru
 yadro.ru
 yandex.avito.afuserid3b0ead6d-2490-4e1a-9253-8c225614106e-p.storiespace.com
 yandex.blablacar.membership-amazion-id184645.elearningmine.com
+yandex.cod4.alibabarab.com
 yandex.federicod4.sg-hosadmin.vm-cs.ru
 yandex.membership-amazion-id184645.elearningmine.com
 yandex.nonprod01.opy.com

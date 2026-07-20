@@ -66,6 +66,7 @@
 11310314--15722194-111-mnews.ms.vk.com
 11315623--15722194-111-mnews.ms.vk.com
 11369745--15722194-111-mnews.ms.vk.com
+1142214--134705837-111-mnews.ms.vk.com
 11435086--15722194-111-mnews.ms.vk.com
 11450947--15722194-111-mnews.ms.vk.com
 11463509--15722194-111-mnews.ms.vk.com
@@ -93,6 +94,7 @@
 1212897--46042333-111-mnews.ms.vk.com
 121398--148515594-111-mnews.ms.vk.com
 12187250--15722194-111-mnews.ms.vk.com
+1226107--177525068-111-mnews.ms.vk.com
 1227701--46042333-111-mnews.ms.vk.com
 1228418--46042333-111-mnews.ms.vk.com
 1228946--46042333-111-mnews.ms.vk.com
@@ -174,6 +176,7 @@
 2275424--25280329-111-mnews.ms.vk.com
 2276134--25280329-111-mnews.ms.vk.com
 23112.ms.vk.com
+23112.ms.vk.ru
 23123727--24199209-111-mnews.ms.vk.com
 23212.ms.vk.com
 23212.ms.vk.ru
@@ -191,6 +194,7 @@
 2403263--35647551-111-mnews.ms.vk.com
 240397--177936254-111-mnews.ms.vk.com
 24112.ms.vk.com
+24112.ms.vk.ru
 2414765--35647551-111-mnews.ms.vk.com
 24212.ms.vk.com
 24212.ms.vk.ru
@@ -205,6 +209,7 @@
 2505962--35647551-111-mnews.ms.vk.com
 2507689--8862419-111-mnews.ms.vk.com
 25112.ms.vk.com
+25112.ms.vk.ru
 2513734--89493-111-mnews.ms.vk.com
 2515494--35647551-111-mnews.ms.vk.com
 2516882--89493-111-mnews.ms.vk.com
@@ -225,16 +230,23 @@
 32mfedericod4.sg-hosadmin.vm-cs.ru
 33111.ms.vk.ru
 33212.ms.vk.com
+33311.ms.vk.ru
 33412.ms.vk.com
+33412.ms.vk.ru
 33512.ms.vk.com
+33512.ms.vk.ru
 34111.ms.vk.ru
 34212.ms.vk.com
 34412.ms.vk.com
+34412.ms.vk.ru
 34512.ms.vk.com
+34512.ms.vk.ru
 346034--19928749-111-mnews.ms.vk.com
 35111.ms.vk.ru
 35212.ms.vk.com
+35311.ms.vk.ru
 35412.ms.vk.com
+35412.ms.vk.ru
 383729--49246642-111-mnews.ms.vk.com
 3842343--755816-111-mnews.ms.vk.com
 403836--18591998-111-mnews.ms.vk.com
@@ -243,13 +255,16 @@
 4237138.redirect.appmetrica.yandex.com
 43212.ms.vk.com
 43213.ms.vk.com
+43213.ms.vk.ru
 43311.ms.vk.com
 43311.ms.vk.ru
 44212.ms.vk.com
 44213.ms.vk.com
+44213.ms.vk.ru
 44311.ms.vk.com
 44311.ms.vk.ru
 45212.ms.vk.com
+45213.ms.vk.ru
 45311.ms.vk.com
 45311.ms.vk.ru
 45950.wavesend.ru
@@ -299,6 +314,7 @@
 541311.ms.dzen.ru
 541411.ms.dzen.ru
 541511.ms.dzen.ru
+541748--32943546-111-mnews.ms.vk.com
 542411.ms.dzen.ru
 542431.ms.dzen.ru
 5473422--35068738-111-mnews.ms.vk.com
@@ -384,6 +400,7 @@
 90916--148515594-111-mnews.ms.vk.com
 9183875--152992737-111-mnews.ms.vk.com
 9196780--152992737-111-mnews.ms.vk.com
+9208935--152992737-111-mnews.ms.vk.com
 9209898--152992737-111-mnews.ms.vk.com
 931131.log.rutube.ru
 931221.log.rutube.ru
@@ -637,6 +654,7 @@ bs.serving-sys.ru
 bs.yandex.ru
 budvawshes.ru
 bugpuk.ru
+buy-accs.ru
 bvl5bziz9d.ru
 c.admetr.ru
 c.sibnet.ru
@@ -948,6 +966,7 @@ hitcrypt.nkwnb7.ru
 hitcrypt.rbcv7s.ru
 hitcrypt.udqrh6.ru
 hitcrypt.x81p4z.ru
+hitcrypt.xe1teq.ru
 hitcrypt.xgd3kl.ru
 hitlist.ru
 hitman-pro.ru
@@ -1030,6 +1049,7 @@ kontrolnaya-rabota.ru
 kraken.ad-tech.ru
 kraken.rambler.ru
 kremz.ru
+kupit-ajfon-cs1.ru
 kurganobl.ru
 kz.tns-counter.ru
 l.utorria.ru
@@ -1250,6 +1270,7 @@ propub.ru
 ps.punchmedia.ru
 ps2.punchmedia.ru
 pseyumd.ru
+ptichka.ru
 pu.softlot.ru
 punchmedia.ru
 push.svk-native.ru
@@ -1321,6 +1342,7 @@ rum2.cdnvideo.ru
 rum3.cdnvideo.ru
 rum4.cdnvideo.ru
 rum5.cdnvideo.ru
+rum6.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
 russia34.com
@@ -1750,6 +1772,7 @@ www.popunder.ru
 www.pr-cy.ru
 www.pricelib.ru
 www.propan.ru
+www.ptichka.ru
 www.redirect.appmetrica.yandex.com
 www.russianold.com
 www.saf-oil.ru
@@ -1772,6 +1795,7 @@ wwwomen.ru
 x81p4z.ru
 xamubee.ru
 xcec.ru
+xe1teq.ru
 xgd3kl.ru
 xr5.10cek.ru
 xray.mail.ru

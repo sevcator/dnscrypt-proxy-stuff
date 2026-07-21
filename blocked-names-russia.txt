@@ -94,6 +94,9 @@
 1212897--46042333-111-mnews.ms.vk.com
 121398--148515594-111-mnews.ms.vk.com
 12187250--15722194-111-mnews.ms.vk.com
+12243921--15722194-111-mnews.ms.vk.com
+12250335--15722194-111-mnews.ms.vk.com
+12250818--15722194-111-mnews.ms.vk.com
 1226107--177525068-111-mnews.ms.vk.com
 1227701--46042333-111-mnews.ms.vk.com
 1228418--46042333-111-mnews.ms.vk.com
@@ -216,6 +219,7 @@
 25212.ms.vk.com
 25212.ms.vk.ru
 2526066--8862419-111-mnews.ms.vk.com
+2534336--89493-111-mnews.ms.vk.com
 2549080--8862419-111-mnews.ms.vk.com
 268817--28514668-111-mnews.ms.vk.com
 274196--28514668-111-mnews.ms.vk.com
@@ -247,6 +251,7 @@
 35311.ms.vk.ru
 35412.ms.vk.com
 35412.ms.vk.ru
+35512.ms.vk.ru
 383729--49246642-111-mnews.ms.vk.com
 3842343--755816-111-mnews.ms.vk.com
 403836--18591998-111-mnews.ms.vk.com
@@ -276,6 +281,7 @@
 4678905--17862264-111-mnews.ms.vk.com
 48778.wavesend.ru
 49074--85016643-111-mnews.ms.vk.com
+4hunqp.ru
 4px.ru
 5-182-5-41.botfaqtor.ru
 501774--16980751-111-mnews.ms.vk.com
@@ -332,6 +338,7 @@
 5563132--35068738-111-mnews.ms.vk.com
 5575913--35068738-111-mnews.ms.vk.com
 5738165--35068738-111-mnews.ms.vk.com
+5761719--35068738-111-mnews.ms.vk.com
 58sport.ru
 5d0rac.ru
 5dhnv8.ru
@@ -349,6 +356,7 @@
 7098887--27532693-111-mnews.ms.vk.com
 7167434--26284064-111-mnews.ms.vk.com
 7181268--26284064-111-mnews.ms.vk.com
+7310773--27532693-111-mnews.ms.vk.com
 77055--21560979-111-mnews.ms.vk.com
 777-club.ru
 77874--148515594-111-mnews.ms.vk.com
@@ -428,6 +436,7 @@ a.rutube.ru
 a.snsv.ru
 a.ucoz.ru
 a.wb.ru
+a.winline.ru
 a0.smi2.ru
 a0.top.list.ru
 a1.smi2.ru
@@ -725,6 +734,7 @@ cm.tns-counter.ru
 cm076410.tw1.ru
 cnb.cnews.ru
 cnt.ad-tech.ru
+code.4hunqp.ru
 code.clicktex.ru
 code.directadvert.ru
 code.moviead55.ru
@@ -992,6 +1002,7 @@ im-sentry.sportmaster.ru
 image.prlog.ru
 image.sendsay.ru
 images.sparrow.ru
+img.gdeslon.ru
 img.goodcustomers.ru
 img.yuga.ru
 img0.liveinternet.ru
@@ -1075,6 +1086,7 @@ linkbox.nocoshop.ru
 linkfeed.ru
 linkslot.ru
 liquidfile.nocoshop.ru
+livechat.winline.ru
 liveruscams.ru
 livesurf.ru
 lkoi3q.ru

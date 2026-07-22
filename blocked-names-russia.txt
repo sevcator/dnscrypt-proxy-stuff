@@ -219,6 +219,7 @@
 25212.ms.vk.com
 25212.ms.vk.ru
 2526066--8862419-111-mnews.ms.vk.com
+2531294--35647551-111-mnews.ms.vk.com
 2534336--89493-111-mnews.ms.vk.com
 2549080--8862419-111-mnews.ms.vk.com
 268817--28514668-111-mnews.ms.vk.com
@@ -281,6 +282,7 @@
 4678905--17862264-111-mnews.ms.vk.com
 48778.wavesend.ru
 49074--85016643-111-mnews.ms.vk.com
+4gfsvs7l.jennyrussianbluepalace.com
 4hunqp.ru
 4px.ru
 5-182-5-41.botfaqtor.ru
@@ -777,7 +779,6 @@ cpa.hh.ru
 cprojects.radar.imgsmail.ru
 cr-frontend.weborama-tech.ru
 crash-reports.browser.yandex.net
-creative.skyyads.ru
 creative.topoads.ru
 crystalpvp.ru
 cs.ad-tech.ru
@@ -860,7 +861,6 @@ eimage.sendsay.ru
 elasticsearch.planeta-51.ru
 email-images.mindbox.ru
 enfieldshop.ru
-erkugo.ru
 err.agava.ru
 err.apteka.ru
 err.lenta.ru
@@ -1015,7 +1015,6 @@ imobilco.ru
 impression.appmetrica.yandex.com
 indetiske.ya.ru
 inetlog.ru
-info-dvd.ru
 info.kinoclub77.ru
 informer.yandex.ru
 init.videonow.ru
@@ -1049,7 +1048,6 @@ justclick.ru
 jux9ms4vc7.ru
 kamint.ru
 kavanga.ru
-kayrachemicals.ru
 kb.survstat.ru
 kettreha.didns.ru
 kevents.auth.gid.ru
@@ -1285,7 +1283,6 @@ pseyumd.ru
 ptichka.ru
 pu.softlot.ru
 punchmedia.ru
-push.svk-native.ru
 pushlog.wsoft.ru
 px460.telecid.ru
 pypad.ru
@@ -1354,7 +1351,6 @@ rum2.cdnvideo.ru
 rum3.cdnvideo.ru
 rum4.cdnvideo.ru
 rum5.cdnvideo.ru
-rum6.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
 russia34.com
@@ -1533,7 +1529,6 @@ stavkiprognozy.ru
 steam-account.ru
 stmtag.ru
 stopmp3.ru
-store-sentry.vkplay.ru
 stream.datago.ru
 studlance.ru
 subscriptions.rambler.ru
@@ -1755,7 +1750,6 @@ www.consultant-online.ru
 www.directadvert.ru
 www.drinkables.ru
 www.drivenetwork.ru
-www.erkugo.ru
 www.expertsun.ru
 www.fb2portal.ru
 www.flusnews.ru
@@ -1772,7 +1766,6 @@ www.homework.ru
 www.iplogger.ru
 www.jps.ru
 www.justclick.ru
-www.kayrachemicals.ru
 www.kontrolnaya-rabota.ru
 www.mastertarget.ru
 www.mc.yandex.ru

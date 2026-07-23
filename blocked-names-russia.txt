@@ -147,10 +147,7 @@
 184399--99021016-111-mnews.ms.vk.com
 184546--148515594-111-mnews.ms.vk.com
 186087--148515594-111-mnews.ms.vk.com
-1886379--25280329-111-mnews.ms.vk.com
-1892297--25280329-111-mnews.ms.vk.com
 189976--99021016-111-mnews.ms.vk.com
-1905795--2070309-111-mnews.ms.vk.com
 195944--99021016-111-mnews.ms.vk.com
 199482--88797119-111-mnews.ms.vk.com
 1cont.ru
@@ -346,24 +343,26 @@
 5dhnv8.ru
 5forex.ru
 632121.ms.vk.com
+632121.ms.vk.ru
 632221.ms.vk.com
-633060--34350462-111-mnews.ms.vk.com
-633251--34350462-111-mnews.ms.vk.com
+632221.ms.vk.ru
 642121.ms.vk.com
+642121.ms.vk.ru
 642221.ms.vk.com
+642221.ms.vk.ru
 652121.ms.vk.com
+652121.ms.vk.ru
 652221.ms.vk.com
+652221.ms.vk.ru
 6i7y3i.ru
 6rn05mmbct.ru
 7098887--27532693-111-mnews.ms.vk.com
 7167434--26284064-111-mnews.ms.vk.com
 7181268--26284064-111-mnews.ms.vk.com
 7310773--27532693-111-mnews.ms.vk.com
-77055--21560979-111-mnews.ms.vk.com
 777-club.ru
 77874--148515594-111-mnews.ms.vk.com
 78208--148515594-111-mnews.ms.vk.com
-78734--21560979-111-mnews.ms.vk.com
 7nkbwdf1uq.ru
 8066227--152992737-111-mnews.ms.vk.com
 8081485--152992737-111-mnews.ms.vk.com
@@ -412,6 +411,7 @@
 9196780--152992737-111-mnews.ms.vk.com
 9208935--152992737-111-mnews.ms.vk.com
 9209898--152992737-111-mnews.ms.vk.com
+9256390--152992737-111-mnews.ms.vk.com
 931131.log.rutube.ru
 931221.log.rutube.ru
 931222.log.rutube.ru
@@ -632,6 +632,7 @@ banners.adfox.ru
 banshop.gruntovik.ru
 bardatm.ru
 barsranma.didns.ru
+baycarpuzzlan1987.jotunheim.ru
 baza-nomerov.ru
 bazr.ru
 bbj3nb.ru
@@ -644,6 +645,7 @@ beta.mediafort.ru
 bfds.sberbank.ru
 bid.adx.com.ru
 bidder.rutarget.ru
+bieplanoutdul.hotelsvr.ru
 biotisligh.didns.ru
 biz-fakt.ru
 bjtajoox.ru
@@ -710,6 +712,7 @@ cgig.ru
 chat.prod7ction.elasticsearch.planeta-51.ru
 checker.cityads.ru
 checks.botfaqtor.ru
+chemal-altai.ru
 chevy-clan.ru
 chibigsco.didns.ru
 chiptuner.ru
@@ -799,7 +802,6 @@ cvt1.sibnet.ru
 cybertown.ru
 cz8.ru
 d.banner.aismo.ru
-d.botfaqtor.ru
 da.c4.be.a0.top.list.ru
 dadata.ru
 dadu.ru
@@ -1039,6 +1041,7 @@ jasoungu.didns.ru
 jet.zbp.ru
 job-info.ru
 jordan.qunis.ru
+jotunheim.ru
 journal-bt.wildberries.ru
 jps.ru
 js.advideo.ru
@@ -1077,7 +1080,7 @@ lefgastre.didns.ru
 lenta.2xclick.ru
 lenta.sparrow.ru
 lenta.svk-native.ru
-level-crypto.ru
+leramabuf.noviikanat.ru
 lib.usedesk.ru
 likemore-go.imgsmail.ru
 linkbox.nocoshop.ru
@@ -1134,6 +1137,7 @@ media-advcycle.imgsmail.ru
 media-stat.mail.ru
 mediametrics.ru
 mediatoday.ru
+menlerillie.jotunheim.ru
 metrica-yandex.com
 metrica.yandex.com
 metrica.yandex.ru
@@ -1178,6 +1182,7 @@ mpx.ad-tech.ru
 ms-ads-image.t-static.ru
 ms.propub.ru
 mstat.mos.ru
+myelanweihar.hotelsvr.ru
 myjulia.ru
 mymts.metrics.obs.mts.ru
 myqualification.rambler.ru
@@ -1196,6 +1201,7 @@ news.gnezdo2.ru
 news.mediametrics.ru
 news.rin.ru
 news.smi2.ru
+ningwebslazte.hotelsvr.ru
 nkwnb7.ru
 noviikanat.ru
 novosti.gnezdo.ru
@@ -1315,6 +1321,7 @@ redllama.ru
 redsurf.ru
 reformal.ru
 regionads.ru
+reguhydju.noviikanat.ru
 reklama.mail.ru
 release-me.ru
 reperma.didns.ru
@@ -1576,6 +1583,7 @@ tharelust.didns.ru
 theiconto.didns.ru
 tiagenew.didns.ru
 timeref.didns.ru
+tinhapalge.hotelsvr.ru
 tinyfiles.nocoshop.ru
 tistioruc.didns.ru
 tj4rxr.ru
@@ -1673,6 +1681,7 @@ vst.sibnet.ru
 vuryua.ru
 vzarabotke.ru
 w.rulive.ru
+waltotoso.hotelsvr.ru
 wavesend.ru
 wcm.weborama-tech.ru
 web-metrica.yandex.ru

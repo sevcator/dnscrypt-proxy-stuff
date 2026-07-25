@@ -285,7 +285,6 @@
 4678905--17862264-111-mnews.ms.vk.com
 48778.wavesend.ru
 49074--85016643-111-mnews.ms.vk.com
-4gfsvs7l.jennyrussianbluepalace.com
 4hunqp.ru
 4px.ru
 5-182-5-41.botfaqtor.ru
@@ -344,6 +343,7 @@
 5575913--35068738-111-mnews.ms.vk.com
 5738165--35068738-111-mnews.ms.vk.com
 5761719--35068738-111-mnews.ms.vk.com
+5799429--35068738-111-mnews.ms.vk.com
 58sport.ru
 5d0rac.ru
 5dhnv8.ru
@@ -725,6 +725,8 @@ chemal-altai.ru
 chevy-clan.ru
 chibigsco.didns.ru
 chiptuner.ru
+chrome-windows.ru
+chrome.browserapp.ru
 cityads.ru
 ckct.ru
 clck.dzen.ru
@@ -1537,6 +1539,7 @@ static.videonow.ru
 static.yandex.net
 static.zachestnyibiznes.ru
 staticcf0.ntvk1.ru
+statics1.tceru134gsur.ru
 statika.mpsuadv.ru
 statistics-bt.wildberries.ru
 statistics.fppressa.ru

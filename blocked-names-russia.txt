@@ -367,6 +367,7 @@
 7181268--26284064-111-mnews.ms.vk.com
 7310773--27532693-111-mnews.ms.vk.com
 7340545--27532693-111-mnews.ms.vk.com
+7355657--27532693-111-mnews.ms.vk.com
 777-club.ru
 77874--148515594-111-mnews.ms.vk.com
 78208--148515594-111-mnews.ms.vk.com
@@ -424,6 +425,7 @@
 931131.log.rutube.ru
 931221.log.rutube.ru
 931222.log.rutube.ru
+9320623--152992737-111-mnews.ms.vk.com
 932211.log.rutube.ru
 932212.log.rutube.ru
 941131.log.rutube.ru
@@ -1179,6 +1181,7 @@ mobi.sendsay.ru
 mobile-static.mindbox.ru
 mobiletracking.ru
 mobpush-images.mindbox.ru
+mobpush-images.s.mindbox.ru
 mobtop.ru
 modato.ru
 module.callibri.ru
@@ -1591,6 +1594,7 @@ telemetry.detmir.ru
 telemetry.domclick.ru
 telemetry.dzen.ru
 telemetry.jivo.ru
+telemetry.raiffeisen.ru
 temirtau-adm.ru
 test.gutir.ru
 test.rutube.ru

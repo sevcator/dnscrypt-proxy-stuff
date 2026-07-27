@@ -22,6 +22,7 @@
 10876262--15722194-111-mnews.ms.vk.com
 10933407--15722194-111-mnews.ms.vk.com
 10967364--15722194-111-mnews.ms.vk.com
+1097--incl--adsp.stbid.ru
 10971737--15722194-111-mnews.ms.vk.com
 10977664--15722194-111-mnews.ms.vk.com
 10983107--15722194-111-mnews.ms.vk.com
@@ -102,6 +103,7 @@
 1228418--46042333-111-mnews.ms.vk.com
 1228946--46042333-111-mnews.ms.vk.com
 1231451--46042333-111-mnews.ms.vk.com
+12358193--15722194-111-mnews.ms.vk.com
 126409--148515594-111-mnews.ms.vk.com
 1315402--28429027-111-mnews.ms.vk.com
 1323061--28429027-111-mnews.ms.vk.com
@@ -184,6 +186,11 @@
 2330697--35647551-111-mnews.ms.vk.com
 2331004--35647551-111-mnews.ms.vk.com
 2331111--35647551-111-mnews.ms.vk.com
+23341409--24199209-111-mnews.ms.vk.com
+23345979--24199209-111-mnews.ms.vk.com
+23349215--24199209-111-mnews.ms.vk.com
+23354882--24199209-111-mnews.ms.vk.com
+23364542--24199209-111-mnews.ms.vk.com
 2338446--35647551-111-mnews.ms.vk.com
 2343836--25280329-111-mnews.ms.vk.com
 2344001--35647551-111-mnews.ms.vk.com
@@ -234,6 +241,7 @@
 33212.ms.vk.com
 33213.ms.vk.ru
 33311.ms.vk.ru
+33411.ms.vk.ru
 33412.ms.vk.com
 33412.ms.vk.ru
 33413.ms.vk.ru
@@ -242,6 +250,7 @@
 34111.ms.vk.ru
 34212.ms.vk.com
 34213.ms.vk.ru
+34411.ms.vk.ru
 34412.ms.vk.com
 34412.ms.vk.ru
 34413.ms.vk.ru
@@ -252,6 +261,7 @@
 35212.ms.vk.com
 35213.ms.vk.ru
 35311.ms.vk.ru
+35411.ms.vk.ru
 35412.ms.vk.com
 35412.ms.vk.ru
 35413.ms.vk.ru
@@ -344,6 +354,9 @@
 5738165--35068738-111-mnews.ms.vk.com
 5761719--35068738-111-mnews.ms.vk.com
 5799429--35068738-111-mnews.ms.vk.com
+5819939--35068738-111-mnews.ms.vk.com
+5823284--35068738-111-mnews.ms.vk.com
+5826797--35068738-111-mnews.ms.vk.com
 58sport.ru
 5d0rac.ru
 5dhnv8.ru
@@ -428,6 +441,7 @@
 9320623--152992737-111-mnews.ms.vk.com
 932211.log.rutube.ru
 932212.log.rutube.ru
+9337543--152992737-111-mnews.ms.vk.com
 941131.log.rutube.ru
 941221.log.rutube.ru
 942211.log.rutube.ru
@@ -480,7 +494,6 @@ ad1.mpsuadv.ru
 ad1.sibnet.ru
 ad1game.ru
 ad2.mpsuadv.ru
-adcamp.ru
 adfox.ru
 adfox.yandex.ru
 adfstat.yandex.ru
@@ -1151,6 +1164,7 @@ media-adv.vs.market.yandex.net
 media-adv.yandex.com
 media-advcycle.imgsmail.ru
 media-stat.mail.ru
+media-talk.ru
 mediametrics.ru
 mediatoday.ru
 menlerillie.jotunheim.ru
@@ -1440,6 +1454,7 @@ sentry.winline.ru
 sentry.x5.ru
 seo-service.domclick.ru
 serval.getads.ru
+serve.getads.ru
 servers1.adriver.ru
 servers10.adriver.ru
 servers2.adriver.ru
@@ -1658,6 +1673,7 @@ uaas.yandex.ru
 uberupload.nocoshop.ru
 udqrh6.ru
 ukrashulya.ru
+umami.mrmag.ru
 unisound.cdnvideo.ru
 unlockers.ru
 upandshare.nocoshop.ru
@@ -1725,6 +1741,7 @@ wf-ru-frontend.weborama-tech.ru
 whiteboxdigital.ru
 whiteline.mail.ru
 widget.adplay.ru
+widget.cleversite.ru
 widget.info-static.ru
 widget.kassa.rambler.ru
 widget.lawyer-feedot.ru

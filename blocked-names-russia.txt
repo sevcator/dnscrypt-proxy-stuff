@@ -19,10 +19,7 @@
 102954.wavesend.ru
 104898--148515594-111-mnews.ms.vk.com
 1055058--38168721-111-mnews.ms.vk.com
-10933407--15722194-111-mnews.ms.vk.com
-10967364--15722194-111-mnews.ms.vk.com
 1097--incl--adsp.stbid.ru
-10971737--15722194-111-mnews.ms.vk.com
 10977664--15722194-111-mnews.ms.vk.com
 10983107--15722194-111-mnews.ms.vk.com
 10998392--26493942-111-mnews.ms.vk.com
@@ -57,10 +54,7 @@
 11216941--15722194-111-mnews.ms.vk.com
 11234742--15722194-111-mnews.ms.vk.com
 11253649--15722194-111-mnews.ms.vk.com
-1125853--46042333-111-mnews.ms.vk.com
-1126515--46042333-111-mnews.ms.vk.com
 11279648--15722194-111-mnews.ms.vk.com
-1128761--46042333-111-mnews.ms.vk.com
 11294196--15722194-111-mnews.ms.vk.com
 11309890--15722194-111-mnews.ms.vk.com
 11310314--15722194-111-mnews.ms.vk.com
@@ -129,7 +123,6 @@
 14735.beacon.alice.yandex.ru
 1473750--119533440-111-mnews.ms.vk.com
 148381--148515594-111-mnews.ms.vk.com
-1530888--176841276-111-mnews.ms.vk.com
 1541252--176841276-111-mnews.ms.vk.com
 1555445--176841276-111-mnews.ms.vk.com
 156921--2357771-111-mnews.ms.vk.com
@@ -198,6 +191,8 @@
 23373994--24199209-111-mnews.ms.vk.com
 2338446--35647551-111-mnews.ms.vk.com
 23385314--24199209-111-mnews.ms.vk.com
+23394875--24199209-111-mnews.ms.vk.com
+23407884--24199209-111-mnews.ms.vk.com
 2343836--25280329-111-mnews.ms.vk.com
 2344001--35647551-111-mnews.ms.vk.com
 2344204--25280329-111-mnews.ms.vk.com
@@ -415,7 +410,6 @@
 8368076--152992737-111-mnews.ms.vk.com
 8434477--152992737-111-mnews.ms.vk.com
 8446187--152992737-111-mnews.ms.vk.com
-84534--21560979-111-mnews.ms.vk.com
 8468096--152992737-111-mnews.ms.vk.com
 8469132--152992737-111-mnews.ms.vk.com
 8498999--152992737-111-mnews.ms.vk.com
@@ -446,6 +440,8 @@
 9343164--152992737-111-mnews.ms.vk.com
 9344454--152992737-111-mnews.ms.vk.com
 9347872--152992737-111-mnews.ms.vk.com
+9362440--152992737-111-mnews.ms.vk.com
+9366463--152992737-111-mnews.ms.vk.com
 941131.log.rutube.ru
 941221.log.rutube.ru
 942211.log.rutube.ru
@@ -743,7 +739,6 @@ chevy-clan.ru
 chibigsco.didns.ru
 chiptuner.ru
 chrome-windows.ru
-chrome.browserapp.ru
 cityads.ru
 ckct.ru
 clck.dzen.ru
@@ -876,7 +871,6 @@ dsp.rtb.mts.ru
 dspgate.ru
 dtpchp.ru
 duhboga.ru
-dw.skyyads.ru
 dx-frontend.weborama-tech.ru
 e1.skwstat.ru
 easy-monetization.s3.yandex.net
@@ -1393,7 +1387,6 @@ rum2.cdnvideo.ru
 rum3.cdnvideo.ru
 rum4.cdnvideo.ru
 rum5.cdnvideo.ru
-rum6.cdnvideo.ru
 rumstat-01.cdnvideo.ru
 rumstat.cdnvideo.ru
 russia34.com
@@ -1507,7 +1500,6 @@ spalneochee.didns.ru
 sparrow.ru
 spartakfanat.ru
 sporttouch.radar.imgsmail.ru
-srv250136.hoster-test.ru
 ssl.adriver.ru
 ssp-rambler.ad-tech.ru
 ssp-rtb-ap.sape.ru
@@ -1750,7 +1742,6 @@ widget.skobeeff.ru
 widget.sparrow.ru
 widgets.livetex.ru
 widgets.planeta.ru
-widgets.rankw.ru
 widster.ru
 winline.ru
 winlinebet.ru
@@ -1832,7 +1823,6 @@ www.russianold.com
 www.saf-oil.ru
 www.shulepov.ru
 www.softout.ru
-www.srv250136.hoster-test.ru
 www.startup.mobile.yandex.net
 www.tinka.ru
 www.tns-counter.ru

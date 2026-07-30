@@ -20,8 +20,6 @@
 104898--148515594-111-mnews.ms.vk.com
 1055058--38168721-111-mnews.ms.vk.com
 1097--incl--adsp.stbid.ru
-10977664--15722194-111-mnews.ms.vk.com
-10983107--15722194-111-mnews.ms.vk.com
 10998392--26493942-111-mnews.ms.vk.com
 11005712--15722194-111-mnews.ms.vk.com
 11013144--15722194-111-mnews.ms.vk.com
@@ -55,6 +53,7 @@
 11234742--15722194-111-mnews.ms.vk.com
 11253649--15722194-111-mnews.ms.vk.com
 11279648--15722194-111-mnews.ms.vk.com
+11282845--26493942-111-mnews.ms.vk.com
 11294196--15722194-111-mnews.ms.vk.com
 11309890--15722194-111-mnews.ms.vk.com
 11310314--15722194-111-mnews.ms.vk.com
@@ -101,12 +100,12 @@
 12384878--15722194-111-mnews.ms.vk.com
 126409--148515594-111-mnews.ms.vk.com
 1315402--28429027-111-mnews.ms.vk.com
+1322697--46042333-111-mnews.ms.vk.com
+1322865--46042333-111-mnews.ms.vk.com
 1323061--28429027-111-mnews.ms.vk.com
 1326480--28429027-111-mnews.ms.vk.com
 1326503--28429027-111-mnews.ms.vk.com
-1327027--119533440-111-mnews.ms.vk.com
 1330155--28429027-111-mnews.ms.vk.com
-1337287--119533440-111-mnews.ms.vk.com
 1341390--28429027-111-mnews.ms.vk.com
 1341471--28429027-111-mnews.ms.vk.com
 1341555--28429027-111-mnews.ms.vk.com
@@ -171,7 +170,6 @@
 2276134--25280329-111-mnews.ms.vk.com
 23112.ms.vk.com
 23112.ms.vk.ru
-23123727--24199209-111-mnews.ms.vk.com
 23212.ms.vk.com
 23212.ms.vk.ru
 2326152--35647551-111-mnews.ms.vk.com
@@ -193,6 +191,11 @@
 23385314--24199209-111-mnews.ms.vk.com
 23394875--24199209-111-mnews.ms.vk.com
 23407884--24199209-111-mnews.ms.vk.com
+23413738--24199209-111-mnews.ms.vk.com
+23418076--24199209-111-mnews.ms.vk.com
+23421509--24199209-111-mnews.ms.vk.com
+23428989--24199209-111-mnews.ms.vk.com
+23431871--24199209-111-mnews.ms.vk.com
 2343836--25280329-111-mnews.ms.vk.com
 2344001--35647551-111-mnews.ms.vk.com
 2344204--25280329-111-mnews.ms.vk.com
@@ -225,8 +228,10 @@
 2526066--8862419-111-mnews.ms.vk.com
 2531294--35647551-111-mnews.ms.vk.com
 2534336--89493-111-mnews.ms.vk.com
+2534818--25280329-111-mnews.ms.vk.com
+2535235--25280329-111-mnews.ms.vk.com
 2549080--8862419-111-mnews.ms.vk.com
-268817--28514668-111-mnews.ms.vk.com
+2604886--6246566-111-mnews.ms.vk.com
 274196--28514668-111-mnews.ms.vk.com
 282913--28514668-111-mnews.ms.vk.com
 288350--28514668-111-mnews.ms.vk.com
@@ -285,7 +290,6 @@
 45311.ms.vk.com
 45311.ms.vk.ru
 45950.wavesend.ru
-4635284--17862264-111-mnews.ms.vk.com
 4646919--17862264-111-mnews.ms.vk.com
 4659773--17862264-111-mnews.ms.vk.com
 4660270--17862264-111-mnews.ms.vk.com
@@ -295,7 +299,6 @@
 4hunqp.ru
 4px.ru
 5-182-5-41.botfaqtor.ru
-501774--16980751-111-mnews.ms.vk.com
 503663--32943546-111-mnews.ms.vk.com
 504887--32943546-111-mnews.ms.vk.com
 506818--32943546-111-mnews.ms.vk.com
@@ -333,6 +336,7 @@
 541748--32943546-111-mnews.ms.vk.com
 542411.ms.dzen.ru
 542431.ms.dzen.ru
+543198--32943546-111-mnews.ms.vk.com
 5455153--43618728-111-mnews.ms.vk.com
 5473422--35068738-111-mnews.ms.vk.com
 551111.ms.dzen.ru
@@ -354,6 +358,7 @@
 5819939--35068738-111-mnews.ms.vk.com
 5823284--35068738-111-mnews.ms.vk.com
 5826797--35068738-111-mnews.ms.vk.com
+5849788--35068738-111-mnews.ms.vk.com
 58sport.ru
 5d0rac.ru
 5dhnv8.ru
@@ -381,7 +386,6 @@
 7372454--27532693-111-mnews.ms.vk.com
 777-club.ru
 7nkbwdf1uq.ru
-8081485--152992737-111-mnews.ms.vk.com
 81640.mstat.mos.ru
 8167901--152992737-111-mnews.ms.vk.com
 8189520--152992737-111-mnews.ms.vk.com
@@ -421,8 +425,6 @@
 8721366--152992737-111-mnews.ms.vk.com
 877246--179713595-111-mnews.ms.vk.com
 8si.ru
-90852--148515594-111-mnews.ms.vk.com
-90916--148515594-111-mnews.ms.vk.com
 9183875--152992737-111-mnews.ms.vk.com
 9196780--152992737-111-mnews.ms.vk.com
 9208935--152992737-111-mnews.ms.vk.com
@@ -442,6 +444,7 @@
 9347872--152992737-111-mnews.ms.vk.com
 9362440--152992737-111-mnews.ms.vk.com
 9366463--152992737-111-mnews.ms.vk.com
+9394795--152992737-111-mnews.ms.vk.com
 941131.log.rutube.ru
 941221.log.rutube.ru
 942211.log.rutube.ru
@@ -582,6 +585,7 @@ analytics.mediadash.ru
 analytics.mobile.yandex.net
 analytics.move.ru
 analytics.sberhealth.ru
+analytics.skyeng.ru
 analytics.sutochno.ru
 analytics.tele2.ru
 anekbook.ru
@@ -805,7 +809,6 @@ cpa.hh.ru
 cprojects.radar.imgsmail.ru
 cr-frontend.weborama-tech.ru
 crash-reports.browser.yandex.net
-creative.topoads.ru
 crystalpvp.ru
 cs.ad-tech.ru
 cs.agency2.ru
@@ -1725,6 +1728,7 @@ web.redhelper.ru
 webim2.ru
 webkurchatov.ru
 weborama-tech.ru
+webpush-images.mindbox.ru
 webpush-imgproxy.g.mindbox.ru
 webstat.profi.ru
 websurf.ru

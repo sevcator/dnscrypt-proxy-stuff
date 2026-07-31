@@ -70,7 +70,6 @@
 11591865--15722194-111-mnews.ms.vk.com
 11594196--15722194-111-mnews.ms.vk.com
 11628922--15722194-111-mnews.ms.vk.com
-1168468--46042333-111-mnews.ms.vk.com
 11765405--15722194-111-mnews.ms.vk.com
 1179258--46042333-111-mnews.ms.vk.com
 118113--148515594-111-mnews.ms.vk.com
@@ -99,17 +98,16 @@
 12367522--15722194-111-mnews.ms.vk.com
 12384878--15722194-111-mnews.ms.vk.com
 126409--148515594-111-mnews.ms.vk.com
-1315402--28429027-111-mnews.ms.vk.com
 1322697--46042333-111-mnews.ms.vk.com
 1322865--46042333-111-mnews.ms.vk.com
 1323061--28429027-111-mnews.ms.vk.com
 1326480--28429027-111-mnews.ms.vk.com
 1326503--28429027-111-mnews.ms.vk.com
+1327714--46042333-111-mnews.ms.vk.com
 1330155--28429027-111-mnews.ms.vk.com
 1341390--28429027-111-mnews.ms.vk.com
 1341471--28429027-111-mnews.ms.vk.com
 1341555--28429027-111-mnews.ms.vk.com
-1351738--119533440-111-mnews.ms.vk.com
 1369825--119533440-111-mnews.ms.vk.com
 1374017--119533440-111-mnews.ms.vk.com
 1390048--119533440-111-mnews.ms.vk.com
@@ -196,6 +194,7 @@
 23421509--24199209-111-mnews.ms.vk.com
 23428989--24199209-111-mnews.ms.vk.com
 23431871--24199209-111-mnews.ms.vk.com
+23433186--24199209-111-mnews.ms.vk.com
 2343836--25280329-111-mnews.ms.vk.com
 2344001--35647551-111-mnews.ms.vk.com
 2344204--25280329-111-mnews.ms.vk.com
@@ -231,6 +230,7 @@
 2534818--25280329-111-mnews.ms.vk.com
 2535235--25280329-111-mnews.ms.vk.com
 2549080--8862419-111-mnews.ms.vk.com
+2565379--8862419-111-mnews.ms.vk.com
 2604886--6246566-111-mnews.ms.vk.com
 274196--28514668-111-mnews.ms.vk.com
 282913--28514668-111-mnews.ms.vk.com
@@ -359,7 +359,6 @@
 5823284--35068738-111-mnews.ms.vk.com
 5826797--35068738-111-mnews.ms.vk.com
 5849788--35068738-111-mnews.ms.vk.com
-58sport.ru
 5d0rac.ru
 5dhnv8.ru
 5forex.ru
@@ -367,6 +366,7 @@
 632121.ms.vk.ru
 632221.ms.vk.com
 632221.ms.vk.ru
+636085--150226042-111-mnews.ms.vk.com
 642121.ms.vk.com
 642121.ms.vk.ru
 642221.ms.vk.com
@@ -387,7 +387,6 @@
 777-club.ru
 7nkbwdf1uq.ru
 81640.mstat.mos.ru
-8167901--152992737-111-mnews.ms.vk.com
 8189520--152992737-111-mnews.ms.vk.com
 8207126--152992737-111-mnews.ms.vk.com
 8221145--152992737-111-mnews.ms.vk.com
@@ -447,6 +446,7 @@
 9394795--152992737-111-mnews.ms.vk.com
 941131.log.rutube.ru
 941221.log.rutube.ru
+9420024--152992737-111-mnews.ms.vk.com
 942211.log.rutube.ru
 951131.log.rutube.ru
 951221.log.rutube.ru
@@ -677,7 +677,6 @@ biz-fakt.ru
 bjtajoox.ru
 blablacar.efxa2idmx6wld7z.xr5.10cek.ru
 blocked.botfaqtor.ru
-blog.sape.ru
 bms-cloud.ru
 bn.winlinebet.ru
 bonuscake.ru
@@ -857,7 +856,6 @@ dmg.digitaltarget.ru
 dmp-profiles.sbermarketing.ru
 dmp.mpsuadv.ru
 dmp.sbermarketing.ru
-dmrussia-kubernetes-744b7742.cs299.cdn-settings.appsflyersdk.com
 dnkeeper-drru.platform.dbankcloud.ru
 doprodavec.ru
 doptik.ru
@@ -1252,7 +1250,6 @@ ogtz5yn2u1.ru
 okr.sbdv.ru
 omniqa.ru
 on-dirty.ru
-onenews24.ru
 onetarget.ru
 onfeed.ru
 opendsp.ru
@@ -1322,6 +1319,7 @@ ptichka.ru
 pu.softlot.ru
 punchmedia.ru
 pushlog.wsoft.ru
+px156.telecid.ru
 px460.telecid.ru
 pyoumiscentcep.hotelsvr.ru
 pypad.ru
@@ -1429,6 +1427,7 @@ sentry-relay.beeline.ru
 sentry-saas.rambler-co.ru
 sentry-tech.cdek.ru
 sentry.baseomni.ru
+sentry.belkacar.ru
 sentry.cable.ru
 sentry.domclick.ru
 sentry.hh.ru
@@ -1672,6 +1671,7 @@ uberupload.nocoshop.ru
 udqrh6.ru
 ukrashulya.ru
 umami.mrmag.ru
+unicontext.ru
 unisound.cdnvideo.ru
 unlockers.ru
 upandshare.nocoshop.ru
@@ -1728,7 +1728,6 @@ web.redhelper.ru
 webim2.ru
 webkurchatov.ru
 weborama-tech.ru
-webpush-images.mindbox.ru
 webpush-imgproxy.g.mindbox.ru
 webstat.profi.ru
 websurf.ru
@@ -1840,6 +1839,7 @@ www.yandex.net
 www.yuga.ru
 www.zvetki.ru
 wwwomen.ru
+x.unicontext.ru
 x81p4z.ru
 xamubee.ru
 xcec.ru
@@ -1847,6 +1847,7 @@ xe1teq.ru
 xgd3kl.ru
 xr5.10cek.ru
 xray.mail.ru
+xs.unicontext.ru
 y8lsyibocd.ru
 ya-distrib.ru
 yabs.yandex.ru

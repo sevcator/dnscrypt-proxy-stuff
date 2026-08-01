@@ -21,7 +21,6 @@
 1055058--38168721-111-mnews.ms.vk.com
 1097--incl--adsp.stbid.ru
 10998392--26493942-111-mnews.ms.vk.com
-11005712--15722194-111-mnews.ms.vk.com
 11013144--15722194-111-mnews.ms.vk.com
 11015967--15722194-111-mnews.ms.vk.com
 11022937--15722194-111-mnews.ms.vk.com
@@ -71,7 +70,6 @@
 11594196--15722194-111-mnews.ms.vk.com
 11628922--15722194-111-mnews.ms.vk.com
 11765405--15722194-111-mnews.ms.vk.com
-1179258--46042333-111-mnews.ms.vk.com
 118113--148515594-111-mnews.ms.vk.com
 11895916--15722194-111-mnews.ms.vk.com
 1189908--46042333-111-mnews.ms.vk.com
@@ -97,6 +95,7 @@
 12358193--15722194-111-mnews.ms.vk.com
 12367522--15722194-111-mnews.ms.vk.com
 12384878--15722194-111-mnews.ms.vk.com
+12475220--15722194-111-mnews.ms.vk.com
 126409--148515594-111-mnews.ms.vk.com
 1322697--46042333-111-mnews.ms.vk.com
 1322865--46042333-111-mnews.ms.vk.com
@@ -120,17 +119,14 @@
 14735.beacon.alice.yandex.ru
 1473750--119533440-111-mnews.ms.vk.com
 148381--148515594-111-mnews.ms.vk.com
-1541252--176841276-111-mnews.ms.vk.com
 1555445--176841276-111-mnews.ms.vk.com
 156921--2357771-111-mnews.ms.vk.com
 1569908--176841276-111-mnews.ms.vk.com
-160061--99021016-111-mnews.ms.vk.com
 1603506--176841276-111-mnews.ms.vk.com
 162719--99021016-111-mnews.ms.vk.com
 162733--2357771-111-mnews.ms.vk.com
 162738--99021016-111-mnews.ms.vk.com
 162810--99021016-111-mnews.ms.vk.com
-162979--211664435-111-mnews.ms.vk.com
 163345--211664435-111-mnews.ms.vk.com
 163765--99021016-111-mnews.ms.vk.com
 167590--148515594-111-mnews.ms.vk.com
@@ -170,7 +166,6 @@
 23112.ms.vk.ru
 23212.ms.vk.com
 23212.ms.vk.ru
-2326152--35647551-111-mnews.ms.vk.com
 2330697--35647551-111-mnews.ms.vk.com
 2331004--35647551-111-mnews.ms.vk.com
 2331111--35647551-111-mnews.ms.vk.com
@@ -198,6 +193,8 @@
 2343836--25280329-111-mnews.ms.vk.com
 2344001--35647551-111-mnews.ms.vk.com
 2344204--25280329-111-mnews.ms.vk.com
+23460697--24199209-111-mnews.ms.vk.com
+23468967--24199209-111-mnews.ms.vk.com
 2360895--35647551-111-mnews.ms.vk.com
 2365300--35647551-111-mnews.ms.vk.com
 2370648--35647551-111-mnews.ms.vk.com
@@ -232,7 +229,6 @@
 2549080--8862419-111-mnews.ms.vk.com
 2565379--8862419-111-mnews.ms.vk.com
 2604886--6246566-111-mnews.ms.vk.com
-274196--28514668-111-mnews.ms.vk.com
 282913--28514668-111-mnews.ms.vk.com
 288350--28514668-111-mnews.ms.vk.com
 28yw0a.ru
@@ -290,7 +286,6 @@
 45311.ms.vk.com
 45311.ms.vk.ru
 45950.wavesend.ru
-4646919--17862264-111-mnews.ms.vk.com
 4659773--17862264-111-mnews.ms.vk.com
 4660270--17862264-111-mnews.ms.vk.com
 4664960--17862264-111-mnews.ms.vk.com
@@ -387,7 +382,6 @@
 777-club.ru
 7nkbwdf1uq.ru
 81640.mstat.mos.ru
-8189520--152992737-111-mnews.ms.vk.com
 8207126--152992737-111-mnews.ms.vk.com
 8221145--152992737-111-mnews.ms.vk.com
 8221365--152992737-111-mnews.ms.vk.com
@@ -455,7 +449,6 @@
 952212.log.rutube.ru
 971845--38168721-111-mnews.ms.vk.com
 993520--38168721-111-mnews.ms.vk.com
-9levl1.ru
 a.mt.ru
 a.mts.ru
 a.pikabu.ru
@@ -993,7 +986,6 @@ hit.udqrh6.ru
 hit.x81p4z.ru
 hit.xgd3kl.ru
 hitcrypt.04xmhp.ru
-hitcrypt.9levl1.ru
 hitcrypt.aan8bq.ru
 hitcrypt.g4blin.ru
 hitcrypt.icyh3e.ru
@@ -1319,6 +1311,7 @@ ptichka.ru
 pu.softlot.ru
 punchmedia.ru
 pushlog.wsoft.ru
+px137.telecid.ru
 px156.telecid.ru
 px460.telecid.ru
 pyoumiscentcep.hotelsvr.ru
@@ -1552,7 +1545,6 @@ static.skwstat.ru
 static.traffic.ru
 static.videonow.ru
 static.yandex.net
-static.zachestnyibiznes.ru
 staticcf0.ntvk1.ru
 statics1.tceru134gsur.ru
 statika.mpsuadv.ru
@@ -1841,7 +1833,6 @@ www.zvetki.ru
 wwwomen.ru
 x.unicontext.ru
 x81p4z.ru
-xamubee.ru
 xcec.ru
 xe1teq.ru
 xgd3kl.ru

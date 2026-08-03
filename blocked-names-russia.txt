@@ -8,7 +8,17 @@
 =yandex.ru
 
 # schakal.ru alive hosts
+1081243--106042931-111-mnews.ms.vk.com
+11519166--28658784-111-mnews.ms.vk.com
 12442742--15722194-111-mnews.ms.vk.com
+23518334--24199209-111-mnews.ms.vk.com
+2568418--8862419-111-mnews.ms.vk.com
+5897628--35068738-111-mnews.ms.vk.com
 9458877--152992737-111-mnews.ms.vk.com
+gahakoleir.ru
+gorodvlesu.ru
+reklama-net.ru
 solartek.ru
+srv250553.hoster-test.ru
 ws.cleversite.ru
+www.srv250553.hoster-test.ru

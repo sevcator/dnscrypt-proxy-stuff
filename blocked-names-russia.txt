@@ -9,15 +9,24 @@
 
 # schakal.ru alive hosts
 1081243--106042931-111-mnews.ms.vk.com
+1085969--106042931-111-mnews.ms.vk.com
+1088860--106042931-111-mnews.ms.vk.com
 11519166--28658784-111-mnews.ms.vk.com
 12442742--15722194-111-mnews.ms.vk.com
 23518334--24199209-111-mnews.ms.vk.com
+23539673--24199209-111-mnews.ms.vk.com
 2568418--8862419-111-mnews.ms.vk.com
 5897628--35068738-111-mnews.ms.vk.com
+5925892--35068738-111-mnews.ms.vk.com
+5929386--35068738-111-mnews.ms.vk.com
 9458877--152992737-111-mnews.ms.vk.com
+elpadel.ru
 gahakoleir.ru
 gorodvlesu.ru
+px143.telecid.ru
 reklama-net.ru
+sentry-devtools.qsrapp.ru
+shop.solartek.ru
 solartek.ru
 srv250553.hoster-test.ru
 ws.cleversite.ru

@@ -23,7 +23,9 @@
 5925892--35068738-111-mnews.ms.vk.com
 5929386--35068738-111-mnews.ms.vk.com
 5946834--35068738-111-mnews.ms.vk.com
+7416103--26284064-111-mnews.ms.vk.com
 9458877--152992737-111-mnews.ms.vk.com
+balam.paradocs.ru
 eliteworldnest.ru
 elpadel.ru
 forum.pitomnikgamaun.ru
@@ -32,6 +34,7 @@ gorodvlesu.ru
 hosting-maga.ru
 pitomnikgamaun.ru
 px143.telecid.ru
+px182.telecid.ru
 qip.ru
 reklama-net.ru
 sentry-devtools.qsrapp.ru

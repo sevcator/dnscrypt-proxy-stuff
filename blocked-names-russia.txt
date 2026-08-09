@@ -19,6 +19,8 @@
 23539673--24199209-111-mnews.ms.vk.com
 23558101--24199209-111-mnews.ms.vk.com
 2568418--8862419-111-mnews.ms.vk.com
+531431.ms.dzen.ru
+551431.ms.dzen.ru
 5897628--35068738-111-mnews.ms.vk.com
 5925892--35068738-111-mnews.ms.vk.com
 5929386--35068738-111-mnews.ms.vk.com
@@ -42,6 +44,7 @@ sentry.p.ecnl.ru
 shop.solartek.ru
 solartek.ru
 srv250553.hoster-test.ru
+svetvip.ru
 ws.cleversite.ru
 www.eliteworldnest.ru
 www.hosting-maga.ru

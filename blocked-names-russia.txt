@@ -20,7 +20,10 @@
 23558101--24199209-111-mnews.ms.vk.com
 2568418--8862419-111-mnews.ms.vk.com
 531431.ms.dzen.ru
+541431.ms.dzen.ru
 551431.ms.dzen.ru
+5531574--43618728-111-mnews.ms.vk.com
+5531574--43618728-111.news.ms.vk.com
 5897628--35068738-111-mnews.ms.vk.com
 5925892--35068738-111-mnews.ms.vk.com
 5929386--35068738-111-mnews.ms.vk.com
@@ -30,8 +33,8 @@
 balam.paradocs.ru
 eliteworldnest.ru
 elpadel.ru
+forum.linkfeed.ru
 forum.pitomnikgamaun.ru
-gahakoleir.ru
 gorodvlesu.ru
 hosting-maga.ru
 pitomnikgamaun.ru

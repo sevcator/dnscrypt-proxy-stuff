@@ -463,6 +463,7 @@ dadata.ru
 dadu.ru
 daily.heroeswm.ru
 darknagar.ru
+data.killbot.ru
 data.punchmedia.ru
 data.skwstat.ru
 data.videonow.ru
@@ -886,7 +887,10 @@ qos-api.ott.yandex.net
 quizgo-widget.ru
 quotiq.ru
 r0.mail.ru
+r1.kill-bot.ru
 r3.mail.ru
+r3.nl.kill-bot.ru
+r4.us.kill-bot.ru
 radar.imgsmail.ru
 radio.mediametrics.ru
 rate.ru

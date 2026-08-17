@@ -8,6 +8,14 @@
 =yandex.ru
 
 # schakal.ru alive hosts
+analytics.mobile.yandex.net
+appmetrica.yandex.com
+banners-slb.mobile.yandex.net
+banners.mobile.yandex.net
+mc.yandex.ru
+report.appmetrica.yandex.net
+smartadserver.ru
+startup.mobile.yandex.net
 02ip.ru
 04xmhp.ru
 1000russianwomen.com
@@ -249,7 +257,6 @@ analytics.alloka.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
 analytics.mediadash.ru
-analytics.mobile.yandex.net
 analytics.move.ru
 analytics.sberhealth.ru
 analytics.sutochno.ru
@@ -274,7 +281,6 @@ api.zmqdez.ru
 apistats.rg.ru
 app.uaas.yandex.ru
 appmetrica.sovcombank.ru
-appmetrica.yandex.com
 appmetrica.yandex.ru
 appmetrika.yandex.ru
 apptracer.ru
@@ -727,6 +733,7 @@ mail.radar.imgsmail.ru
 mainpool.ru
 man-live.ru
 mapp.winline.ru
+market-baobab.yandex.ru
 market-click-baobab.yandex.ru
 marketing.trvl.yandex.net
 marketplace-sentry.wb.ru
@@ -740,7 +747,6 @@ maylohack.ru
 mb9pzp.ru
 mc.kinopoisk.ru
 mc.yandex.com
-mc.yandex.ru
 mcc.russia.inf.miui.com
 meb100.ru
 media-adv.market.yandex.ru
@@ -806,6 +812,7 @@ news.gnezdo2.ru
 news.mediametrics.ru
 news.rin.ru
 news.smi2.ru
+nffedorov.ru
 ningwebslazte.hotelsvr.ru
 noviikanat.ru
 novosti.gnezdo.ru
@@ -876,6 +883,7 @@ ptichka.ru
 pu.softlot.ru
 punchmedia.ru
 px151.telecid.ru
+px162.telecid.ru
 px182.telecid.ru
 pyoumiscentcep.hotelsvr.ru
 pypad.ru
@@ -917,7 +925,6 @@ release-me.ru
 repo.tlauncher.ru
 report-partners.appmetrica.yandex.net
 report.ap.yandex-net.ru
-report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
 rezale.ru
@@ -1057,7 +1064,6 @@ st.film.ru
 st.top100.ru
 st.yagla.ru
 startup-mobile.ap.yandex-net.ru
-startup.mobile.yandex.net
 stat-analytics.mediavitrina.ru
 stat.adrun.ru
 stat.adtec.ru

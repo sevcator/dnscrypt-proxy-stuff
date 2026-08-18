@@ -19,6 +19,7 @@ startup.mobile.yandex.net
 02ip.ru
 04xmhp.ru
 1000russianwomen.com
+1034--47--cookieid.stbid.ru
 1097--incl--adsp.stbid.ru
 14735.beacon.alice.yandex.ru
 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
@@ -50,6 +51,7 @@ startup.mobile.yandex.net
 25112.ms.vk.ru
 25212.ms.vk.com
 25212.ms.vk.ru
+2583780--8862419-111-mnews.ms.vk.com
 28yw0a.ru
 317729.redirect.appmetrica.yandex.com
 33212.ms.vk.com
@@ -173,7 +175,6 @@ ad.mail.ru
 ad.mpsuadv.ru
 ad.video-mech.ru
 ad1.mpsuadv.ru
-ad1.sibnet.ru
 ad1game.ru
 ad2.mpsuadv.ru
 adfox.ru
@@ -290,7 +291,6 @@ asr.openssp.ru
 audi-club.ru
 audience.yandex.ru
 auth.tlauncher.ru
-auto.yuga.ru
 autocontext.begun.ru
 autofill.yandex.ru
 autoru-mag.s3.yandex.net
@@ -434,7 +434,6 @@ counter.drom.ru
 counter.dsp.groupminteraction.ru
 counter.megagroup.ru
 counter.mojgorod.ru
-counter.nn.ru
 counter.pr-cy.ru
 counter.rambler.ru
 counter.yadro.ru
@@ -520,6 +519,7 @@ err.apteka.ru
 err.lenta.ru
 ev.adriver.ru
 event-analytics-backend.skyeng.ru
+event-relay.yoomoney.ru
 event.playground.ru
 events-drru.op.dbankcloud.ru
 events.adx.com.ru
@@ -605,7 +605,6 @@ hit.xgd3kl.ru
 hitcrypt.04xmhp.ru
 hitcrypt.aan8bq.ru
 hitcrypt.g4blin.ru
-hitcrypt.icyh3e.ru
 hitcrypt.lkoi3q.ru
 hitcrypt.mb9pzp.ru
 hitcrypt.rbcv7s.ru
@@ -664,7 +663,6 @@ is.luxup.ru
 islon.ru
 j.adlooxtracking.ru
 j.uralweb.ru
-jet.zbp.ru
 jitsu.www1.ru
 job-info.ru
 journal-bt.wildberries.ru
@@ -833,6 +831,7 @@ openx.cnews.ru
 ostrich.vedomosti.ru
 otclick-adv.ru
 otvet.radar.imgsmail.ru
+ox.ruscourt.ru
 p.winline.ru
 pageservice-drru.dt.dbankcloud.ru
 paradocs.ru
@@ -885,6 +884,7 @@ punchmedia.ru
 px151.telecid.ru
 px162.telecid.ru
 px182.telecid.ru
+px460.telecid.ru
 pyoumiscentcep.hotelsvr.ru
 pypad.ru
 q7wiow.ru
@@ -939,7 +939,6 @@ rs.mail.ru
 rtb-bm1.videonow.ru
 rtb.admile.ru
 rtb.adplay.ru
-rtb.agency2.ru
 rtb.opendsp.ru
 rtb.videonow.ru
 ru-stable-yc-haproxy-public1-lb.g.mindbox.ru
@@ -971,7 +970,6 @@ secure-ads.yandex.com
 secure-ads.yandex.ru
 selec1.adriver.ru
 sentry-api.sberdevices.ru
-sentry-mobile-ingest.kuper.ru
 sentry-mobile.avito.ru
 sentry-mobile.ivi.ru
 sentry-mobile.lamoda.ru
@@ -993,7 +991,6 @@ sentry.mos.ru
 sentry.ozon.ru
 sentry.p.ecnl.ru
 sentry.poryadok.ru
-sentry.sca.ad-tech.ru
 sentry.sravni-team.ru
 sentry.sutochno.ru
 sentry.tutu.ru
@@ -1069,7 +1066,6 @@ stat.adrun.ru
 stat.adtec.ru
 stat.advideo.ru
 stat.adx.com.ru
-stat.aif.ru
 stat.azbyka.ru
 stat.gc.vkplay.ru
 stat.playfamily.ru
@@ -1196,6 +1192,7 @@ unisound.cdnvideo.ru
 unlockers.ru
 uptime-info.yandex.ru
 uptolike.ru
+user-events-notifier.dns-shop.ru
 userator.ru
 usercenter-drru.dt.dbankcloud.ru
 utarget.ru

@@ -631,6 +631,7 @@ img.goodcustomers.ru
 img.yuga.ru
 img0.liveinternet.ru
 img01.ad-tech.ru
+imgng.gdeslon.ru
 imgredirect.ad-tech.ru
 imgserve.ad-tech.ru
 imgstats.ad-tech.ru
@@ -732,7 +733,6 @@ masterh5.adriver.ru
 masterh7.adriver.ru
 mastertarget.ru
 matchid.adfox.yandex.ru
-matomo-tracker.usmall.ru
 matomo.datago.ru
 maylohack.ru
 mb9pzp.ru

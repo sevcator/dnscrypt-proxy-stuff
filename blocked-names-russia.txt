@@ -314,6 +314,7 @@ banners-website.wildberries.ru
 banners.adfox.ru
 banshop.gruntovik.ru
 bardatm.ru
+basstroi.ru
 baza-nomerov.ru
 bazr.ru
 bbj3nb.ru
@@ -1042,7 +1043,9 @@ sovetnik.market.yandex.ru
 sp.aviasales.ru
 sparrow.ru
 spartakfanat.ru
+specagendcafemsk.ru
 sporttouch.radar.imgsmail.ru
+srv250626.hoster-test.ru
 ssl.adriver.ru
 ssp-rtb-eu.sape.ru
 ssp-rtb-ru.sape.ru
@@ -1287,6 +1290,7 @@ www.alloysteel.ru
 www.amt-k.ru
 www.audi-club.ru
 www.avramstroy.ru
+www.basstroi.ru
 www.betsonsport.ru
 www.cityads.ru
 www.clck.ru
@@ -1320,6 +1324,7 @@ www.russianold.com
 www.saf-oil.ru
 www.shulepov.ru
 www.softout.ru
+www.srv250626.hoster-test.ru
 www.startup.mobile.yandex.net
 www.tinka.ru
 www.tns-counter.ru

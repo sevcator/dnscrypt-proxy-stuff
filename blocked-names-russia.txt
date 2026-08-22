@@ -157,6 +157,7 @@ acollector.wb.ru
 actionpay.ru
 activepr.ru
 activespb.ru
+ad-cdek.ru
 ad.adriver.ru
 ad.allboxing.ru
 ad.bannerhost.ru
@@ -413,6 +414,7 @@ connect-drru.hispace.dbankcloud.ru
 connect.ok.ru
 consultant-online.ru
 consultsystems.ru
+containers.ad-cdek.ru
 contema.ru
 content.adfox.ru
 content.adriver.ru
@@ -469,6 +471,7 @@ data.skwstat.ru
 data.videonow.ru
 datatracking.ru
 dcdn.heroeswm.ru
+dcyilib.ru
 de.vsexshop.ru
 deeppquiz.ru
 dell-partner.ru
@@ -600,7 +603,6 @@ hitcrypt.04xmhp.ru
 hitcrypt.aan8bq.ru
 hitcrypt.g4blin.ru
 hitcrypt.lkoi3q.ru
-hitcrypt.mb9pzp.ru
 hitcrypt.rbcv7s.ru
 hitcrypt.udqrh6.ru
 hitcrypt.x81p4z.ru
@@ -1050,6 +1052,7 @@ ssl.adriver.ru
 ssp-rtb-eu.sape.ru
 ssp-rtb-ru.sape.ru
 ssp-rtb.sape.ru
+ssp.ad-cdek.ru
 ssp.adriver.ru
 ssp.rambler.ru
 ssp.rutube.ru
@@ -1112,6 +1115,7 @@ sur.gorodkirov.ru
 svetvip.ru
 svk-native.ru
 swft.vedomosti.ru
+sync.ad-cdek.ru
 sync.opendsp.ru
 sync.rambler.ru
 sync.videonow.ru
@@ -1184,6 +1188,7 @@ ua-content.adriver.ru
 ua.adriver.ru
 uaas.yandex.ru
 udqrh6.ru
+ui-api.ad-cdek.ru
 ukrashulya.ru
 umami.mrmag.ru
 unicontext.ru

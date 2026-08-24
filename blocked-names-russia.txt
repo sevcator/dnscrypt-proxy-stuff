@@ -11,8 +11,10 @@
 02ip.ru
 04xmhp.ru
 1000russianwomen.com
+1009--8ab746b8-a536-47ab-9ed6-6435b6b48fad.stbid.ru
 1034--47--cookieid.stbid.ru
 1097--incl--adsp.stbid.ru
+12871033--15722194-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
 1cfcee684da84d79a21730432fc15b1f.ops.beeline.ru
@@ -99,6 +101,7 @@
 552431.ms.dzen.ru
 5531574--43618728-111-mnews.ms.vk.com
 5531574--43618728-111.news.ms.vk.com
+5628980--43618728-111-mnews.ms.vk.com
 5d0rac.ru
 5dhnv8.ru
 632121.ms.vk.com
@@ -187,6 +190,7 @@ adregain.ru
 adriver.ru
 adrun.ru
 ads-gdl.imovideo.ru
+ads-m.rustore.ru
 ads-media.wildberries.ru
 ads-storage.avito.ru
 ads.adfox.ru
@@ -261,6 +265,7 @@ animesvosts.ru
 antalya.ru
 antibot.wildberries.ru
 api-an.tutu.ru
+api-ui.opendsp.ru
 api-x.tutu.ru
 api.a.mts.ru
 api.admile.ru
@@ -475,9 +480,9 @@ datatracking.ru
 dcdn.heroeswm.ru
 dcyilib.ru
 de.vsexshop.ru
-deeppquiz.ru
 dell-partner.ru
 delta.mediafort.ru
+deltaheavy.ru
 demo.punchmedia.ru
 dienai.ru
 digitaltarget.ru
@@ -858,6 +863,7 @@ pixel.smr8.ru
 pjkyxrd15e.ru
 pkeeper3.ru
 pl2.skwstat.ru
+planshetu.ru
 pokrutim.ru
 pool.stbid.ru
 posthog.checkscan.ru
@@ -1099,6 +1105,7 @@ statics1.tceru134gsur.ru
 statika.mpsuadv.ru
 statistics-bt.wildberries.ru
 statistics.fppressa.ru
+stats-dg.rustore.ru
 stats.avito.ru
 stats.gastronom.ru
 stats.mos.ru
@@ -1158,6 +1165,7 @@ top-fwz1.mail.ru
 top.elec.ru
 top.gde.ru
 top.mail.ru
+top100.ad-tech.ru
 top100.rambler.ru
 top5.mail.ru
 topcpa.ru

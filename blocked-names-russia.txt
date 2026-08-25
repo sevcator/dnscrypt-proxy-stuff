@@ -20,6 +20,7 @@
 1cfcee684da84d79a21730432fc15b1f.ops.beeline.ru
 1cont.ru
 1directory.ru
+1h.vuregyy1.ru
 1happy-blog.ru
 1l-hit.mail.ru
 1l-view.mail.ru
@@ -47,6 +48,7 @@
 25212.ms.vk.ru
 2583780--8862419-111-mnews.ms.vk.com
 28yw0a.ru
+2nosm7.ru
 317729.redirect.appmetrica.yandex.com
 33212.ms.vk.com
 33412.ms.vk.com
@@ -326,7 +328,6 @@ baza-nomerov.ru
 bazr.ru
 bbj3nb.ru
 bdgadv.ru
-bedrive.ru
 begun.ru
 bestveb.ru
 beta.mediafort.ru
@@ -389,7 +390,6 @@ checks.botfaqtor.ru
 chemal-altai.ru
 chevy-clan.ru
 chiptuner.ru
-chrome-windows.ru
 cityads.ru
 ckct.ru
 clck.dzen.ru
@@ -607,6 +607,7 @@ hit.udqrh6.ru
 hit.x81p4z.ru
 hit.xgd3kl.ru
 hitcrypt.04xmhp.ru
+hitcrypt.2nosm7.ru
 hitcrypt.aan8bq.ru
 hitcrypt.g4blin.ru
 hitcrypt.lkoi3q.ru
@@ -1116,6 +1117,7 @@ stavkiprognozy.ru
 steam-account.ru
 stmtag.ru
 stopmp3.ru
+storage.agency2.ru
 stream.datago.ru
 studlance.ru
 subscriptions.rambler.ru
@@ -1240,6 +1242,7 @@ vsexshop.ru
 vst.sibnet.ru
 vzarabotke.ru
 w.rulive.ru
+w13mk6.ru
 waltotoso.hotelsvr.ru
 wavesend.ru
 wcm.weborama-tech.ru
@@ -1255,7 +1258,6 @@ webkurchatov.ru
 weborama-tech.ru
 webpush-imgproxy.g.mindbox.ru
 websurf.ru
-wesecrets.ru
 wf-ru-frontend.weborama-tech.ru
 whatismyipaddress.ru
 whiteboxdigital.ru

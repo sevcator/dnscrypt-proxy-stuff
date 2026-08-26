@@ -21,7 +21,6 @@
 1cont.ru
 1directory.ru
 1h.vuregyy1.ru
-1happy-blog.ru
 1l-hit.mail.ru
 1l-view.mail.ru
 1link.mail.ru
@@ -191,7 +190,6 @@ adprofits.ru
 adregain.ru
 adriver.ru
 adrun.ru
-ads-gdl.imovideo.ru
 ads-m.rustore.ru
 ads-media.wildberries.ru
 ads-storage.avito.ru
@@ -202,7 +200,6 @@ ads.edadeal.ru
 ads.giftclick.ru
 ads.gpm-ssp.ru
 ads.ok.ru
-ads.okgroups.ru
 ads.photosight.ru
 ads.rustore.ru
 ads.x5media.ru
@@ -328,6 +325,7 @@ baza-nomerov.ru
 bazr.ru
 bbj3nb.ru
 bdgadv.ru
+bedrive.ru
 begun.ru
 bestveb.ru
 beta.mediafort.ru
@@ -462,7 +460,6 @@ cspreport.mail.ru
 css.yuga.ru
 cstatic-ru-cv.weborama-tech.ru
 cstatic.weborama-tech.ru
-cstor.nn2.ru
 ctx.weborama-tech.ru
 culturaltracking.ru
 cusok.ru
@@ -470,20 +467,17 @@ cvt1.sibnet.ru
 cybertown.ru
 dadata.ru
 dadu.ru
-daily.heroeswm.ru
 darknagar.ru
 data.killbot.ru
 data.punchmedia.ru
 data.skwstat.ru
 data.videonow.ru
 datatracking.ru
-dcdn.heroeswm.ru
 dcyilib.ru
 de.vsexshop.ru
 dell-partner.ru
 delta.mediafort.ru
 deltaheavy.ru
-demo.punchmedia.ru
 dienai.ru
 digitaltarget.ru
 direct.yandex.net
@@ -507,7 +501,6 @@ dsp.rtb.mts.ru
 dspgate.ru
 duhboga.ru
 dx-frontend.weborama-tech.ru
-e1.skwstat.ru
 easy-monetization.s3.yandex.net
 easy.au.ru
 ece8c2alhz.ru
@@ -537,7 +530,6 @@ eye.agency2.ru
 eyenewton.ru
 ezstat.ru
 f38172564ba14286bb82bf16185a1a28.ops.beeline.ru
-fabrikamebelispb.ru
 fail-7.ru
 fast2load.ru
 faststart.ru
@@ -632,9 +624,7 @@ icyh3e.ru
 id.adx.com.ru
 id.google.ru
 ideibiznesa2015.ru
-igry.ru
 im-sentry.sportmaster.ru
-image.prlog.ru
 image.sendsay.ru
 images.sparrow.ru
 img.gdeslon.ru
@@ -682,7 +672,6 @@ kavanga.ru
 kb.survstat.ru
 kickoff.ru
 kiks.yandex.ru
-kontaktm34.ru
 kplusd.far.ru
 kraken-mdt.ad-tech.ru
 kraken.rambler.ru
@@ -892,7 +881,6 @@ px162.telecid.ru
 px182.telecid.ru
 px460.telecid.ru
 pyoumiscentcep.hotelsvr.ru
-pypad.ru
 q7wiow.ru
 qcdnfront.winline.ru
 qcdnwsys.winline.ru
@@ -935,7 +923,6 @@ report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
 rezale.ru
-riabir.ru
 richmedia.wavesend.ru
 rmetrics.ru
 rosenberg.appmetrica.yandex.net
@@ -1116,7 +1103,6 @@ stats2.videonow.ru
 stavkiprognozy.ru
 steam-account.ru
 stmtag.ru
-stopmp3.ru
 storage.agency2.ru
 stream.datago.ru
 studlance.ru
@@ -1194,9 +1180,6 @@ ts.tracker-api.vk-analytics.ru
 tt.ttarget.ru
 ttarget.ru
 tutad.ru
-tv-shows.ru
-u.9111s.ru
-u2.9111s.ru
 ua-content.adriver.ru
 ua.adriver.ru
 uaas.yandex.ru
@@ -1316,7 +1299,6 @@ www.comagic.ru
 www.consultant-online.ru
 www.directadvert.ru
 www.drivenetwork.ru
-www.fb2portal.ru
 www.free-gluten.ru
 www.gdeslon.ru
 www.goatse.ru

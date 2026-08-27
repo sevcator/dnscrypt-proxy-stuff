@@ -21,6 +21,7 @@
 1cont.ru
 1directory.ru
 1h.vuregyy1.ru
+1h.xeteloi4.ru
 1l-hit.mail.ru
 1l-view.mail.ru
 1link.mail.ru
@@ -307,7 +308,6 @@ b23.ru
 b2bcontext.ru
 back.winline.ru
 bakteso.ru
-balakovo24.ru
 balam.paradocs.ru
 ban.zab.ru
 bank.yuga.ru
@@ -386,7 +386,6 @@ cgig.ru
 checker.cityads.ru
 checks.botfaqtor.ru
 chemal-altai.ru
-chevy-clan.ru
 chiptuner.ru
 cityads.ru
 ckct.ru
@@ -478,6 +477,7 @@ de.vsexshop.ru
 dell-partner.ru
 delta.mediafort.ru
 deltaheavy.ru
+deosyae.ru
 dienai.ru
 digitaltarget.ru
 direct.yandex.net
@@ -545,7 +545,6 @@ fin-banners-bt.wildberries.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
-forum.chevy-clan.ru
 forum.linkfeed.ru
 free-gluten.ru
 frontlog.tutu.ru
@@ -1218,7 +1217,6 @@ vidroll.ru
 vihub.ru
 vipko.ru
 vmkxcsss.ru
-vnikitskom.ru
 vp.rambler.ru
 vseobuch.ru
 vsexshop.ru
@@ -1350,7 +1348,5 @@ yandex.slid3.com
 yast.rutube.ru
 yuga.ru
 zachestnyibiznes.ru
-zags.kurganobl.ru
 zalive-akvilon.ru
 zen-mobile-site.mediascope.mc.yandex.ru
-znate.ru

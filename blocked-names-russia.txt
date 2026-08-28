@@ -13,6 +13,7 @@
 1000russianwomen.com
 1009--8ab746b8-a536-47ab-9ed6-6435b6b48fad.stbid.ru
 1034--47--cookieid.stbid.ru
+1083-vitrina.stbid.ru
 1097--incl--adsp.stbid.ru
 12871033--15722194-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
@@ -369,7 +370,6 @@ cdn.bazr.ru
 cdn.botfaqtor.ru
 cdn.callibri.ru
 cdn.catsnetwork.ru
-cdn.directadvert.ru
 cdn.dsp-rambler.ru
 cdn.dsp.onetarget.ru
 cdn.gpmdata.ru

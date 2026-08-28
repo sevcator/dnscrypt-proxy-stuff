@@ -680,7 +680,6 @@ kurganobl.ru
 kz.tns-counter.ru
 l.utorria.ru
 l2top.ru
-lacdileftre.ru
 ladycash.ru
 laimroll.ru
 lc2ads.ru
@@ -1253,6 +1252,7 @@ widget.sparrow.ru
 widgets.livetex.ru
 widgets.planeta.ru
 widster.ru
+wildtracker.wb.ru
 winline.ru
 winlinebet.ru
 wmcasher.ru

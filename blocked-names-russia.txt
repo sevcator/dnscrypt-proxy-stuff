@@ -470,6 +470,7 @@ data.killbot.ru
 data.punchmedia.ru
 data.skwstat.ru
 data.videonow.ru
+data.winline.ru
 datatracking.ru
 dcyilib.ru
 de.vsexshop.ru
@@ -544,6 +545,7 @@ fin-banners-bt.wildberries.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
+foliums.ru
 forum.linkfeed.ru
 free-gluten.ru
 frontlog.tutu.ru
@@ -570,6 +572,7 @@ gigamega.ru
 gjv7fg.ru
 gk7qlc.ru
 gnezdo.ru
+go.leadgid.ru
 goodcustomers.ru
 goon.ru
 gorodvlesu.ru
@@ -815,6 +818,7 @@ ogeri.ru
 ogtz5yn2u1.ru
 omniqa.ru
 on-dirty.ru
+on-office.ru
 onetarget.ru
 onfeed.ru
 opendsp.ru
@@ -1241,6 +1245,7 @@ wf-ru-frontend.weborama-tech.ru
 whatismyipaddress.ru
 whiteboxdigital.ru
 whiteline.mail.ru
+wholesale-soccer-jerseys168.ru
 widget.adplay.ru
 widget.cleversite.ru
 widget.info-static.ru

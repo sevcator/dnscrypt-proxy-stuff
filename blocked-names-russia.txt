@@ -16,6 +16,7 @@
 1083--vitrina.stbid.ru
 1083-vitrina.stbid.ru
 1097--incl--adsp.stbid.ru
+1097318--38168721-111.news.ms.vk.com
 12871033--15722194-111-mnews.ms.vk.com
 14735.beacon.alice.yandex.ru
 1cd5c3c7d5a445d59c7f73b38cf6da12.ops.beeline.ru
@@ -32,7 +33,6 @@
 1stat.ru
 1xstavka.ru
 21040.beacon.alice.yandex.ru
-2194103--25280329-111.news.ms.vk.com
 23112.ms.vk.com
 23112.ms.vk.ru
 23212.ms.vk.com
@@ -76,7 +76,6 @@
 4hunqp.ru
 4px.ru
 5-182-5-41.botfaqtor.ru
-5261258--43618728-111.news.ms.vk.com
 531111.ms.dzen.ru
 531121.ms.dzen.ru
 531211.ms.dzen.ru
@@ -233,7 +232,6 @@ adx.videonow.ru
 adzone.innovation-lab.ru
 aemetrics.aliexpress.ru
 af.click.ru
-aflink.ru
 aflt.market.yandex.ru
 agency2.ru
 ai.technocore.ru
@@ -447,6 +445,7 @@ cpa.hh.ru
 cprojects.radar.imgsmail.ru
 cr-frontend.weborama-tech.ru
 crash-reports.browser.yandex.net
+crypto-prom.ru
 crystalpvp.ru
 cs.ad-tech.ru
 cs.agency2.ru
@@ -542,6 +541,7 @@ feeds.kommersant.ru
 ff.astv.ru
 filmplus.ru
 fin-banners-bt.wildberries.ru
+fint-bux.ru
 flotprom.ru
 flyroll.ru
 fmon.citilink.ru
@@ -591,22 +591,18 @@ hisearch-drru.dt.dbankcloud.ru
 hit.28yw0a.ru
 hit.aan8bq.ru
 hit.bbj3nb.ru
-hit.g4blin.ru
 hit.mb9pzp.ru
 hit.q7wiow.ru
 hit.rbcv7s.ru
 hit.tj4rxr.ru
 hit.udqrh6.ru
-hit.x81p4z.ru
 hit.xgd3kl.ru
 hitcrypt.04xmhp.ru
 hitcrypt.2nosm7.ru
 hitcrypt.aan8bq.ru
-hitcrypt.g4blin.ru
 hitcrypt.lkoi3q.ru
 hitcrypt.rbcv7s.ru
 hitcrypt.udqrh6.ru
-hitcrypt.x81p4z.ru
 hitcrypt.xe1teq.ru
 hitcrypt.xgd3kl.ru
 hitlist.ru
@@ -712,7 +708,6 @@ logs.profi.ru
 logservice-drru.dt.dbankcloud.ru
 loki.maximonline.ru
 loyalty-sentry.dixy.ru
-lp.mobiletracking.ru
 m-api.a.mts.ru
 m-cm.a.mts.ru
 m.leboard.ru
@@ -722,7 +717,6 @@ m1-shop.ru
 magna.ru
 mail.ioc.ac.ru
 mail.radar.imgsmail.ru
-mainpool.ru
 man-live.ru
 mapp.winline.ru
 market-baobab.yandex.ru
@@ -843,6 +837,7 @@ personalization-web-stable.mindbox.ru
 personalization-web.g.mindbox.ru
 piper.amocrm.ru
 pitomnikgamaun.ru
+pixel-frontend.avito.ru
 pixel.adlooxtracking.ru
 pixel.dsp.onetarget.ru
 pixel.getads.ru
@@ -932,6 +927,7 @@ rq.adfox.ru
 rr.tracker.mobiletracking.ru
 rs.mail.ru
 rtb-bm1.videonow.ru
+rtb.ad-cdek.ru
 rtb.admile.ru
 rtb.adplay.ru
 rtb.opendsp.ru
@@ -1262,7 +1258,6 @@ winlinebet.ru
 wmcasher.ru
 wolist.ru
 wordstat.yandex.ru
-work5.ru
 workspay.ru
 wowlink.ru
 wp20.ru

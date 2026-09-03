@@ -8,6 +8,14 @@
 =yandex.ru
 
 # schakal.ru alive hosts
+analytics.mobile.yandex.net
+appmetrica.yandex.com
+banners-slb.mobile.yandex.net
+banners.mobile.yandex.net
+mc.yandex.ru
+report.appmetrica.yandex.net
+smartadserver.ru
+startup.mobile.yandex.net
 02ip.ru
 04xmhp.ru
 1000russianwomen.com
@@ -124,6 +132,7 @@
 7416103--26284064-111-mnews.ms.vk.com
 777-club.ru
 7nkbwdf1uq.ru
+81640.mstat.mos.ru
 8si.ru
 931131.log.rutube.ru
 931221.log.rutube.ru
@@ -255,7 +264,6 @@ analytics.alloka.ru
 analytics.dns-shop.ru
 analytics.iportal.ru
 analytics.mediadash.ru
-analytics.mobile.yandex.net
 analytics.move.ru
 analytics.sberhealth.ru
 analytics.sutochno.ru
@@ -280,7 +288,6 @@ api.zmqdez.ru
 apistats.rg.ru
 app.uaas.yandex.ru
 appmetrica.sovcombank.ru
-appmetrica.yandex.com
 appmetrica.yandex.ru
 appmetrika.yandex.ru
 apptracer.ru
@@ -400,7 +407,6 @@ clicks.gdeslon.ru
 client-telemetry.tutu.ru
 clients.streamwood.ru
 cloud.radar.imgsmail.ru
-cls.ad-tech.ru
 cm.p.altergeo.ru
 cm.tns-counter.ru
 cnb.cnews.ru
@@ -732,7 +738,6 @@ maylohack.ru
 mb9pzp.ru
 mc.kinopoisk.ru
 mc.yandex.com
-mc.yandex.ru
 mcc.russia.inf.miui.com
 meb100.ru
 media-adv.market.yandex.ru
@@ -915,7 +920,6 @@ release-me.ru
 repo.tlauncher.ru
 report-partners.appmetrica.yandex.net
 report.ap.yandex-net.ru
-report.appmetrica.yandex.net
 req.pm2.punchmedia.ru
 res.tlauncher.ru
 rezale.ru
@@ -1056,7 +1060,6 @@ st.film.ru
 st.top100.ru
 st.yagla.ru
 startup-mobile.ap.yandex-net.ru
-startup.mobile.yandex.net
 stat-analytics.mediavitrina.ru
 stat.adrun.ru
 stat.adtec.ru

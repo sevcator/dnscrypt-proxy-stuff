@@ -1097,7 +1097,6 @@ tech.rtb.mts.ru
 tech.yandex.com
 tehno-politen.ru
 telderi.ru
-teleabonent.ru
 telemetry.detmir.ru
 telemetry.domclick.ru
 telemetry.dzen.ru

@@ -304,7 +304,6 @@ banners-website.wildberries.ru
 banners.adfox.ru
 banshop.gruntovik.ru
 bardatm.ru
-basstroi.ru
 baza-nomerov.ru
 bazr.ru
 bbj3nb.ru
@@ -704,6 +703,7 @@ masterh5.adriver.ru
 masterh7.adriver.ru
 mastertarget.ru
 matchid.adfox.yandex.ru
+matologistics.ru
 matomo.datago.ru
 maylohack.ru
 mb9pzp.ru
@@ -1249,7 +1249,6 @@ www.alloysteel.ru
 www.amt-k.ru
 www.audi-club.ru
 www.avramstroy.ru
-www.basstroi.ru
 www.betsonsport.ru
 www.cityads.ru
 www.clck.ru
@@ -1270,6 +1269,7 @@ www.iplogger.ru
 www.jps.ru
 www.justclick.ru
 www.kontrolnaya-rabota.ru
+www.matologistics.ru
 www.mc.yandex.ru
 www.mir-stalkera.ru
 www.otclick-adv.ru

@@ -251,7 +251,6 @@ analytics.sutochno.ru
 analytics.tele2.ru
 animesvosts.ru
 antalya.ru
-antibot.wildberries.ru
 api-an.tutu.ru
 api-metric.gosweb.gosuslugi.ru
 api-ui.opendsp.ru
@@ -511,6 +510,7 @@ exad.smi2.ru
 eye.agency2.ru
 eyenewton.ru
 ezstat.ru
+f6-fp.wildberries.ru
 fail-7.ru
 fast2load.ru
 faststart.ru

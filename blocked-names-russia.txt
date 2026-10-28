@@ -233,7 +233,6 @@ allstat-pp.ru
 alt-ad.mail.ru
 alt-cloud.radar.imgsmail.ru
 altergeo.ru
-alternativas.ru
 amc.yandex.ru
 amp.smi2.ru
 ampcid.google.ru
@@ -430,7 +429,6 @@ cprojects.radar.imgsmail.ru
 cr-frontend.weborama-tech.ru
 crash-reports.browser.yandex.net
 crypto-prom.ru
-crystalpvp.ru
 cs.ad-tech.ru
 cs.agency2.ru
 cs.avito.ru
@@ -590,7 +588,6 @@ hitcrypt.udqrh6.ru
 hitcrypt.xe1teq.ru
 hitcrypt.xgd3kl.ru
 hitlist.ru
-hitman-pro.ru
 holm.ru
 homework.ru
 host.ru
@@ -1068,7 +1065,6 @@ subscriptions.rambler.ru
 superstyle.ru
 supertop.ru
 sur.gorodkirov.ru
-suvenir-gifts.ru
 svetvip.ru
 svk-native.ru
 swft.vedomosti.ru
@@ -1277,11 +1273,9 @@ www.propan.ru
 www.ptichka.ru
 www.redirect.appmetrica.yandex.com
 www.russianold.com
-www.saf-oil.ru
 www.shulepov.ru
 www.softout.ru
 www.startup.mobile.yandex.net
-www.suvenir-gifts.ru
 www.tinka.ru
 www.tns-counter.ru
 www.toptracker.ru

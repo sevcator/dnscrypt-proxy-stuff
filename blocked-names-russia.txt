@@ -296,7 +296,6 @@ bakteso.ru
 balam.paradocs.ru
 ban.zab.ru
 bank.yuga.ru
-bankcat.ru
 bankocc.ru
 banner.aismo.ru
 banner.consultant.ru
@@ -1242,7 +1241,6 @@ www.amt-k.ru
 www.audi-club.ru
 www.avitocars.ru
 www.avramstroy.ru
-www.bankcat.ru
 www.betsonsport.ru
 www.cityads.ru
 www.clck.ru

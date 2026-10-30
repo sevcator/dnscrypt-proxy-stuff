@@ -422,6 +422,7 @@ counter.yandex.com
 counter.yandex.ru
 counters.adriver.ru
 cp.onicon.ru
+cp283170.tw1.ru
 cpa-elements.rambler.ru
 cpa.hh.ru
 cprojects.radar.imgsmail.ru
@@ -1246,6 +1247,7 @@ www.cityads.ru
 www.clck.ru
 www.comagic.ru
 www.consultant-online.ru
+www.cp283170.tw1.ru
 www.directadvert.ru
 www.drivenetwork.ru
 www.free-gluten.ru

@@ -364,6 +364,8 @@ cdn.snsv.ru
 cdn2.adplay.ru
 cdn2.adrun.ru
 cdnrtbsape.ru
+cf052148.tw1.ru
+cf450239.tw1.ru
 cgig.ru
 checker.cityads.ru
 checks.botfaqtor.ru
@@ -1243,6 +1245,8 @@ www.audi-club.ru
 www.avitocars.ru
 www.avramstroy.ru
 www.betsonsport.ru
+www.cf052148.tw1.ru
+www.cf450239.tw1.ru
 www.cityads.ru
 www.clck.ru
 www.comagic.ru

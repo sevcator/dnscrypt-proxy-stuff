@@ -88,6 +88,13 @@ x.ai 217.60.179.6
 
 # Flowseal hosts
 discord.com 162.159.138.232
+discordapp.net 162.159.138.232
+images-ext-1.discordapp.net 162.159.128.233
+images-ext-1.discordapp.net 162.159.135.232
+images-ext-1.discordapp.net 162.159.137.232
+media.discordapp.net 162.159.128.233
+media.discordapp.net 162.159.135.232
+media.discordapp.net 162.159.137.232
 t.me 149.154.167.220
 telegram.dog 149.154.167.220
 telegram.me 149.154.167.220

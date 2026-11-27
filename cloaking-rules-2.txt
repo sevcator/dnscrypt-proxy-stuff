@@ -87,11 +87,18 @@ truthsocial.com 217.60.179.6
 x.ai 217.60.179.6
 
 # Flowseal hosts
+cdn.discordapp.com 162.159.128.233
+cdn.discordapp.com 162.159.135.232
+cdn.discordapp.com 162.159.137.232
 discord.com 162.159.138.232
+discordapp.com 162.159.138.232
 discordapp.net 162.159.138.232
 images-ext-1.discordapp.net 162.159.128.233
 images-ext-1.discordapp.net 162.159.135.232
 images-ext-1.discordapp.net 162.159.137.232
+images-ext-2.discordapp.net 162.159.128.233
+images-ext-2.discordapp.net 162.159.135.232
+images-ext-2.discordapp.net 162.159.137.232
 media.discordapp.net 162.159.128.233
 media.discordapp.net 162.159.135.232
 media.discordapp.net 162.159.137.232
